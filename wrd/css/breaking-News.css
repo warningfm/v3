@@ -1,0 +1,37 @@
+.breaking-news {
+  background: #2ecc71;
+  padding: 8px 12px;
+  position: relative;
+}
+
+.feed-entries { display: block; }
+
+.breaking-news a {
+  -webkit-transition: color 0.3s ease-in;
+  -moz-transition: color 0.3s ease-in;
+  -o-transition: color 0.3s ease-in;
+  transition: color 0.3s ease-in;
+}
+
+.breaking-news a {
+  color: #fff;
+  text-decoration: none;
+  text-shadow: 1px 1px #333;
+}
+
+.breaking-news a:hover { text-decoration: underline; }
+
+.scroll-effect {
+  height: 20px;
+  position: relative;
+  overflow: hidden;
+}
+
+.scroll-effect .feed-entries {
+  overflow: hidden;
+  top: 0;
+}
+
+.scroll-effect .feed-entries a { display: block; }
+
+.uscore { color: #fff; }
