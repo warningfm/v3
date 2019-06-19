@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>myCast - Fantastic HTML5 Shoutcast & Icecast Radio Web Player</title>
+<link href="css/myCast.css" rel="stylesheet" type="text/css">
+<script src="https://code.jquery.com/jquery-3.0.0.min.js"></script>
+</head>
+<body style="width:100%;height:100%;padding:0;margin:0;background-color:#000;">
+
+<div class="myCast" id="stream2"></div>
+
+<script src="js/myCast.js"></script>
+<script>
+    $("#stream2").myCast({
+  URL: "http://live.sg.radiobintangtenggara.com:9560",
+    version: '2',
+    mount_point: 'rbtfm',
+    autoplay: true,
+    enable_cors: true,
+    accent: "lightblue",
+    lang: "en",
+    bg: "black",
+    blur: true,
+    blur_opacity: 0.16,
+    vertical_layout: true
+    });
+</script>   
+
+</body>
+</html>
