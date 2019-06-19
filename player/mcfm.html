@@ -1,0 +1,68 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <title>Radio MC FM - SHOUTcast HTML5 Radio Player</title>
+        <meta name="description" content="SHOUTcast">
+	   <meta http-equiv="CACHE-CONTROL" CONTENT="NO-CACHE"> 
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/> <!--300-->
+        <meta property="og:image" content="/fbProfile_logo.png" />
+
+        <link id="favicon" rel="shortcut icon" type="image/png" href="favicon.png" />
+        <link rel="apple-touch-icon" href="iOS-76x76.png">
+        <link rel="android-touch-icon" href="Android-76x76.png" />
+        
+        
+        
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+
+</head>
+<body style="width:100%;height:100%;padding:0;margin:0;background-color:transparent;">
+    <!--[if lt IE 10]>
+        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+    
+    <div id="cont" style="width:300px; height:520px;"></div>
+    
+    <script src="https://warningfm.github.io/v3/js/nativeflashradiov4.js"></script>
+
+    <script>
+	window.onload = function () {
+		//https://gist.github.com/jimmywarting/ac1be6ea0297c16c477e17f8fbe51347
+		
+
+		$("#cont").flashradio({
+		    userinterface:"big",
+		    backgroundcolor: "#bdbdbd",
+        	titlefontname:"Roboto", 
+			titlegooglefontname: "Roboto:400",
+			songfontname:"Oswald", 
+			songgooglefontname: "Oswald:400",
+			themecolor: "#2a5699", 
+			themefontcolor:"#ffffff", 
+			streamurl: "http://live.sg.mcfmbwi.com:9720",
+			streampath: "/mcfm",
+			streamid: "1",
+			streamtype:"shoutcast2",
+			radioname: "MC FM",
+			radiocover: "https://3.bp.blogspot.com/-zKfFBaCN2dU/WP21Pg4t5ZI/AAAAAAAAAjM/UTUAP_jcBg82sm4LlWCTERG-RGeHdsiOACLcB/s1600/mcfm_station.png",
+			songinformationinterval:"10000", 
+			scroll: "true", 
+			autoplay: "false", 
+			startvolume: "85",
+			useanalyzer: "real",
+			analyzertype: "3",
+			corsproxy: "https://shivyrubycors.herokuapp.com/",
+			usestreamcorsproxy: "true"
+    	});
+
+
+	};
+   </script>
+</body>
+</html>

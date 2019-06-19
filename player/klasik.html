@@ -1,0 +1,21 @@
+<body bgcolor="transparent" text="white" topmargin="0" leftmargin="0" rightmargin="0">
+<div align="center">                                                                                                        
+<script type='text/javascript' src='https://fbplay.googlecode.com/svn/trunk/player/jwplayer.js'></script>
+<div id="audio"></div>
+<script type="text/javascript">
+ var config = {
+ 'controlbar': 'bottom',
+ 'width': '100%',
+ 'height': '19',
+ 'flashplayer': 'https://fbplay.googlecode.com/svn/trunk/player/player5.8.swf',
+ 'file': 'http://audio.indostreamradio.com:8192/;stream.nsv',
+ 'provider': 'audio',
+ 'streamer': 'undefined',
+ 'skin': 'https://fbplay.googlecode.com/svn/trunk/player/skin/classic.zip',
+ 'abouttext': '*** mbah nunung Online ***',
+ 'aboutlink': 'http://mbahnunungonline.org',
+ 'autostart': 'false',
+ }
+ jwplayer('audio').setup(config);
+</script>
+</div>

@@ -1,0 +1,67 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <title>SHOUTcast HTML5 Radio Player</title>
+        <meta name="description" content="SHOUTcast">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/> <!--320-->
+
+        <link id="favicon" rel="shortcut icon" type="image/png" href="https://cdn1.radiobintangtenggara.com/images/favicon.png" />
+        <link rel="apple-touch-icon" href="https://cdn1.radiobintangtenggara.com/images/iOS-76x76.png">
+        <link rel="android-touch-icon" href="https://cdn1.radiobintangtenggara.com/images/iOS-76x76.png" />
+        
+        
+        <link href="https://warningfm.github.io/v3/css/jquery.nng.min.css?build=13150" rel="stylesheet" type="text/css">
+        <link href='https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900' rel='stylesheet' type='text/css'>
+
+</head>
+<body>
+    <!--[if lt IE 10]>
+        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+    <div id="cont"></div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>      
+    <script src="https://warningfm.github.io/v3/js/jquery.nng.min.js?build=13150&fixed=1"></script>
+    <script>
+        // This script will call Kast player
+        // please add your options (host, port, version, etc..)
+        // read the docs for more available options
+        $.kast({
+        host: '\x6c\x69\x76\x65\x2e\x62\x69\x6e\x74\x61\x6e\x67\x74\x65\x6e\x67\x67\x61\x72\x61\x66\x6d\x2e\x63\x6f\x6d',
+        port: 9560,
+        protocol: 'http',
+        version: 2, // SHOUTcast Version @integer
+        sid: 1, // Server stream ID (If you have multiple SHOUTcast V2 stations) @integer
+        statsPath: 'stats', // Path to stats @string
+        autoUpdate: true, // Autoupdate (Boolean or string: 'all') (current info / Played info / album artwork) @boolean @string
+        autoPlay: true, // Autoplay radio on load @boolean
+        betaProxies: true, // Use Beta Proxies to fetch SHOUTcast metadata
+        mobileCare: false, // low (aka true), medium, high, very high, ultra @boolean @array
+        statusBar: false,
+        minimizeMaximize: false,
+        startTemplate: 'maximized',
+        irrelevantWords: ['false'],
+        defaultArtwork: ['https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/e9/38/24/e938243e-d983-db13-803e-f165e3a2057f/source/512x512bb.jpg'],
+        language: {
+            offlineText: 'Temporarily Offline', // On offline: status bar text @string
+            playedText: '<font face="Georgia" color="blue">Wes Mari Diputer :</font>', // Played title (player bottom) @string
+            unknownTrackText: 'Unknown Track - c^o^d^e^l^i^s^t^.^c^c', // Set unknown track text when error
+            unknownArtistText: 'Unknown Artist' // Set unknown artist text when error
+        }, // Set text (Multi language support) @object
+        position: 'left', // Player position (Bottom right or left) @string
+        container: 'body', // Player container element, class or ID. everything other than 'body' isn't fixed @string
+        overHTTPS: true,
+        colors: 'dynamic',
+        ui: 'colored', // Transparent or colored and kast-nowplaying @string
+        theme: 'light', // Dark, light or dynamic: based on the current album artwork @string
+        played: false
+    })
+    </script>
+    </body>
+</html>
