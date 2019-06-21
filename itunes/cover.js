@@ -1,4 +1,3 @@
-/*! Shoutcast & Icecast Web Player v1.5 - (c) 2019, */
 (function ($) {
     "use strict";
 	$(".nng").append('');
@@ -10,7 +9,7 @@
             stream_id: 1,
 			mount_point: "", //For Icecast server
 			type: "/;type=mp3",
-            streampath: "/stream?icy=http",			
+            streampath: "/stream",			
 			enable_cors: false,
 			cors: "https://shoutcastapps.herokuapp.com",			
 			artwork: true,
@@ -38,11 +37,7 @@
             if(settings.autoplay == true){
                 audio.autoplay = true;
             }
-			
-			if(settings.show_listeners == false) {
-				$(".listeners", thisObj).addClass("nodisplay");
-			}
-			
+
             if(settings.version == 1) {
                 audio.src = settings.URL + "/;type=mp3";
                 settings.src = audio.src;				
@@ -73,101 +68,6 @@
             }
         });
 		
-		//Play/Pause Handling
-        function togglePlying(tog, bool) {
-            $(tog).toggleClass("playing", bool);
-        }
-
-        function playHandling() {
-            if (audio.paused) {
-                audio.src = settings.src;
-                audio.play();
-                var $playing = $('.ppBtn.playing');
-                if ($(thisObj).find($playing).length === 0) {
-                    $playing.click();
-                }
-            }
-            else {
-                audio.pause();
-            }
-        }
-		
-        $(audio).on("playing", function () {
-            togglePlying(ppBtn, true);
-            $(ppBtn).addClass("stop-btn");
-            $(ppBtn).removeClass("play-btn");
-        });
-        $(audio).on("pause", function () {
-            togglePlying(ppBtn, false);
-            $(ppBtn).removeClass("stop-btn");
-            $(ppBtn).addClass("play-btn");
-        });		
-        $(ppBtn, thisObj).on("click tap", function () {
-            playHandling();
-        });
-		
-        //Initial Visual Volume
-        var volVal = audio.volume * 100;
-        $(cVolumeSlider).val(volVal);
-        $(".volValueTxt", thisObj).text(volVal + '%');
-		volumeIcon();
-
-		//Volume Icon Handling
-        function volumeIcon() {
-            if($(cVolumeSlider).val() < 55 && $(cVolumeSlider).val() > 0){
-                $(cVolumeIcon).removeClass("icons-volume3 icons-volume1");
-                $(cVolumeIcon).addClass("icons-volume2");				
-            }
-            if($(cVolumeSlider).val() == 0){
-                $(cVolumeIcon).removeClass("icons-volume2 icons-volume3");
-                $(cVolumeIcon).addClass("icons-volume1");				
-            }
-            else if($(cVolumeSlider).val() > 55){
-                $(cVolumeIcon).removeClass("icons-volume1 icons-volume2");
-                $(cVolumeIcon).addClass("icons-volume3");
-            }
-        }
-		
-		//Mobile Volume Icon Handling
-		$(cVolumeIconM).on("click tap", function () {
-            $(cVolumeIconM).toggleClass("icons-volumeM2");
-			if ($(cVolumeIconM).hasClass("icons-volumeM2")) {
-				audio.volume = 0;
-            }
-			else {
-				audio.volume = settings.volume;
-			}
-        });
-		
-        //Volume Slider Handling
-		$(".icons-volume", thisObj).on("click", function () {
-            $(cVolumeSlider).toggleClass("display");
-        });
-		$(cVolumeSlider).mouseup(function(){
-			$(this).removeClass("display");
-		});
-		
-        if (navigator.appName == 'Microsoft Internet Explorer' ||  !!(navigator.userAgent.match(/Trident/) || navigator.userAgent.match(/rv:11/)) || (typeof $.browser !== "undefined" && $.browser.msie == 1))
-			{
-			cVolumeSlider.change('input', function(){
-			    audio.volume = parseInt(this.value, 10)/100;
-			    var volumeVal = audio.volume * 100;
-                var volumeVal = Math.round(volumeVal);
-			    $(".vol-value", thisObj).text('Volume:' + volumeVal + '%');
-			    volumeIcon();
-			}, false);
-		
-			}
-		
-        else {
-            cVolumeSlider.on('input',  function () {
-                var volumeVal = $(cVolumeSlider).val();
-                audio.volume = volumeVal/100;		
-                var volumeVal = Math.round(volumeVal);
-                $(".volValueTxt", thisObj).text(volumeVal + '%')		
-                volumeIcon();
-            });			
-        }
 		
 		//Format title and artist for album cover gathering
 		function formatArtist(artist){
@@ -354,7 +254,7 @@
                     function(data) {						
                         if (data.results.length == 1){							
                             cover = data.results[0].artworkUrl100;
-                            cover = cover.replace('100x100', '1200x1200');
+                            cover = cover.replace('100x100', '500x500');
 					    }
                         else {
                             var cover = settings.logo;
@@ -536,58 +436,7 @@
 				//getImageList(artist, title, rowNum);
             }
         }
-		
-		//Song history panel handling
-		$(".icons-history", thisObj).on("click tap", function () {
-            $(".icons-history", thisObj).toggleClass("icons-close");
-			if (!$(".player-ctr", thisObj).hasClass("open")) {
-				$(".player-ctr", thisObj).fadeOut(400);
-				$(".history-wpr", thisObj).delay(600).fadeIn(400);
-				$(".player-ctr", thisObj).addClass("open");
-            }
-			else if($(".player-ctr", thisObj).hasClass("open")) {
-				$(".player-ctr", thisObj).removeClass("open");
-				$(".history-wpr", thisObj).fadeOut(400);
-				$(".player-ctr", thisObj).delay(600).fadeIn(400);
-			}
-        });
-		
-		// Share
-		$(".album-cover-wpr", thisObj).hover(function () {
-			$(".social-share-wpr", thisObj).toggleClass("display");
-			$(".social-link-twitter", thisObj).toggleClass("bounceIn");
-			$(".social-link-facebook", thisObj).toggleClass("bounceIn");
-		})
-		
-        function FBShare(result) {
-			var siteURL = window.location.href;
-            var url = "https://www.facebook.com/sharer/sharer.php?u=" + encodeURIComponent(siteURL);
-            $("#aface", thisObj).attr("href", url);
-        }
-		
-		function TWShare(result) {
-			var siteURL = window.location.href;
-			var url = "https://twitter.com/home?status=I'm listening to " + result.songtitle + " @ " + siteURL;
-			$("#atwitter", thisObj).attr("href", url);
-		}
-		
-		function TWShare2(result) {
-			var siteURL = window.location.href;
-			var url = "https://twitter.com/home?status=I'm listening to " + result.split(",")[6] + " @ " + siteURL;
-			$("#atwitter", thisObj).attr("href", url);
-		}
-		
-		function TWShare3(result) {
-			var siteURL = window.location.href;
-			var url = "https://twitter.com/home?status=I'm listening to " + result.title + " @ " + siteURL;
-			$("#atwitter", thisObj).attr("href", url);
-		}
-		
-		//Mobile Volume Classes
-		if( /Android|webOS|iPhone|iPad|iPod|Opera Mini/i.test(navigator.userAgent) ) {
-			$(cVolumeIcon).addClass("nodisplay");
-			$(cVolumeIconM).addClass("display");
-			}
+
   
   // CORSRequest    
 	function doCORSRequest(options, printResult) {
