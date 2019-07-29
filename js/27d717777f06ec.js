@@ -6,13 +6,13 @@
 // =============================================== //
 
     $.kast({
-        host: 'live.bintangtenggarafm.com',
+        host: 'live.sg.radiobintangtenggara.com',
         port: 9560,
         protocol: 'http',
         version: 2,
         sid: 1,
         statsPath: 'stats',
-        directStreamURL: 'https://rbtfm.herokuapp.com/?q=http://live.bintangtenggarafm.com:9560/rbtfm',
+        directStreamURL: 'https://rbtfm.herokuapp.com/?q=http://live.sg.radiobintangtenggara.com:9560/rbtfm',
         autoUpdate: true,
         autoPlay: true,
         betaProxies: true,
