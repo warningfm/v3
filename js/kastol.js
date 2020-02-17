@@ -123,9 +123,9 @@
         
         
         this.hostCORS = [
-            protocol + '://isun.herokuapp.com/' + this.host,
-            'https://cors-anywhere.herokuapp.com/' + this.host,
             protocol + '://cors-nng.herokuapp.com/' + this.host,
+            'https://cors-anywhere.herokuapp.com/' + this.host,
+            protocol + '://kastproxy-us.herokuapp.com/' + this.host,
             protocol + '://zet.pluginsandthemes.ro/' + this.host
         ];
 
