@@ -1,0 +1,27 @@
+.tes .artwork {
+	width: 300px;
+    height: 300px;
+    border: 1px solid #111;
+    margin: 5px;
+    background-image: url("img/no-cover-large.png");;
+    background-size: cover;
+    box-shadow: 2px 2px 5px #000;
+    
+}
+.tes .now-playing {
+	font-size: 25px;
+	color: #f46e27;
+	margin-top: 26px;
+}
+.tes .songtitle {
+	font-size: 18px;
+	color: black;
+	text-transform: capitalize;
+	margin-top: 14px;margin: 5px;
+}
+.tes .artist-name {
+	font-size: 20px;	
+	color: black;
+	text-transform: capitalize;
+	margin-top: 25px;margin: 5px;
+}
