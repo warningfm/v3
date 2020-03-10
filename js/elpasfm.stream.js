@@ -6,11 +6,12 @@
 // =============================================== //
 
     $.kast({
-        host: '204.44.90.87',
+        host: 'live.elpasfm.com',
         port: 8072,
         protocol: 'http',
         version: 2,
         sid: 1,
+        directStreamURL: 'https://warningfm.herokuapp.com/?q=http://live.elpasfm.com:8072/elpasfm',
         statsPath: 'stats',
         autoUpdate: true,
         betaProxies: true,
@@ -30,7 +31,7 @@
         ui: 'colored',
         played: false,
         autoPlay: true,
-        continuous: false
+        continuous: true
     })
 
 
