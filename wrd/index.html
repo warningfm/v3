@@ -131,14 +131,21 @@
 <script>
 	$(window).load(function(e) {
     $("#bn1").breakingNews({
-			effect		:"fade",
-			autoplay	:true,
-			timer		:5500, 
-			feed		:"https://rss.viva.co.id/get/all",
-			feedlabels	:"BBC News,CNN News",
-			feedcount	:2	
-		});
-    });
+			source: {
+			type:'rss',
+			usingApi:'rss2json',
+			rss2jsonApiKey: '5ivfzdrkuqwmoe0dgxeqvhfz0knlo7yq4fw20bt0',
+			url:'http://rss.cnn.com/rss/edition.rss', 
+			limit:7, 
+			showingField:'title',
+			linkEnabled: true,
+			target:'_blank', 
+			seperator: '<span class="bn-seperator" style="background-image:url(img/cnn-logo.png);"></span>',
+			errorMsg: 'RSS Feed not loaded. Please try again.'
+		}
+	});
+
+});
 </script>
 
 </body>
