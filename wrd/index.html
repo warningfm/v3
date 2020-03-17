@@ -129,50 +129,55 @@
 </script>
             
 
+<script type="text/javascript">
+		
+		hljs.initHighlightingOnLoad();
 
-	  <div class="bn-news">
+		$(document).ready(function(){
 
-	    <ul>
+			$('#newsTicker4').breakingNews({
+				themeColor: '#11cbd7',
+				source: {
+					type:'rss',
+					usingApi:'rss2json',
+					rss2jsonApiKey: '5ivfzdrkuqwmoe0dgxeqvhfz0knlo7yq4fw20bt0',
+					url:'http://rss.cnn.com/rss/edition.rss', 
+					limit:7, 
+					showingField:'title',
+					linkEnabled: true,
+					target:'_blank', 
+					seperator: '<span class="bn-seperator" style="background-image:url(img/cnn-logo.png);"></span>',
+					errorMsg: 'RSS Feed not loaded. Please try again.'
+				}
+			});
 
-	      <li><span class="bn-loader-text">Loading...</span></li>
+		});
 
-	    </ul>
+	</script><script type="text/javascript">
+		
+		hljs.initHighlightingOnLoad();
 
-	  </div>
+		$(document).ready(function(){
 
-	  <div class="bn-controls">
+			$('#newsTicker4').breakingNews({
+				themeColor: '#11cbd7',
+				source: {
+					type:'rss',
+					usingApi:'rss2json',
+					rss2jsonApiKey: '5ivfzdrkuqwmoe0dgxeqvhfz0knlo7yq4fw20bt0',
+					url:'http://rss.cnn.com/rss/edition.rss', 
+					limit:7, 
+					showingField:'title',
+					linkEnabled: true,
+					target:'_blank', 
+					seperator: '<span class="bn-seperator" style="background-image:url(img/cnn-logo.png);"></span>',
+					errorMsg: 'RSS Feed not loaded. Please try again.'
+				}
+			});
 
-	    <button><span class="bn-arrow bn-prev"></span></button>
+		});
 
-	    <button><span class="bn-action"></span></button>
-
-	    <button><span class="bn-arrow bn-next"></span></button>
-
-	  </div>
-
-	</div>
-
-	$('#feed').breakingNews({
-
-	  source: {
-
-	    type:'rss',
-
-	    usingApi:'rss2json',
-
-	    rss2jsonApiKey: '5ivfzdrkuqwmoe0dgxeqvhfz0knlo7yq4fw20bt0',
-
-	    url:'https://rss.cnn.com/rss/edition.rss',
-
-	    limit:10,
-
-	    showingField:'title',
-
-	    linkEnabled: true,
-
-	    target:'_blank',
-
-	    seperator: '<span class="bn-seperator" style="background-image:url(img/cnn-logo.png);"></span>',
+	</script>
 
 </body>
 </html>
