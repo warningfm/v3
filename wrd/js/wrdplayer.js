@@ -12,7 +12,7 @@
 			type: "/;type=mp3",
             streampath: "/stream?icy=http",			
 			enable_cors: false,
-			cors: "https://shoutcastapps.herokuapp.com",			
+			cors: "https://sertanejapop.herokuapp.com",			
 			artwork: true,
             logo: "../img/logo.jpg",
 			servertitle: "My Radio Title", //For Shoutcast v1 server
