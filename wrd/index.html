@@ -85,7 +85,7 @@
 									<div class="bn-title"><h2>News</h2><span></span></div>
 									<ul>										
 									</ul>
-									<div class="newsTicker4-navi">
+									<div class="bn-navi">
 										<span></span>
 										<span></span>
 									</div>
@@ -119,7 +119,7 @@
     $("#stream1").icast({
 	    URL: "https://castprox.herokuapp.com/http://centova.nagaswarafm.com:8088",
 		version: "icecast",
-		mount_point: "stream",
+		mount_point: "live",
 		stream_id: 1,
 		show_listeners: true,
 		enable_cors: true,
@@ -128,18 +128,18 @@
     })
 </script>
             
-
 <script>
-    $(window).load(function(e) {
+	$(window).load(function(e) {
     $("#bn1").breakingNews({
 			effect		:"fade",
 			autoplay	:true,
 			timer		:5500, 
-			feed		:"http://rss.cnn.com/rss/edition.rss",
+			feed		:"https://rss.viva.co.id/get/all",
 			feedlabels	:"BBC News,CNN News",
 			feedcount	:2	
 		});
     });
 </script>
+
 </body>
 </html>
