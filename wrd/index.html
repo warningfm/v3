@@ -81,8 +81,8 @@
 								<div class="ppBtn play-btn"></div>
 							</div>
 							<div class="ticker-container">
-								<div class="breakingNews" id="newsTicker4">
-									<div class="newsTicker4-title"><h2>News</h2><span></span></div>
+								<div class="breakingNews" id="bn1">
+									<div class="bn-title"><h2>News</h2><span></span></div>
 									<ul>										
 									</ul>
 									<div class="newsTicker4-navi">
@@ -129,31 +129,17 @@
 </script>
             
 
-<script type="text/javascript">
-		
-		
-
-		$(window).load(function(e) {
-
-			$('#newsTicker4').breakingNews({
-				themeColor: '#11cbd7',
-				source: {
-					type:'rss',
-					usingApi:'rss2json',
-					rss2jsonApiKey: '5ivfzdrkuqwmoe0dgxeqvhfz0knlo7yq4fw20bt0',
-					url:'http://rss.cnn.com/rss/edition.rss', 
-					limit:7, 
-					showingField:'title',
-					linkEnabled: true,
-					target:'_blank', 
-					seperator: '<span class="bn-seperator" style="background-image:url(img/cnn-logo.png);"></span>',
-					errorMsg: 'RSS Feed not loaded. Please try again.'
-				}
-			});
-
+<script>
+    $(window).load(function(e) {
+    $("#bn1").breakingNews({
+			effect		:"fade",
+			autoplay	:true,
+			timer		:5500, 
+			feed		:"http://rss.cnn.com/rss/edition.rss",
+			feedlabels	:"BBC News,CNN News",
+			feedcount	:2	
 		});
-
-	</script>
-
+    });
+</script>
 </body>
 </html>
