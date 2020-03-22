@@ -63,7 +63,7 @@
 .myPlayer .artist-name {
 	font-size: 32px;	
 	color: rgba(255,255,255,1);
-	text-transform: lowercase;
+	text-transform: capitalize;
 	margin-top: 30px;
 }
 .myPlayer .btn-container {
