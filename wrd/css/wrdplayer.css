@@ -57,7 +57,7 @@
 .myPlayer .songtitle {
 	font-size: 24px;
 	color: rgba(255,255,255,.7);
-	text-transform: uppercase;
+	text-transform: capitalize;
 	margin-top: 14px;
 }
 .myPlayer .artist-name {
