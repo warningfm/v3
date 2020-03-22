@@ -375,7 +375,7 @@ footer .menu li a:hover {
 	border-radius: 50%;
 }
 .last5-title {
-	text-transform: uppercase;
+	text-transform: capitalize;
     color: #fff;
     letter-spacing: 0.40em;
     font-size: 30px;
@@ -385,7 +385,7 @@ footer .menu li a:hover {
 	text-align: left;
 	padding-left: 92px;
 	padding-top: 23px;
-	text-transform: uppercase;
+	text-transform: capitalize;
 }
 .history-songtitle {
 	max-width: 800px;
