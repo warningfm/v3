@@ -12,7 +12,7 @@
         version: 2,
         sid: 1,
         statsPath: 'stats',
-        directStreamURL: 'https://warningfm.herokuapp.com/?q=http://live.sg.mcfmbwi.com:9720/mcfm',
+        directStreamURL: 'https://ihon.herokuapp.com/http://live.sg.mcfmbwi.com:9720/mcfm',
         autoUpdate: true,
         autoPlay: true,
         betaProxies: true,
