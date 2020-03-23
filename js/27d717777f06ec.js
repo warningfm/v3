@@ -12,7 +12,7 @@
         version: 2,
         sid: 1,
         statsPath: 'stats',
-        directStreamURL: 'https://warningfm.herokuapp.com/?q=http://live.sg.radiobintangtenggara.com:9560/rbtfm',
+        directStreamURL: 'https://ihon.herokuapp.com/http://live.sg.radiobintangtenggara.com:9560/rbtfm',
         autoUpdate: true,
         autoPlay: true,
         betaProxies: true,
