@@ -22,7 +22,7 @@
         statusBar: false,
         startTemplate: 'maximized',
         irrelevantWords: ['false'],
-        defaultArtwork: ['https://warningfm.github.io/v3/images/f69c7be1aa497aaa87f40d2306c4c355.png'],
+        defaultArtwork: ['https://warningfm.github.io/v3/images/1d205655ef29e14a8255c89fe2383a41.jpg'],
         offlineCheck: false,
         language: {
             offlineText: 'Temporarily Offline',
