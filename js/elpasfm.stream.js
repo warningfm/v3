@@ -11,7 +11,7 @@
         protocol: 'http',
         version: 2,
         sid: 1,
-        directStreamURL: 'https://warningfm.herokuapp.com/?q=http://live.elpasfm.com:8072/elpasfm',
+        directStreamURL: 'https://ihon.herokuapp.com/http://live.elpasfm.com:8072/elpasfm',
         statsPath: 'stats',
         autoUpdate: true,
         betaProxies: true,
