@@ -1136,13 +1136,13 @@ i.kast-mdi-stop:before {
     text-align: center;
     background-position: 50% 50%;
     background-size: cover;
-    background: url(https://upload.wikimedia.org/wikipedia/en/7/7c/AppleMusicIcon_macOS.png);
     border-radius: 2px 2px 0 0;
     will-change: height
 }
 
 #kast-top .kast-album-wrapper {
     overflow: hidden;
+	background: url(https://upload.wikimedia.org/wikipedia/en/7/7c/AppleMusicIcon_macOS.png);
     width: 100%;
     height: 100%
 }
