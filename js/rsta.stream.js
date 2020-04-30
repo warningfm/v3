@@ -6,12 +6,12 @@
 // =============================================== //
 
     $.kast({
-        host: 'live.sg.radiobintangtenggara.com',
+        host: 'live.radiotawangalun.com',
         port: 8060,
         protocol: 'http',
         version: 2,
         sid: 1,
-        directStreamURL: 'https://ihon.herokuapp.com/http://live.sg.radiobintangtenggara.com:8060/rsta',
+        directStreamURL: 'https://ihon.herokuapp.com/http://live.radiotawangalun.com:8060/rsta',
         statsPath: 'stats',
         autoUpdate: true,
         betaProxies: true,
