@@ -11,7 +11,7 @@
         protocol: 'http',
         version: 2,
         sid: 1,
-        directStreamURL: 'https://corsradio.herokuapp.com/?q=http://live.radiotawangalun.com:8060/rsta',
+        directStreamURL: 'https://rbtfm.herokuapp.com/?q=http://live.radiotawangalun.com:8060/rsta',
         statsPath: 'stats',
         autoUpdate: true,
         betaProxies: true,
