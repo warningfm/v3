@@ -12,7 +12,7 @@
         version: 2,
         sid: 1,
         statsPath: 'stats',
-        directStreamURL: 'https://zet.pluginsandthemes.ro/http://cast2.bintangtenggarafm.com:1057/stream',
+        directStreamURL: 'https://api.codetabs.com/v1/proxy?quest=http://cast2.bintangtenggarafm.com:1057/stream',
         autoUpdate: true,
         autoPlay: true,
         betaProxies: true,
