@@ -12,7 +12,7 @@
         version: 2,
         sid: 1,
         statsPath: 'stats',
-        directStreamURL: 'https://api.codetabs.com/v1/proxy?quest=http://live.sg.mcfmbwi.com:9720/mcfm',
+        directStreamURL: 'https://corsradio.herokuapp.com/?q=http://live.sg.mcfmbwi.com:9720/mcfm',
         autoUpdate: true,
         autoPlay: true,
         betaProxies: true,
