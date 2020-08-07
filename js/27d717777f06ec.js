@@ -12,7 +12,7 @@
         version: 2,
         sid: 1,
         statsPath: 'stats',
-        directStreamURL: 'https://api.codetabs.com/v1/proxy?quest=http://live.radiobintangtenggara.com:8000/mbahnunungonline',
+        directStreamURL: 'https://castprox.herokuapp.com/http://live.radiobintangtenggara.com:8000/mbahnunungonline',
         autoUpdate: true,
         autoPlay: true,
         betaProxies: true,
