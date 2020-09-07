@@ -6,13 +6,13 @@
 // =============================================== //
 
     $.kast({
-        host: 'live.radiobintangtenggara.com',
-        port: 8000,
+        host: 'live.sg.radiobintangtenggara.com',
+        port: 9560,
         protocol: 'http',
         version: 2,
         sid: 1,
         statsPath: 'stats',
-        directStreamURL: 'https://castprox.herokuapp.com/http://live.radiobintangtenggara.com:8000/mbahnunungonline',
+        directStreamURL: 'https://www.rcast.net/proxy/159652',
         autoUpdate: true,
         autoPlay: true,
         betaProxies: true,
