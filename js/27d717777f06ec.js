@@ -6,13 +6,13 @@
 // =============================================== //
 
     $.kast({
-        host: 'live.sg.radiobintangtenggara.com',
+        host: 'ssg.streamingmurah.com',
         port: 9560,
-        protocol: 'http',
+        protocol: 'https',
         version: 2,
         sid: 1,
         statsPath: 'stats',
-        directStreamURL: 'https://www.rcast.net/proxy/159652',
+        //directStreamURL: 'https://www.rcast.net/proxy/159652',
         autoUpdate: true,
         autoPlay: true,
         betaProxies: true,
