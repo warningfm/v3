@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Radio</title>
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="js/jquery-3.2.1.min.js"></script>
+    <script type="text/javascript" src="js/nativeflashradiov4.js"></script>
+   
+</head>
+	
+
+<div id="nativeflashradio" style="height:550px; width:100%;-webkit-border-radius: 10px;-moz-border-radius: 10px; border-radius: 10px;">
+
+<script>
+            $("#nativeflashradio").flashradio({
+		    userinterface: "big",
+        	themecolor: "#0CFE00", 
+			themefontcolor:"#FFFFFF", 
+			streamurl: "http://conecta.welltecnologia.com.br:8040", 
+			streamid: "1",
+			streampath: "/romanticaa",
+			streamtype: "shoutcast2",
+            titlefontname: "Play",
+	        titlegooglefontname: "Play:400",
+	        songfontname: "Open Sans",
+	        songgooglefontname: "Open Sans:400",
+			songinformationinterval:"10000", 
+            radioname: "", 
+            ownsongtitleurl:"",  
+			scroll: "auto", 
+			autoplay: "true", 
+			debug: "false",
+            corsproxy: "https://rbx2.hnux.com/",
+			useanalyzer: "real",
+			analyzertype: "5",
+            radiocover :"https://playerstream.net/PanelAudio/04/img/cover.gif",
+			usecover:"true"
+		});                      
+
+</script>
+</body>
+</html>
