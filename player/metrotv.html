@@ -9,64 +9,61 @@
     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
     <meta http-equiv="CACHE-CONTROL" CONTENT="NO-CACHE">
     <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-    <script src="js/lunaradio.min.js"></script>	
+    <script src="js/nativeflashradiov4.js"></script>	
 </head>
 	
 <body>
-<div id="lunaradio" style='width:100%; height:100%;
--webkit-border-top-left-radius: 20px;
-  -webkit-border-top-right-radius: 20px;
-  -webkit-border-bottom-right-radius: 20px;
-  -webkit-border-bottom-left-radius: 20px;
-  -moz-border-radius-topleft: 20px;
-  -moz-border-radius-topright: 20px;
-  -moz-border-radius-bottomright: 20px;
-  -moz-border-radius-bottomleft: 20px;
-  border-top-left-radius: 20px;
-  border-top-right-radius: 20px;
-  border-bottom-right-radius: 20px;
-  border-bottom-left-radius: 20px;
-  border: none;'>
-<div style="overflow:hidden; height:0px; width:0px;"><a href="https://radioplayer.luna-universe.com/" title="native html internet radio player plugin">NATIVE INTERNET WEB RADIO PLAYER PLUGIN FOR SHOUTCAST, ICECAST AND RADIONOMY</a> powered by <a href="https://www.sodah.de/" title="wordpress webdesign mainz">Sodah Webdesign Mainz</a></div>
+<div id="Drentskabaal" style='height:40px; width:100%;
+-webkit-border-top-left-radius: 0;
+  -webkit-border-top-right-radius: 0;
+  -webkit-border-bottom-right-radius: 0;
+  -webkit-border-bottom-left-radius: 0;
+  -moz-border-radius-topleft: 0;
+  -moz-border-radius-topright: 0;
+  -moz-border-radius-bottomright: 0;
+  -moz-border-radius-bottomleft: 0;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  border: 0px none rgb(255, 255, 255);'>
+<a href="https://www.flashradio.info" title="native html radio player plugin">NATIVE HTML5 RADIO PLAYER PLUGIN FOR SHOUTCAST, ICECAST AND RADIONOMY</a> powered by <a href="https://www.sodah.de" title="webdesign dexheim">Sodah Webdesign Dexheim</a>
 </div>
 <script>
-		//https://gist.github.com/jimmywarting/ac1be6ea0297c16c477e17f8fbe51347
-		$("#lunaradio").lunaradio({
-			token: "",
-			userinterface: "big", 
-			backgroundcolor: "rgba(14,16,21,1)",
-			fontcolor: "#ffffff",
-			hightlightcolor: "#fa225b", 
-			fontname: "ZCOOL XiaoWei", 
-			googlefont: "ZCOOL+XiaoWei", 
-			fontratio: "0.4", 
-			radioname: "95.6 FM", 
-			scroll: "true", 
-			coverimage: "https://warningfm.github.io/v3/images/f69c7be1aa497aaa.png", 
-			coverstyle: "square",
-			usevisualizer: "real", 
-			visualizertype: "5", 
-			itunestoken: "1000lIPN", 
-			metadatatechnic: "corsproxy", 
-			ownmetadataurl: "", 
-			corsproxy: "https://mtl9.hnux.com/",
-			usestreamcorsproxy: "false",
-			streamurl: "https://ssg.streamingmurah.com:9560", 
-			streamtype: "shoutcast2", 
-			icecastmountpoint: "", 
-			radionomyid: "", 
-			radionomyapikey: "",
-			radiojarid: "",  
-			radiocoid: "",
-			shoutcastpath: "/rbt?type=https&amp;nocache=377274",
-			shoutcastid: "2", 
-			streamsuffix: "", 
-			metadatainterval: "2000", 
-			volume: "90",
-			autoplay: "true",
-			debug: "false"
-		});
-	</script>						
+$("#Drentskabaal").flashradio({
+	token: "eHh4L2VzZm91dGxiY2JibS9vbQE=",
+	userinterface: "small",
+	backgroundcolor: "",
+	themecolor: "#FF0000", 
+	themefontcolor: "#ffffff", 
+	startvolume: "75", 
+	radioname: "", 
+	scroll: "auto", 
+	autoplay: "true", 
+	useanalyzer: "false", 
+	analyzertype: "3", 
+	usecover: "true", 
+	usestreamcorsproxy: "false", 
+	affiliatetoken: "1000lIPN", 
+	debug: "false", 
+	ownsongtitleurl: "", 
+	radiocover: "", 
+	songgooglefontname: "", 
+	songfontname: "", 
+	titlegooglefontname: "", 
+	titlefontname: "", 
+	corsproxy: "php", 
+	streamprefix: "", 
+	mountpoint: "", 
+	radiouid: "", 
+	apikey: "",
+	radiojar: "",  
+	streamid: "1", 
+	streampath: "/live", 
+	streamtype: "shoutcast2", 
+	streamurl: "http://86.87.105.245:8200", 
+	songinformationinterval: "2000", 
+});
+</script>					
 
-	</body>
-</html>
+</body
