@@ -34,7 +34,7 @@
         position: 'left',
         container: 'body',
         colors: 'dynamic',
-        theme: 'dynamic',
+        theme: 'dark',
         ui: 'colored',
         played: false,
         artwork: true,
