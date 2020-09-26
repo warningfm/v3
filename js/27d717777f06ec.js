@@ -38,5 +38,5 @@
         ui: 'colored',
         played: false,
         artwork: true,
-        continuous: true
+        continuous: false
     })
