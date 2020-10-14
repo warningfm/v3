@@ -36,14 +36,15 @@ td {
 <script>
 $( document ).ready(function() {
 $.kast({
-        host: "conecta.welltecnologia.com.br",
+        host: 'conecta.welltecnologia.com.br',
         port: 8040,
         version: 2,
 	protocol: 'http',
 	directStreamURL: 'https://conecta.welltecnologia.com.br/radio/8040/romanticaa',
-        container: "#new_player",
+	colors: 'dynamic',
+        container: '#new_player',
         autoPlay: true,
-        startTemplate: "maximized",
+        startTemplate: 'maximized',
 	statusBar: false,
 	played: false,
         mobileCare: false,
@@ -62,7 +63,7 @@ $.kast({
 <div>
     <div style="background: #00ac4f;height: 30px;padding-bottom:6px;margin-bottom:10px; border-bottom: 2px solid #f59320;">&nbsp;</div>
     <center><img src="https://2.bp.blogspot.com/-rjuBiQrR078/XqFfzUqZpgI/AAAAAAAAMNw/cHp_HAZ3aoYTRTPSDEloVn3Dw-wHdTlkgCLcBGAsYHQ/s1600/Retina-logo.png" width="270" height="70" border="0" alt="">    
-    <div align="center" id="new_player"></div>
+    <div align='center' id='new_player'></div>
     </center>
 </div>
 
