@@ -11,7 +11,7 @@
         protocol: 'http',
         version: 2,
         sid: 1,
-        directStreamURL: 'https://api.codetabs.com/v1/proxy?quest=http://live.radiotawangalun.com:8060/rsta',
+        directStreamURL: 'https://proxy.webdesign-flash.ro/?q=http://live.radiotawangalun.com:8060/rsta',
         statsPath: 'stats',
         autoUpdate: true,
         betaProxies: true,
