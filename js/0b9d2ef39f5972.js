@@ -5,7 +5,7 @@ jQuery(function() {
         host: '\x6c\x69\x76\x65\x2e\x73\x67\x2e\x6d\x63\x66\x6d\x62\x77\x69\x2e\x63\x6f\x6d',
         port: 9720,
         protocol: 'http',
-        version: 2,
+        version: 1,
         sid: 1,
         statsPath: 'stats',
         directStreamURL: 'https://proxy.webdesign-flash.ro/?q=http://live.sg.mcfmbwi.com:9720/mcfm',
