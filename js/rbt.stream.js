@@ -14,7 +14,7 @@
         statusBar: false,
         startTemplate: 'maximized',
         colors: 'dynamic',
-        theme: 'dark',
+        theme: 'dynamic',
         autoPlay: true,
         played: false
     })
