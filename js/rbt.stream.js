@@ -1,67 +1,18 @@
-        // This script will call Kast player
-        // please add your options (host, port, version, etc..)
-        // read the docs for more available options
-                  $.kast({
-                    host: 'stream.denger.in',
-                    port: 8000,
-                    protocol: 'http',
-                    version: 2,
-                    sid: 1,
-                    statsPath: 'stats',
-                    playedPath: 'played',
-                    directStreamURL: false,
-                    ui: 'colored',
-                    theme: 'dynamic',
-                    colors: 'dynamic',
-                    startTemplate: 'maximized',
-                    position: 'left',
-                    container: 'body',
-                    autoPlay: true,
-                    autoUpdate: true,
-                    artwork: true,
-                    statusBar: true,
-                    minimizeMaximize: true,
-                    muteUnmute: false,
-                    startMuted: false,
-                    serverInfo: false,
-                    played: false,
-                    currentTrack: true,
-                    currentArtist: true,
-                    playedTracks: false,
-                    playedArtists: false,
-                    offlineCheck: false,
-                    mobileCare: ['false'],
-                    language: {offlineText: 'Temporarily Offline', playedText: 'Played', unknownTrackText: 'Unknown Track', unknownArtistText: 'Unknown Artist'},
-                    irrelevantWords: ["false"],
-                    skipInfo: false,
-                    defaultArtwork: ['https://warningfm.github.io/v3/images/nocoverart.jpg'],
-                    customCheckerInterval: false,
-                    popup: false,
-                    popupCSSLink: 'https://warningfm.github.io/v3/css/jquery.nng.min.css?build=13150',
-                    popupWidth: 300,
-                    popupHeight: 390,
-                    overHTTPS: true,
-                    direct: false,
-                    continuous: true,
-                    betaProxies: true,
-                    onReady: function () {},
-                    onAudioLoad: function () {},
-                    onMobile: function () {},
-                    onPlay: function () {},
-                    onPause: function () {},
-                    onStop: function () {},
-                    onMute: function () {},
-                    onUnmute: function () {},
-                    onMinimize: function () {},
-                    onMaximize: function () {},
-                    onUpdate: function () {},
-                    onUpdateAll: function () {},
-                    onCurrentArtwork: function () {},
-                    onPlayedArtworks: function () {},
-                    onCurrentInfo: function () {},
-                    onPlayedInfo: function () {},
-                    onDynamicColors: function () {},
-                    onDynamicColorsContrast: function () {},
-                    onDynamicTheme: function () {}                
-           
-            })
+// =============================================== //
+// - Remove any active classes (yellow boxes)
+// - please add your options (host, port, version, etc..)
+// - Destroy any pervious Kast
+// - On example box click, call Kast
+// =============================================== //
+
+    $.kast({
+        host: 'live.sg.radiobintangtenggara.com',
+        port: 9560,
+        protocol: 'http',
+        directStreamURL: 'https://ssg.streamingmurah.com:9560/rbtfm',
+        defaultArtwork: ['https://warningfm.github.io/v3/images/1d205655ef29e14a8255c89fe2383a41.jpg'],
+        colors: 'dynamic',
+        theme: 'dark',
+        autoPlay: true,
+        played: false
+    })
