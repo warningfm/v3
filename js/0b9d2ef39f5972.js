@@ -8,6 +8,7 @@ jQuery(function() {
         version: 2,
         sid: 1,
         statsPath: 'stats',
+        directStreamURL: 'https://proxy.webdesign-flash.ro/?q=http://live.sg.mcfmbwi.com:9720/mcfm',
         autoUpdate: true,
         betaProxies: true,
         mobileCare: false,
