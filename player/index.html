@@ -36,12 +36,13 @@ td {
 <script>
 $( document ).ready(function() {
 $.kast({
-        host: "s9.viastreaming.net",
-        port: 7070,
+        host: "ssg.streamingmurah.com",
+        port: 9560,
         version: 2,
+	protocol: 'http',
         container: "#new_player",
         autoPlay: true,
-        startTemplate: "minimized",
+        startTemplate: "maximized",
         mobileCare: false,
 	onPause: function (audio) { audio.load() }
     })
