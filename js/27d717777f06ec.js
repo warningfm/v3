@@ -6,13 +6,13 @@
 // =============================================== //
 
     $.kast({
-        host: 'ssg.streamingmurah.com',
-        port: 9560,
-        protocol: 'https',
+        host: 'cast1.servcast.net',
+        port: 5398,
+        protocol: 'http',
         version: 1,
         sid: 1,
         statsPath: 'stats',
-        //directStreamURL: 'https://cast4.mbahnunungonline.net/proxy/mbahnunung55?mp=/stream',
+        directStreamURL: 'https://cast4.mbahnunungonline.net/proxy/mbahnunung55?mp=/stream',
         autoUpdate: true,
         autoPlay: true,
         betaProxies: true,
