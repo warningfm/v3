@@ -39,10 +39,12 @@ $.kast({
         host: "ssg.streamingmurah.com",
         port: 9560,
         version: 2,
-	protocol: 'http',
+	protocol: 'https',
         container: "#new_player",
         autoPlay: true,
         startTemplate: "maximized",
+	statusBar: false,
+	played: false,
         mobileCare: false,
 	onPause: function (audio) { audio.load() }
     })
