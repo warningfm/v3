@@ -6,37 +6,23 @@
 // =============================================== //
 
     $.kast({
-        host: 'ssg.streamingmurah.com',
-        port: 9560,
-        protocol: 'https',
+        host: 'cast1.servcast.net',
+        port: 5398,
+        protocol: 'http',
         version: 1,
-        sid: 1,
-        statsPath: 'stats',
-        //directStreamURL: 'https://cast4.mbahnunungonline.net/proxy/mbahnunung55?mp=/stream',
-        autoUpdate: true,
-        autoPlay: true,
-        betaProxies: true,
-        mobileCare: false,
-        minimizeMaximize: false,
-        muteUnmute: false,
+        directStreamURL: 'https://cast4.mbahnunungonline.net/proxy/mbahnunung55?mp=/stream',
+        defaultArtwork: ['https://warningfm.github.io/v3/images/1d205655ef29e14a8255c89fe2383a41.jpg'],
         statusBar: false,
         startTemplate: 'maximized',
-        irrelevantWords: ['false'],
-        defaultArtwork: ['https://warningfm.github.io/v3/images/1d205655ef29e14a8255c89fe2383a41.jpg'],
-        offlineCheck: false,
         language: {
             offlineText: 'Temporarily Offline',
             playedText: '<font face="Georgia" color="blue">Wes Mari Diputer :</font>',
             unknownTrackText: 'Informasi & Solusi - c^o^d^e^l^i^s^t^.^c^c', 
             unknownArtistText: 'Radio Bintang Tenggara' 
-        }, 
-        overHTTPS: true,
+        },
         position: 'left',
-        container: 'body',
         colors: 'dynamic',
         theme: 'dark',
-        ui: 'colored',
-        played: false,
-        artwork: true,
-        continuous: false
-    })
+        autoPlay: true,
+        played: false
+      })
