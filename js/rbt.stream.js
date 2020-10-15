@@ -16,7 +16,7 @@
         position: 'left',
         colors: {
             primary: 'blue grey'
-            accent: 'pink' // Because accent is yellow by default
+            accent: 'light blue' // Because accent is yellow by default
         },
         theme: 'dynamic',
         autoPlay: true,
