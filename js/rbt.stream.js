@@ -15,8 +15,8 @@
         startTemplate: 'maximized',
         position: 'left',
         colors: {
-            primary: 'grey',
-            accent: 'light blue'
+            primary: 'blue grey'
+            //accent: 'yellow' // Because accent is yellow by default
         },
         theme: 'dynamic',
         autoPlay: true,
