@@ -6,7 +6,7 @@
 // =============================================== //
 
     $.kast({
-        host: 'live.sg.radiobintangtenggara.com',
+        host: 'rbtfm.cloudns.info',
         port: 9560,
         protocol: 'http',
         directStreamURL: 'https://ssg.streamingmurah.com:9560/rbtfm',
@@ -18,4 +18,4 @@
         theme: 'dynamic',
         autoPlay: true,
         played: false
-    })
+      })
