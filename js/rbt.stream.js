@@ -16,7 +16,7 @@
         position: 'left',
         colors: {
             primary: 'blue grey',
-            accent: 'light blue'
+            accent: 'light pink'
         },
         theme: 'dynamic',
         autoPlay: true,
