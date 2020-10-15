@@ -14,9 +14,9 @@
         statusBar: false,
         startTemplate: 'maximized',
         position: 'left',
-        colors: {
+        //colors: {
             primary: 'blue grey',
-            accent: 'light red'
+            accent: 'light blue'
         },
         theme: 'dynamic',
         autoPlay: true,
