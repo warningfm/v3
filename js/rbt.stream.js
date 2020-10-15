@@ -14,7 +14,10 @@
         statusBar: false,
         startTemplate: 'maximized',
         position: 'left',
-        colors: 'dynamic',
+        colors: {
+            primary: 'grey',
+            accent: 'light blue'
+        },
         theme: 'dynamic',
         autoPlay: true,
         played: false
