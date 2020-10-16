@@ -9,29 +9,22 @@
         host: 'live.elpasfm.com',
         port: 8072,
         protocol: 'http',
-        version: 2,
-        sid: 1,
-        directStreamURL: 'https://api.codetabs.com/v1/proxy?quest=http://live.elpasfm.com:8072/elpasfm',
-        statsPath: 'stats',
-        autoUpdate: true,
-        betaProxies: true,
-        mobileCare: false,
-        minimizeMaximize: false,
-        muteUnmute: false,
+        version: 1,
+        //directStreamURL: 'https://corsradio.herokuapp.com/?q=http://live.elpasfm.com:8072/elpasfm',
+        defaultArtwork: ['https://warningfm.github.io/v3/images/1d205655ef29e14a8255c89fe2383a41.jpg'],
         statusBar: false,
         startTemplate: 'maximized',
-        irrelevantWords: false,
-        defaultArtwork: ['https://warningfm.github.io/v3/images/1d205655ef29e14a8255c89fe2383a41.jpg'],
-        offlineCheck: false,
-        overHTTPS: true,
+        language: {
+            offlineText: 'Temporarily Offline',
+            playedText: '<font face="Georgia" color="blue">Wes Mari Diputer :</font>',
+            unknownTrackText: 'Bogor - c^o^d^e^l^i^s^t^.^c^c', 
+            unknownArtistText: 'Radio Elpas FM' 
+        },
         position: 'left',
-        container: 'body',
         colors: 'dynamic',
         theme: 'dark',
-        ui: 'colored',
-        played: false,
         autoPlay: true,
-        continuous: true
-    })
+        played: false
+      })
 
 
