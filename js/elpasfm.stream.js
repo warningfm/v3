@@ -10,7 +10,7 @@
         port: 8072,
         protocol: 'http',
         version: 1,
-        //directStreamURL: 'https://corsradio.herokuapp.com/?q=http://live.elpasfm.com:8072/elpasfm',
+        directStreamURL: 'https://proxy.webdesign-flash.ro/?q=http://live.elpasfm.com:8072/elpasfm',
         defaultArtwork: ['https://warningfm.github.io/v3/images/1d205655ef29e14a8255c89fe2383a41.jpg'],
         statusBar: false,
         startTemplate: 'maximized',
