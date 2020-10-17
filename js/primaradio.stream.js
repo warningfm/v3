@@ -16,7 +16,7 @@
         startTemplate: 'maximized',
         position: 'left',
         colors: 'dynamic',
-        theme: 'dynamic',
+        theme: 'dark',
         autoPlay: true,
         played: false
       })
