@@ -1,0 +1,51 @@
+<script src="js/jquery-3.2.1.min.js"></script>
+<script src="js/lunaradio-sincors.js"></script>
+
+<div style="position:absolute;overflow:hidden;width:100%;height:100%;top:0;left:0;z-index:2">
+ <video autoplay="true" muted="true" loop="true">
+  <source src="clip.mp4" type="video/mp4">
+ </video>
+</div>
+
+<div id="lunaradio" style="width:100%;height:100%;position:absolute;left:0px;top:0px;z-index:300;overflow:hidden;display:block">Loading ...</div>
+
+<!-- <div id="lunaradio" style="width:100%; height:600px;background: #000000 url(/fn_rank.jpg) bottom / cover no-repeat;">Loading ...</div> -->	
+
+
+<script>
+$("#lunaradio").lunaradio({
+userinterface: "big", 
+backgroundcolor: "",
+fontcolor: "#ffffff",
+hightlightcolor: "#cd0a0a", 
+fontname: "Roboto Condensed", 
+googlefont: "Roboto Condensed&display=swap", 
+fontratio: "0.4",  
+radioname: "Romantica by Well", 
+scroll: "true", 
+coverimage: "js/logo.jpg",
+onlycoverimage: "false",
+coverstyle: "animated",
+usevisualizer: "real", 
+visualizertype: "6", 
+metadatatechnic: "corsproxy",
+ownmetadataurl: "",
+corsproxy: "https://rbx2.hnux.com/",
+usestreamcorsproxy: "true", 
+streamurl: "https://svara-stream.radioddns.net:8443", 
+streamtype: "icecast2", //shoutcast2, icecast2, radiozeno, radionomy, radiojar, radioco 
+icecastmountpoint: "/surabaya_prima",
+shoutcastpath: "/radio.mp3",
+shoutcastid: "1", 
+streamsuffix: "", 
+radionomyid: "", 
+radionomyapikey: "",
+radiojarid: "",  
+radiocoid: "",
+itunestoken: "1000lIPN", 
+metadatainterval: "5000", 
+volume: "100",
+debug: "false",
+autoplay: "true"
+});
+</script>
