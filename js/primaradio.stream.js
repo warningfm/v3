@@ -11,7 +11,7 @@
         protocol: 'http',
         version: 1,
         directStreamURL: 'https://simbacast.herokuapp.com/?q=http://stream.primaradio.co.id:9188/;',
-        defaultArtwork: ['https://warningfm.github.io/v3/images/1d205655ef29e14a8255c89fe2383a41.jpg'],
+        defaultArtwork: ['https://1.bp.blogspot.com/-tL2c7aRRNRg/X4thWvxvTYI/AAAAAAAAMZw/tYgR-g_vu9MZvy0NEq-96KjzxbPlkZBswCLcBGAsYHQ/s0/logo-prima-fm.jpg'],
         statusBar: false,
         startTemplate: 'maximized',
         position: 'left',
