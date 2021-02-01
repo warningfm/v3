@@ -1,10 +1,5 @@
-#EXTM3U
+#EXTM3U 
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=494100,RESOLUTION=320x180
-https://cdnmdc1.useetv.com/dass/15/natgeowild/chunklist_w450396919_b494100_sleng.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=684100,RESOLUTION=640x360
-https://cdnmdc1.useetv.com/dass/15/natgeowild/chunklist_w450396919_b684100_sleng.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=894100,RESOLUTION=960x540
-https://cdnmdc1.useetv.com/dass/15/natgeowild/chunklist_w450396919_b894100_sleng.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1344100,RESOLUTION=1280x720
+#EXTVLCOPT:http-user-agent="burhan.tv/9.6 (Linux;Android 7.1.2) ExoPlayerLib/2.8.4"
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1344100,NAME=720,RESOLUTION=1280x720
 https://cdnmdc1.useetv.com/dass/15/natgeowild/chunklist_w450396919_b1344100_sleng.m3u8
