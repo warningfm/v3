@@ -8,7 +8,7 @@ jQuery(function() {
         version: 1,
         sid: 1,
         statsPath: 'stats',
-        directStreamURL: 'https://proxy.webdesign-flash.ro/?q=http://live.sg.mcfmbwi.com:9720/mcfm',
+        directStreamURL: 'https://simbacast.herokuapp.com/?q=http://live.sg.mcfmbwi.com:9720/mcfm',
         autoUpdate: true,
         betaProxies: true,
         mobileCare: false,
