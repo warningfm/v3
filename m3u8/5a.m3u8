@@ -37,11 +37,11 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklis
 https://dl.dropbox.com/s/l5j2hh2e45y650w/3f58825fe229a8f.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/5TbLkjM.png?v=1.1.1.1" group-title="Nasional" tvg-id="Nusantara TV", Nusantara TV
 https://v6.siar.us/nusantaratv/live/playlist.m3u8
+#EXTINF:-1 group-title=" Local " tvg-logo="https://cdn4.mbahnunungonline.net/img/od0w7R2.png?v=1.0.0.1", O Channel
+http://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/206-ochannel
 
 ########################################## Local ######################################################
 
-#EXTINF:-1 group-title=" Local " tvg-logo="https://cdn4.mbahnunungonline.net/img/od0w7R2.png?v=1.0.0.1", O Channel
-http://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/206-ochannel
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/Tj2eF2o.png?v=1.0.0.1", Bali TV
 https://liveanevia.mncnow.id/live/eds/BaliTV_Timeshift/sa_dash_timeshift/BaliTV_Timeshift.mpd
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/4P5UM89.png?v=1.0.0.1", JTV
