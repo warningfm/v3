@@ -30,9 +30,9 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/EknqlDs.png?v=1.1.1.1" group-title="Nasional" tvg-id="iNews", iNews
 https://akamai.mncnow.id/live/eds/InewsTV-Agustus/sa_dash/InewsTV-Agustus.mpd
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/1Mtx9mY.png?v=1.1.1.1" group-title="Nasional" tvg-id="CNN Indonesia", CNN Indonesia
-https://dl.dropbox.com/s/oxlj7mwpf13ucok/d12f0b99ed1f070.m3u8
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w221515139_b280000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/gII3Eq8.png?v=1.1.1.1" group-title="Nasional" tvg-id="Berita Satu News", Berita Satu News
-https://dl.dropbox.com/s/echuwg82ufszf2l/270f72deeb5843f.m3u8
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/XBtbPBF.png?v=1.1.1.1" group-title="Nasional" tvg-id="TVRI", TVRI
 https://dl.dropbox.com/s/l5j2hh2e45y650w/3f58825fe229a8f.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/5TbLkjM.png?v=1.1.1.1" group-title="Nasional" tvg-id="Nusantara TV", Nusantara TV
