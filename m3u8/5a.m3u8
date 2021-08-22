@@ -21,7 +21,7 @@ http://gpc.my.id/usee/transtv.m3u8
 https://akamai.mncnow.id/live/eds/GTV-Perjuangan/sa_dash/GTV-Perjuangan.mpd
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/jqNYjGu.png?v=1.1.1.1" group-title="Nasional" tvg-id="NET.", NET.
 https://akamai.mncnow.id/live/eds/NetTV-M1/sa_dash/NetTV-M1.mpd
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/7anU0V0.png?v=1.1.1.1" group-title="Nasional" tvg-id="tvOne", tvOne
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/N1yKLa1.png?v=1.1.1.1" group-title="Nasional" tvg-id="tvOne", tvOne
 https://akamai.mncnow.id/live/eds/TVONE-Decepticon/sa_dash/TVONE-Decepticon.mpd
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/XlZqfwV.png?v=1.1.1.1" group-title="Nasional" tvg-id="rtv", rtv
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/manifest.mpd
