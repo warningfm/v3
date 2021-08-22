@@ -302,16 +302,16 @@ https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2cS8N7R.png?v=1.0.0.1" group-title="Music", MTV Live
 http://198.16.106.62:8278/streams/d/mtvlive_zero/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-krWxMeHwxrM/YRJC1qPBLiI/AAAAAAAABK8/I6ecPYNF59obT6YQqrDmosB9uVU0QzC-gCLcBGAsYHQ/s0/FGSb1Vw.png?v=1.0.0.1" group-title="Music", Citra Dangdut
-http://dituduhmaling.xyz/V11710/Citradangdut.m3u8
+https://gpc.my.id/vidio/citra-dangdut.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-GJ3HxKhpQiQ/YMOFj7kvn3I/AAAAAAAABFM/ounfS_2q6ioyAftyC3HEyqmVAQ1tKgmegCLcBGAsYHQ/s0/zg4YPTD.png?v=1.0.0.1" group-title="Music", Maleo Channel
 http://stream1.ninmedia.tv:1935/maleo/udp.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NN60Hzb.png?v=1.0.0.1" group-title="Music", POP Musik
 http://stream1.ninmedia.tv:1935/popmusik/udp.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UaHtwO2.png?v=1.0.0.1" group-title="Music", 9XM
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D3WXba7.png?v=8.8.4.4" group-title="Music", B4U Music
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D3WXba7.png?v=1.0.0.1" group-title="Music", B4U Music
 https://d2n59piq1dbucf.cloudfront.net/B4U_MUSIC.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mhGTRFn.png?v=8.8.4.4" group-title="Music", Desi Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mhGTRFn.png?v=1.0.0.1" group-title="Music", Desi Channel
 https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
 
 ########################################## Movies ######################################################
@@ -416,27 +416,19 @@ https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_3
 https://d3kefxscf5gq6l.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Website/126.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CPFKDuI.png?v=1.0.0.1" group-title="Adult Lifestyle & Interests", JASMIN TV
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mjgoROa.jpg?v=1.0.0.1" group-title="Adult Lifestyle & Interests", Jenny Live
-https://59ec5453559f0.streamlock.net/JennyLive/smil:JennyLiveWEB/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/C6gt0sE.png?v=1.0.0.1" group-title="Adult Lifestyle & Interests", Playboy TV
-http://52b9675a.eliksa.xyz/iptv/F59KKDMP2GN7ZB/527/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z7MPtGB.png?v=1.0.0.1" group-title="Adult Lifestyle & Interests", Naked News
-http://content.jwplatform.com/manifests/Z9pDgB08.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2vhOM7x.jpg?v=1.0.0.1" group-title="Adult Lifestyle & Interests", Emily Bloom
-https://content.jwplatform.com/manifests/KXeIME5W.m3u8
 
 ########################################## Hindi ######################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4L7BYKM.png?v=8.8.4.4" group-title="Hindi", & Pictures
-https://f8e7y4c6.ssl.hwcdn.net/andpicssd/playlist.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/andpicssd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yvfUpGV.png?v=8.8.4.4" group-title="Hindi", Zee Bioskop
 http://rr2.dens.tv/s/s32/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EwQfNDT.jpg?v=8.8.4.4" group-title="Hindi", Zee Magic
 https://f8e7y4c6.ssl.hwcdn.net/magic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xKDJCXJ.jpg?v=8.8.4.4" group-title="Hindi", Zee Action
-https://f8e7y4c6.ssl.hwcdn.net/action/playlist.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/action/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2UQNzYB.png?v=8.8.4.4" group-title="Hindi", Zing
-https://f8e7y4c6.ssl.hwcdn.net/zing/playlist.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/zing/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gSsIODC.png?v=8.8.4.4" group-title="Hindi", Zee Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zeecinemame/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ceBQDFq.png?v=8.8.4.4" group-title="Hindi", Zee
