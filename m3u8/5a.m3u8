@@ -217,15 +217,15 @@ https://tv-trtworld.live.trt.com.tr/master.m3u8
 http://mkctvbro.my.id/horas/pakailah.m3u8?id=bein1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sy3NbII.png?v=1.0.0.1" group-title="Sports", beIN Sports 2
 http://mkctvbro.my.id/horas/pakailah.m3u8?id=bein2
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5QgXGkf.png?v=1.0.0.1" group-title="Sports" tvg-id="Champion TV 1", Champions TV 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5QgXGkf.png?v=1.0.0.1" group-title="Sports" tvg-id="Champion TV 1", Champion TV 1
 http://gpc.my.id/vidio/champion-tv-1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/T8PWdwA.png?v=1.0.0.1" group-title="Sports" tvg-id="Champion TV 2", Champions TV 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T8PWdwA.png?v=1.0.0.1" group-title="Sports" tvg-id="Champion TV 2", Champion TV 2
 http://gpc.my.id/vidio/champion-tv-2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xhPxmPo.png?v=1.0.0.1" group-title="Sports", Fox Sport 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xhPxmPo.png?v=1.0.0.1" group-title="Sports", Fox Sport 1 HD
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6793
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Skg7qZd.png?v=1.0.0.1" group-title="Sports", Fox Sport 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Skg7qZd.png?v=1.0.0.1" group-title="Sports", Fox Sport 2 HD
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6791
-#EXTINF:-1 tvg-logo="https://i.imgur.com/t5ERoxX.png?v=1.0.0.1" group-title="Sports", Fox Sport 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t5ERoxX.png?v=1.0.0.1" group-title="Sports", Fox Sport 3 HD
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6792
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cokkw7Z.png?v=1.0.0.1" group-title="Sports", Golf
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/playlist.m3u8
@@ -242,7 +242,7 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/inde
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P9yiTz6.png?v=4.2.2.2" group-title="Knowledge" tvg-id="Nat Geo Wild", Nat Geo Wild HD
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x0XijCu.png?v=4.2.2.2" group-title="Knowledge" tvg-id="Nat Geo", National Geographic HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x0XijCu.png?v=4.2.2.2" group-title="Knowledge" tvg-id="National Geographic HD", National Geographic HD
 #https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/playlist.m3u8
 #http://iptv.tvmalaysia.cc:80/989898/989898/7075
 http://sindoro.axc.my.id:25461/live/oxygen/VU5ZBKiIBr/7.ts
