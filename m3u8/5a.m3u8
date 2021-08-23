@@ -139,7 +139,7 @@ http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p3cqAKM.jpg" group-title="Kids" tvg-id="Biznet Kids", B Kids
 http://aputra.xyz/kds1010/Bisnetkids.m3u8
 
-########################################################   Korengan    ########################################################
+########################################################    Korengan   ########################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GVGesVr.png?v=1.0.0.1" group-title="Korengan" tvg-id="Arirang", Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
@@ -236,7 +236,7 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GpYMDsCS/DUBAI-SPORTS-3.png" group-title="Sports", Dubai Sports 3
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 
-########################################################    Knowledge  ########################################################
+########################################################   Knowledge   ########################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KHKIztL.png?v=4.2.2.2" group-title="Knowledge", Animal Planet
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
@@ -266,7 +266,7 @@ http://202.169.224.76:1935/live/tve.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AiXXYZK.png?v=4.2.2.2" group-title="Knowledge", National Geographic Abu Dhabi
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 
-########################################################    Religious  ########################################################
+########################################################   Religious   ########################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RdOrRX2.png?v=1.0.0.1" group-title="Religious" tvg-id="AlQuran Kareem", AlQuran Kareem
 #https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/index.m3u8
@@ -410,7 +410,7 @@ https://d3kefxscf5gq6l.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CPFKDuI.png?v=1.0.0.1" group-title="Adult Lifestyle & Interests", JASMIN TV
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
 
-########################################## Hindi ######################################################
+########################################################     Hindi     ########################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4L7BYKM.png?v=8.8.4.4" group-title="Hindi", & Pictures
 https://y5w8j4a9.ssl.hwcdn.net/andpicssd/index.m3u8
@@ -437,7 +437,7 @@ https://edge.nim.mivo.tv/video/assets/oops.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/04ubnFv.jpg?v=1.1.1.1" group-title="Hindi", MBC Bollywood
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 
-########################################## Radio ######################################################
+########################################################     Radio     ########################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/93cFv35.png?v=1.0.0.1" group-title="Radio", mbah nunung Online
 http://stream.zeno.fm/5y0exp3phzzuv
@@ -454,7 +454,7 @@ http://s7.alhastream.com/radio/8090/radio?1609467814144
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jR4Foab.jpg?v=1.0.0.1" group-title="Radio", Radio RAYA FM
 http://45.64.98.181:8323/stream
 
-########################################## Backup ########################################################
+########################################################     Backup    ########################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yIDtEcz.jpg?v=1.1.1.1" group-title="Arab", Dubai TV
 http://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
