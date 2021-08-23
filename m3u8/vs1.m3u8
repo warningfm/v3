@@ -398,7 +398,7 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m
 https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 tvg-id="BBC Earth" tvg-logo="https://i.imgur.com/jD4e8Ez.png?v=1.0.0.1" group-title="Knowledge", BBC Earth
 https://liveanevia.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
@@ -758,7 +758,7 @@ https://gpc.my.id/vidio/rtv.m3u8
 https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="VISION+" tvg-logo="https://i.imgur.com/7cLsY1Q.png?v=1.0.0.1", OKTV
 https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
@@ -767,12 +767,7 @@ https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/774vsJ9.png?v=1.0.0.1" group-title="Music", Music TV
 https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
-#EXTINF:-1 tvg-id="StarMovies.sa" tvg-name="Star Vijay HD" tvg-logo="https://static.epg.best/sa/StarMovies.sa.png" tvg-chno="245" channel-id="245" group-title="UMUM", Star Vijay HD
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6732
-#EXTINF:-1 tvg-id="ColorsTamil.in" tvg-name="Colors Tamil HD" tvg-logo="https://static.epg.best/in/ColorsTamil.in.png" tvg-chno="246" channel-id="246" group-title="UMUM", Colors Tamil HD
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6716
-#EXTINF:-1 tvg-id="" tvg-name="Zee Tamil HD" tvg-logo="" tvg-chno="247" channel-id="247" group-title="UMUM", Zee Tamil HD
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6742
+########################################################      Vod     ########################################################
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/90NhrPCV/Cek-Toko-Sebelah.jpg" group-title="VOD INDO", Cek Toko Sebelah
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/VOD/12755/18663/ff57b12f-dec4-4788-b9bb-64e878088003/6bd4b17a-065f-7358-38c8-94e0be987188/manifest.mpd
