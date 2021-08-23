@@ -497,11 +497,11 @@ http://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hssl
 https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-w2_w_2s4W3Q/YRSkaf3zTUI/AAAAAAAABR0/B6V_In5Gvio7XjIYVOSbAAtgylvjCveOwCLcBGAsYHQ/s0/2cS8N7R.png?v=1.0.0.1" group-title="Music", MTV Live
 http://198.16.106.62:8278/streams/d/mtvlive_zero/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-krWxMeHwxrM/YRJC1qPBLiI/AAAAAAAABK8/I6ecPYNF59obT6YQqrDmosB9uVU0QzC-gCLcBGAsYHQ/s0/FGSb1Vw.png?v=1.0.0.1" group-title="Music", Citra Dangdut
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/images/FGSb1Vw.png?v=1.0.0.1" group-title="Music", Citra Dangdut
 https://gpc.my.id/vidio/citra-dangdut.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-GJ3HxKhpQiQ/YMOFj7kvn3I/AAAAAAAABFM/ounfS_2q6ioyAftyC3HEyqmVAQ1tKgmegCLcBGAsYHQ/s0/zg4YPTD.png?v=1.0.0.1" group-title="Music", Maleo Channel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/images/zg4YPTD.png?v=1.0.0.1" group-title="Music", Maleo Channel
 https://cdn4.mbahnunungonline.net/m3u8/id/e22dc65d77c8885.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ca9bVg9Xj2w/YRSmFU31ckI/AAAAAAAABSE/-PtDkZdgLukwCt3ZMhFPWs1ZffrKF3mygCLcBGAsYHQ/s0/NN60Hzb.png?v=1.0.0.1" group-title="Music", POP Musik
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/images/NN60Hzb.png?v=1.0.0.1" group-title="Music", POP Musik
 https://cdn4.mbahnunungonline.net/m3u8/id/94a637fadb57201.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9pxMjTuJBdQ/YRSma7Me_DI/AAAAAAAABSM/sv1hxQqcXdovRTQ9-v10Qz-FqXqVWZs6gCLcBGAsYHQ/s0/UaHtwO2.png?v=1.0.0.1" group-title="Music", 9XM
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
