@@ -302,7 +302,7 @@ http://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/images/fgUVz5m.png?v=1.0.0.1" group-title="News", Al Jazeera HD
 https://dl.dropbox.com/s/dh7sdw6qeu49yri/f5f5c18cf037918.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-yTaG72xWJ-k/YROvgAsdS_I/AAAAAAAABPc/ctxNdwjiAGE-zKPDpVPZSoWFAZKj7emwACLcBGAsYHQ/s0/xSCGVhz.png?v=1.0.0.1" group-title="News", AL Manar TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/images/xSCGVhz.png?v=1.0.0.1" group-title="News", AL Manar TV
 https://manar.live/iptv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/images/AhnS4ar.png?v=1.0.0.1" group-title="News", Al Jazeera English HD
@@ -331,12 +331,12 @@ https://liveanevia.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A4a0L0AIakY/YRSLz4vSHII/AAAAAAAABRs/HrkTE1eMspA9qt6ujdZvyGvaUsxKcIffwCLcBGAsYHQ/s0/GFOQVEf.png?v=1.0.0.1" group-title="News" tvg-id="France24" tvg-name"France24", France24
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/images/GFOQVEf.png?v=1.0.0.1" group-title="News" tvg-id="France24" tvg-name"France24", France24
 https://liveanevia.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-MrUxR2LDFaA/YROv13OSfdI/AAAAAAAABPk/-WnY1CUDniIQ3HQmHNV96PBWB-CqWZJhACLcBGAsYHQ/s0/BwijqtC.png?v=1.0.0.1" group-title="News" tvg-id="NHK World Japan", NHK World Japan
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/images/BwijqtC.png?v=1.0.0.1" group-title="News" tvg-id="NHK World Japan", NHK World Japan
 https://liveanevia.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
