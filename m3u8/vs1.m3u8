@@ -2,7 +2,7 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/images/rA0rUsj.png?v=1.1.1.1" group-title="Nasional" tvg-id="RCTI", RCTI
-https://liveanevia.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd
+https://liveanevia.mncnow.id/live/eds/RCTI-HD-Euro/sa_dash_vmx/RCTI-HD-Euro.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
@@ -399,12 +399,12 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KHKIztL.png?v=1.0.0.1" group-title="Knowledge" tvg-id="Animal Planet", Animal Planet
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KHKIztL.png?v=1.0.0.1" group-title="Knowledge" tvg-id="Animal Planet HD", Animal Planet HD
 https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-id="BBC Earth" tvg-logo="https://i.imgur.com/jD4e8Ez.png?v=1.0.0.1" group-title="Knowledge", BBC Earth
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jD4e8Ez.png?v=1.0.0.1" group-title="Knowledge" tvg-id="BBC Earth", BBC Earth
 https://liveanevia.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WVpnAKn.png?v=1.0.0.1" group-title="Knowledge" tvg-id="Discovery Asia", Discovery Asia HD
@@ -437,13 +437,14 @@ https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_dash_vmx/NatGeoPeople.mpd
 https://liveanevia.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BzbgaxF.png?v=1.0.0.1" group-title="Knowledge", Love Nature HD
-http://sindoro.axc.my.id:25461/live/oxygen/VU5ZBKiIBr/16.ts 
+#http://sindoro.axc.my.id:25461/live/oxygen/VU5ZBKiIBr/16.ts
+https://gpc.my.id/vidio/love-nature.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5znakl6.png?v=1.0.0.1" group-title="Knowledge", Smithsonian Channel
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AiXXYZK.png?v=1.0.0.1" group-title="Knowledge", National Geographic Abu Dhabi
-http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vwq6lFW.png?v=1.0.0.1" group-title="Knowledge" tvg-id="TV Edukasi", TV Edukasi
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(62c29969-78fa-4754-bf97-6cfcb1d29f81)/manifest.mpd
