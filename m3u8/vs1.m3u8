@@ -486,7 +486,7 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/index.
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/images/nclyzsj.png?v=1.0.0.1" group-title="Religious", Iqraa-Tv
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="hhttps://raw.githubusercontent.com/warningfm/v3/master/images/vUHoMzT.png?v=1.0.0.1" group-title="Religious", Makkah Live 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/images/vUHoMzT.png?v=1.0.0.1" group-title="Religious", Makkah Live 
 http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/images/CwsvvSn.png?v=1.0.0.1" group-title="Religious", British Muslim
