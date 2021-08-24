@@ -717,7 +717,7 @@ http://dituduhmaling.xyz/US33T4/net.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qepGQMN.png?v=1.1.1.1" group-title="USEETV", Dunia Lain
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=dunialain&bandwidth=default&sync=0
 
-#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/court-tv-mystery.png?v=1.0.0.1" group-title="bozztv.com" tvg-id="Court TV Mystery", Court TV Mystery
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rigBQNm.png?v=1.0.0.1" group-title="bozztv.com" tvg-id="Court TV Mystery", Court TV Mystery
 https://bozztv.com/teleyupp/teleup-mystery/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AWvwPm5.png?v=1.0.0.1" group-title="bozztv.com" tvg-id="Discovery Channel", Discovery Channel (US)
 https://bozztv.com/teleyupp/teleup-discovery/playlist.m3u8
