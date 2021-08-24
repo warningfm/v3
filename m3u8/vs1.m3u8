@@ -1,17 +1,17 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VKAWqEO.png?v=1.1.1.1" group-title="Nasional" tvg-id="RCTI", RCTI
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/images/rA0rUsj.png?v=1.1.1.1" group-title="Nasional" tvg-id="RCTI", RCTI
 https://liveanevia.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kHUcKkK.png?v=1.1.1.1" group-title="Nasional" tvg-id="SCTV", SCTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/images/kHUcKkK.png?v=1.1.1.1" group-title="Nasional" tvg-id="SCTV", SCTV
 https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HJHmRAh.png?v=1.1.1.1" group-title="Nasional" tvg-id="MNC TV", MNC TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/images/AWnnWow.png?v=1.1.1.1" group-title="Nasional" tvg-id="MNC TV", MNC TV
 https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
