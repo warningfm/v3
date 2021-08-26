@@ -524,7 +524,7 @@ http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8
 ########################################################     Movies    ########################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pZrvlvD.png?v=1.0.0.1" group-title="Movies", IMC
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=imc&bandwidth=default&sync=0
+http://topwin-tv.my.id/2/master.m3u8?id=imc&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OeBBgcc.png?v=1.0.0.1" group-title="Movies", Citra Drama
 https://gpc.my.id/vidio/citra-drama.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xB7jWnt.png?v=1.0.0.1" group-title="Movies", Citra Bioskop
@@ -721,7 +721,7 @@ http://dituduhmaling.xyz/US33T4/metrotv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VgewMth.png?v=1.1.1.1" group-title="USEETV" tvg-id="NET.", NET.
 http://dituduhmaling.xyz/US33T4/net.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qepGQMN.png?v=1.1.1.1" group-title="USEETV", Dunia Lain
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=dunialain&bandwidth=default&sync=0
+http://topwin-tv.my.id/2/master.m3u8?id=dunialain&bandwidth=default&sync=0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rigBQNm.png?v=1.0.0.1" group-title="bozztv.com" tvg-id="Court TV Mystery", Court TV Mystery
 https://bozztv.com/teleyupp/teleup-mystery/playlist.m3u8
