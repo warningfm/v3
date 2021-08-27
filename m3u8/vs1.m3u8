@@ -719,7 +719,7 @@ http://45.64.98.181:8323/stream
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VgewMth.png?v=1.1.1.1" group-title="Backup", NET.
 http://cdn4.mbahnunungonline.net/m3u8/id/6cdb3402d11f58d.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i8l6OHc.png?v=1.1.1.1" group-title="Backup", Trans 7
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1973512099_b744100_sleng.m3u8
+https://dl.dropbox.com/s/8933q0yyq5ytidu/cdd283c9d3d43b5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n8qUiYO.png?v=1.1.1.1" group-title="Backup", Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
