@@ -91,7 +91,8 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)
 https://cdn4.mbahnunungonline.net/m3u8/id/d12f0b99ed1f070.m3u8
 
 #EXTINF:-1 group-title="Nasional" tvg-logo="https://i.imgur.com/eLjHSKm.png?v=1.0.0.1", Nusantara TV
-https://v6.siar.us/nusantaratv/live/playlist.m3u8
+#https://v6.siar.us/nusantaratv/live/playlist.m3u8
+https://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=fe73f687e5bc5280214e0486b273a5f90fb3069a97a8fb9df1d75e6456ecef11
 
 #EXTINF:-1 group-title="Nasional" tvg-logo="https://i.imgur.com/60lNdUo.png?v=1.0.0.1", MyTV
 http://rr2.dens.tv/s/s46/index.m3u8
