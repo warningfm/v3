@@ -78,7 +78,7 @@ https://liveanevia.mncnow.id/live/eds/iNewsTV/sa_dash_vmx/iNewsTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/images/gII3Eq8.png?v=1.1.1.1" group-title="Nasional" tvg-id="Berita Satu News" tvg-name="Berita Satu News", Berita Satu
-https://liveanevia.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
+https://dl.dropbox.com/s/echuwg82ufszf2l/270f72deeb5843f.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
@@ -718,11 +718,11 @@ https://s7.alhastream.com/radio/8090/radio?1609467814144
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jR4Foab.jpg?v=1.0.0.1" group-title="Radio", Radio RAYA FM
 http://45.64.98.181:8323/stream
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VgewMth.png?v=1.1.1.1" group-title="Backup", NET.
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_net_big1.png?v=1.1.1.1" group-title="Backup", NET.
 http://cdn4.mbahnunungonline.net/m3u8/id/6cdb3402d11f58d.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i8l6OHc.png?v=1.1.1.1" group-title="Backup", Trans 7
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_trans7_big1.png?v=1.1.1.1" group-title="Backup", Trans 7
 https://dl.dropbox.com/s/8933q0yyq5ytidu/cdd283c9d3d43b5.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n8qUiYO.png?v=1.1.1.1" group-title="Backup", Trans TV
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_transtv_big1.png?v=1.1.1.1" group-title="Backup", Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
 ########################################################     USEETV    ########################################################
