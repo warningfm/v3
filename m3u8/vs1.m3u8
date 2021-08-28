@@ -729,13 +729,13 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fH8rFb8.png?v=1.1.1.1" group-title="USEETV" tvg-id="SCTV", SCTV
 http://gpc.my.id/usee/sctv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jRoKnmd.png?v=1.1.1.1" group-title="USEETV" tvg-id="Indosiar", Indosiar
-http://dituduhmaling.xyz/US33T4/indosiar.m3u8
+http://gpc.my.id/usee/indosiar.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i8l6OHc.png?v=1.1.1.1" group-title="USEETV" tvg-id="Trans7", Trans 7
 https://gpc.my.id/usee/trans7.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n8qUiYO.png?v=1.1.1.1" group-title="USEETV" tvg-id="TransTV", Trans TV
 https://gpc.my.id/usee/transtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/un1priK.png?v=1.1.1.1" group-title="USEETV" tvg-id="Metro TV", Metro TV
-http://dituduhmaling.xyz/US33T4/metrotv.m3u8
+http://gpc.my.id/usee/metrotv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VgewMth.png?v=1.1.1.1" group-title="USEETV" tvg-id="NET.", NET.
 http://dituduhmaling.xyz/US33T4/net.m3u8
 
