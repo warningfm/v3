@@ -719,11 +719,11 @@ https://s7.alhastream.com/radio/8090/radio?1609467814144
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jR4Foab.jpg?v=1.0.0.1" group-title="Radio", Radio RAYA FM
 http://45.64.98.181:8323/stream
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_net_big1.png?v=1.1.1.1" group-title="Backup", NET.
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jqNYjGu.png?v=1.1.1.1" group-title="Backup" tvg-id="NET TV" tvg-name="NET TV", NET.
 http://cdn4.mbahnunungonline.net/m3u8/id/6cdb3402d11f58d.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_trans7_big1.png?v=1.1.1.1" group-title="Backup", Trans 7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QTEjMpg.png?v=1.1.1.1" group-title="Backup" tvg-id="Trans 7" tvg-name="Trans 7", Trans7
 https://dl.dropbox.com/s/8933q0yyq5ytidu/cdd283c9d3d43b5.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_transtv_big1.png?v=1.1.1.1" group-title="Backup", Trans TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RnrimdT.png?v=1.1.1.1" group-title="Backup" tvg-id="Trans TV" tvg-name="Trans TV", TransTV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
 ########################################################     USEETV    ########################################################
