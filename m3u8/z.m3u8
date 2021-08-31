@@ -5,17 +5,17 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-MIKxg3_8Zag/YRa7HBr1hNI/AAAAAAAABTQ/FvDF324u9ew4JwRRCpBUyYkT4gdzVYuGwCLcBGAsYHQ/s0/VKAWqEO.png?v=1.1.1.1" group-title="tvN150N" tvg-id="RCTI", RCTI
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-MIKxg3_8Zag/YRa7HBr1hNI/AAAAAAAABTQ/FvDF324u9ew4JwRRCpBUyYkT4gdzVYuGwCLcBGAsYHQ/s0/VKAWqEO.png?v=1.1.1.1" group-title="tvN150N" tvg-id="RCTI" tvg-name="RCTI", RCTI
 https://liveanevia.mncnow.id/live/eds/RCTI-HD-Euro/sa_dash_vmx/RCTI-HD-Euro.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-z5DrHEQtKQQ/YMOFjveysZI/AAAAAAAABFI/6nsf_RKG16I7DzoFkERg4pc_7b4FPnc0QCLcBGAsYHQ/s0/sHsPccL.png?v=1.0.0.1" group-title="tvN150N" tvg-id="SCTV", SCTV
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-z5DrHEQtKQQ/YMOFjveysZI/AAAAAAAABFI/6nsf_RKG16I7DzoFkERg4pc_7b4FPnc0QCLcBGAsYHQ/s0/sHsPccL.png?v=1.0.0.1" group-title="tvN150N" tvg-id="SCTV" tvg-name="SCTV", SCTV
 https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-aMcvtlHs7GQ/YRa7HF6-GwI/AAAAAAAABTM/fgzEO-rE8yMV_uzGaQQ6yp9TrOgHOYwiwCLcBGAsYHQ/s0/HJHmRAh.png?v=1.1.1.1" group-title="tvN150N" tvg-id="MNC TV", MNC TV
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-aMcvtlHs7GQ/YRa7HF6-GwI/AAAAAAAABTM/fgzEO-rE8yMV_uzGaQQ6yp9TrOgHOYwiwCLcBGAsYHQ/s0/HJHmRAh.png?v=1.1.1.1" group-title="tvN150N" tvg-id="MNC TV" tvg-name="MNC TV", MNCTV
 https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -30,17 +30,17 @@ https://gpc.my.id/vidio/citra-dangdut.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ISLk55hTmFU/YMOFgw3MJBI/AAAAAAAABEY/f-5hIh6bHC4D_roTzfsdwpuV0Xu7wGGJQCLcBGAsYHQ/s0/Jj4S2E4.png?v=1.0.0.1" group-title="tvN150N" tvg-id="Metro TV", Metro TV
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ISLk55hTmFU/YMOFgw3MJBI/AAAAAAAABEY/f-5hIh6bHC4D_roTzfsdwpuV0Xu7wGGJQCLcBGAsYHQ/s0/Jj4S2E4.png?v=1.0.0.1" group-title="tvN150N" tvg-id="Metro TV" tvg-name="Metro TV", MetroTV HD
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-yAoaEjGMwtg/YMOFhdLK3NI/AAAAAAAABEg/aL3SuCSNJJoU5RNuy6T1ctbHz21na8XxACLcBGAsYHQ/s0/QTEjMpg.png?v=1.1.1.1" group-title="tvN150N" tvg-id="Trans 7", Trans 7
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-yAoaEjGMwtg/YMOFhdLK3NI/AAAAAAAABEg/aL3SuCSNJJoU5RNuy6T1ctbHz21na8XxACLcBGAsYHQ/s0/QTEjMpg.png?v=1.1.1.1" group-title="tvN150N" tvg-id="Trans 7" tvg-name="Trans 7", Trans7
 https://liveanevia.mncnow.id/live/eds/Trans7/sa_dash_vmx/Trans7.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-irPeH0aY7Vs/YMOFhjlQnZI/AAAAAAAABEo/BL60bQ0Z0pI9hoQcWXvyer2eLJcVd4QUwCLcBGAsYHQ/s0/RnrimdT.png?v=1.0.0.1" group-title="tvN150N" tvg-id="Trans TV", Trans TV
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-irPeH0aY7Vs/YMOFhjlQnZI/AAAAAAAABEo/BL60bQ0Z0pI9hoQcWXvyer2eLJcVd4QUwCLcBGAsYHQ/s0/RnrimdT.png?v=1.0.0.1" group-title="tvN150N" tvg-id="Trans TV" tvg-name="Trans TV", TransTV
 https://liveanevia.mncnow.id/live/eds/TransTV/sa_dash_vmx/TransTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -50,57 +50,57 @@ http://cdn4.mbahnunungonline.net/m3u8/e22dc65d77c8885.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kPU9eV5MyK8/YMOFg1dHAbI/AAAAAAAABEc/tWJYK_5cqkUMkKDQBq_Z1lDMmEnGLgiLACLcBGAsYHQ/s0/N1yKLa1.png?v=1.1.1.1" group-title="tvN150N" tvg-id="tvOne", tvOne
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kPU9eV5MyK8/YMOFg1dHAbI/AAAAAAAABEc/tWJYK_5cqkUMkKDQBq_Z1lDMmEnGLgiLACLcBGAsYHQ/s0/N1yKLa1.png?v=1.1.1.1" group-title="tvN150N" tvg-id="tvOne" tvg-name="tvOne", tvOne
 https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-GR57XA8olF8/YMOFfPvSOCI/AAAAAAAABEA/bOl3WXT_UR4IBjao-dPtkBXKz8wO3UivACLcBGAsYHQ/s0/45Vmwv5.png?v=1.1.1.1" group-title="tvN150N" tvg-id="GTV", GTV
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-GR57XA8olF8/YMOFfPvSOCI/AAAAAAAABEA/bOl3WXT_UR4IBjao-dPtkBXKz8wO3UivACLcBGAsYHQ/s0/45Vmwv5.png?v=1.1.1.1" group-title="tvN150N" tvg-id="GTV" tvg-name="GTV", GTV
 https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-mQPuaSA2MD4/YMOFi2xTJ1I/AAAAAAAABFA/OGNqwGFRWxAFfj8MPP2b12h1CAX1HhNYACLcBGAsYHQ/s0/jqNYjGu.png?v=1.0.0.1" group-title="tvN150N" tvg-id="NET.", NET.
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-mQPuaSA2MD4/YMOFi2xTJ1I/AAAAAAAABFA/OGNqwGFRWxAFfj8MPP2b12h1CAX1HhNYACLcBGAsYHQ/s0/jqNYjGu.png?v=1.0.0.1" group-title="tvN150N" tvg-id="NET TV" tvg-name="NET TV", NET. HD
 https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-5ZxSkqFEDrE/YMOFgN2TyqI/AAAAAAAABEM/0oHHHxoQveQ16OoWUgCsMZojtkip6x66QCLcBGAsYHQ/s0/BbPufM8.png?v=1.1.1.1" group-title="tvN150N" tvg-id="Indosiar", Indosiar
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-5ZxSkqFEDrE/YMOFgN2TyqI/AAAAAAAABEM/0oHHHxoQveQ16OoWUgCsMZojtkip6x66QCLcBGAsYHQ/s0/BbPufM8.png?v=1.1.1.1" group-title="tvN150N" tvg-id="Indosiar" tvg-name="Indosiar", Indosiar
 https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ep5F0g7U91Q/YMOFiX0jbGI/AAAAAAAABE0/UIyb8Hyrd682jQ5DXo9AolJQxy1luiFawCLcBGAsYHQ/s0/XlZqfwV.png?v=1.1.1.1" group-title="tvN150N" tvg-id="rtv", rtv
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ep5F0g7U91Q/YMOFiX0jbGI/AAAAAAAABE0/UIyb8Hyrd682jQ5DXo9AolJQxy1luiFawCLcBGAsYHQ/s0/XlZqfwV.png?v=1.1.1.1" group-title="tvN150N" tvg-id="rtv" tvg-name="rtv", rtv
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/--m-tf_1Hlmk/YQ-_XEI4EHI/AAAAAAAABI8/STJkg-d0ge0i5Qksv2Vp49eI47CH9h8bgCLcBGAsYHQ/s0/sxlxwvA.png?v=1.0.0.1" group-title="tvN150N" tvg-id="antv", antv
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/--m-tf_1Hlmk/YQ-_XEI4EHI/AAAAAAAABI8/STJkg-d0ge0i5Qksv2Vp49eI47CH9h8bgCLcBGAsYHQ/s0/sxlxwvA.png?v=1.0.0.1" group-title="tvN150N" tvg-id="antv" tvg-name="antv", antv
 https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-XVXPUmZD94k/YMOFiwPPw1I/AAAAAAAABE4/xP4HMP2m7gYKwTn4H35HmejWpek8VNFXQCLcBGAsYHQ/s0/aJhpmgf.png?v=1.0.0.1" group-title="tvN150N" tvg-id="Kompas TV", Kompas TV
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-XVXPUmZD94k/YMOFiwPPw1I/AAAAAAAABE4/xP4HMP2m7gYKwTn4H35HmejWpek8VNFXQCLcBGAsYHQ/s0/aJhpmgf.png?v=1.0.0.1" group-title="tvN150N" tvg-id="Kompas TV" tvg-name="Kompas TV", Kompas TV
 https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-tSKKlTw9GZ8/YMOFiEszsTI/AAAAAAAABEw/GhUUhvNY_nkU8rYzgmRCkoCwu0SWzm82gCLcBGAsYHQ/s0/XBtbPBF.png?v=1.0.0.1" group-title="tvN150N" tvg-id="TVRI", TVRI
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-tSKKlTw9GZ8/YMOFiEszsTI/AAAAAAAABEw/GhUUhvNY_nkU8rYzgmRCkoCwu0SWzm82gCLcBGAsYHQ/s0/XBtbPBF.png?v=1.0.0.1" group-title="tvN150N" tvg-id="TVRI" tvg-name="TVRI", TVRI
 http://cdn4.mbahnunungonline.net/m3u8/id/3f58825fe229a8f.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-DgVXdILk_2U/YMOFgRvUd8I/AAAAAAAABEQ/tlWQu2OAmxwnyVFbaa1KFXsseg5Ie5OnACLcBGAsYHQ/s0/EknqlDs.png?v=1.1.1.1" group-title="tvN150N" tvg-id="iNews", iNews
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-DgVXdILk_2U/YMOFgRvUd8I/AAAAAAAABEQ/tlWQu2OAmxwnyVFbaa1KFXsseg5Ie5OnACLcBGAsYHQ/s0/EknqlDs.png?v=1.1.1.1" group-title="tvN150N" tvg-id="iNews" tvg-name="iNews", iNews
 https://liveanevia.mncnow.id/live/eds/iNewsTV/sa_dash_vmx/iNewsTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Edy-dDv89ZA/YMOFi3Put8I/AAAAAAAABE8/yh_egePZ7v8uz1lUDjXzNjVJvlJjMIA_QCLcBGAsYHQ/s0/gII3Eq8.png?v=1.0.0.1" group-title="tvN150N" tvg-id="Berita Satu News", Berita Satu News
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Edy-dDv89ZA/YMOFi3Put8I/AAAAAAAABE8/yh_egePZ7v8uz1lUDjXzNjVJvlJjMIA_QCLcBGAsYHQ/s0/gII3Eq8.png?v=1.0.0.1" group-title="tvN150N" tvg-id="Berita Satu News" tvg-name="Berita Satu News", Berita Satu
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-CID2wYVDXMA/YMOFfU3URMI/AAAAAAAABD8/oMaieyhDZCklUBv-8pQljrHLIMHK_7GoQCLcBGAsYHQ/s0/1Mtx9mY.png?v=1.1.1.1" group-title="tvN150N" tvg-id="CNN Indonesia", CNN Indonesia
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-CID2wYVDXMA/YMOFfU3URMI/AAAAAAAABD8/oMaieyhDZCklUBv-8pQljrHLIMHK_7GoQCLcBGAsYHQ/s0/1Mtx9mY.png?v=1.1.1.1" group-title="tvN150N" tvg-id="CNN Indonesia" tvg-name="CNN Indonesia", CNN Indonesia
 https://dl.dropbox.com/s/oxlj7mwpf13ucok/d12f0b99ed1f070.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
