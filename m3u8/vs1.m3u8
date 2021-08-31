@@ -382,29 +382,29 @@ https://akamai.mncnow.id/live/eds/MetroTV-RTX/sa_dash/MetroTV-RTX.mpd
 
 ########################################################     Sports    ########################################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9b088eX.png?v=1.0.0.1" group-title="Sports" tvg-id="beIN Sports 1", beIN Sports 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9b088eX.png?v=1.0.0.1" group-title="Sports" tvg-id="beIN Sports 1" tvg-name="beIN Sports 1", beIN Sports 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 https://topwin-tv.my.id/2/master.m3u8?id=bein1&bandwidth=default&sync=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sy3NbII.png?v=1.0.0.1" group-title="Sports" tvg-id="beIN Sports 2", beIN Sports 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sy3NbII.png?v=1.0.0.1" group-title="Sports" tvg-id="beIN Sports 2" tvg-name="beIN Sports 2", beIN Sports 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5QgXGkf.png?v=1.0.0.1" group-title="Sports" tvg-id="Champion TV 1", Champion TV 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5QgXGkf.png?v=1.0.0.1" group-title="Sports" tvg-id="Champion TV 1" tvg-name="Champion TV 1", Champions TV 1
 https://gpc.my.id/vidio/champion-tv-1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/T8PWdwA.png?v=1.0.0.1" group-title="Sports" tvg-id="Champion TV 2", Champion TV 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T8PWdwA.png?v=1.0.0.1" group-title="Sports" tvg-id="Champion TV 2" tvg-name="Champion TV 2", Champions TV 2
 https://gpc.my.id/vidio/champion-tv-2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xhPxmPo.png?v=1.0.0.1" group-title="Sports" tvg-id="FOX Sports HD", FOX Sports HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xhPxmPo.png?v=1.0.0.1" group-title="Sports" tvg-id="FOX Sports HD" tvg-name="FOX Sports HD", FOX Sports HD
 http://iptv.tvmalaysia.cc:80/989898/989898/6793
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Skg7qZd.png?v=1.0.0.1" group-title="Sports" tvg-id="FOX Sports 2 HD", FOX Sports 2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Skg7qZd.png?v=1.0.0.1" group-title="Sports" tvg-id="FOX Sports 2 HD" tvg-name="FOX Sports 2 HD", FOX Sports 2 HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 https://liveanevia.mncnow.id/live/eds/FoxSportss2s/sa_dash_vmx/FoxSportss2s.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/t5ERoxX.png?v=1.0.0.1" group-title="Sports" tvg-id="FOX Sports 3 HD", FOX Sports 3 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t5ERoxX.png?v=1.0.0.1" group-title="Sports" tvg-id="FOX Sports 3 HD" tvg-name="FOX Sports 3 HD", FOX Sports 3 HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_dash_vmx/FoxSports3.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cokkw7Z.png?v=1.0.0.1" group-title="Sports" tvg-id="Golf", Golf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cokkw7Z.png?v=1.0.0.1" group-title="Sports" tvg-id="Golf" tvg-name="Golf", Golf
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xqpH3DH.png?v=1.0.0.1" group-title="Sports", Abu Dhabi Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
