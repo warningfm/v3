@@ -468,43 +468,43 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(62c29969-78fa-4
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/images/RdOrRX2.png?v=1.0.0.1" group-title="Religious" tvg-id="AlQuran Kareem" tvg-name="AlQuran Kareem", AlQuran Kareem
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/RdOrRX2.png?v=1.0.0.1" group-title="Religious" tvg-id="AlQuran Kareem" tvg-name="AlQuran Kareem", AlQuran Kareem
 https://liveanevia.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/images/vJPneCu.png?v=1.0.0.1" group-title="Religious" tvg-id="TV9 Nu" tvg-name="TV9 Nu", TV9 Nusantara
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/vJPneCu.png?v=1.0.0.1" group-title="Religious" tvg-id="TV9 Nu" tvg-name="TV9 Nu", TV9 Nusantara
 https://liveanevia.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/images/sRHJJ5c.png?v=1.0.0.1" group-title="Religious" tvg-id="Tawaf TV" tvg-name="Tawaf TV", Tawaf TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/img/images/sRHJJ5c.png?v=1.0.0.1" group-title="Religious" tvg-id="Tawaf TV" tvg-name="Tawaf TV", Tawaf TV
 https://liveanevia.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/images/evrRgFH.png?v=1.0.0.1" group-title="Religious" tvg-id="Muhammadiyah TV" tvg-name="Muhammadiyah TV", tvMu
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/evrRgFH.png?v=1.0.0.1" group-title="Religious" tvg-id="Muhammadiyah TV" tvg-name="Muhammadiyah TV", tvMu
 https://liveanevia.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/images/tl7ePSI.png?v=1.0.0.1" group-title="Religious" tvg-id="Ajwa TV", Ajwa TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/tl7ePSI.png?v=1.0.0.1" group-title="Religious" tvg-id="Ajwa TV", Ajwa TV
 https://gpc.my.id/vidio/ajwa-tv.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/images/YHsUiwa.png?v=1.0.0.1" group-title="Religious" tvg-id="MQTV", MQTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/YHsUiwa.png?v=1.0.0.1" group-title="Religious" tvg-id="MQTV", MQTV
 https://v3.siar.us/syiarmedia/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/images/wQiH6tm.png?v=1.0.0.1" group-title="Religious" tvg-id="AL-BAHJAH TV", AL-BAHJAH TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/wQiH6tm.png?v=1.0.0.1" group-title="Religious" tvg-id="AL-BAHJAH TV", AL-BAHJAH TV
 https://e1.siar.us/albahjahtv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/images/6FcTok4.png?v=1.0.0.1" group-title="Religious" tvg-id="Sunna TV", Sunna TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/6FcTok4.png?v=1.0.0.1" group-title="Religious" tvg-id="Sunna TV", Sunna TV
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/images/nclyzsj.png?v=1.0.0.1" group-title="Religious", Iqraa-Tv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/nclyzsj.png?v=1.0.0.1" group-title="Religious", Iqraa-Tv
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/images/vUHoMzT.png?v=1.0.0.1" group-title="Religious", Makkah Live 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/vUHoMzT.png?v=1.0.0.1" group-title="Religious", Makkah Live 
 http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/images/CwsvvSn.png?v=1.0.0.1" group-title="Religious", British Muslim
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/CwsvvSn.png?v=1.0.0.1" group-title="Religious", British Muslim
 http://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hsslive-25f-16x9-MB/playlist.m3u8
 
 ########################################################     Music     ########################################################
