@@ -38,39 +38,39 @@ https://v6.siar.us/nusantaratv/live/playlist.m3u8
 
 ########################################################     Local     ########################################################
 
-#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/Tj2eF2o.png?v=1.0.0.1", Bali TV
+#EXTINF:-1 group-title=" Local " tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/Tj2eF2o.png?v=1.0.0.1", Bali TV
 https://liveanevia.mncnow.id/live/eds/BaliTV_Timeshift/sa_dash_timeshift/BaliTV_Timeshift.mpd
-#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/4P5UM89.png?v=1.0.0.1", JTV
+#EXTINF:-1 group-title=" Local " tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/4P5UM89.png?v=1.0.0.1", JTV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/manifest.mpd
-#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/yvU25Cp.png?v=1.0.0.1", JakTV
+#EXTINF:-1 group-title=" Local " tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/yvU25Cp.png?v=1.0.0.1", JakTV
 http://rr3.dens.tv/s/s46/index.m3u8
-#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/KawOb6q.png?v=1.0.0.1", DAAI TV
+#EXTINF:-1 group-title=" Local " tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/KawOb6q.png?v=1.0.0.1", DAAI TV
 http://rr2.dens.tv/s/s13/01.m3u8
-#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/60lNdUo.png?v=1.0.0.1", MyTV
+#EXTINF:-1 group-title=" Local " tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/60lNdUo.png?v=1.0.0.1", MyTV
 http://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/6711-mytv
-#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/DATJMK7.png?v=1.0.0.1", Jawapos TV
+#EXTINF:-1 group-title=" Local " tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/DATJMK7.png?v=1.0.0.1", Jawapos TV
 http://122.248.43.138:1935/ch6/myStream/chunklist_w1075328336.m3u8
-#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/EYJ0ED2.png?v=1.0.0.1", Jakarta Globe News Channel
+#EXTINF:-1 group-title=" Local " tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/EYJ0ED2.png?v=1.0.0.1", Jakarta Globe News Channel
 https://b1english.beritasatumedia.com/Beritasatu/B1English_960x540.m3u8
-#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/gJ4FdYG.png?v=2.0.0.13",Bandung TV
+#EXTINF:-1 group-title=" Local " tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/iXtcLdL.png?v=1.0.0.1", Bandung TV
 http://202.150.153.254/bandungtv720p.m3u8
-#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/pwxmNpN.png?v=1.0.0.1", Elshinta TV
+#EXTINF:-1 group-title=" Local " tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/pwxmNpN.png?v=1.0.0.1", Elshinta TV
 http://rrelshinta.dens.tv/s/s10/index2.m3u8
+#EXTINF:-1 group-title=" Local " tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/tIFiAdl.png?v=1.0.0.1", Digdaya TV
+https://ms.digdaya.tv/live/digdayatv/chunklist_w1940629469.m3u8
+#EXTINF:-1 group-title=" Local " tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/YTiEeu7.png?v=1.0.0.1", ADi TV
+https://v2.siar.us/aditv/livestream/playlist.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/ehDWytF.png?v=1.0.0.1", TVKU
 http://103.30.1.14:8080/hls/live.m3u8
-#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/tIFiAdl.png?v=1.0.0.1", Digdaya TV
-https://ms.digdaya.tv/live/digdayatv/chunklist_w1940629469.m3u8
-#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/YTiEeu7.png?v=1.0.0.1", ADi TV
-https://v2.siar.us/aditv/livestream/playlist.m3u8
-#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/45ukWAy.png?v=1.0.0.1", duta TV
+#EXTINF:-1 group-title=" Local " tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/45ukWAy.png?v=1.0.0.1", duta TV
 https://v2.siar.us/dutatv/live/playlist.m3u8
-#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/zaZKVrQ.png?v=1.0.0.1", JekTv Jambi
+#EXTINF:-1 group-title=" Local " tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/zaZKVrQ.png?v=1.0.0.1", JekTv Jambi
 http://122.248.43.138:1935/ch14/myStream/live.m3u8
-#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/sFAzDq9.png?v=1.0.0.1", btv Balikpapan
+#EXTINF:-1 group-title=" Local " tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/sFAzDq9.png?v=1.0.0.1", btv Balikpapan
 http://122.248.43.138:1935/ch10/myStream/playlist.m3u8
-#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/mnFjEw1.png?v=1.0.0.1", Padang TV
+#EXTINF:-1 group-title=" Local " tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/mnFjEw1.png?v=1.0.0.1", Padang TV
 http://122.248.43.138:1935/ch16/myStream/playlist.m3u8
-#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/tlH0Quf.png?v=1.0.0.1", SAKTI TV
+#EXTINF:-1 group-title=" Local " tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/tlH0Quf.png?v=1.0.0.1", SAKTI TV
 https://v2.siar.us/saktitv/livestream/playlist.m3u8
 
 ######################################################## Entertainment ########################################################
