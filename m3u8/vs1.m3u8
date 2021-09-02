@@ -9,8 +9,7 @@ https://liveanevia.mncnow.id/live/eds/RCTI-HD-Euro/sa_dash_vmx/RCTI-HD-Euro.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/kHUcKkK.png?v=1.1.1.1" group-title="Nasional" tvg-id="SCTV" tvg-name="SCTV", SCTV
-#https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
-https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/204-ochannel
+https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
@@ -94,8 +93,7 @@ https://v6.siar.us/nusantaratv/live/playlist.m3u8
 https://dl.dropbox.com/s/d88xdn0043n1ft7/94fbb6407ca6a41.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/od0w7R2.png?v=1.1.1.1" group-title="Nasional", O Channel HD
-#http://dituduhmaling.xyz/V11710/Ochannel.m3u8
-https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/206-ochannel
+http://dituduhmaling.xyz/V11710/Ochannel.m3u8
 
 ########################################################     Local     ########################################################
 
