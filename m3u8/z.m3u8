@@ -229,15 +229,15 @@ https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mhGTRFn.png?v=8.8.4.4" group-title="Music", Desi Channel
 https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4L7BYKM.png?v=8.8.4.4" group-title="Hindi", & Pictures HD
-https://y5w8j4a9.ssl.hwcdn.net/andpicssd/index.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/andpicssd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2UQNzYB.png?v=8.8.4.4" group-title="Hindi", Zing
-https://y5w8j4a9.ssl.hwcdn.net/zing/index.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/zing/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gSsIODC.png?v=8.8.4.4" group-title="Hindi", Zee Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zeecinemame/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ceBQDFq.png?v=8.8.4.4" group-title="Hindi", Zee
 https://f8e7y4c6.ssl.hwcdn.net/ztvme/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Akf09tQ.png?v=8.8.4.4" group-title="Hindi", Zee Bollywood
-https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/classic/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yvfUpGV.png?v=8.8.4.4" group-title="Hindi", Zee Bioskop
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
@@ -275,7 +275,7 @@ https://liveanevia.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
 https://liveanevia.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-klZZ0QLUvto/YRN042dytQI/AAAAAAAABNM/kXEMDj7OD0ckkMH1prjNb6XGPTyUJ7H0ACLcBGAsYHQ/s0/6fEGqfK.png?v=1.0.0.1" group-title="News" tvg-id="Channel NewsAsia", Channel NewsAsia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BwijqtC.png?v=1.0.0.1" group-title="News" tvg-id="NHK World Japan", NHK World Japan
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/BwijqtC.png?v=1.0.0.1" group-title="News" tvg-id="NHK World Japan", NHK World Japan
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index.m3u8
 
 ########################################################   Knowledge   ########################################################
@@ -483,5 +483,5 @@ https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7cLsY1Q.png?v=1.0.0.1" group-title="VISION+", OKTV
 https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/s2V9OMG.png?v=1.0.0.1" group-title="USEETV" tvg-id="Dunia Lain", Dunia Lain
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/s2V9OMG.png?v=1.0.0.1" group-title="USEETV" tvg-id="Dunia Lain", Dunia Lain
 https://topwin-tv.my.id/2/master.m3u8?id=dunialain&bandwidth=default&sync=0
