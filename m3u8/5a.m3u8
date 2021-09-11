@@ -315,7 +315,7 @@ http://gpc.my.id/vidio/citra-bioskop.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OeBBgcc.png?v=1.0.0.1" group-title="Movies", Citra Drama
 http://gpc.my.id/vidio/citra-drama.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ohz1FFf.png?v=1.0.0.1" group-title="Movies", Bioskop Indonesia
-http://mkctvbro.my.id/horas/pakailah.m3u8?id=bioskopindonesia&bandwidth=default&sync=0
+http://dituduhmaling.xyz/US33T4/MPD//master.m3u8?id=bioskopindonesia&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zEnolCx.png?v=1.1.1.1" group-title="Movies", Sinema Indonesia
 http://rr.dens.tv/h/h155/index2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M10gw6I.png?v=1.0.0.1" group-title="Movies", BOO HD
@@ -325,7 +325,7 @@ http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZEHEXrZ.png?v=1.0.0.1" group-title="Movies", Celestial Movies
 http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gL9y8n3.png?v=1.0.0.1" group-title="Movies", AXN
-http://mkctvbro.my.id/horas/pakailah.m3u8?id=axn&bandwidth=default&sync=0
+http://dituduhmaling.xyz/US33T4/MPD//master.m3u8?id=axn&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UAaZ3G1.png?v=1.0.0.1" group-title="Movies", KIX
 http://rr1.dens.tv/h/h07/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IQyfQCv.png?v=1.0.0.1" group-title="Movies", HITS
