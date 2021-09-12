@@ -397,7 +397,7 @@ https://topwin-tv.my.id/2/master.m3u8?id=bein1&bandwidth=default&sync=0
 https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5QgXGkf.png?v=1.0.0.1" group-title="Sports" tvg-id="Champion TV 1" tvg-name="Champion TV 1", Champions TV 1
-https://gpc.my.id/vidio/champion-tv-1.m3u8
+http://dituduhmaling.xyz/V11710/championstv1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T8PWdwA.png?v=1.0.0.1" group-title="Sports" tvg-id="Champion TV 2" tvg-name="Champion TV 2", Champions TV 2
 https://gpc.my.id/vidio/champion-tv-2.m3u8
@@ -471,7 +471,7 @@ https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_dash_vmx/NatGeoPeople.mpd
 https://liveanevia.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/BzbgaxF.png?v=1.0.0.1" group-title="Knowledge", Love Nature HD
-https://gpc.my.id/vidio/love-nature.m3u8
+http://dituduhmaling.xyz/V11710/LoveNature4k.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/5znakl6.png?v=1.0.0.1" group-title="Knowledge", Smithsonian Channel
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
