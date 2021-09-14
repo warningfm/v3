@@ -439,7 +439,7 @@ https://liveanevia.mncnow.id/live/eds/NickJr/sa_dash_vmx/NickJr.mpd
 http://rr.dens.tv/h/h98/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0wIsW7w.png?v=1.0.0.1" group-title="USEETV" tvg-id="Citra Dangdut", Citra Dangdut
-https://topwin-tv.my.id/2/master.m3u8?id=citradangdut&bandwidth=default&sync=0
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=citradangdut&bandwidth=default&sync=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
