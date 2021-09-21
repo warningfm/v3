@@ -748,19 +748,8 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
 ########################################################     USEETV    ########################################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fH8rFb8.png?v=1.1.1.1" group-title="USEETV" tvg-id="SCTV", SCTV
-http://gpc.my.id/usee/sctv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jRoKnmd.png?v=1.1.1.1" group-title="USEETV" tvg-id="Indosiar", Indosiar
-http://gpc.my.id/usee/indosiar.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i8l6OHc.png?v=1.1.1.1" group-title="USEETV" tvg-id="Trans7", Trans 7
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=3416a75f4cea9109507cacd8e2f2aefc268ef7e5a44f541a7cbde7626ef57566
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n8qUiYO.png?v=1.1.1.1" group-title="USEETV" tvg-id="TransTV", Trans TV
-https://gpc.my.id/usee/transtv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/un1priK.png?v=1.1.1.1" group-title="USEETV" tvg-id="Metro TV", Metro TV
-http://gpc.my.id/usee/metrotv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VgewMth.png?v=1.1.1.1" group-title="USEETV" tvg-id="NET.", NET.
-http://dituduhmaling.xyz/US33T4/net.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rigBQNm.png?v=1.0.0.1" group-title="bozztv.com" tvg-id="Court TV Mystery", Court TV Mystery
 https://bozztv.com/teleyupp/teleup-mystery/playlist.m3u8
@@ -773,24 +762,6 @@ https://bozztv.com/teleyupp/teleup-discovery/playlist.m3u8
 https://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a46a41c2a2a7270517f5ce8dd2f48fc68d 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9Xq5fsL.png?v=1.0.0.1" group-title="Vidio.com", Indosiar 
 https://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d696a41c2a2a7270517f5ce8dd2f48fc68d 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K6ZiA7Y.png?v=1.0.0.1" group-title="Vidio.com", RCTI 
-http://dituduhmaling.xyz/V11710/RCTI.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jn3e8yh.png?v=1.0.0.1" group-title="Vidio.com", MNC TV 
-https://gpc.my.id/vidio/mnc.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/suErbWw.png?v=1.0.0.1" group-title="Vidio.com", GTV 
-https://gpc.my.id/vidio/gtv.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1C4mgJI.png?v=1.0.0.1" group-title="Vidio.com", Trans 7 
-http://dituduhmaling.xyz/V11710/Trans7.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9Bfigae.png?v=1.0.0.1" group-title="Vidio.com", Trans TV 
-https://gpc.my.id/vidio/trans-tv.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gfabthn.png?v=1.0.0.1" group-title="Vidio.com", NET. 
-https://gpc.my.id/vidio/net-tv.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SPN3fd3.png?v=1.0.0.1" group-title="Vidio.com", Metro TV 
-https://gpc.my.id/vidio/metro-tv.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cR133NK.png?v=1.0.0.1" group-title="Vidio.com", Kompas TV 
-https://gpc.my.id/vidio/kompas-tv.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6rGkPNy.png?v=1.0.0.1" group-title="Vidio.com", rtv 
-https://gpc.my.id/vidio/rtv.m3u8
 
 ########################################################      Vod     ########################################################
 
