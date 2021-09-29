@@ -150,7 +150,7 @@ https://edge.nim.mivo.tv/video/assets/oops.m3u8
 https://v6.siar.us/nusantaratv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-T4h9tq-CBc4/YMOM_KdQoEI/AAAAAAAABF0/RsmXftU94LMXunyA_hcL6kXlZ7L307NbQCLcBGAsYHQ/s0/60lNdUo.png?v=1.0.0.1" group-title="tvN150N" tvg-id="MyTV", MyTV
-http://rr2.dens.tv/s/s46/index.m3u8
+http://rr3.dens.tv/s/s88/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-GdXrGIao-l8/YMOPNggqZBI/AAAAAAAABGY/ZV2nmfwIxA87abMgcIrZK_hdh1BVyEfKgCLcBGAsYHQ/s0/DATJMK7.png?v=1.1.1.1" group-title="tvN150N", JawaposTV
 http://122.248.43.138:1935/ch6/myStream/Playlist.m3u8
