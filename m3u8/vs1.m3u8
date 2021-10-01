@@ -513,8 +513,6 @@ http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8
 
 ########################################################     Movies    ########################################################
 
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/pZrvlvD.png?v=1.0.0.1" group-title="Movies", IMC
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=imc&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/M10gw6I.png?v=1.0.0.1" group-title="Movies", BOO HD
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Jy0qhiH.png?v=1.0.0.1" group-title="Movies", Celestial Classic Movies
@@ -561,6 +559,10 @@ http://203.154.177.124:8899/live/ch7/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/gqQZ16k.png?v=1.0.0.1" group-title="Movies", &Prive HD
 https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/pZrvlvD.png?v=1.0.0.1" group-title="Movies", IMC
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=imc&bandwidth=default&sync=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zEnolCx.png?v=1.1.1.1" group-title="Movies", Sinema Indonesia
+http://rr.dens.tv/h/h155/index2.m3u8
 
 ########################################################    HBO GO     ########################################################
 
@@ -601,7 +603,7 @@ http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZAMtj0S.png?v=1.1.1.1" group-title="Malaysia" tvg-id="TV1 HD" tvg-name="TV1 HD", TV1
 http://50.7.161.82:8278/streams/d/tv1_pye/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s1mRWex.png?v=1.1.1.1" group-title="Malaysia" tvg-id="TV2" tvg-name="TV2", TV2
-http://50.7.161.82:8278/streams/d/tv2_pye/playlist.m3u8
+http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oW0riHe.jpg?v=1.1.1.1" group-title="Malaysia" tvg-id="TV3" tvg-name="TV3", TV3
 http://50.7.161.82:8278/streams/d/tv3_pye/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2SwIYxt.png?v=1.1.1.1" group-title="Malaysia" tvg-id="NTV7" tvg-name="NTV7", NTV7
