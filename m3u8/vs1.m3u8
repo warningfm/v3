@@ -233,12 +233,6 @@ https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/HvLnTBL.png?v=1.0.0.1" group-title="Kids" tvg-id="Disney Junior" tvg-name="Disney Junior", Disney Junior
 https://liveanevia.mncnow.id/live/eds/DisneyJunior-HD/sa_dash_vmx/DisneyJunior-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/IVz8uE4.png?v=1.0.0.1" group-title="Kids" tvg-id="Disney Channel HD", Disney XD
-http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/SNzeDbZ.png?v=1.0.0.1" group-title="Kids" tvg-id="Horee" tvg-name="Horee", Horee
-https://gpc.my.id/vidio/horee.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/asDF7GJ.png?v=1.0.0.1" group-title="Kids" tvg-id="Nick Junior" tvg-name="Nick Junior", Nick Junior
