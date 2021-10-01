@@ -441,7 +441,7 @@ https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 https://liveanevia.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/WVpnAKn.png?v=1.0.0.1" group-title="Knowledge" tvg-id="Discovery Asia HD", Discovery Asia HD
-http://iptv.tvmalaysia.cc/live/989898/989898/8856.m3u8
+https://edge.nim.mivo.tv/video/assets/oops.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
@@ -579,12 +579,8 @@ https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/dfLNSn3.png?v=1.0.0.1" group-title="Movies", FX
-https://bozztv.com/teleyupp/teleup-fxhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/hT2TzOR.png?v=1.0.0.1" group-title="Movies", My Cinema
 http://rr.dens.tv/h/h90/index2.m3u8
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/ha92efv.png?v=1.0.0.1" group-title="Movies", SYFY
-https://bozztv.com/teleyupp/teleup-syfy/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rCLnw5V.png?v=1.0.0.1" group-title="Movies", Action Hollywood Movies
 http://203.154.177.124:8899/live/ch7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/cymjoiG.png?v=1.0.0.1" group-title="Movies", &Flix HD
@@ -642,8 +638,6 @@ http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1tW4dph.png?v=1.1.1.1" group-title="Malaysia", Drama Sangat
 http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v6BzM95.png?v=1.1.1.1" group-title="Malaysia" tvg-id="Pertiwi", Pertiwi TV
-https://mn-nl.mncdn.com/pertiwitv/pertiwitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PcPDrl9.png?v=1.1.1.1" group-title="Malaysia" tvg-id="IKIM", IKIM
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZojuN7v.png?v=1.1.1.1" group-title="Malaysia" tvg-id="Al-Hijrah" tvg-name="Al-Hijrah", TV AlHijrah
