@@ -67,7 +67,7 @@ http://103.30.1.14:8080/hls/live.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/45ukWAy.png?v=1.0.0.1", duta TV
 https://v2.siar.us/dutatv/live/playlist.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/zaZKVrQ.png?v=1.0.0.1", JekTv Jambi
-http://128.199.90.131:1935/jektv/myStream/chunklist_w1537151883.m3u8
+http://128.199.90.131:1935/jektv/myStream/playlist.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/sFAzDq9.png?v=1.0.0.1", btv Balikpapan
 http://122.248.43.138:1935/ch10/myStream/playlist.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/mnFjEw1.png?v=1.0.0.1", Padang TV
