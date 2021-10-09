@@ -755,5 +755,5 @@ https://outside-tv.samsung.wurl.com/manifest/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://www.infotelevisi.com/asset/logotv/569265d5f1764-fmn.jpg" group-title="FILM",FMN
+#EXTINF:-1 tvg-logo="https://static.visionplus.id/images/channel/c460fb3c-e8c.png" group-title="Drama",FMN
 https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
