@@ -455,7 +455,7 @@ https://cdn4.mbahnunungonline.net/m3u8/id/2f760b7cf8286be.m3u8
 http://202.80.222.130/000001/2/ch14041511560872104862/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qepGQMN.png?v=1.1.1.1" group-title="Horor", Dunia Lain
-http://topwin-tv.my.id/2/master.m3u8?id=dunialain
+http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=dunialain
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2cS8N7R.png?v=1.0.0.1" group-title="USEETV", MTV Live
 http://dituduhmaling.xyz/US33T4/mtvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aJhpmgf.png?v=1.1.1.1" group-title="USEETV", Kompas TV
