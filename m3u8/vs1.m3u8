@@ -577,7 +577,7 @@ http://rr.dens.tv/h/h155/index2.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title=" HBO GO " tvg-logo="https://i.imgur.com/aMtD0A0.png?v=1.1.1.1", HBO HD
+#EXTINF:-1 group-title=" HBO GO " tvg-logo="https://warningfm.github.io/v3/img/aMtD0A0.png?v=1.0.0.1", HBO HD
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -588,7 +588,7 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title=" HBO GO " tvg-logo="https://i.imgur.com/EqcNQOc.png?v=1.1.1.1", HBO Signature HD
+#EXTINF:-1 group-title=" HBO GO " tvg-logo="https://warningfm.github.io/v3/img/EqcNQOc.png?v=1.0.0.1", HBO Signature HD
 https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
