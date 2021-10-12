@@ -83,7 +83,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(7a73ed02-e0de-4d
 http://rr2.dens.tv/s/s13/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Y6txhEMQM8g/YRJCHGyUfvI/AAAAAAAABK0/GjpDib4q7X0Yk-V5Tdo871eCzvA6CLpugCLcBGAsYHQ/s0/QO5Fi9H.png?v=1.1.1.1" group-title="tvN150N" tvg-id="Magna Channel", Magna Channel
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/manifest.mpd
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-x1YQJUx8XAM/YRNgW4ei9KI/AAAAAAAABLU/0dJw5-D22dQ1P7EmEvCz5gz8rEIa9f16ACLcBGAsYHQ/s0/tl7ePSI.png?v=1.0.0.1" group-title="tvN150N" tvg-id="Ajwa TV", Ajwa TV
 https://edge.nim.mivo.tv/video/assets/oops.m3u8
