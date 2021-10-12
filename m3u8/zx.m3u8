@@ -211,109 +211,60 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index.m3u8
 
 ###################################################### Knowledge ######################################################
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-wbwvPlLdN-c/YWH1ob9um3I/AAAAAAAABWE/iEh4Ej97duoc9Np68Xb_FqdMsaMvAYNYQCLcBGAsYHQ/s0/KHKIztL.png?v=1.0.0.1" group-title="Knowledge" tvg-id="Animal Planet HD", Animal Planet HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KHKIztL.png?v=4.2.2.2" group-title="Knowledge", Animal Planet
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-0oHR-Bl5dFU/YWH1SNdBJ3I/AAAAAAAABV8/SCxC9FTE_bEOUKDTk5hQl_VfivbRfKwsACLcBGAsYHQ/s0/jD4e8Ez.png?v=1.0.0.1" group-title="Knowledge" tvg-id="BBC Earth", BBC Earth
-https://liveanevia.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-AKowoQKKiTM/YWJypU5rakI/AAAAAAAABXM/ZmzB8pXJffUx2vtHi7SapEyR32rMXcfRgCLcBGAsYHQ/s0/WVpnAKn.png?v=1.0.0.1" group-title="Knowledge" tvg-id="Discovery Asia HD", Discovery Asia HD
-https://edge.nim.mivo.tv/video/assets/oops.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-7dsEGFhwt6I/YWH9gNcTchI/AAAAAAAABWc/sRwbmPxNi04QUJ9FuOTTiAczteZnvHwawCLcBGAsYHQ/s0/AWvwPm5.png?v=1.0.0.1" group-title="Knowledge" tvg-id="Discovery Channel HD", Discovery Channel HD
-http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=disco
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zNz1YRBHplQ/YWH2FV19fXI/AAAAAAAABWM/jGYUixiH904Gw2b7CtFe5BaFJj3Ty7emQCLcBGAsYHQ/s0/x0XijCu.png?v=1.0.0.1" group-title="Knowledge" tvg-id="National Geographic HD", National Geographic HD
-http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=natgeo
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-1WCsvGo5050/YWH3RWpof4I/AAAAAAAABWU/GBdslPTFRVQVTNsOXnMNhKyJK7e7jfa1QCLcBGAsYHQ/s0/P9yiTz6.png?v=1.0.0.1" group-title="Knowledge" tvg-id="Nat Geo Wild HD", Nat Geo Wild HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P9yiTz6.png?v=4.2.2.2" group-title="Knowledge" tvg-id="Nat Geo Wild", Nat Geo Wild HD
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-DN7GkDGI1dY/YWH-y_Viu1I/AAAAAAAABWk/ajzty9lB0pE_K_V8ONFLuPJ0tFbtQIGRwCLcBGAsYHQ/s0/ALE0biZ.png?v=1.0.0.1" group-title="Knowledge" tvg-id="History HD", History HD
-https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-jCDYDprHvMA/YWH_NFhFhmI/AAAAAAAABWs/TYCX_agffQcO4gfvmd-xKQ9e2a1CwhDZACLcBGAsYHQ/s0/9Z7DUFb.png?v=1.0.0.1" group-title="Knowledge" tvg-id="Crime and Investigation HD", Crime and Investigation HD
-https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LN7RHkL2GYA/YWH_lgxEa9I/AAAAAAAABW0/oFBIVXMNnY4pQ1aZ2hcjBFnRJafYvWoQwCLcBGAsYHQ/s0/eohcpWr.png?v=1.0.0.1" group-title="Knowledge", CGTN Documentary
-https://liveanevia.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-34gMjc3e2WQ/YRUcBOXXWOI/AAAAAAAABS4/pssrlTWkcuAjShJDi4Z6GxtmUMOn25dWwCLcBGAsYHQ/s0/BzbgaxF.png?v=1.0.0.1" group-title="Knowledge", Love Nature HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x0XijCu.png?v=4.2.2.2" group-title="Knowledge" tvg-id="National Geographic HD", National Geographic HD
+http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=natgeo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AWvwPm5.png?v=4.2.2.2" group-title="Knowledge", Discovery Channel HD
+http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=disco
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WVpnAKn.png?v=4.2.2.2" group-title="Knowledge", Discovery Asia HD
+https://edge.nim.mivo.tv/video/assets/oops.m3u8
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://i.imgur.com/fgO3tyz.png?v=1.0.0.1", Discovery Science HD
+https://itvoign.multitvsolution.com/idvo/discoverscienceeng.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eohcpWr.png?v=4.2.2.2" group-title="Knowledge", CGTN
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BzbgaxF.png?v=4.2.2.2" group-title="Knowledge", Love Nature HD
 https://bamus-eng-roku.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-7krwPaP-Yrg/YRUcA2uzEWI/AAAAAAAABS0/EMHIJUtHVKcoTpTtl9Kco64dC57uArURQCLcBGAsYHQ/s0/5znakl6.png?v=1.0.0.1" group-title="Knowledge", Smithsonian Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5znakl6.png?v=4.2.2.2" group-title="Knowledge", Smithsonian Channel
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-CDtsL9YRDeY/YWJzbTNhdNI/AAAAAAAABXU/1ykpOLy-0Csd47NNPtRD3CEN7z12sgMnACLcBGAsYHQ/s0/AiXXYZK.png?v=1.0.0.1" group-title="Knowledge", National Geographic Abu Dhabi
-http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vwq6lFW.png?v=4.2.2.2" group-title="Knowledge", TV Edukasi
+http://202.169.224.76:1935/live/tve.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AiXXYZK.png?v=4.2.2.2" group-title="Knowledge", National Geographic Abu Dhabi
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 
 ###################################################### Movies ######################################################
 
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/pZrvlvD.png?v=1.0.0.1" group-title="Movies", IMC
-http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=imc&bandwidth=default&sync=0
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Jy0qhiH.png?v=1.0.0.1" group-title="Movies", Celestial Classic Movies
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pZrvlvD.png?v=1.0.0.1" group-title="Movies", IMC
+http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=imc
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ohz1FFf.png?v=1.0.0.1" group-title="Movies", Bioskop Indonesia
+http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=bioskopindonesia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zEnolCx.png?v=1.1.1.1" group-title="Movies", Sinema Indonesia
+http://rr.dens.tv/h/h155/index2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M10gw6I.png?v=1.0.0.1" group-title="Movies", BOO HD
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jy0qhiH.png?v=1.0.0.1" group-title="Movies", Celestial Classic Movies
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/ZEHEXrZ.png?v=1.0.0.1" group-title="Movies", Celestial Movies
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZEHEXrZ.png?v=1.0.0.1" group-title="Movies", Celestial Movies
 http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/gL9y8n3.png?v=1.0.0.1" group-title="Movies", AXN
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gL9y8n3.png?v=1.0.0.1" group-title="Movies", AXN
 http://rr1.dens.tv/h/h141/01.m3u8
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/UAaZ3G1.png?v=1.0.0.1" group-title="Movies", KIX
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UAaZ3G1.png?v=1.0.0.1" group-title="Movies", KIX
 http://rr1.dens.tv/h/h07/index.m3u8
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/IQyfQCv.png?v=1.0.0.1" group-title="Movies", HITS
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IQyfQCv.png?v=1.0.0.1" group-title="Movies", HITS
 http://rr1.dens.tv/h/h37/index.m3u8
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/aMtD0A0.png?v=1.0.0.1" group-title="Movies", HBO HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/EqcNQOc.png?v=1.0.0.1" group-title="Movies", HBO Signature HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/LBTEumd.png?v=1.0.0.1" group-title="Movies", Cinema World
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/4gNhVWH.png?v=1.0.0.1" group-title="Movies", WarnerTV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=warner
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Mqtob2n.png?v=1.0.0.1" group-title="Movies", Thrill
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mqtob2n.png?v=1.0.0.1" group-title="Horor", Thrill
 http://rr2.dens.tv/s/s34/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LBTEumd.png?v=1.0.0.1" group-title="Movies", Cinema World
+http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=cinemaworld
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4gNhVWH.png?v=1.0.0.1" group-title="Movies", WarnerTV
+http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=warner
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/N0TKqJd.png?v=1.0.0.1" group-title="Movies" tvg-id="TVN Movies", TVN Movies
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/cymjoiG.png?v=1.0.0.1" group-title="Movies", & Flix HD
+http://210.210.155.35/dr9445/h/h21/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cymjoiG.png?v=1.0.0.1" group-title="Movies", & Flix HD
 https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/gqQZ16k.png?v=1.0.0.1" group-title="Movies", & Prive HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gqQZ16k.png?v=1.0.0.1" group-title="Movies", & Prive HD
 https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
 
 ###################################################### RADIO ######################################################
