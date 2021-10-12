@@ -180,9 +180,7 @@ https://f8e7y4c6.ssl.hwcdn.net/ztvme/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Akf09tQ.png?v=8.8.4.4" group-title="Hindi", Zee Bollywood
 https://f8e7y4c6.ssl.hwcdn.net/classic/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yvfUpGV.png?v=8.8.4.4" group-title="Hindi", Zee Bioskop
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
+http://rr2.dens.tv/s/s32/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xKDJCXJ.jpg?v=8.8.4.4" group-title="Hindi", Zee Action 
 https://f8e7y4c6.ssl.hwcdn.net/action/playlist.m3u8 
 
@@ -193,19 +191,13 @@ https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-gqYOiM46HGs/YRN4vOtTbgI/AAAAAAAABNs/KRWz7pHYffoNcf5cisu9SFDC7KZA03S9gCLcBGAsYHQ/s0/S3Gn16p.png?v=1.0.0.1" group-title="News" tvg-id="Al arabiya", Al arabiya
 http://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-OdaeYiXG2F4/YRN0nU-cLDI/AAAAAAAABNE/6pzOvYi4HLIHnu_MJ36HXppYKGoSLotJQCLcBGAsYHQ/s0/RytQgdW.png?v=1.0.0.1" group-title="News" tvg-id="IDX", IDX
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-https://liveanevia.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
+https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-4XsHB0yEMVs/YWHz0ONTIpI/AAAAAAAABVs/BYMxcuEU74kgfkk0pzQYj4v3RLfGbu7lQCLcBGAsYHQ/s0/NTIQcW0.png?v=1.0.0.1" group-title="News" tvg-id="Metro TV", Metro TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-https://liveanevia.mncnow.id/live/eds/MetroTV/sa_dash_vmx/MetroTV.mpd
+https://akamai.mncnow.id/live/eds/MetroTV-RTX/sa_dash/MetroTV-RTX.mpd
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_ythCVY9kX0/YRN0CKcj39I/AAAAAAAABM8/Yxh3uwIDNmAo17zRfrGJOlk_tCcXqSeVwCLcBGAsYHQ/s0/uJTTmk8.png?v=1.0.0.1" group-title="News" tvg-id="CNBC Indonesia", CNBC Indonesia
 https://cdn4.mbahnunungonline.net/m3u8/ef7e8c7bc86110e.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-EYn3t084OCM/YRN-LxNBGZI/AAAAAAAABN8/yRDzxEiZ8Z00KRNmfZtA6yBooBKZyVr7ACLcBGAsYHQ/s0/Thm3LAk.png?v=1.0.0.1" group-title="News" tvg-id="MNC News", MNC News
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-https://liveanevia.mncnow.id/live/eds/MNCNews/sa_dash_vmx/MNCNews.mpd
+http://cdn-livetv-studio.metube.id/mncnews.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-jhUIJKmWGd4/YRN3_832nNI/AAAAAAAABNc/5Stj6QdK2jcs75xzpf4q9nGmCbzKNOx2gCLcBGAsYHQ/s0/GZQvCs6.png?v=1.0.0.1" group-title="News" tvg-id="DW English", DW English
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
