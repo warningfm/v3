@@ -446,46 +446,4 @@ http://202.80.222.130/000001/2/ch14041511560872104862/1000.m3u8?virtualDomain=00
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qepGQMN.png?v=1.1.1.1" group-title="Horor", Dunia Lain
 http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=dunialain
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2cS8N7R.png?v=1.0.0.1" group-title="USEETV", MTV Live
-http://dituduhmaling.xyz/US33T4/mtvlive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aJhpmgf.png?v=1.1.1.1" group-title="USEETV", Kompas TV
-http://dituduhmaling.xyz/US33T4/kompastv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fH8rFb8.png?v=2.0.0.13" group-title="USEETV" tvg-id="SCTV", SCTV
-http://dituduhmaling.xyz/US33T4/sctv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jRoKnmd.png?v=2.0.0.13" group-title="USEETV" tvg-id="Indosiar", Indosiar
-http://dituduhmaling.xyz/US33T4/indosiar.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i8l6OHc.png?v=2.0.0.13" group-title="USEETV" tvg-id="Trans7", Trans 7
-http://topwin-tv.my.id/2/master.m3u8?id=trans7
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n8qUiYO.png?v=2.0.0.13" group-title="USEETV" tvg-id="TransTV", Trans TV
-http://gpc.my.id/usee/transtv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/un1priK.png?v=2.0.0.13" group-title="USEETV" tvg-id="Metro TV", Metro TV
-http://dituduhmaling.xyz/US33T4/metrotv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VgewMth.png?v=2.0.0.13" group-title="USEETV" tvg-id="NET.", NET.
-http://dituduhmaling.xyz/US33T4/net.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vXWQN7Q.png?v=2.0.0.13" group-title="USEETV", RTV
-http://gpc.my.id/usee/rtv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/luud37p.png?v=1.1.1.1" group-title="Vidio.com", SCTV
-http://gpc.my.id/vidio/sctv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9Xq5fsL.png?v=1.1.1.1" group-title="Vidio.com", Indosiar
-http://gpc.my.id/vidio/indosiar.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K6ZiA7Y.png?v=1.1.1.1" group-title="Vidio.com", RCTI
-http://gpc.my.id/vidio/rcti.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jn3e8yh.png?v=1.1.1.1" group-title="Vidio.com", MNC TV
-http://gpc.my.id/vidio/mnc.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/suErbWw.png?v=1.1.1.1" group-title="Vidio.com", GTV
-http://gpc.my.id/vidio/gtv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1C4mgJI.png?v=1.1.1.1" group-title="Vidio.com", Trans7
-http://gpc.my.id/vidio/trans7.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9Bfigae.png?v=1.1.1.1" group-title="Vidio.com", TransTV
-http://gpc.my.id/vidio/trans-tv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gfabthn.png?v=1.1.1.1" group-title="Vidio.com", NET.
-http://gpc.my.id/vidio/net-tv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SPN3fd3.png?v=2.0.0.13" group-title="Vidio.com", Metro TV
-http://gpc.my.id/vidio/metro-tv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cR133NK.png?v=2.0.0.13" group-title="Vidio.com", Kompas TV
-http://gpc.my.id/vidio/kompas-tv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6rGkPNy.png?v=2.0.0.13" group-title="Vidio.com", RTV
-http://gpc.my.id/vidio/rtv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AEVpvBX.png?v=2.0.0.13" group-title="Vidio.com", TVRI
-http://gpc.my.id/vidio/tvri.m3u8
