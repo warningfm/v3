@@ -199,9 +199,7 @@ https://cdn4.mbahnunungonline.net/m3u8/ef7e8c7bc86110e.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-EYn3t084OCM/YRN-LxNBGZI/AAAAAAAABN8/yRDzxEiZ8Z00KRNmfZtA6yBooBKZyVr7ACLcBGAsYHQ/s0/Thm3LAk.png?v=1.0.0.1" group-title="News" tvg-id="MNC News", MNC News
 http://cdn-livetv-studio.metube.id/mncnews.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-jhUIJKmWGd4/YRN3_832nNI/AAAAAAAABNc/5Stj6QdK2jcs75xzpf4q9nGmCbzKNOx2gCLcBGAsYHQ/s0/GZQvCs6.png?v=1.0.0.1" group-title="News" tvg-id="DW English", DW English
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://liveanevia.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-dKYgK8DFrgg/YRN-00DJS3I/AAAAAAAABOE/Fqpw5k3aWPEhMQOVp1Pmrc7YrOP44v0lwCLcBGAsYHQ/s0/BydlaOh.png?v=1.0.0.1" group-title="News" tvg-id="ABC Australia", ABC Australia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
