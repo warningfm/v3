@@ -59,7 +59,7 @@ https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/XlZqfwV.png?v=1.1.1.1" group-title="Nasional" tvg-id="rtv" tvg-name="rtv", rtv
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
+https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
@@ -501,10 +501,9 @@ http://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hssl
 ########################################################     Music     ########################################################
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/images/2cS8N7R.png?v=1.0.0.1" group-title="Music", MTV Live
-#http://198.16.106.62:8278/streams/d/mtvlive_zero/playlist.m3u8
-http://dituduhmaling.xyz/US33T4/mtvlive.m3u8
+http://198.16.106.62:8278/streams/d/mtvlive_zero/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/images/FGSb1Vw.png?v=1.0.0.1" group-title="Music", Citra Dangdut
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=citradangdut
+http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=citradangdut&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/images/zg4YPTD.png?v=1.0.0.1" group-title="Music", Maleo Channel
 https://cdn4.mbahnunungonline.net/m3u8/id/e22dc65d77c8885.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/images/NN60Hzb.png?v=1.0.0.1" group-title="Music", POP Musik
