@@ -204,7 +204,7 @@ http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v8he3Lp.png?v=1.1.1.1" group-title="Malaysia" tvg-id="Al-Hijrah", Al-Hijrah
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Bn_QQVyarxk/YRNwAiE_Q0I/AAAAAAAABMk/U1aJKblR7zAUwNND3Weknot15R1OD8bWACLcBGAsYHQ/s0/v6BzM95.png?v=1.1.1.1" group-title="Malaysia" tvg-id="Pertiwi", Pertiwi TV
-https://mn-nl.mncdn.com/pertiwitv/pertiwitv/playlist.m3u8
+https://edge.nim.mivo.tv/video/assets/oops.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XYeb1CE.jpg?v=1.1.1.1" group-title="Singapore" tvg-id="Suria", Suria TV
 http://50.7.161.82:8278/streams/d/Suria/playlist.m3u8
