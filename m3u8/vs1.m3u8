@@ -257,31 +257,31 @@ http://203.154.177.124:8899/live/ch20/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GVGesVr.png?v=1.0.0.1" group-title="Korengan" tvg-id="Arirang", Arirang
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/GVGesVr.png?v=1.0.0.1" group-title="Korengan" tvg-id="Arirang", Arirang
 https://liveanevia.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6AmnAWu.png?v=1.0.0.1" group-title="Korengan" tvg-id="TVN", TVN HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/6AmnAWu.png?v=1.0.0.1" group-title="Korengan" tvg-id="TVN", TVN HD
 https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N0TKqJd.png?v=1.0.0.1" group-title="Korengan" tvg-id="TVN Movies", tvN Movies HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/N0TKqJd.png?v=1.0.0.1" group-title="Korengan" tvg-id="TVN Movies", tvN Movies HD
 https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://i.imgur.com/scJZO2S.png?v=1.0.0.1" group-title="Korengan" tvg-id="ONE HD", ONE HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/scJZO2S.png?v=1.0.0.1" group-title="Korengan" tvg-id="ONE HD", ONE HD
 https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jJTACLd.png?v=1.0.0.1" group-title="Korengan" tvg-id="KBS World", KBS World
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/jJTACLd.png?v=1.0.0.1" group-title="Korengan" tvg-id="KBS World", KBS World
 http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QVj6I9k.png?v=1.0.0.1" group-title="Korengan" tvg-id="Kplus", Kplus
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/QVj6I9k.png?v=1.0.0.1" group-title="Korengan" tvg-id="Kplus", Kplus
 http://rr.dens.tv/h/h08/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Wb4hKP0.png?v=1.0.0.1" group-title="Korengan" tvg-id="SBS", SBS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/Wb4hKP0.png?v=1.0.0.1" group-title="Korengan" tvg-id="SBS", SBS
 https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/playlist.m3u8
 
 ########################################################   Lifestyle   ########################################################
