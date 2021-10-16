@@ -12,7 +12,6 @@ https://akamai.mncnow.id/live/eds/ANTV-radeon/sa_dash/ANTV-radeon.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/eeiIEY8.png?v=1.1.1.1" group-title="Nasional" tvg-id="Indosiar" tvg-name="Indosiar", Indosiar
 https://akamai.mncnow.id/live/eds/INDOSIAR-ryzen/sa_dash/INDOSIAR-ryzen.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/NTIQcW0.png?v=1.1.1.1" group-title="Nasional" tvg-id="Metro TV" tvg-name="Metro TV", Metro TV
-#https://akamai.mncnow.id/live/eds/MetroTV-RTX/sa_dash/MetroTV-RTX.mpd
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/QTEjMpg.png?v=1.1.1.1" group-title="Nasional" tvg-id="Trans 7" tvg-name="Trans 7", Trans7
 https://akamai.mncnow.id/live/eds/TRANS7-transformer/sa_dash/TRANS7-transformer.mpd
