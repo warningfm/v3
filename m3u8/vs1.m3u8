@@ -500,23 +500,23 @@ http://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hssl
 
 ########################################################     Music     ########################################################
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/images/2cS8N7R.png?v=1.0.0.1" group-title="Music", MTV Live
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/images/2cS8N7R.png?v=1.0.0.1" group-title="Music", MTV Live
 http://198.16.106.62:8278/streams/d/mtvlive_zero/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/images/FGSb1Vw.png?v=1.0.0.1" group-title="Music", Citra Dangdut
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/images/FGSb1Vw.png?v=1.0.0.1" group-title="Music", Citra Dangdut
 http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=citradangdut&bandwidth=default&sync=0
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/images/zg4YPTD.png?v=1.0.0.1" group-title="Music", Maleo Channel
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/images/zg4YPTD.png?v=1.0.0.1" group-title="Music", Maleo Channel
 https://cdn4.mbahnunungonline.net/m3u8/id/e22dc65d77c8885.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/images/NN60Hzb.png?v=1.0.0.1" group-title="Music", POP Musik
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/images/NN60Hzb.png?v=1.0.0.1" group-title="Music", POP Musik
 https://cdn4.mbahnunungonline.net/m3u8/id/94a637fadb57201.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/images/UaHtwO2.png?v=1.0.0.1" group-title="Music", 9XM
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/images/UaHtwO2.png?v=1.0.0.1" group-title="Music", 9XM
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/images/D3WXba7.png?v=1.0.0.1" group-title="Music", B4U Music
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/images/D3WXba7.png?v=1.0.0.1" group-title="Music", B4U Music
 https://d2n59piq1dbucf.cloudfront.net/B4U_MUSIC.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/images/mhGTRFn.png?v=1.0.0.1" group-title="Music", Desi Channel
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/images/mhGTRFn.png?v=1.0.0.1" group-title="Music", Desi Channel
 https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/images/2y2bEGC.png?v=1.0.0.1" group-title="Music", MASTIII
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/images/2y2bEGC.png?v=1.0.0.1" group-title="Music", MASTIII
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/images/8OoA7sM.png?v=1.0.0.1" group-title="Music", Music India
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/images/8OoA7sM.png?v=1.0.0.1" group-title="Music", Music India
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8
 
 ########################################################     Movies    ########################################################
