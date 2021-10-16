@@ -173,10 +173,10 @@ http://rr1.dens.tv/h/h02/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/Ftk2ky0.png?v=1.0.0.1" tvg-id="SGEM", SGEM
 http://rr.dens.tv/h/h19/index.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/p1a0RwN.png?v=1.0.0.1", Blue Ant Entertainment
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/p1a0RwN.png?v=1.0.0.1" tvg-id="Blue Ant Entertainment" tvg-name="Blue Ant Entertainment", Rock Entertainment
 http://rr1.dens.tv/h/h16/index.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/tHrbNmG.png?v=1.0.0.1", Blue Ant Extreme
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/tHrbNmG.png?v=1.0.0.1" tvg-id="Blue Ant Extreme" tvg-name="Blue Ant Extreme", Rock Extreme
 http://rr1.dens.tv/h/h15/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/aKZ7opS.png?v=1.0.0.1", Da Vinci Learning
