@@ -199,8 +199,7 @@ http://rr2.dens.tv/s/s22/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6fEGqfK.png?v=1.0.0.1" group-title="News" tvg-id="News Asia", Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BwijqtC.png?v=1.0.0.1" group-title="News" tvg-id="NHK World HD", NHK World Japan
-#https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index.m3u8
-https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AG53buo.png?v=1.0.0.1" group-title="News", Bloomberg
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fNQSndi.png?v=1.0.0.1" group-title="News", Euronews
