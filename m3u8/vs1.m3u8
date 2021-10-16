@@ -154,62 +154,62 @@ http://122.248.43.138:1935/ch16/myStream/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/XTBtpcT.png?v=1.0.0.1", Animax
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/XTBtpcT.png?v=1.0.0.1", Animax
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/ALE0biZ.png?v=1.0.0.1", History HD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/ALE0biZ.png?v=1.0.0.1", History HD
 https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/9Z7DUFb.png?v=1.0.0.1", Crime Investigation
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/9Z7DUFb.png?v=1.0.0.1", Crime Investigation
 https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/6CCidoH.png?v=1.0.0.1", AniPlus
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/6CCidoH.png?v=1.0.0.1", AniPlus
 http://rr1.dens.tv/h/h02/index.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/Ftk2ky0.png?v=1.0.0.1" tvg-id="SGEM", SGEM
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/Ftk2ky0.png?v=1.0.0.1" tvg-id="SGEM", SGEM
 http://rr.dens.tv/h/h19/index.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/p1a0RwN.png?v=1.0.0.1" tvg-id="Blue Ant Entertainment" tvg-name="Blue Ant Entertainment", Rock Entertainment
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/p1a0RwN.png?v=1.0.0.1" tvg-id="Blue Ant Entertainment" tvg-name="Blue Ant Entertainment", Rock Entertainment
 http://rr1.dens.tv/h/h16/index.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/tHrbNmG.png?v=1.0.0.1" tvg-id="Blue Ant Extreme" tvg-name="Blue Ant Extreme", Rock Extreme
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/tHrbNmG.png?v=1.0.0.1" tvg-id="Blue Ant Extreme" tvg-name="Blue Ant Extreme", Rock Extreme
 http://rr1.dens.tv/h/h15/index.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/aKZ7opS.png?v=1.0.0.1", Da Vinci Learning
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/aKZ7opS.png?v=1.0.0.1", Da Vinci Learning
 https://edge.nim.mivo.tv/video/assets/oops.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/4Yk5Anu.png?v=1.0.0.1", SEA Today
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/4Yk5Anu.png?v=1.0.0.1", SEA Today
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/RfIj9lU.png?v=1.0.0.1", Ruang Trampil
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/RfIj9lU.png?v=1.0.0.1", Ruang Trampil
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/manifest.mpd
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/W1JfODW.png?v=1.0.0.1", UseePrime
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/W1JfODW.png?v=1.0.0.1", UseePrime
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/QO5Fi9H.png?v=1.0.0.1", MagnaTV
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/QO5Fi9H.png?v=1.0.0.1", MagnaTV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/manifest.mpd
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/Cj6JSFa.png?v=1.0.0.1", The Indonesia Channel
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/Cj6JSFa.png?v=1.0.0.1", The Indonesia Channel
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/manifest.mpd
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/FClxdOq.png?v=1.0.0.1", Hi Indo Channel
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/FClxdOq.png?v=1.0.0.1", Hi Indo Channel
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(0b50f52d-2491-4050-81dd-79045ddcfb34)/manifest.mpd
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/Tbur8nX.png?v=1.0.0.1", Outdoor Channel
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/Tbur8nX.png?v=1.0.0.1", Outdoor Channel
 https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/2RySrJl.png?v=1.0.0.1", CCTV4 HD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/2RySrJl.png?v=1.0.0.1", CCTV4 HD
 https://cctvkshwh5c.v.kcdnvip.com/live/cdrmcctv4_1/index.m3u8?BR=md&region=beijing
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/qo8Wt7F.png?v=1.0.0.1", ZEE CAFE
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/qo8Wt7F.png?v=1.0.0.1", ZEE CAFE
 https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/index.m3u8
 
-#EXTINF:-1 group-title="Horor" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/s2V9OMG.png?v=1.0.0.1", Dunia Lain
+#EXTINF:-1 group-title="Horor" tvg-logo="https://warningfm.github.io/v3/img/s2V9OMG.png?v=1.0.0.1", Dunia Lain
 http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=dunialain&bandwidth=default&sync=0
 
 ########################################################      Kids     ########################################################
