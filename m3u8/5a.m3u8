@@ -139,28 +139,28 @@ http://aputra.xyz/kds1010/Bisnetkids.m3u8
 
 ########################################################    Korengan   ########################################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GVGesVr.png?v=1.0.0.1" group-title="Korengan" tvg-id="Arirang", Arirang
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/GVGesVr.png?v=1.0.0.1" group-title="Korengan" tvg-id="Arirang", Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6AmnAWu.png?v=1.0.0.1" group-title="Korengan" tvg-id="tvN", tvN HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/6AmnAWu.png?v=1.0.0.1" group-title="Korengan" tvg-id="tvN", tvN HD
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N0TKqJd.png?v=1.0.0.1" group-title="Korengan" tvg-id="TVN Movies", TVN Movies
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/N0TKqJd.png?v=1.0.0.1" group-title="Korengan" tvg-id="TVN Movies", TVN Movies
 http://50.7.161.82:8278/streams/d/Tvnmovie/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jJTACLd.png?v=1.0.0.1" group-title="Korengan" tvg-id="KBS World", KBS World
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/jJTACLd.png?v=1.0.0.1" group-title="Korengan" tvg-id="KBS World", KBS World
 http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/scJZO2S.png?v=1.0.0.1" group-title="Korengan" tvg-id="ONE HD", ONE HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/scJZO2S.png?v=1.0.0.1" group-title="Korengan" tvg-id="ONE HD", ONE HD
 http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QVj6I9k.png?v=1.0.0.1" group-title="Korengan" tvg-id="Kplus", Kplus
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/QVj6I9k.png?v=1.0.0.1" group-title="Korengan" tvg-id="Kplus", Kplus
 http://rr.dens.tv/h/h08/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Wb4hKP0.png?v=1.0.0.1" group-title="Korengan" tvg-id="SBS", SBS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/Wb4hKP0.png?v=1.0.0.1" group-title="Korengan" tvg-id="SBS", SBS
 https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/playlist.m3u8
 
 ########################################################   Lifestyle   ########################################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BaA1xU1.png?v=1.0.0.1" group-title="Lifestyle" tvg-id="HGTV", HGTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/BaA1xU1.png?v=1.0.0.1" group-title="Lifestyle" tvg-id="HGTV", HGTV
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3IDyQAj.png?v=1.0.0.1" group-title="Lifestyle" tvg-id="Asian Food Network", Asian Food Channel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/3IDyQAj.png?v=1.0.0.1" group-title="Lifestyle" tvg-id="Asian Food Network", Asian Food Channel
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wFmCTh4.png?v=1.0.0.1" group-title="Lifestyle" tvg-id="Food Network HD", Food Network HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/wFmCTh4.png?v=1.0.0.1" group-title="Lifestyle" tvg-id="Food Network HD", Food Network HD
 http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
 
 ########################################################      News     ########################################################
