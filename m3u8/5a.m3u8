@@ -311,6 +311,10 @@ http://rr1.dens.tv/h/h37/index.m3u8
 http://rr2.dens.tv/s/s34/index.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/LBTEumd.png?v=1.0.0.1" group-title="Movies", Cinema World
 http://rr1.dens.tv/h/h04/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_new-mycinemaasia_big.png?v=1.0.0.1" group-title="Movies", My Cinema Asia
+http://210.210.155.35/uq2663/h/h193/index.m3u8
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/hT2TzOR.png?v=1.0.0.1" group-title="Movies", My Cinema
+http://rr.dens.tv/h/h90/index2.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/4gNhVWH.png?v=1.0.0.1" group-title="Movies", WarnerTV
 http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=warner
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/N0TKqJd.png?v=1.0.0.1" group-title="Movies" tvg-id="TVN Movies", TVN Movies
