@@ -83,16 +83,16 @@ https://v2.siar.us/saktitv/livestream/playlist.m3u8
 
 ######################################################## Entertainment ########################################################
 
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/6CCidoH.png?v=1.0.0.1", ANIPlus
+http://rr1.dens.tv/h/h02/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/XTBtpcT.png?v=1.0.0.1" tvg-id="Animax" tvg-name"Animax", Animax
+http://rr1.dens.tv/h/h144/01.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/W1JfODW.png?v=1.0.0.1", UseePrime
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/RfIj9lU.png?v=1.0.0.1", Ruang Trampil
 https://cdn4.mbahnunungonline.net/m3u8/a8205d6ff14ba90.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/4Yk5Anu.png?v=1.0.0.1", SEA Today
 https://cdn4.mbahnunungonline.net/m3u8/dcba938c62f7539.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/XTBtpcT.png?v=1.0.0.1" tvg-id="Animax" tvg-name"Animax", Animax
-http://rr1.dens.tv/h/h144/01.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/6CCidoH.png?v=1.0.0.1", ANIPlus
-http://rr1.dens.tv/h/h02/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/Ftk2ky0.png?v=1.0.0.1" tvg-id="SGEM", S GEM
 http://rr.dens.tv/h/h19/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/aKZ7opS.png?v=1.0.0.1", Da Vinci Learning
@@ -112,7 +112,7 @@ https://edge.nim.mivo.tv/video/assets/oops.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/9Z7DUFb.png?v=1.1.1.1", Crime Investigation
 https://edge.nim.mivo.tv/video/assets/oops.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/2RySrJl.png?v=1.0.0.1", CCTV4 HD
-https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv4_2/index.m3u8
+http://rr2.dens.tv/s/s19/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/qo8Wt7F.png?v=1.1.1.1", ZEE CAFE
 https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/index.m3u8
 
