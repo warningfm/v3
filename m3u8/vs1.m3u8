@@ -153,7 +153,7 @@ http://122.248.43.138:1935/ch16/myStream/playlist.m3u8
 ######################################################## Entertainment ########################################################
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/6CCidoH.png?v=1.0.0.1", AniPlus
-https://mygoodstream.pw/proxy.php/http://rr1.dens.tv/h/h02/index.m3u8
+http://rr1.dens.tv/h/h02/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
