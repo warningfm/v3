@@ -88,12 +88,12 @@ https://dl.dropbox.com/s/oxlj7mwpf13ucok/d12f0b99ed1f070.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/eLjHSKm.png?v=1.0.0.1" group-title="Nasional" tvg-id="Nusantara TV" tvg-name="Nusantara TV", NTV
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/eLjHSKm.png?v=1.0.0.1" group-title="Nasional" tvg-id="Nusantara TV" tvg-name="Nusantara TV", NTV
 https://v6.siar.us/nusantaratv/live/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/60lNdUo.png?v=1.1.1.1" group-title="Nasional" tvg-id="MyTV" tvg-name="MyTV", MyTV
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/60lNdUo.png?v=1.1.1.1" group-title="Nasional" tvg-id="MyTV" tvg-name="MyTV", MyTV
 http://rr3.dens.tv/s/s88/S4/mnf.m3u8
 
 ########################################################     Local     ########################################################
