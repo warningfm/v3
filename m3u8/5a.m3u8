@@ -2,9 +2,9 @@
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/rA0rUsj.png?v=1.1.1.1" group-title="Nasional" tvg-id="RCTI" tvg-name="RCTI", RCTI
-https://liveanevia.mncnow.id/live/eds/RCTI-Indonesia/sa_dash/RCTI-Indonesia.mpd
+https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_dash/RCTI-Indonesia.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/kHUcKkK.png?v=1.1.1.1" group-title="Nasional" tvg-id="SCTV" tvg-name="SCTV", SCTV
-https://liveanevia.mncnow.id/live/eds/SCTV-intel/sa_dash/SCTV-intel.mpd
+https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_dash/SCTV-intel.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/AWnnWow.png?v=1.1.1.1" group-title="Nasional" tvg-id="MNC TV" tvg-name="MNC TV", MNCTV
 https://liveanevia.mncnow.id/live/eds/MNCTV-Merdeka/sa_dash/MNCTV-Merdeka.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/sxlxwvA.png?v=1.1.1.1" group-title="Nasional" tvg-id="antv" tvg-name="antv", antv
