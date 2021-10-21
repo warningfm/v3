@@ -34,7 +34,8 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w221515139_b2800
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/gII3Eq8.png?v=1.1.1.1" group-title="Nasional" tvg-id="Berita Satu News" tvg-name="Berita Satu News", Berita Satu
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/XBtbPBF.png?v=1.1.1.1" group-title="Nasional" tvg-id="TVRI" tvg-name="TVRI", TVRI
-https://dl.dropbox.com/s/l5j2hh2e45y650w/3f58825fe229a8f.m3u8
+#https://dl.dropbox.com/s/l5j2hh2e45y650w/3f58825fe229a8f.m3u8
+http://202.80.222.130/000001/2/ch14041511560872104862/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/eLjHSKm.png?v=1.1.1.1" group-title="Nasional" tvg-id="Nusantara TV" tvg-name="Nusantara TV", NTV
 https://v6.siar.us/nusantaratv/live/playlist.m3u8
 
