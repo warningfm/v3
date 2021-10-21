@@ -28,9 +28,6 @@ https://visionplus-stream.visionplus.id/live/eds/TRANSTV-autobot/sa_dash/TRANSTV
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-GJ3HxKhpQiQ/YMOFj7kvn3I/AAAAAAAABFM/ounfS_2q6ioyAftyC3HEyqmVAQ1tKgmegCLcBGAsYHQ/s0/zg4YPTD.png?v=1.1.1.1" group-title="tvN150N" tvg-id="Maleo" tvg-name="MTV Live", Maleo
 https://dl.dropbox.com/s/5b57ecqy6fg9qx2/e22dc65d77c8885.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-krWxMeHwxrM/YRJC1qPBLiI/AAAAAAAABK8/I6ecPYNF59obT6YQqrDmosB9uVU0QzC-gCLcBGAsYHQ/s0/FGSb1Vw.png?v=1.0.0.1" group-title="tvN150N" tvg-id="Citra Dangdut", Citra Dangdut
-http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=citradangdut&bandwidth=default&sync=0
-
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-GR57XA8olF8/YMOFfPvSOCI/AAAAAAAABEA/bOl3WXT_UR4IBjao-dPtkBXKz8wO3UivACLcBGAsYHQ/s0/45Vmwv5.png?v=1.1.1.1" group-title="tvN150N" tvg-id="GTV" tvg-name="GTV", GTV
 https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_dash/GTV-Perjuangan.mpd
 
@@ -335,3 +332,5 @@ https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-4LCNczznlF0/YWJyBxzLeNI/AAAAAAAABXE/3IyaWJI7g-kmnR4CRh_y0Rze0bYp9fKUgCLcBGAsYHQ/s0/s2V9OMG.png?v=1.0.0.1" group-title="USEETV" tvg-id="Dunia Lain", Dunia Lain
 http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=dunialain&bandwidth=default&sync=0
 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-krWxMeHwxrM/YRJC1qPBLiI/AAAAAAAABK8/I6ecPYNF59obT6YQqrDmosB9uVU0QzC-gCLcBGAsYHQ/s0/FGSb1Vw.png?v=1.0.0.1" group-title="tvN150N" tvg-id="Citra Dangdut", Citra Dangdut
+http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=citradangdut&bandwidth=default&sync=0
