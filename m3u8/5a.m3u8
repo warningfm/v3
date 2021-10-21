@@ -419,7 +419,7 @@ http://stream.zeno.fm/5y0exp3phzzuv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EdYYUt2.png?v=1.0.0.1" group-title="Radio", Radio Bintang Tenggara
 http://live.radiobintangtenggara.com:8000/mbahnunungonline
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YI8BVwh.png?v=1.0.0.1" group-title="Radio", Radio MCFM
-http://live.sg.mcfmbwi.com:9720/mcfm
+http://live.sg.radiobintangtenggara.com:9720/mcfm
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LOwBoYR.png?v=1.0.0.1" group-title="Radio", Radio Sritanjung FM
 http://play.xajist.com:8208/stream
 #EXTINF:-1 tvg-logo="https://i.imgur.com/93cFv35.png?v=1.0.0.1" group-title="Radio", Radio Vis FM
