@@ -305,13 +305,15 @@ http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/ZEHEXrZ.png?v=1.0.0.1" group-title="Movies", Celestial Movies
 http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/gL9y8n3.png?v=1.0.0.1" group-title="Movies", AXN
-http://rr1.dens.tv/h/h141/index.m3u8
+http://93.190.139.35:8278/streams/d/Axn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/UAaZ3G1.png?v=1.0.0.1" group-title="Movies", KIX
 http://rr1.dens.tv/h/h07/index.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/IQyfQCv.png?v=1.0.0.1" group-title="Movies", HITS
-http://rr1.dens.tv/h/h37/index.m3u8
+http://93.190.139.35:8278/streams/d/Hits/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Uw8WE5o.png?v=1.0.0.1" group-title="Movies", HITS MOVIES
+http://93.190.139.35:8278/streams/d/Hitsmovie/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Mqtob2n.png?v=1.0.0.1" group-title="Horor", Thrill
-http://rr2.dens.tv/s/s34/index.m3u8
+http://93.190.139.35:8278/streams/d/Thrill/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/LBTEumd.png?v=1.0.0.1" group-title="Movies", Cinema World
 http://rr1.dens.tv/h/h04/index.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/MggeOq7.png?v=1.0.0.1" group-title="Movies", My Cinema Asia
@@ -319,14 +321,13 @@ http://rr.dens.tv/h/h193/index.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/hT2TzOR.png?v=1.0.0.1" group-title="Movies", My Cinema
 http://rr.dens.tv/h/h90/index2.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/4gNhVWH.png?v=1.0.0.1" group-title="Movies", WarnerTV
-http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=warner
+http://93.190.139.35:8278/streams/d/WarnerTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/N0TKqJd.png?v=1.0.0.1" group-title="Movies" tvg-id="TVN Movies", TVN Movies
 http://rr1.dens.tv/h/h21/index.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/cymjoiG.png?v=1.0.0.1" group-title="Movies", & Flix HD
 https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/gqQZ16k.png?v=1.0.0.1" group-title="Movies", & Prive HD
 https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
-
 ########################################################   MalaysiaTV  ########################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YoWxeld.png?v=1.0.0.1" group-title="Malaysia" tvg-id="Astro Citra HD", Astro Citra HD
