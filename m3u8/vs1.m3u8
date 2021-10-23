@@ -732,13 +732,6 @@ https://s7.alhastream.com/radio/8090/radio?1609467814144
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jR4Foab.jpg?v=1.0.0.1" group-title="Radio", Radio RAYA FM
 http://45.64.98.181:8323/stream
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jqNYjGu.png?v=1.1.1.1" group-title="Backup" tvg-id="NET TV" tvg-name="NET TV", NET.
-http://cdn4.mbahnunungonline.net/m3u8/id/6cdb3402d11f58d.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QTEjMpg.png?v=1.1.1.1" group-title="Backup" tvg-id="Trans 7" tvg-name="Trans 7", Trans7
-https://dl.dropbox.com/s/8933q0yyq5ytidu/cdd283c9d3d43b5.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RnrimdT.png?v=1.1.1.1" group-title="Backup" tvg-id="Trans TV" tvg-name="Trans TV", TransTV
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-
 ########################################################     USEETV    ########################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i8l6OHc.png?v=1.1.1.1" group-title="USEETV" tvg-id="Trans7", Trans 7
@@ -746,9 +739,9 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 
 ########################################################     Vidio     ########################################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/luud37p.png?v=1.0.0.1" group-title="Vidio.com", SCTV 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/luud37p.png?v=1.0.0.1" group-title="Vidio.com", SCTV 
 https://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a46a41c2a2a7270517f5ce8dd2f48fc68d
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9Xq5fsL.png?v=1.0.0.1" group-title="Vidio.com", Indosiar 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/9Xq5fsL.png?v=1.0.0.1" group-title="Vidio.com", Indosiar 
 https://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d696a41c2a2a7270517f5ce8dd2f48fc68d
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-yAoaEjGMwtg/YMOFhdLK3NI/AAAAAAAABEg/aL3SuCSNJJoU5RNuy6T1ctbHz21na8XxACLcBGAsYHQ/s0/QTEjMpg.png?v=1.1.1.1" group-title="denstv", Trans7
@@ -781,7 +774,7 @@ https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GNtOq0T.png?v=1.0.0.1" group-title="Drama", FMN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/GNtOq0T.png?v=1.0.0.1" group-title="Drama", FMN
 https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://sv1.picz.in.th/images/2021/01/12/litzQI.png?v=1.0.0.1", Outside TV
