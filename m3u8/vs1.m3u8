@@ -297,9 +297,6 @@ https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hz0bde4.png?v=1.0.0.1" group-title="Lifestyle" tvg-id="lifetime" tvg-id="lifetime", LifeTime
 https://liveanevia.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/rjIEEmj.png?v=1.0.0.1" group-title="Lifestyle" tvg-id="travelxp" tvg-name="travelxp", travelxp
-https://travelxp-travelxp-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-
 ########################################################      News     ########################################################
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/S3Gn16p.png?v=1.0.0.1" group-title="News", Al arabiya
