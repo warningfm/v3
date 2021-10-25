@@ -3,7 +3,7 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/rA0rUsj.png?v=1.1.1.1" group-title="Nasional" tvg-id="RCTI" tvg-name="RCTI", RCTI
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/rA0rUsj.png?v=1.1.1.1" group-title="Nasional" tvg-id="RCTI" tvg-name="RCTI", RCTI ᴴᴰ
 https://liveanevia.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -13,7 +13,7 @@ https://conversant.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/AWnnWow.png?v=1.1.1.1" group-title="Nasional" tvg-id="MNC TV" tvg-name="MNC TV", MNCTV
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/AWnnWow.png?v=1.1.1.1" group-title="Nasional" tvg-id="MNC TV" tvg-name="MNC TV", MNCTV ᴴᴰ
 https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -28,7 +28,7 @@ https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/NTIQcW0.png?v=1.0.0.1" group-title="Nasional" tvg-id="Metro TV" tvg-name="Metro TV", MetroTV HD
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/NTIQcW0.png?v=1.0.0.1" group-title="Nasional" tvg-id="Metro TV" tvg-name="Metro TV", MetroTV ᴴᴰ
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -43,12 +43,12 @@ https://liveanevia.mncnow.id/live/eds/TransTV/sa_dash_vmx/TransTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/45Vmwv5.png?v=1.1.1.1" group-title="Nasional" tvg-id="GTV" tvg-name="GTV", GTV
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/45Vmwv5.png?v=1.1.1.1" group-title="Nasional" tvg-id="GTV" tvg-name="GTV", GTV ᴴᴰ
 https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/jqNYjGu.png?v=1.0.0.1" group-title="Nasional" tvg-id="NET TV" tvg-name="NET TV", NET. HD
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/jqNYjGu.png?v=1.0.0.1" group-title="Nasional" tvg-id="NET TV" tvg-name="NET TV", NET. ᴴᴰ
 https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -792,7 +792,4 @@ https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 #EXTINF:-1 group-title="News" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2018/01/sky-news-hd-vector-logo-small.png", Sky News HD
 https://stream.skynewsarabia.com/hls/sna.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZmY1MDA1ZDUtNmMzMC0zOGI0LTlkN2YtYWQ2ZWU4MmM2OTAz
-#EXTINF:-1 group-title="LIFESTYLE" tvg-id="1718" tvg-chno="718" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/420_144.png",MTV Asia ᴴᴰ
-http://1.9.15.104/PLTV/88888888/224/3221227613/3221227613.mpd
+
