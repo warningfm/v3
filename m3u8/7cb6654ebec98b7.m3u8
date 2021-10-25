@@ -1,7 +1,5 @@
-#EXTM3U 
-#EXT-X-VERSION:3
-#EXTVLCOPT:http-user-agent="tv/9.6 (Linux;Android 7.1.2) ExoPlayerLib/2.8.4"
-#EXT-X-STREAM-INF:BANDWIDTH=1863479,AVERAGE-BANDWIDTH=1694071,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25.000,AUDIO="audio-AACL-64"
-http://live.unregister.xyz/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=966591,AVERAGE-BANDWIDTH=878719,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=960x540,FRAME-RATE=25.000,AUDIO="audio-AACL-64"
-http://live.unregister.xyz/live/eds/rcti_fta/live_fta/rcti_fta-avc1_768000=6-mp4a_64000_eng=2.m3u8
+#EXTM3U
+#EXT-X-VERSION:5
+#EXT-X-MEDIA:TYPE=AUDIO,URI="https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia-mp4a_98800_eng=3.m3u8",GROUP-ID="audio-AACL-99",LANGUAGE="en",NAME="English",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2"
+#EXT-X-STREAM-INF:BANDWIDTH=692727,AVERAGE-BANDWIDTH=629754,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=640x360,FRAME-RATE=25.000,HDCP-LEVEL=TYPE-0,AUDIO="audio-AACL-99"
+https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia-avc1_499968=5.m3u8
