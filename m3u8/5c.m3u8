@@ -2,9 +2,9 @@
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/rA0rUsj.png?v=1.1.1.1" group-title="Nasional" tvg-id="RCTI", RCTI
 https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/Zpy57qG.png?v=1.1.1.1" group-title="Nasional" tvg-id="SCTV", SCTV
-https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/SCTV-intel.m3u8
+https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/AWnnWow.png?v=1.1.1.1" group-title="Nasional" tvg-id="MNC TV", MNC TV
-https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka.m3u8
+https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/sxlxwvA.png?v=1.1.1.1" group-title="Nasional" tvg-id="antv", antv
 https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_hls/ANTV-radeon.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/eeiIEY8.png?v=1.1.1.1" group-title="Nasional" tvg-id="Indosiar", Indosiar
