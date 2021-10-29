@@ -542,7 +542,7 @@ https://cdn4.mbahnunungonline.net/m3u8/id/94a637fadb57201.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/images/UaHtwO2.png?v=1.0.0.1" group-title="Music", 9XM
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/images/D3WXba7.png?v=1.0.0.1" group-title="Music", B4U Music
-https://d2n59piq1dbucf.cloudfront.net/B4U_MUSIC.m3u8
+https://feed.play.mv/live/1009/n6W19r2lg7/master.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/images/mhGTRFn.png?v=1.0.0.1" group-title="Music", Desi Channel
 https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/images/2y2bEGC.png?v=1.0.0.1" group-title="Music", MASTIII
@@ -712,11 +712,11 @@ https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/4L7BYKM.png?v=8.8.4.4" group-title="Hindi", & Pictures
 https://f8e7y4c6.ssl.hwcdn.net/andpicssd/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/ceBQDFq.png?v=8.8.4.4" group-title="Hindi", Zee TV
-http://93.190.139.35:8278/streams/d/Zeetvhd/playlist.m3u8
+https://feed.play.mv/live/10005200/HXW3hMDfn5/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/2UQNzYB.png?v=8.8.4.4" group-title="Hindi", Zing
 https://f8e7y4c6.ssl.hwcdn.net/zing/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/gSsIODC.png?v=8.8.4.4" group-title="Hindi", Zee Cinema
-http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
+https://feed.play.mv/live/1009/U4igJyzIbn/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/gSsIODC.png?v=8.8.4.4" group-title="Hindi", Zee Cinema (uk)
 http://93.190.139.35:8278/streams/d/Zeecinemahd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/Akf09tQ.png?v=8.8.4.4" group-title="Hindi", Zee Bollywood
@@ -732,6 +732,8 @@ http://93.190.139.35:8278/streams/d/Starplushd/playlist.m3u8
 #EXTINF:-1 tvg-id="COLORS" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Colors.png?raw=true" group-title="Hindi",  colors HD 
 #http://51.79.84.156:8082/ColorsIn/index.m3u8
 http://93.190.139.35:8278/streams/d/Colorhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vV2pv50.png?v=8.8.4.4" group-title="Hindi", &tv
+https://feed.play.mv/live/1009/Cs525PFAub/master.m3u8
 
 ########################################################     Radio     ########################################################
 
