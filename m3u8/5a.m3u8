@@ -288,7 +288,7 @@ http://stream1.ninmedia.tv:1935/popmusik/udp.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UaHtwO2.png?v=1.0.0.1" group-title="Music", 9XM
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D3WXba7.png?v=1.0.0.1" group-title="Music", B4U Music
-https://d2n59piq1dbucf.cloudfront.net/B4U_MUSIC.m3u8
+https://feed.play.mv/live/1009/n6W19r2lg7/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mhGTRFn.png?v=1.0.0.1" group-title="Music", Desi Channel
 https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
 
@@ -398,6 +398,8 @@ https://59ec5453559f0.streamlock.net/JennyLive/smil:JennyLiveWEB/playlist.m3u8
 
 ########################################################     Hindi     ########################################################
 
+#EXTINF:-1 tvg-id="COLORS" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Colors.png?raw=true" group-title="Hindi",  colors HD 
+https://feed.play.mv/live/10005200/6G8zJ9XsyB/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/0Y8SVWN.png?v=8.8.4.4" group-title="Hindi", B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/C5EpW33.png?v=8.8.4.4" group-title="Hindi", Bflix Movies
