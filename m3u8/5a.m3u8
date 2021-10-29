@@ -187,7 +187,7 @@ http://cdn4.mbahnunungonline.net/m3u8/id/0976f879a0c4548.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uJTTmk8.png?v=1.0.0.1" group-title="News", CNBC Indonesia
 http://cdn4.mbahnunungonline.net/m3u8/id/ef7e8c7bc86110e.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Thm3LAk.png?v=1.0.0.1" group-title="News", MNC News
-http://cdn-livetv-studio.metube.id/mncnews.m3u8
+http://cdn4.mbahnunungonline.net/m3u8/id/243a1aea2191dec.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GZQvCs6.png?v=1.0.0.1" group-title="News" tvg-id="DW English", DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BydlaOh.png?v=1.0.0.1" group-title="News", ABC Australia
