@@ -6,17 +6,17 @@ https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/AWnnWow.png?v=1.1.1.1" group-title="Nasional" tvg-id="MNC TV", MNC TV
 https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/sxlxwvA.png?v=1.1.1.1" group-title="Nasional" tvg-id="antv", antv
-https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_hls/ANTV-radeon.m3u8
+https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/eeiIEY8.png?v=1.1.1.1" group-title="Nasional" tvg-id="Indosiar", Indosiar
-https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/INDOSIAR-ryzen.m3u8
+https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/Jj4S2E4.png?v=1.1.1.1" group-title="Nasional" tvg-id="Metro TV", Metro TV
-https://visionplus-stream.visionplus.id/live/eds/MetroTV-RTX/sa_hls/MetroTV-RTX.m3u8
+https://visionplus-stream.visionplus.id/live/eds/MetroTV-RTX/sa_hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/QTEjMpg.png?v=1.1.1.1" group-title="Nasional" tvg-id="Trans 7", Trans 7
-https://visionplus-stream.visionplus.id/live/eds/TRANS7-transformer/sa_hls/TRANS7-transformer.m3u8
+https://visionplus-stream.visionplus.id/live/eds/TRANS7-transformer/sa_hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/lQMICXV.png?v=1.1.1.1" group-title="Nasional" tvg-id="Trans TV", Trans TV
-https://visionplus-stream.visionplus.id/live/eds/TRANSTV-autobot/sa_hls/TRANSTV-autobot.m3u8
+https://visionplus-stream.visionplus.id/live/eds/TRANSTV-autobot/sa_hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/45Vmwv5.png?v=1.1.1.1" group-title="Nasional" tvg-id="GTV", GTV
-https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan.m3u8
+https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/jqNYjGu.png?v=1.1.1.1" group-title="Nasional" tvg-id="NET.", NET.
 https://liveanevia.mncnow.id/live/eds/NetTV-M1/sa_hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/7anU0V0.png?v=1.1.1.1" group-title="Nasional" tvg-id="tvOne", tvOne
