@@ -212,6 +212,8 @@ https://topwin-tv.my.id/2/master.m3u8?id=dunialain&bandwidth=default&sync=0
 
 ########################################################      Kids     ########################################################
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/uAHJS7W.png?v=1.0.0.1" group-title="Kids" tvg-id="Astro Ceria HD" tvg-name="Astro Ceria HD", Astro Ceria HD
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 
@@ -245,9 +247,13 @@ https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/uwhVKtr.png?v=1.0.0.1" group-title="Kids" tvg-id="kidstv", KIDS TV
 https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/SNzeDbZ.png?v=1.0.0.1" group-title="Kids", Horee
 https://edge.nim.mivo.tv/video/assets/oops.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/bMwkQEd.png?v=1.0.0.1" group-title="Kids" tvg-id="Zoomoo", Zoomoo
 http://203.154.177.124:8899/live/ch20/playlist.m3u8
 
@@ -287,7 +293,6 @@ https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/QVj6I9k.png?v=1.0.0.1" group-title="Korengan" tvg-id="Kplus", Kplus
-#http://rr.dens.tv/h/h08/index.m3u8
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6278b166-9632-42c3-b6e9-226edc1d3da6)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Wb4hKP0.png?v=1.0.0.1" group-title="Korengan" tvg-id="SBS", SBS
