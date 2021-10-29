@@ -420,9 +420,7 @@ http://93.190.139.35:8278/streams/d/Zeecinemahd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/Akf09tQ.png?v=8.8.4.4" group-title="Hindi", Zee Bollywood
 https://f8e7y4c6.ssl.hwcdn.net/classic/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/yvfUpGV.png?v=8.8.4.4" group-title="Hindi" tvg-id="Zee" tvg-name="Zee", Zee Bioskop
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
+http://210.210.155.35/qwr9ew/s/s32/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xKDJCXJ.jpg?v=8.8.4.4" group-title="Hindi", Zee Action
 http://93.190.139.35:8278/streams/d/Zeeaction/playlist.m3u8
 
