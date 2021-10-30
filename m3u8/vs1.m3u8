@@ -781,16 +781,6 @@ https://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-yAoaEjGMwtg/YMOFhdLK3NI/AAAAAAAABEg/aL3SuCSNJJoU5RNuy6T1ctbHz21na8XxACLcBGAsYHQ/s0/QTEjMpg.png?v=1.1.1.1" group-title="denstv", Trans7
 http://cdn4.mbahnunungonline.net/m3u8/id/cdd283c9d3d43b5.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VKAWqEO.png?v=1.1.1.1" group-title="mnc Group" tvg-id="RCTI", RCTI
-https://cdn-livetv-studio.metube.id/rcti.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HJHmRAh.png?v=1.1.1.1" group-title="mnc Group" tvg-id="MNC TV", MNC TV
-https://cdn-livetv-studio.metube.id/mnctv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/45Vmwv5.png?v=1.1.1.1" group-title="mnc Group" tvg-id="GTV", GTV
-https://cdn-livetv-studio.metube.id/globaltv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EknqlDs.png?v=1.1.1.1" group-title="mnc Group" tvg-id="iNews", iNews
-https://cdn-livetv-studio.metube.id/inewstv/index.m3u8
-
 ########################################################      Vod     ########################################################
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/90NhrPCV/Cek-Toko-Sebelah.jpg" group-title="VOD INDO", Cek Toko Sebelah
