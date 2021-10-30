@@ -778,9 +778,6 @@ https://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/9Xq5fsL.png?v=1.0.0.1" group-title="Vidio.com", Indosiar 
 https://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d696a41c2a2a7270517f5ce8dd2f48fc68d
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-yAoaEjGMwtg/YMOFhdLK3NI/AAAAAAAABEg/aL3SuCSNJJoU5RNuy6T1ctbHz21na8XxACLcBGAsYHQ/s0/QTEjMpg.png?v=1.1.1.1" group-title="denstv", Trans7
-http://cdn4.mbahnunungonline.net/m3u8/id/cdd283c9d3d43b5.m3u8
-
 ########################################################      Vod     ########################################################
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/90NhrPCV/Cek-Toko-Sebelah.jpg" group-title="VOD INDO", Cek Toko Sebelah
@@ -820,3 +817,5 @@ https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/jJzM6CM.png?v=1.0.0.1" tvg-id="Travel Channel" tvg-name"Travel Channel", Travel Channel
 https://feed.play.mv/live/10005200/2dPCepc9DA/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-yAoaEjGMwtg/YMOFhdLK3NI/AAAAAAAABEg/aL3SuCSNJJoU5RNuy6T1ctbHz21na8XxACLcBGAsYHQ/s0/QTEjMpg.png?v=1.1.1.1" group-title="denstv", Trans7
+http://cdn4.mbahnunungonline.net/m3u8/id/cdd283c9d3d43b5.m3u8
