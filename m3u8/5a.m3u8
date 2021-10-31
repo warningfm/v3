@@ -126,7 +126,7 @@ http://198.16.106.62:8278/streams/d/Boomerang/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OrEXAse.png?v=1.0.0.1" group-title="Kids", Cartoon Network
 http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=cartoonnetwork&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/asDF7GJ.png?v=1.1.1.1" group-title="Kids" tvg-id="Nick Junior", Nick Jr
-http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
+http://xcui.vitvabc.xyz:8880/live/287994000027/287994000027/16744.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SNzeDbZ.png?v=1.0.0.1" group-title="Kids", Horee
 http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=horee
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uwhVKtr.png?v=1.0.0.1" group-title="Kids", KIDS TV
@@ -295,7 +295,7 @@ https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3
 ########################################################     Movies    ########################################################
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/pZrvlvD.png?v=1.0.0.1" group-title="Movies", IMC
-http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=imc
+http://xcui.vitvabc.xyz:8880/live/287994000027/287994000027/16746.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Ohz1FFf.png?v=1.0.0.1" group-title="Movies", Bioskop Indonesia
 http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=bioskopindonesia
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/zEnolCx.png?v=1.0.0.1" group-title="Movies", Sinema Indonesia
