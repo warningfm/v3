@@ -83,7 +83,7 @@ https://v2.siar.us/saktitv/livestream/playlist.m3u8
 ######################################################## Entertainment ########################################################
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/XTBtpcT.png?v=1.0.0.1" tvg-id="Animax" tvg-name"Animax", Animax
-http://rr1.dens.tv/h/h144/index.m3u8
+https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/6CCidoH.png?v=1.0.0.1" tvg-id="ANIPlus" tvg-name"ANIPlus", ANIPlus
 http://rr1.dens.tv/h/h02/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/aKZ7opS.png?v=1.0.0.1", Da Vinci Learning
@@ -321,7 +321,7 @@ http://rr1.dens.tv/h/h04/index.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/MggeOq7.png?v=1.0.0.1" group-title="Movies", My Cinema Asia
 http://rr.dens.tv/h/h193/index.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/hT2TzOR.png?v=1.0.0.1" group-title="Movies", My Cinema
-http://rr.dens.tv/h/h90/index2.m3u8
+https://feed.play.mv/live/10005200/Ts9R8pNNTP/master.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/4gNhVWH.png?v=1.0.0.1" group-title="Movies", WarnerTV
 http://93.190.139.35:8278/streams/d/WarnerTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/N0TKqJd.png?v=1.0.0.1" group-title="Movies" tvg-id="TVN Movies", TVN Movies
