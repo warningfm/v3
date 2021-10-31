@@ -321,6 +321,9 @@ https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hz0bde4.png?v=1.0.0.1" group-title="Lifestyle" tvg-id="lifetime" tvg-id="lifetime", LifeTime
 https://liveanevia.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/images/wFmCTh4.png?v=1.0.0.1" group-title="Lifestyle" tvg-id="Food Network" tvg-name="Food Network", Food Network
+https://feed.play.mv/live/10005200/aGu172is5o/master.m3u8
+
 ########################################################      News     ########################################################
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/S3Gn16p.png?v=1.0.0.1" group-title="News", Al arabiya
