@@ -91,7 +91,7 @@ https://edge.nim.mivo.tv/video/assets/oops.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/p1a0RwN.png?v=1.0.0.1" tvg-id="Blue Ant Entertainment" tvg-name="Blue Ant Entertainment", Rock Entertainment
 http://rr1.dens.tv/h/h16/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/tHrbNmG.png?v=1.0.0.1" tvg-id="Blue Ant Extreme" tvg-name="Blue Ant Extreme", Rock Extreme
-http://rr1.dens.tv/h/h15/index.m3u8
+http://vips-livecdn.fptplay.net/hda1/blueantext_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/W1JfODW.png?v=1.0.0.1", UseePrime
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/RfIj9lU.png?v=1.0.0.1", Ruang Trampil
