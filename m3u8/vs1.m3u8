@@ -566,7 +566,7 @@ https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/images/2y2bEGC.png?v=1.0.0.1" group-title="Music", MASTIII
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/images/8OoA7sM.png?v=1.0.0.1" group-title="Music", Music India
-http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8
+http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
 
 ########################################################     Movies    ########################################################
 
