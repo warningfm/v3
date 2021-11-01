@@ -124,7 +124,7 @@ http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xXz1Lht.png?v=1.0.0.1" group-title="Kids", Boomerang
 http://198.16.106.62:8278/streams/d/Boomerang/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OrEXAse.png?v=1.0.0.1" group-title="Kids", Cartoon Network
-http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=cartoonnetwork&bandwidth=default&sync=0
+https://feed.play.mv/live/10005200/s5f1zEMJC1/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/asDF7GJ.png?v=1.1.1.1" group-title="Kids" tvg-id="Nick Junior", Nick Jr
 http://xcui.vitvabc.xyz:8880/live/287994000027/287994000027/16744.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SNzeDbZ.png?v=1.0.0.1" group-title="Kids", Horee
