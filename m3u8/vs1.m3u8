@@ -531,7 +531,7 @@ https://liveanevia.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-x1YQJUx8XAM/YRNgW4ei9KI/AAAAAAAABLU/0dJw5-D22dQ1P7EmEvCz5gz8rEIa9f16ACLcBGAsYHQ/s0/tl7ePSI.png?v=1.0.0.1" group-title="Religious" tvg-id="Ajwa TV", Ajwa TV
 http://free.fullspeed.tv/query?url=https://www.vidio.com/live/7464-ajwa-tv
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mQrJsiF.png?v=1.0.0.1" group-title="Religious" tvg-id="Rodja TV", Rodja TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/mQrJsiF.png?v=1.0.0.1" group-title="Religious" tvg-id="Rodja TV", Rodja TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/6FcTok4.png?v=1.0.0.1" group-title="Religious" tvg-id="Sunnah TV", Sunnah TV
