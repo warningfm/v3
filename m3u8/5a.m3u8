@@ -43,8 +43,7 @@ https://dl.dropbox.com/s/9spy8zyvs6chjfh/a6109060c7f55cc.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/Tj2eF2o.png?v=1.0.0.1", Bali TV
 https://liveanevia.mncnow.id/live/eds/BaliTV_Timeshift/sa_dash_timeshift/BaliTV_Timeshift.mpd
 #EXTINF:-1 group-title=" Local " tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/4P5UM89.png?v=1.0.0.1", JTV
-#https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/manifest.mpd
-https://cdn02.mola.tv/Content/HLS/Live/channel(f2cd666d-f350-1140-7ce5-3d7f39f84727)/index.m3u8
+https://cdn02.mola.tv/Content/DASH/Live/channel(f2cd666d-f350-1140-7ce5-3d7f39f84727)/manifest.mpd
 #EXTINF:-1 group-title=" Local " tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/yvU25Cp.png?v=1.0.0.1", JakTV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/manifest.mpd
 #EXTINF:-1 group-title=" Local " tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/KawOb6q.png?v=1.0.0.1", DAAI TV
