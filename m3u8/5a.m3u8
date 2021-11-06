@@ -313,7 +313,8 @@ https://feed.play.mv/live/10005200/MKj28KXjmn/master.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/UAaZ3G1.png?v=1.0.0.1" group-title="Movies", KIX
 http://rr1.dens.tv/h/h07/index.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/IQyfQCv.png?v=1.0.0.1" group-title="Movies", HITS
-http://93.190.139.35:8278/streams/d/Hits/playlist.m3u8
+#http://93.190.139.35:8278/streams/d/Hits/playlist.m3u8
+https://feed.play.mv/live/1009/Lvcls9NpJT/master.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Uw8WE5o.png?v=1.0.0.1" group-title="Movies", HITS MOVIES
 http://93.190.139.35:8278/streams/d/Hitsmovie/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Mqtob2n.png?v=1.0.0.1" group-title="Horor", Thrill
