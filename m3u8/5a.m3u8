@@ -268,11 +268,11 @@ https://e1.siar.us/albahjahtv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vJPneCu.png?v=1.0.0.1" group-title="Religious" tvg-id="TV9 Nu", TV9 Nu
 https://wms.klikhost.net/tv9/tv9/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sRHJJ5c.png?v=1.0.0.1" group-title="Religious" tvg-id="Tawaf TV", Tawaf TV
-http://stream1.ninmedia.tv:1935/tawaftv/rtmp.stream/playlist.m3u8
+https://stream.ninmedia.tv/tawaftv/rtmp.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YHsUiwa.png?v=1.0.0.1" group-title="Religious" tvg-id="MQTV", MQTV
 https://v3.siar.us/syiarmedia/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/evrRgFH.png?v=1.0.0.1" group-title="Religious" tvg-id="TV Mu", TV Mu
-http://stream1.ninmedia.tv:1935/tvmu/udp.stream/playlist.m3u8
+https://stream.ninmedia.tv/tvmu/udp.stream/playlist.m3u8
 #EXTINF:1 tvg-logo="https://i.imgur.com/CwsvvSn.png?v=1.0.0.1" group-title="Religious" tvg-id="British Muslim", British Muslim
 http://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hsslive-25f-16x9-MB/playlist.m3u8
 
