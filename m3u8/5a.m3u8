@@ -112,7 +112,7 @@ https://feed.play.mv/live/10005200/isb9Qf3P5M/master.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/9Z7DUFb.png?v=1.1.1.1", Crime Investigation
 https://feed.play.mv/live/10005200/37MP1b7MI1/master.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/2RySrJl.png?v=1.0.0.1", CCTV4 HD
-http://rr2.dens.tv/s/s19/index.m3u8
+http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/qo8Wt7F.png?v=1.1.1.1", ZEE CAFE
 https://edge.nim.mivo.tv/video/assets/oops.m3u8
 
