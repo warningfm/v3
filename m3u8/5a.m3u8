@@ -283,9 +283,9 @@ http://xcui.vitvabc.xyz:8880/live/287994000027/287994000027/16739.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FGSb1Vw.png?v=1.0.0.1" group-title="Music", Citra Dangdut
 http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=citradangdut
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zg4YPTD.png?v=1.0.0.1" group-title="Music", Maleo Channel
-http://stream1.ninmedia.tv:1935/maleo/udp.stream/playlist.m3u8
+https://stream.ninmedia.tv/maleo/udp.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NN60Hzb.png?v=1.0.0.1" group-title="Music", POP Musik
-http://stream1.ninmedia.tv:1935/popmusik/udp.stream/playlist.m3u8
+https://stream.ninmedia.tv/popmusik/udp.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UaHtwO2.png?v=1.0.0.1" group-title="Music", 9XM
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D3WXba7.png?v=1.0.0.1" group-title="Music", B4U Music
