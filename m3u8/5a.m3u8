@@ -19,7 +19,7 @@ https://visionplus-stream.visionplus.id/live/eds/TRANS7-transformer/sa_dash/TRAN
 https://visionplus-stream.visionplus.id/live/eds/TRANSTV-autobot/sa_dash/TRANSTV-autobot.mpd
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/45Vmwv5.png?v=1.1.1.1" group-title="Nasional" tvg-id="GTV" tvg-name="GTV", GTV
 https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_dash/GTV-Perjuangan.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/jqNYjGu.png?v=1.1.1.1" group-title="Nasional" tvg-id="NET TV" tvg-name="NET TV", NET.
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/jqNYjGu.png?v=1.1.1.1" group-title="Nasional" tvg-id="NET TV" tvg-name="NET TV", NET.
 https://visionplus-stream.visionplus.id/live/eds/NetTV-M1/sa_dash/NetTV-M1.mpd
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/7anU0V0.png?v=1.1.1.1" group-title="Nasional" tvg-id="tv One" tvg-name="tv One", tvOne
 https://visionplus-stream.visionplus.id/live/eds/TVONE-Decepticon/sa_dash/TVONE-Decepticon.mpd
@@ -29,14 +29,14 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c-4
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/EknqlDs.png?v=1.1.1.1" group-title="Nasional" tvg-id="iNews" tvg-name="iNews", iNews
 https://visionplus-stream.visionplus.id/live/eds/InewsTV-Agustus/sa_dash/InewsTV-Agustus.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/1Mtx9mY.png?v=1.1.1.1" group-title="Nasional" tvg-id="CNN Indonesia" tvg-name="CNN Indonesia", CNN Indonesia
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/1Mtx9mY.png?v=1.1.1.1" group-title="Nasional" tvg-id="CNN Indonesia" tvg-name="CNN Indonesia", CNN Indonesia
 https://dl.dropbox.com/s/oxlj7mwpf13ucok/d12f0b99ed1f070.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/gII3Eq8.png?v=1.1.1.1" group-title="Nasional" tvg-id="Berita Satu News" tvg-name="Berita Satu News", Berita Satu
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/gII3Eq8.png?v=1.1.1.1" group-title="Nasional" tvg-id="Berita Satu News" tvg-name="Berita Satu News", Berita Satu
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/XBtbPBF.png?v=1.1.1.1" group-title="Nasional" tvg-id="TVRI" tvg-name="TVRI", TVRI
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/XBtbPBF.png?v=1.1.1.1" group-title="Nasional" tvg-id="TVRI" tvg-name="TVRI", TVRI
 #https://dl.dropbox.com/s/l5j2hh2e45y650w/3f58825fe229a8f.m3u8
 https://aputra.xyz/iptv/hls-live/m3u-id=tvri
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/eLjHSKm.png?v=1.1.1.1" group-title="Nasional" tvg-id="Nusantara TV" tvg-name="Nusantara TV", NTV
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/eLjHSKm.png?v=1.1.1.1" group-title="Nasional" tvg-id="Nusantara TV" tvg-name="Nusantara TV", NTV
 #https://dl.dropbox.com/s/9spy8zyvs6chjfh/a6109060c7f55cc.m3u8
 http://sin1.siar.us/bci/live/playlist.m3u8
 
