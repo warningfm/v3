@@ -16,7 +16,8 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-4
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/QTEjMpg.png?v=1.1.1.1" group-title="Nasional" tvg-id="Trans 7" tvg-name="Trans 7", Trans7
 https://visionplus-stream.visionplus.id/live/eds/TRANS7-transformer/sa_dash/TRANS7-transformer.mpd
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/lQMICXV.png?v=1.0.0.1" group-title="Nasional" tvg-id="Trans TV" tvg-name="Trans TV", TransTV
-https://visionplus-stream.visionplus.id/live/eds/TRANSTV-autobot/sa_dash/TRANSTV-autobot.mpd
+#https://visionplus-stream.visionplus.id/live/eds/TRANSTV-autobot/sa_dash/TRANSTV-autobot.mpd
+https://siapapunitu.github.io/Playlist/0/0/0/0/0/0/0/0/IPTV-PREMIUM/Auth=0-9171/Ocod=--------------------------------------------------------------------------------enc/Home/TransTV-null.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/45Vmwv5.png?v=1.1.1.1" group-title="Nasional" tvg-id="GTV" tvg-name="GTV", GTV
 https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_dash/GTV-Perjuangan.mpd
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/jqNYjGu.png?v=1.1.1.1" group-title="Nasional" tvg-id="NET TV" tvg-name="NET TV", NET.
