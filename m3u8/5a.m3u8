@@ -262,14 +262,10 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/index.m
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tl7ePSI.png?v=1.0.0.1" group-title="Religious" tvg-id="Ajwa TV", Ajwa TV
 https://edge.nim.mivo.tv/video/assets/oops.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wQiH6tm.png?v=1.0.0.1" group-title="Religious" tvg-id="AL-BAHJAH TV", AL-BAHJAH TV
-https://e1.siar.us/albahjahtv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vJPneCu.png?v=1.0.0.1" group-title="Religious" tvg-id="TV9 Nu", TV9 Nu
 https://wms.klikhost.net/tv9/tv9/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sRHJJ5c.png?v=1.0.0.1" group-title="Religious" tvg-id="Tawaf TV", Tawaf TV
 https://stream.ninmedia.tv/tawaftv/rtmp.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YHsUiwa.png?v=1.0.0.1" group-title="Religious" tvg-id="MQTV", MQTV
-https://v3.siar.us/syiarmedia/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/evrRgFH.png?v=1.0.0.1" group-title="Religious" tvg-id="TV Mu", TV Mu
 https://stream.ninmedia.tv/tvmu/udp.stream/playlist.m3u8
 #EXTINF:1 tvg-logo="https://i.imgur.com/CwsvvSn.png?v=1.0.0.1" group-title="Religious" tvg-id="British Muslim", British Muslim
@@ -296,8 +292,6 @@ https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/pZrvlvD.png?v=1.0.0.1" group-title="Movies", IMC
 https://feed.play.mv/live/10005200/Xe5PWNrbRZ/master.m3u8
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Ohz1FFf.png?v=1.0.0.1" group-title="Movies", Bioskop Indonesia
-http://ott-navigator.my.id/USEETV-MPD/master.m3u8?id=bioskopindonesia
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/zEnolCx.png?v=1.0.0.1" group-title="Movies", Sinema Indonesia
 http://rr.dens.tv/h/h155/index2.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/M10gw6I.png?v=1.0.0.1" group-title="Movies", BOO HD
