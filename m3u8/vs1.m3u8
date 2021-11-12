@@ -139,28 +139,40 @@ https://liveanevia.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 
 #EXTINF:-1 group-title=" Local " tvg-logo="https://warningfm.github.io/v3/img/DATJMK7.png?v=1.0.0.1", Jawapos TV
 http://122.248.43.138:1935/ch6/myStream/live.m3u8
+
 #EXTINF:-1 group-title=" Local " tvg-logo="https://warningfm.github.io/v3/img/EYJ0ED2.png?v=1.0.0.1", Jakarta Globe News Channel
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+
 #EXTINF:-1 group-title=" Local " tvg-logo="https://warningfm.github.io/v3/img/pwxmNpN.png?v=1.0.0.1", Elshinta TV
 http://rrelshinta.dens.tv/s/s10/index2.m3u8
+
 #EXTINF:-1 group-title=" Local " tvg-logo="https://warningfm.github.io/v3/img/OphvJ1c.png?v=1.0.0.1", Citra TV
 http://122.248.43.138:1935/ch28/myStream/live.m3u8
+
 #EXTINF:-1 group-title=" Local " tvg-logo="https://warningfm.github.io/v3/img/tlH0Quf.png?v=1.0.0.1", Sakti TV
 https://v2.siar.us/saktitv/livestream/playlist.m3u8
+
 #EXTINF:-1 group-title=" Local " tvg-logo="https://warningfm.github.io/v3/img/YTiEeu7.png?v=1.0.0.1", ADi TV
 https://v2.siar.us/aditv/livestream/playlist.m3u8
+
 #EXTINF:-1 group-title=" Local " tvg-logo="https://warningfm.github.io/v3/img/ehDWytF.png?v=1.0.0.1", TVKU
 http://103.30.1.14:8080/hls/live.m3u8
+
 #EXTINF:-1 group-title=" Local " tvg-logo="https://warningfm.github.io/v3/img/Z5cNFNk.png?v=1.0.0.1", Inspira TV
 https://v2.siar.us/inspiratv/live/playlist.m3u8
+
 #EXTINF:-1 group-title=" Local " tvg-logo="https://warningfm.github.io/v3/img/tIFiAdl.png?v=1.0.0.1", Digdaya TV
 https://ms.digdaya.tv/live/digdayatv/playlist.m3u8
+
 #EXTINF:-1 group-title=" Local " tvg-logo="https://warningfm.github.io/v3/img/45ukWAy.png?v=1.0.0.1", duta TV
 https://v2.siar.us/dutatv/live/playlist.m3u8
+
 #EXTINF:-1 group-title=" Local " tvg-logo="https://warningfm.github.io/v3/img/zaZKVrQ.png?v=1.0.0.1", JekTv Jambi
 http://128.199.90.131:1935/jektv/myStream/playlist.m3u8
+
 #EXTINF:-1 group-title=" Local " tvg-logo="https://warningfm.github.io/v3/img/sFAzDq9.png?v=1.0.0.1", btv Balikpapan
 http://122.248.43.138:1935/ch10/myStream/playlist.m3u8
+
 #EXTINF:-1 group-title=" Local " tvg-logo="https://warningfm.github.io/v3/img/mnFjEw1.png?v=1.0.0.1", Padang TV
 http://122.248.43.138:1935/ch16/myStream/playlist.m3u8
 
