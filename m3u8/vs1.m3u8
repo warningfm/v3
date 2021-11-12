@@ -256,6 +256,11 @@ https://liveanevia.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/Dy7OlLF.png?v=1.0.0.1" group-title="Kids" tvg-id="Cbeebies BBC" tvg-name="Cbeebies BBC", Cbeebies BBC
+https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/SNzeDbZ.png?v=1.0.0.1" group-title="Kids" tvg-id="Horee" tvg-name="Horee", Horee
 https://edge.nim.mivo.tv/video/assets/oops.m3u8
