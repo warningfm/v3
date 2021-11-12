@@ -673,53 +673,64 @@ http://rr.dens.tv/h/h155/index2.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title=" HBO GO " tvg-logo="https://i.imgur.com/ew9mSea.png?v=1.1.1.1", Cinemax HD
-https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
+#EXTINF:-1 group-title=" HBO GO " tvg-logo="https://warningfm.github.io/v3/img/aMtD0A0.png?v=1.0.0.1" tvg-id="HBO HD" tvg-name="HBO HD", HBO HD
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title=" HBO GO " tvg-logo="https://warningfm.github.io/v3/img/aMtD0A0.png?v=1.0.0.1", HBO HD
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title=" HBO GO " tvg-logo="https://i.imgur.com/AQGtEa0.png?v=1.1.1.1", HBO Family HD
-https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title=" HBO GO " tvg-logo="https://i.imgur.com/RmTcwA0.png?v=1.1.1.1", HBO Hits HD
+#EXTINF:-1 group-title=" HBO GO " tvg-logo="https://warningfm.github.io/v3/img/RmTcwA0.png?v=1.1.1.1" tvg-id="HBO Hits HD" tvg-name="HBO Hits HD", HBO Hits HD
 https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title=" HBO GO " tvg-logo="https://warningfm.github.io/v3/img/EqcNQOc.png?v=1.0.0.1", HBO Signature HD
+#EXTINF:-1 group-title=" HBO GO " tvg-logo="https://warningfm.github.io/v3/img/EqcNQOc.png?v=1.0.0.1" tvg-id="HBO Signature HD" tvg-name="HBO Signature HD", HBO Signature HD
 https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title=" HBO GO " tvg-logo="https://warningfm.github.io/v3/img/AQGtEa0.png?v=1.1.1.1" tvg-id="HBO Family HD" tvg-name="HBO Family HD", HBO Family HD
+https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title=" HBO GO " tvg-logo="https://warningfm.github.io/v3/img/ew9mSea.png?v=1.0.0.1" tvg-id="Cinemax HD" tvg-name="Cinemax HD", Cinemax HD
+https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 
 ########################################################   MalaysiaTV  ########################################################
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/YoWxeld.png?v=1.0.0.1" group-title="Malaysia" tvg-id="Astro Citra HD" tvg-name="Astro Citra HD", Astro Citra
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/clevM5Z.png?v=1.1.1.1" group-title="Malaysia" tvg-id="Astro Oasis HD" tvg-name="Astro Oasis HD", Astro Oasis
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Bsy0Tz5.png?v=1.0.0.1" group-title="Malaysia" tvg-id="Astro AEC HD" tvg-name="Astro AEC HD", Astro AEC
 http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/ZAMtj0S.png?v=1.1.1.1" group-title="Malaysia" tvg-id="TV1 HD" tvg-name="TV1 HD", TV1
 http://50.7.161.82:8278/streams/d/tv1_pye/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/s1mRWex.png?v=1.0.0.1" group-title="Malaysia" tvg-id="TV2" tvg-name="TV2", TV2
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oW0riHe.jpg?v=1.1.1.1" group-title="Malaysia" tvg-id="TV3" tvg-name="TV3", TV3
 http://50.7.161.82:8278/streams/d/tv3_pye/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/2SwIYxt.png?v=1.0.0.1" group-title="Malaysia" tvg-id="NTV7" tvg-name="NTV7", NTV7
 http://50.7.161.82:8278/streams/d/ntv7_pye/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/DGGXGzn.png?v=1.1.1.1" group-title="Malaysia" tvg-id="8TV" tvg-name="8TV", 8TV
 http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/f2JzaMd.png?v=1.0.0.1" group-title="Malaysia" tvg-id="TV9" tvg-name="TV9", TV9
 http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/1tW4dph.png?v=1.1.1.1" group-title="Malaysia", Drama Sangat
 http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/PcPDrl9.png?v=1.0.0.1" group-title="Malaysia" tvg-id="IKIM", IKIM
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZojuN7v.png?v=1.1.1.1" group-title="Malaysia" tvg-id="Al-Hijrah" tvg-name="Al-Hijrah", TV AlHijrah
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 
@@ -741,28 +752,40 @@ https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.m
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/XgrBSh3.png?v=1.0.0.1" group-title="Fashion" tvg-id="Fashion TV HD" tvg-name="Fashion TV HD", Fashion TV HD
 https://fashiontv-fashiontv-loriginal-fr.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/OsbTFpv.png?v=1.0.0.1" group-title="Fashion" tvg-id="Fashion TV HD" tvg-name="Fashion TV HD", Fashion TV
 https://dl.dropboxusercontent.com/s/seta5w6k1az7rco/fb8acef7631528b.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/JbGsuDd.png?v=1.0.0.1" group-title="Fashion", HD Fashion
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/XpJEZGg.jpg?v=1.0.0.1" group-title="Fashion", ID Fashion
 https://idfashion.cdn-03.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/8X9FDe3.png?v=1.0.0.1" group-title="Fashion", Global Fashion Channel
 https://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/Geh61yn.png?v=1.0.0.1" group-title="Fashion", FTV UHD
 https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/LQqABbX.png?v=1.0.0.1" group-title="Adult Lifestyle & Interests", Fashion TV Midnight Secrets
 https://dl.dropboxusercontent.com/s/wl1l0b3anjk1zop/fb8acef7631528c.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/C6gt0sE.png?v=1.0.0.1" group-title="Adult Lifestyle & Interests", Playboy TV HD
 http://compitv.info:8080/MauricioCavieres231/JTFCEgyLOa/49334
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/C6gt0sE.png?v=1.0.0.1" group-title="Adult Lifestyle & Interests", Playboy TV SD
 http://compitv.info:8080/MauricioCavieres231/JTFCEgyLOa/49321
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2twpda0.png?v=1.0.0.1" group-title="Adult Lifestyle & Interests", A3 Bikini Network
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_360p.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pnhzRFh.png?v=1.0.0.1" group-title="Adult Lifestyle & Interests", Kaloopy TV
 https://d3kefxscf5gq6l.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Website/126.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CPFKDuI.png?v=1.0.0.1" group-title="Adult Lifestyle & Interests", JASMIN TV
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mjgoROa.jpg?v=1.0.0.1" group-title="Adult Lifestyle & Interests", Jenny Live
 https://59ec5453559f0.streamlock.net/JennyLive/smil:JennyLiveWEB/playlist.m3u8
 
@@ -770,26 +793,36 @@ https://59ec5453559f0.streamlock.net/JennyLive/smil:JennyLiveWEB/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/0Y8SVWN.png?v=8.8.4.4" group-title="Hindi", B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/C5EpW33.png?v=8.8.4.4" group-title="Hindi", Bflix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/4L7BYKM.png?v=8.8.4.4" group-title="Hindi", &Pictures
 https://f8e7y4c6.ssl.hwcdn.net/andpicssd/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/ceBQDFq.png?v=8.8.4.4" group-title="Hindi", Zee TV
 https://feed.play.mv/live/10005200/HXW3hMDfn5/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/2UQNzYB.png?v=8.8.4.4" group-title="Hindi", Zing
 https://f8e7y4c6.ssl.hwcdn.net/zing/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/gSsIODC.png?v=8.8.4.4" group-title="Hindi", Zee Cinema
 https://feed.play.mv/live/1009/U4igJyzIbn/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/Akf09tQ.png?v=8.8.4.4" group-title="Hindi", Zee Bollywood
 https://f8e7y4c6.ssl.hwcdn.net/classic/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/yvfUpGV.png?v=8.8.4.4" group-title="Hindi" tvg-id="Zee" tvg-name="Zee", Zee Bioskop
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xKDJCXJ.jpg?v=8.8.4.4" group-title="Hindi", Zee Action
 https://feed.play.mv/live/10005200/ABTuyrBr22/master.m3u8
+
 #EXTINF:-1 tvg-id="COLORS" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Colors.png?raw=true" group-title="Hindi",  colors HD 
 https://feed.play.mv/live/10005200/6G8zJ9XsyB/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vV2pv50.png?v=8.8.4.4" group-title="Hindi", &tv
 https://feed.play.mv/live/1009/Cs525PFAub/master.m3u8
 
@@ -797,14 +830,19 @@ https://feed.play.mv/live/1009/Cs525PFAub/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/93cFv35.png?v=1.0.0.1" group-title="Radio", mbah nunung Online
 http://stream.zeno.fm/5y0exp3phzzuv
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EdYYUt2.png?v=1.0.0.1" group-title="Radio", Radio Bintang Tenggara
 http://rbtfm.cloudns.info:9560/rbtfm
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LOwBoYR.png?v=1.0.0.1" group-title="Radio", Radio Sritanjung FM
 http://play.xajist.com:8208/stream
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/93cFv35.png?v=1.0.0.1" group-title="Radio", Radio Vis FM
 http://s4.vinhostmedia.com:8000/streamaac
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/93cFv35.png?v=1.0.0.1" group-title="Radio", Radio GBS FM
 https://s7.alhastream.com/radio/8090/radio?1609467814144
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jR4Foab.jpg?v=1.0.0.1" group-title="Radio", Radio RAYA FM
 http://45.64.98.181:8323/stream
 
@@ -812,6 +850,7 @@ http://45.64.98.181:8323/stream
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/i8l6OHc.png?v=1.1.1.1" group-title="USEETV" tvg-id="Trans 7", Trans 7
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=3416a75f4cea9109507cacd8e2f2aefc268ef7e5a44f541a7cbde7626ef57566
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/n8qUiYO.png?v=1.1.1.1" group-title="USEETV" tvg-id="Trans TV", Trans TV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d645920e395fedad7bbbed0eca3fe2e0268ef7e5a44f541a7cbde7626ef57566
 
@@ -819,6 +858,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/luud37p.png?v=1.0.0.1" group-title="Vidio.com", SCTV 
 https://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a46a41c2a2a7270517f5ce8dd2f48fc68d
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/9Xq5fsL.png?v=1.0.0.1" group-title="Vidio.com", Indosiar 
 https://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d696a41c2a2a7270517f5ce8dd2f48fc68d
 
