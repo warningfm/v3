@@ -584,6 +584,9 @@ http://210.210.155.35/qwr9ew/s/s32/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xKDJCXJ.jpg?v=8.8.4.4" group-title="Hindi", Zee Action
 http://sneh-zee5tv-production.up.railway.app/?c=0-9-zeeaction
 
+#EXTINF:-1 tvg-logo="https://www.infotelevisi.com/asset/images/tv/sony_max_tv_asia.jpg?v=1.0.0.1" group-title="Hindi", SONY MAX HD
+https://feed.play.mv/live/10005200/Xe5PWNrbRZ/master.m3u8
+
 ########################################################     Radio     ########################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/93cFv35.png?v=1.0.0.1" group-title="Radio", mbah nunung Online
