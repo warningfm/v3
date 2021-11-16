@@ -337,7 +337,7 @@ https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/WVpnAKn.png?v=4.2.2.2" group-title="Knowledge", Discovery Asia HD
 https://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Knowledge" tvg-logo="https://warningfm.github.io/v3/img/fgO3tyz.png?v=1.0.0.1", Discovery Science HD
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/fgO3tyz.png?v=1.0.0.1" group-title="Knowledge", Discovery Science HD
 https://feed.play.mv/live/1009/TRKXs71yTR/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/eohcpWr.png?v=4.2.2.2" group-title="Knowledge", CGTN
