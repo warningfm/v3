@@ -344,12 +344,10 @@ https://feed.play.mv/live/1009/TRKXs71yTR/master.m3u8
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BzbgaxF.png?v=4.2.2.2" group-title="Knowledge", Love Nature HD
-#https://bamus-eng-roku.amagi.tv/playlist.m3u8
-https://feed.play.mv/live/1011/I1AjNshoqG/master.m3u8
+https://bamus-eng-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5znakl6.png?v=4.2.2.2" group-title="Knowledge", Smithsonian Channel
-#https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
-https://feed.play.mv/live/1009/Ffcnij939j/master.m3u8
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vwq6lFW.png?v=4.2.2.2" group-title="Knowledge", TV Edukasi
 http://202.169.224.76:1935/live/tve.stream/playlist.m3u8
@@ -533,9 +531,6 @@ https://dl.dropbox.com/s/wl1l0b3anjk1zop/fb8acef7631528c.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/C6gt0sE.png?v=1.0.0.1" group-title="Adult Lifestyle & Interests", Playboy TV HD
 http://compitv.info:8080/MauricioCavieres231/JTFCEgyLOa/49334
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/C6gt0sE.png?v=1.0.0.1" group-title="Adult Lifestyle & Interests", Playboy TV SD
-http://compitv.info:8080/MauricioCavieres231/JTFCEgyLOa/49321
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2twpda0.png?v=1.0.0.1" group-title="Adult Lifestyle & Interests", A3 Bikini Network
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_360p.m3u8
