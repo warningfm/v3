@@ -828,6 +828,9 @@ https://feed.play.mv/live/10005200/6G8zJ9XsyB/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vV2pv50.png?v=8.8.4.4" group-title="Hindi", &tv
 https://feed.play.mv/live/1009/Cs525PFAub/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2PbVQdP.jpg?v=1.0.0.1" group-title="Hindi", SONY MAX HD
+https://feed.play.mv/live/10005200/Xe5PWNrbRZ/master.m3u8
+
 ########################################################     Radio     ########################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/93cFv35.png?v=1.0.0.1" group-title="Radio", mbah nunung Online
