@@ -514,6 +514,9 @@ https://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/5znakl6.png?v=1.0.0.1" group-title="Knowledge", Smithsonian Channel
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/fgO3tyz.png?v=1.0.0.1" group-title="Knowledge", Discovery Science HD
+https://feed.play.mv/live/1009/TRKXs71yTR/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/AiXXYZK.png?v=1.0.0.1" group-title="Knowledge", National Geographic Abu Dhabi
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 
