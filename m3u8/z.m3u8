@@ -29,7 +29,7 @@ https://conversant.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ISLk55hTmFU/YMOFgw3MJBI/AAAAAAAABEY/f-5hIh6bHC4D_roTzfsdwpuV0Xu7wGGJQCLcBGAsYHQ/s0/Jj4S2E4.png?v=1.0.0.1" group-title="tvN150N" tvg-id="Metro TV" tvg-name="Metro TV", Metro TV
-https://edge.medcom.id/live-edge/smil:medcom.smil/playlist.m3u8
+https://liveanevia.mncnow.id/live/eds/MetroTV/sa_dash_vmx/MetroTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
@@ -151,7 +151,7 @@ https://dl.dropbox.com/s/9spy8zyvs6chjfh/a6109060c7f55cc.m3u8
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-T4h9tq-CBc4/YMOM_KdQoEI/AAAAAAAABF0/RsmXftU94LMXunyA_hcL6kXlZ7L307NbQCLcBGAsYHQ/s0/60lNdUo.png?v=1.1.1.1" group-title="tvN150N" tvg-id="MyTV", MyTV
-https://cdn4.mbahnunungonline.net/m3u8/id/mytv.m3u8
+http://cdn4.mbahnunungonline.net/m3u8/loc/f9973976ebde68c.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-O9z5Vvo6fHw/YRDR0xqhEPI/AAAAAAAABJc/2VLGg2zFjgA5R_ykdh-LuoQV6m7s4JU7gCLcBGAsYHQ/s0/EYJ0ED2.png?v=1.0.0.1" group-title="tvN150N", Jakarta Globe News Channel
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
