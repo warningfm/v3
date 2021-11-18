@@ -5,7 +5,8 @@
 https://liveanevia.mncnow.id/live/eds/RCTI-Indonesia/sa_dash/RCTI-Indonesia.mpd
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/kHUcKkK.png?v=1.1.1.1" group-title="Nasional" tvg-id="SCTV" tvg-name="SCTV", SCTV
-https://liveanevia.mncnow.id/live/eds/SCTV-intel/sa_dash/SCTV-intel.mpd
+#https://liveanevia.mncnow.id/live/eds/SCTV-intel/sa_dash/SCTV-intel.mpd
+https://anevia114.mncnow.id:443/live/eds/SCTV/sa_hls/SCTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/AWnnWow.png?v=1.1.1.1" group-title="Nasional" tvg-id="MNC TV" tvg-name="MNC TV", MNCTV
 https://liveanevia.mncnow.id/live/eds/MNCTV-Merdeka/sa_dash/MNCTV-Merdeka.mpd
@@ -20,10 +21,12 @@ https://liveanevia.mncnow.id/live/eds/INDOSIAR-ryzen/sa_dash/INDOSIAR-ryzen.mpd
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/QTEjMpg.png?v=1.1.1.1" group-title="Nasional" tvg-id="Trans 7" tvg-name="Trans 7", Trans7
-https://liveanevia.mncnow.id/live/eds/TRANS7-transformer/sa_dash/TRANS7-transformer.mpd
+#https://liveanevia.mncnow.id/live/eds/TRANS7-transformer/sa_dash/TRANS7-transformer.mpd
+https://anevia114.mncnow.id:443/live/eds/Trans7/sa_hls/Trans7.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/lQMICXV.png?v=1.0.0.1" group-title="Nasional" tvg-id="Trans TV" tvg-name="Trans TV", TransTV
-https://liveanevia.mncnow.id/live/eds/TRANSTV-autobot/sa_dash/TRANSTV-autobot.mpd
+#https://liveanevia.mncnow.id/live/eds/TRANSTV-autobot/sa_dash/TRANSTV-autobot.mpd
+https://anevia114.mncnow.id:443/live/eds/TransTV/sa_hls/TransTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/45Vmwv5.png?v=1.1.1.1" group-title="Nasional" tvg-id="GTV" tvg-name="GTV", GTV
 https://liveanevia.mncnow.id/live/eds/GTV-Perjuangan/sa_dash/GTV-Perjuangan.mpd
