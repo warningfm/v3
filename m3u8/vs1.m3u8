@@ -159,7 +159,7 @@ https://v2.siar.us/aditv/livestream/playlist.m3u8
 http://103.30.1.14:8080/hls/live.m3u8
 
 #EXTINF:-1 group-title=" Local " tvg-logo="https://warningfm.github.io/v3/img/Z5cNFNk.png?v=1.0.0.1", Inspira TV
-https://v2.siar.us/inspiratv/live/playlist.m3u8
+http://cdn4.mbahnunungonline.net/m3u8/loc/ca07a749e91966b.m3u8
 
 #EXTINF:-1 group-title=" Local " tvg-logo="https://warningfm.github.io/v3/img/tIFiAdl.png?v=1.0.0.1", Digdaya TV
 https://ms.digdaya.tv/live/digdayatv/playlist.m3u8
