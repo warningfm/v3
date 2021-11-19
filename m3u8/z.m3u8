@@ -113,35 +113,35 @@ https://liveanevia.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-EFU3lJssyuM/YMOM_-CJMyI/AAAAAAAABF4/IBh28cs5qsAxSDa31MvrK3nE2E3G7qWNwCLcBGAsYHQ/s0/sRHJJ5c.png?v=1.0.0.1" group-title="tvN150N" tvg-id="Tawaf TV" tvg-name="Tawaf TV", Tawaf TV
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/sRHJJ5c.png?v=1.0.0.1" group-title="tvN150N" tvg-id="Tawaf TV" tvg-name="Tawaf TV", Tawaf TV
 https://liveanevia.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-6M_3mWnVcfw/YRDSRsm63tI/AAAAAAAABJk/YN15IknImOkW4yAVLbMsBAYFrof0hm14ACLcBGAsYHQ/s0/evrRgFH.png?v=1.1.1.1" group-title="tvN150N" tvg-id="Muhammadiyah TV" tvg-name="Muhammadiyah TV", tvMu
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/evrRgFH.png?v=1.1.1.1" group-title="tvN150N" tvg-id="Muhammadiyah TV" tvg-name="Muhammadiyah TV", tvMu
 https://liveanevia.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-QpdsdjwNBYU/YRJBgcfX-AI/AAAAAAAABKs/MHFpehlttg06dMsLA5X-3u9j6RHUEaQSACLcBGAsYHQ/s0/Tj2eF2o.png?v=1.0.0.1" group-title="tvN150N" tvg-id="Bali TV" tvg-name="Bali TV", Bali TV
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/Tj2eF2o.png?v=1.0.0.1" group-title="tvN150N" tvg-id="Bali TV" tvg-name="Bali TV", Bali TV
 https://liveanevia.mncnow.id/live/eds/BaliTV_Timeshift/sa_dash_timeshift/BaliTV_Timeshift.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-umm2rU5ZOCI/YMONAKlHVUI/AAAAAAAABGA/RixXSVbdPWYLPVX14qeZZj6uCJoZdnjdgCLcBGAsYHQ/s0/yvU25Cp.png?v=1.1.1.1" group-title="tvN150N" tvg-id="JakTV" tvg-name="JakTV", JakTV
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/yvU25Cp.png?v=1.1.1.1" group-title="tvN150N" tvg-id="JakTV" tvg-name="JakTV", JakTV
 https://liveanevia.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-WQiMkO6GupA/YMORsX8cQ9I/AAAAAAAABG8/V21FK0gqOhoyXpHd3ldPgTGbld5svrPcQCLcBGAsYHQ/s0/KawOb6q.png?v=1.0.0.1" group-title="tvN150N" tvg-id="DAAI TV" tvg-name="DAAI TV", DAAI TV
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/KawOb6q.png?v=1.0.0.1" group-title="tvN150N" tvg-id="DAAI TV" tvg-name="DAAI TV", DAAI TV
 https://liveanevia.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-OGC292kJLfg/YMORsSBpsLI/AAAAAAAABG4/YnX_zN-MIAwxw-Qfvg5US6xvqlEke6cYACLcBGAsYHQ/s0/4Yk5Anu.png?v=1.1.1.1" group-title="tvN150N" tvg-id="SEA Today" tvg-name="SEA Today", SEA Today
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/4Yk5Anu.png?v=1.1.1.1" group-title="tvN150N" tvg-id="SEA Today" tvg-name="SEA Today", SEA Today
 https://liveanevia.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-fWptaGwAu_4/YROhuhWnZAI/AAAAAAAABOs/EV7vqN3WHnckLRH37Zs7X1G0E8ZESC9SgCLcBGAsYHQ/s0/6FcTok4.png?v=1.0.0.1" group-title="tvN150N" tvg-id="Al Sunnah" tvg-name="Al Sunnah", Al Sunnah
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/6FcTok4.png?v=1.0.0.1" group-title="tvN150N" tvg-id="Al Sunnah" tvg-name="Al Sunnah", Al Sunnah
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-im1wyciwT3A/YRa4drCVz6I/AAAAAAAABTE/qy8luMe5yTowjdCdsuu-m4WVuYlZ226TACLcBGAsYHQ/s0/eLjHSKm.png?v=1.1.1.1" group-title="tvN150N" tvg-id="Nusantara TV", Nusantara TV
