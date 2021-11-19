@@ -4,7 +4,7 @@
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/rA0rUsj.png?v=1.1.1.1" group-title="Nasional" tvg-id="RCTI" tvg-name="RCTI", RCTI
 https://liveanevia.mncnow.id/live/eds/RCTI-Indonesia/sa_dash/RCTI-Indonesia.mpd
 
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/kHUcKkK.png?v=1.1.1.1" group-title="Nasional" tvg-id="SCTV" tvg-name="SCTV", SCTV
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Zpy57qG.png?v=1.1.1.1" group-title="Nasional" tvg-id="SCTV" tvg-name="SCTV", SCTV
 #https://liveanevia.mncnow.id/live/eds/SCTV-intel/sa_dash/SCTV-intel.mpd
 https://anevia114.mncnow.id:443/live/eds/SCTV/sa_hls/SCTV.m3u8
 
