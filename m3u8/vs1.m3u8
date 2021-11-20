@@ -853,10 +853,10 @@ http://45.64.98.181:8323/stream
 
 ########################################################     USEETV    ########################################################
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/i8l6OHc.png?v=1.1.1.1" group-title="USEETV" tvg-id="Trans 7", Trans 7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/QTEjMpg.png?v=1.1.1.1" group-title="USEETV" tvg-id="Trans7.id" tvg-name="Trans 7", TRANS7
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=3416a75f4cea9109507cacd8e2f2aefc268ef7e5a44f541a7cbde7626ef57566
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/n8qUiYO.png?v=1.1.1.1" group-title="USEETV" tvg-id="Trans TV", Trans TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/RnrimdT.png?v=1.1.1.1" group-title="USEETV" tvg-id="TransTV.id" tvg-name="Trans TV", TRANSTV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d645920e395fedad7bbbed0eca3fe2e0268ef7e5a44f541a7cbde7626ef57566
 
 ########################################################     Vidio     ########################################################
