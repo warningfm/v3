@@ -110,11 +110,11 @@ https://edge.nim.mivo.tv/video/assets/oops.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uAHJS7W.png?v=1.0.0.1" group-title="Kids", Astro Ceria HD
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xnK3XBL.png?v=1.0.0.1" group-title="Kids" tvg-id="Baby TV HD", Baby TV HD
-http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
+https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xXz1Lht.png?v=1.0.0.1" group-title="Kids", Boomerang
-http://198.16.106.62:8278/streams/d/Boomerang/playlist.m3u8
+https://vips-livecdn.fptplay.net/hda3/boomerang_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OrEXAse.png?v=1.0.0.1" group-title="Kids", Cartoon Network
-https://edge.nim.mivo.tv/video/assets/oops.m3u8
+https://vips-livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/asDF7GJ.png?v=1.1.1.1" group-title="Kids" tvg-id="Nick Junior", Nick Jr
 http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SNzeDbZ.png?v=1.0.0.1" group-title="Kids", Horee
