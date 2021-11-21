@@ -186,7 +186,7 @@ http://203.154.177.124:8899/live/ch8/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nLk6uxc.png?v=1.0.0.1" group-title="News", CNN International
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GFOQVEf.png?v=1.0.0.1" group-title="News" tvg-id="France24" tvg-name"", France24
-http://rr2.dens.tv/s/s22/index.m3u8
+http://f24hls-i.akamaihd.net/hls/live/221147-b/F24_EN_HI_HLS/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6fEGqfK.png?v=1.0.0.1" group-title="News" tvg-id="News Asia", Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BwijqtC.png?v=1.0.0.1" group-title="News" tvg-id="NHK World HD", NHK World Japan
@@ -428,7 +428,7 @@ http://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5znakl6.png?v=4.2.2.2" group-title="Backup", Smithsonian
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/jqNYjGu.png?v=1.1.1.1" group-title="Backup", NET.
-http://sindoro.axc.my.id:25461/live/oxygen/VU5ZBKiIBr/32.ts
+http://203.154.177.124:8899/live/ch23/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VKAWqEO.png?v=1.1.1.1" group-title="RCTI+" tvg-id="RCTI", RCTI
 https://cdn4.mbahnunungonline.net/m3u8/id/7cb6654ebec98b7.m3u8
