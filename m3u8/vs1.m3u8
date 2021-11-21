@@ -446,12 +446,6 @@ https://visionplus-stream.visionplus.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/sy3NbII.png?v=1.0.0.1" group-title="Sports" tvg-id="beIN Sports 2" tvg-name="beIN Sports 2", beIN Sports 2
 https://visionplus-stream.visionplus.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/5QgXGkf.png?v=1.0.0.1" group-title="Sports" tvg-id="Champion TV 1" tvg-name="Champion TV 1", Champions TV 1
-https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/T8PWdwA.png?v=1.0.0.1" group-title="Sports" tvg-id="Champion TV 2" tvg-name="Champion TV 2", Champions TV 2
-https://edge.nim.mivo.tv/video/assets/oops.m3u8
-
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/cokkw7Z.png?v=1.0.0.1" group-title="Sports" tvg-id="Golf" tvg-name="Golf", Golf
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/playlist.m3u8
 
@@ -469,6 +463,12 @@ https://liveanevia.mncnow.id/live/eds/soccerchannel-NonLiga1/sa_dash_vmx/soccerc
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/KEEJm7m.jpg?v=1.0.0.1" group-title="Sports" tvg-id="Fight Sports HD" tvg-name="Fight Sports HD", Fight Sports HD
 https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b2N165i.png?v=1.0.0.1" group-title="Sports" tvg-id="Sony Ten 1" tvg-name="Sony Ten 1", Sony Ten 1
+https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h9Vvsnz.jpg?v=1.0.0.1" group-title="Sports" tvg-id="Sony Ten 2" tvg-name="Sony Ten 2", Sony Ten 2
+https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
 
 ########################################################   Knowledge   ########################################################
 
