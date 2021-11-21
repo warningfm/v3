@@ -48,7 +48,7 @@ https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/jqNYjGu.png?v=1.0.0.1" group-title="Nasional" tvg-id="NET TV" tvg-name="NET TV", NET.ᴴᴰ
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/jqNYjGu.png?v=1.0.0.1" group-title="Nasional" tvg-id="NET TV" tvg-name="NET TV", NET.
 https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -103,7 +103,7 @@ http://rr3.dens.tv/s/s88/S4/mnf.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/od0w7R2.png?v=1.1.1.1" group-title="Nasional" tvg-id="O Channel" tvg-name="O Channel", O Channel HD
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/od0w7R2.png?v=1.1.1.1" group-title="Nasional" tvg-id="O Channel" tvg-name="O Channel", O Channelᴴᴰ
 http://cdn4.mbahnunungonline.net/m3u8/loc/d4ff175b1e2d419.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/9JPHanf.png?v=1.0.0.1" group-title="Nasional" tvg-id="mentari tv" tvg-name="mentari tv", Mentari TV
