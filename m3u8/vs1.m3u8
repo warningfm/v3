@@ -357,7 +357,7 @@ https://feed.play.mv/live/10005200/aGu172is5o/master.m3u8
 http://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/fgUVz5m.png?v=1.0.0.1" group-title="News", Al Jazeera HD
-https://dl.dropbox.com/s/dh7sdw6qeu49yri/f5f5c18cf037918.m3u8
+https://dl.dropboxusercontent.com/s/dh7sdw6qeu49yri/f5f5c18cf037918.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/xSCGVhz.png?v=1.0.0.1" group-title="News", AL Manar TV
 https://manar.live/iptv/index.m3u8
@@ -420,7 +420,7 @@ https://liveanevia.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 https://liveanevia.mncnow.id/live/eds/MNCNews/sa_dash_vmx/MNCNews.mpd
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/1Mtx9mY.png?v=1.0.0.1" group-title="News" tvg-id="CNN Indonesia", CNN Indonesia
-https://dl.dropbox.com/s/oxlj7mwpf13ucok/d12f0b99ed1f070.m3u8
+https://dl.dropboxusercontent.com/s/oxlj7mwpf13ucok/d12f0b99ed1f070.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/uJTTmk8.png?v=1.0.0.1" group-title="News" tvg-id="CNBC Indonesia", CNBC Indonesia 
 http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
@@ -429,7 +429,7 @@ http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 https://dl.dropbox.com/s/echuwg82ufszf2l/270f72deeb5843f.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/aJhpmgf.png?v=1.0.0.1" group-title="News" tvg-id="Kompas TV", Kompas TV
-https://dl.dropbox.com/s/wbaz1qine8wecu4/ae5f9d6bcd610b6.m3u8
+https://dl.dropboxusercontent.com/s/wbaz1qine8wecu4/ae5f9d6bcd610b6.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/NTIQcW0.png?v=1.0.0.1" group-title="News" tvg-id="Metro TV", Metro TV
 https://liveanevia.mncnow.id/live/eds/MetroTV-RTX/sa_dash/MetroTV-RTX.mpd
