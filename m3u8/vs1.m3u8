@@ -875,11 +875,7 @@ https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZmY1MDA1ZDUtNmMzMC0zOGI0LTlkN2YtYWQ2ZWU4MmM2OTAz
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/GAgWHvF.png?v=1.0.0.1", Sky News HD
-#https://stream.skynewsarabia.com/hls/sna.m3u8
 https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/jJzM6CM.png?v=1.0.0.1" tvg-id="Travel Channel" tvg-name"Travel Channel", Travel Channel
 https://feed.play.mv/live/10005200/2dPCepc9DA/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-yAoaEjGMwtg/YMOFhdLK3NI/AAAAAAAABEg/aL3SuCSNJJoU5RNuy6T1ctbHz21na8XxACLcBGAsYHQ/s0/QTEjMpg.png?v=1.1.1.1" group-title="denstv", Trans 7
-http://cdn4.mbahnunungonline.net/m3u8/id/cdd283c9d3d43b5.m3u8
