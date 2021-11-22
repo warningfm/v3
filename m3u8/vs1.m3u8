@@ -418,6 +418,11 @@ https://visionplus-stream.visionplus.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/pmnxhBQ.png?v=1.0.0.1" group-title="Sports" tvg-id="Fight Sports HD" tvg-name="Fight Sports HD", Fight Sports HD
+https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/cokkw7Z.png?v=1.0.0.1" group-title="Sports" tvg-id="Golf" tvg-name="Golf", Golf
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/playlist.m3u8
 
@@ -430,11 +435,6 @@ https://liveanevia.mncnow.id/live/eds/MNCSports/sa_dash_vmx/MNCSports.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/hZRtYEf.png?v=1.0.0.1" group-title="Sports", Soccer Channel
 https://liveanevia.mncnow.id/live/eds/soccerchannel-NonLiga1/sa_dash_vmx/soccerchannel-NonLiga1.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/KEEJm7m.jpg?v=1.0.0.1" group-title="Sports" tvg-id="Fight Sports HD" tvg-name="Fight Sports HD", Fight Sports HD
-https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b2N165i.png?v=1.0.0.1" group-title="Sports" tvg-id="Sony Ten 1" tvg-name="Sony Ten 1", Sony Ten 1
 https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
