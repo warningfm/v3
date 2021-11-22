@@ -124,7 +124,7 @@ http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
 http://203.154.177.124:8899/live/ch20/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/WOjdvky.png?v=1.0.0.1" group-title="Kids", Spacetoon
 http://stream1.ninmedia.tv:1935/spacetoon/udp.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/p3cqAKM.png" group-title="Kids" tvg-id="Biznet Kids", B Kids
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/p3cqAKM.png?v=1.0.0.1" group-title="Kids" tvg-id="Biznet Kids", B Kids
 https://edge.nim.mivo.tv/video/assets/oops.m3u8
 
 ########################################################    Korengan   ########################################################
