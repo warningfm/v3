@@ -877,5 +877,5 @@ https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/GAgWHvF.png?v=1.0.0.1", Sky News HD
 https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/jJzM6CM.png?v=1.0.0.1" tvg-id="Travel Channel" tvg-name"Travel Channel", Travel Channel
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/jJzM6CM.png?v=1.0.0.1" tvg-id="Travel Channel HD" tvg-name"Travel Channel HD", Travel Channel HD
 https://feed.play.mv/live/10005200/2dPCepc9DA/master.m3u8
