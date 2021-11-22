@@ -164,6 +164,8 @@ https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 https://manar.live/iptv/index.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/gII3Eq8.png?v=1.1.1.1" group-title="News" tvg-id="Berita Satu News" tvg-name="Berita Satu News", Berita Satu
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/uJTTmk8.png?v=1.0.0.1" group-title="News", CNBC Indonesia
+http://cdn4.mbahnunungonline.net/m3u8/id/ef7e8c7bc86110e.m3u8
 #EXTINF:-0 tvg-logo="https://warningfm.github.io/v3/img/1Mtx9mY.png?v=1.0.0.1" group-title="News", CNN Indonesia
 http://cdn4.mbahnunungonline.net/m3u8/id/d12f0b99ed1f070.m3u8
 #EXTINF:-0 tvg-logo="https://warningfm.github.io/v3/img/6tyaqc0.png?v=1.0.0.1" group-title="News", Kompas TV
@@ -174,8 +176,6 @@ https://visionplus-stream.visionplus.id/live/eds/MetroTV-RTX/sa_hls/MetroTV-RTX.
 https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/N1yKLa1.png?v=1.0.0.1" group-title="News" tvg-id="tvOne", tvOne
 http://cdn4.mbahnunungonline.net/m3u8/id/0976f879a0c4548.m3u8
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/uJTTmk8.png?v=1.0.0.1" group-title="News", CNBC Indonesia
-http://cdn4.mbahnunungonline.net/m3u8/id/ef7e8c7bc86110e.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Thm3LAk.png?v=1.0.0.1" group-title="News", MNC News
 http://cdn-livetv-studio.metube.id/mncnews.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/GZQvCs6.png?v=1.0.0.1" group-title="News" tvg-id="DW English", DW English
