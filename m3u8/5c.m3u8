@@ -154,34 +154,34 @@ https://feed.play.mv/live/10005200/aGu172is5o/master.m3u8
 
 ########################################################      News     ########################################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S3Gn16p.png?v=1.0.0.1" group-title="News", Al arabiya
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/S3Gn16p.png?v=1.0.0.1" group-title="News" tvg-id="Al arabiya" tvg-name="Al arabiya", Al arabiya
 http://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fgUVz5m.png?v=1.0.0.1" group-title="News", Al jazeera HD
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/fgUVz5m.png?v=1.0.0.1" group-title="News" tvg-id="Al Jazeera HD" tvg-name="Al Jazeera HD", Al Jazeera Arabic
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xSCGVhz.png?v=1.0.0.1" group-title="News", ALManarTV
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/xSCGVhz.png?v=1.0.0.1" group-title="News" tvg-id="AL Manar TV" tvg-name="AL Manar TV", AL Manar TV
 https://manar.live/iptv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gII3Eq8.png?v=1.0.0.1" group-title="News", Berita Satu
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/gII3Eq8.png?v=1.1.1.1" group-title="News" tvg-id="Berita Satu News" tvg-name="Berita Satu News", Berita Satu
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
-#EXTINF:-0 tvg-logo="https://i.imgur.com/1Mtx9mY.png?v=1.0.0.1" group-title="News", CNN Indonesia
+#EXTINF:-0 tvg-logo="https://warningfm.github.io/v3/img/1Mtx9mY.png?v=1.0.0.1" group-title="News", CNN Indonesia
 http://cdn4.mbahnunungonline.net/m3u8/id/d12f0b99ed1f070.m3u8
 #EXTINF:-0 tvg-logo="https://i.imgur.com/6tyaqc0.png?v=1.0.0.1" group-title="News", Kompas TV
 http://cdn4.mbahnunungonline.net/m3u8/id/ae5f9d6bcd610b6.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NTIQcW0.png?v=1.0.0.1" group-title="News" tvg-id="Metro TV", Metro TV
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/NTIQcW0.png?v=1.0.0.1" group-title="News" tvg-id="Metro TV", Metro TV
 https://visionplus-stream.visionplus.id/live/eds/MetroTV-RTX/sa_hls/MetroTV-RTX.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RytQgdW.png?v=1.0.0.1" group-title="News", IDX
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/RytQgdW.png?v=1.0.0.1" group-title="News", IDX
 https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N1yKLa1.png?v=1.0.0.1" group-title="News" tvg-id="tvOne", tvOne
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/N1yKLa1.png?v=1.0.0.1" group-title="News" tvg-id="tvOne", tvOne
 http://cdn4.mbahnunungonline.net/m3u8/id/0976f879a0c4548.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uJTTmk8.png?v=1.0.0.1" group-title="News", CNBC Indonesia
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/uJTTmk8.png?v=1.0.0.1" group-title="News", CNBC Indonesia
 http://cdn4.mbahnunungonline.net/m3u8/id/ef7e8c7bc86110e.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Thm3LAk.png?v=1.0.0.1" group-title="News", MNC News
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Thm3LAk.png?v=1.0.0.1" group-title="News", MNC News
 http://cdn-livetv-studio.metube.id/mncnews.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GZQvCs6.png?v=1.0.0.1" group-title="News" tvg-id="DW English", DW English
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/GZQvCs6.png?v=1.0.0.1" group-title="News" tvg-id="DW English", DW English
 https://livecdn.fptplay.net/world/dwenglish_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BydlaOh.png?v=1.0.0.1" group-title="News", ABC Australia
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/BydlaOh.png?v=1.0.0.1" group-title="News", ABC Australia
 #https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 http://203.154.177.124:8899/live/ch8/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nLk6uxc.png?v=1.0.0.1" group-title="News", CNN International
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/nLk6uxc.png?v=1.0.0.1" group-title="News", CNN International
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GFOQVEf.png?v=1.0.0.1" group-title="News" tvg-id="France24" tvg-name"", France24
 http://f24hls-i.akamaihd.net/hls/live/221147-b/F24_EN_HI_HLS/master.m3u8
