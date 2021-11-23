@@ -650,6 +650,9 @@ https://feed.play.mv/live/10005200/Xe5PWNrbRZ/master.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/zEnolCx.png?v=1.1.1.1" group-title="Movies", Sinema Indonesia
 http://rr.dens.tv/h/h155/index2.m3u8
 
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/bSDsPVg.png?v=1.0.0.1" group-title="Movies", Sony Pix
+https://feed.play.mv/live/10005200/jmW41EycvT/master.m3u8
+
 ########################################################    HBO GO     ########################################################
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -752,9 +755,6 @@ https://idfashion.cdn-03.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/8X9FDe3.png?v=1.0.0.1" group-title="Fashion", Global Fashion Channel
 https://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/Geh61yn.png?v=1.0.0.1" group-title="Fashion", FTV UHD
-https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/LQqABbX.png?v=1.0.0.1" group-title="Adult Lifestyle & Interests", Fashion TV Midnight Secrets
 https://dl.dropboxusercontent.com/s/wl1l0b3anjk1zop/fb8acef7631528c.m3u8
 
@@ -804,7 +804,7 @@ https://feed.play.mv/live/10005200/Xe5PWNrbRZ/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xKDJCXJ.jpg?v=8.8.4.4" group-title="Hindi", Zee Action
 https://feed.play.mv/live/10005200/ABTuyrBr22/master.m3u8
 
-#EXTINF:-1 tvg-id="COLORS" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Colors.png?raw=true" group-title="Hindi",  colors HD 
+#EXTINF:-1 tvg-id="COLORS" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Colors.png?raw=true" group-title="Hindi",  colors 
 https://feed.play.mv/live/10005200/6G8zJ9XsyB/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vV2pv50.png?v=8.8.4.4" group-title="Hindi", &tv
