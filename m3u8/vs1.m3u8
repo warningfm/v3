@@ -242,7 +242,7 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225621/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/VyqMhjx.png?v=1.0.0.1" tvg-id="Outside TV" tvg-name="Outside TV", Outside TV
 https://outside-tv.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/jJzM6CM.png?v=1.0.0.1" tvg-id="Travel Channel" tvg-name"Travel Channel", Travel Channel
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/jJzM6CM.png?v=1.0.0.1" tvg-id="Travel Channel" tvg-name"Travel Channel", Travel Channel
 https://feed.play.mv/live/10005200/2dPCepc9DA/master.m3u8
 
 ########################################################      Kids     ########################################################
