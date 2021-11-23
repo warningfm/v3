@@ -577,9 +577,6 @@ https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3
 
 ########################################################     Movies    ########################################################
 
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/rCLnw5V.png?v=1.0.0.1" group-title="Movies", Action Hollywood Movies
-http://203.154.177.124:8899/live/ch7/playlist.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/gL9y8n3.png?v=1.0.0.1" group-title="Movies" tvg-id="AXN" tvg-name="AXN", AXN
@@ -640,6 +637,9 @@ http://rr.dens.tv/h/h193/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/hT2TzOR.png?v=1.0.0.1" group-title="Movies" tvg-id="mycinema" tvg-name="mycinema", My Cinema
 http://rr.dens.tv/h/h192/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/rCLnw5V.png?v=1.0.0.1" group-title="Movies", Action Hollywood Movies
+http://203.154.177.124:8899/live/ch7/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/cymjoiG.png?v=1.0.0.1" group-title="Movies", &Flix HD
 http://sneh-zee5tv-production.up.railway.app/?c=0-9-channel_2105335046
