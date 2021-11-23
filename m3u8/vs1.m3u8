@@ -245,9 +245,6 @@ https://edge.nim.mivo.tv/video/assets/oops.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/VyqMhjx.png?v=1.0.0.1", Outside TV
 https://outside-tv.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 group-title="Horor" tvg-logo="https://warningfm.github.io/v3/img/s2V9OMG.png?v=1.0.0.1", Dunia Lain
-https://topwin-tv.my.id/2/master.m3u8?id=dunialain&bandwidth=default&sync=0
-
 ########################################################      Kids     ########################################################
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/uAHJS7W.png?v=1.0.0.1" group-title="Kids" tvg-id="Astro Ceria HD" tvg-name="Astro Ceria HD", Astro Ceria HD
@@ -496,7 +493,7 @@ https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/fgO3tyz.png?v=1.0.0.1" group-title="Knowledge" tvg-id="Discovery Science HD" tvg-name="Discovery Science HD", Discovery Science HD
 https://feed.play.mv/live/1009/TRKXs71yTR/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/AiXXYZK.png?v=1.0.0.1" group-title="Knowledge", National Geographic Abu Dhabi
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/AiXXYZK.png?v=1.0.0.1" group-title="Knowledge" tvg-id="Nat Geo" tvg-name="Nat Geo", National Geographic Abu Dhabi
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Vwq6lFW.png?v=1.0.0.1" group-title="Knowledge" tvg-id="TV Edukasi" tvg-name="TV Edukasi", TV Edukasi
