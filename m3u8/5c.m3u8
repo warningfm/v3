@@ -3,7 +3,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/rA0rUsj.png?v=1.1.1.1" group-title="Nasional" tvg-id="RCTI" tvg-name="RCTI", RCTI
 https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/Zpy57qG.png?v=1.1.1.1" group-title="Nasional" tvg-id="SCTV" tvg-name="SCTV", SCTV
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/kHUcKkK.png?v=1.1.1.1" group-title="Nasional" tvg-id="SCTV" tvg-name="SCTV", SCTV
 https://visionplus-stream.visionplus.id/live/eds/SCTV/sa_hls/SCTV.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/AWnnWow.png?v=1.1.1.1" group-title="Nasional" tvg-id="MNC TV" tvg-name="MNC TV", MNCTV
 https://cdn4.mbahnunungonline.net/m3u8/loc/3/d9bbf6929ec1028.m3u8
@@ -110,7 +110,7 @@ https://edge.nim.mivo.tv/video/assets/oops.m3u8
 ########################################################      Kids     ########################################################
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/uAHJS7W.png?v=1.0.0.1" group-title="Kids", Astro Ceria HD
-http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/penang189/penang189/6715
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/xnK3XBL.png?v=1.0.0.1" group-title="Kids" tvg-id="Baby TV HD", Baby TV HD
 https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/xXz1Lht.png?v=1.0.0.1" group-title="Kids", Boomerang
