@@ -658,7 +658,7 @@ https://feed.play.mv/live/10005200/jmW41EycvT/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title=" HBO GO " tvg-logo="https://warningfm.github.io/v3/img/aMtD0A0.png?v=1.0.0.1" tvg-id="HBO HD" tvg-name="HBO HD", HBO HD
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241033.ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
@@ -722,7 +722,7 @@ http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZojuN7v.png?v=1.1.1.1" group-title="Malaysia" tvg-id="Al-Hijrah" tvg-name="Al-Hijrah", TV AlHijrah
-http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/240992.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XYeb1CE.jpg?v=1.0.0.1" group-title="Singapore", SuriaTV
 http://50.7.161.82:8278/streams/d/Suria/playlist.m3u8
