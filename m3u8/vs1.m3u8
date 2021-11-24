@@ -560,7 +560,7 @@ http://iptv.prosto.tv:7000/ch128/video.m3u8
 https://edge.nim.mivo.tv/video/assets/oops.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/zg4YPTD.png?v=1.0.0.1" group-title="Music", Maleo Channel
-https://dl.dropbox.com/s/5b57ecqy6fg9qx2/e22dc65d77c8885.m3u8
+https://cdn4.mbahnunungonline.net/m3u8/id/e22dc65d77c8885.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/NN60Hzb.png?v=1.0.0.1" group-title="Music", POP Musik
 https://cdn4.mbahnunungonline.net/m3u8/id/94a637fadb57201.m3u8
