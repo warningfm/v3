@@ -222,9 +222,10 @@ https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/KHKIztL.png?v=1.0.0.1" group-title="Knowledge" tvg-id="Animal Planet HD", Animal Planet HD
 https://feed.play.mv/live/10005200/WG2gcEPjHK/master.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/P9yiTz6.png?v=1.0.0.1" group-title="Knowledge" tvg-id="Nat Geo Wild HD", Nat Geo Wild HD
-http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241047.ts
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/x0XijCu.png?v=1.0.0.1" group-title="Knowledge" tvg-id="National Geographic HD", National Geographic HD
-https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/playlist.m3u8
+#https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/playlist.m3u8
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241048.ts
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/AWvwPm5.png?v=1.0.0.1" group-title="Knowledge" tvg-id="Discovery Channel HD", Discovery Channel HD
 https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/WVpnAKn.png?v=1.0.0.1" group-title="Knowledge" tvg-id="Discovery Asia HD", Discovery Asia HD
