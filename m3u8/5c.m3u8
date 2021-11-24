@@ -205,9 +205,9 @@ https://tv-trtworld.live.trt.com.tr/master.m3u8
 ########################################################     Sports    ########################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9b088eX.png?v=1.0.0.1" group-title="Sports", beIN Sports 1
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/240975.ts
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/170419.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sy3NbII.png?v=1.0.0.1" group-title="Sports", beIN Sports 2
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/102537.ts
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/231523.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cokkw7Z.png?v=1.0.0.1" group-title="Sports", Golf
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/96EpV8O.png?v=1.0.0.1" group-title="Sports", Dubai Sports
