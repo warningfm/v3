@@ -114,15 +114,16 @@ http://iptv.tvmalaysia.cc:80/penang189/penang189/6715
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/xnK3XBL.png?v=1.0.0.1" group-title="Kids" tvg-id="Baby TV HD", Baby TV HD
 https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/xXz1Lht.png?v=1.0.0.1" group-title="Kids", Boomerang
-https://vips-livecdn.fptplay.net/hda3/boomerang_vhls.smil/playlist.m3u8
+#https://vips-livecdn.fptplay.net/hda3/boomerang_vhls.smil/playlist.m3u8
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241102.ts
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/OrEXAse.png?v=1.0.0.1" group-title="Kids", Cartoon Network
 https://vips-livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/asDF7GJ.png?v=1.1.1.1" group-title="Kids" tvg-id="Nick Junior", Nick Jr
-https://feed.play.mv/live/10005200/s5f1zEMJC1/master.m3u8
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241064.ts
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/SNzeDbZ.png?v=1.0.0.1" group-title="Kids", Horee
 https://edge.nim.mivo.tv/video/assets/oops.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/uwhVKtr.png?v=1.0.0.1" group-title="Kids", KIDS TV
-http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241063.ts
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/bMwkQEd.png?v=1.0.0.1" group-title="Kids", Zoomoo
 http://203.154.177.124:8899/live/ch20/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/WOjdvky.png?v=1.0.0.1" group-title="Kids", Spacetoon
@@ -135,9 +136,9 @@ https://edge.nim.mivo.tv/video/assets/oops.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/GVGesVr.png?v=1.0.0.1" group-title="Korengan" tvg-id="Arirang" tvg-name="Arirang", Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/6AmnAWu.png?v=1.0.0.1" group-title="Korengan" tvg-id="tvN" tvg-name="tvN HD", tvN HD
-http://210.210.155.35/dr9445/h/h20/01.m3u8
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241031.ts
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/N0TKqJd.png?v=1.0.0.1" group-title="Korengan" tvg-id="tvN Movies HD" tvg-name="tvN Movies HD", TVN Movies
-http://210.210.155.35/dr9445/h/h21/01.m3u8
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241035.ts
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/jJTACLd.png?v=1.0.0.1" group-title="Korengan" tvg-id="KBS World HD" tvg-name="KBS World HD", KBS World
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241028.ts
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/scJZO2S.png?v=1.0.0.1" group-title="Korengan" tvg-id="ONE HD" tvg-name="ONE HD", ONE
@@ -220,14 +221,15 @@ https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
 ########################################################   Knowledge   ########################################################
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/KHKIztL.png?v=1.0.0.1" group-title="Knowledge" tvg-id="Animal Planet HD", Animal Planet HD
-https://feed.play.mv/live/10005200/WG2gcEPjHK/master.m3u8
+#https://feed.play.mv/live/10005200/WG2gcEPjHK/master.m3u8
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241053.ts
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/P9yiTz6.png?v=1.0.0.1" group-title="Knowledge" tvg-id="Nat Geo Wild HD", Nat Geo Wild HD
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241047.ts
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/x0XijCu.png?v=1.0.0.1" group-title="Knowledge" tvg-id="National Geographic HD", National Geographic HD
 #https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/playlist.m3u8
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241048.ts
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/AWvwPm5.png?v=1.0.0.1" group-title="Knowledge" tvg-id="Discovery Channel HD", Discovery Channel HD
-https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241049.ts
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/WVpnAKn.png?v=1.0.0.1" group-title="Knowledge" tvg-id="Discovery Asia HD", Discovery Asia HD
 #https://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/playlist.m3u8
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241050.ts
@@ -238,7 +240,7 @@ https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/BzbgaxF.png?v=1.0.0.1" group-title="Knowledge", Love Nature HD
 https://feed.play.mv/live/1011/I1AjNshoqG/master.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/5znakl6.png?v=1.0.0.1" group-title="Knowledge", Smithsonian Channel
-https://feed.play.mv/live/1009/Ffcnij939j/master.m3u8
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Vwq6lFW.png?v=1.0.0.1" group-title="Knowledge", TV Edukasi
 http://202.169.224.76:1935/live/tve.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/AiXXYZK.png?v=1.0.0.1" group-title="Knowledge", National Geographic Abu Dhabi
@@ -312,7 +314,7 @@ http://rr.dens.tv/h/h193/index.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/hT2TzOR.png?v=1.0.0.1" group-title="Movies", My Cinema
 http://rr.dens.tv/h/h90/index2.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/4gNhVWH.png?v=1.0.0.1" group-title="Movies", WarnerTV
-http://93.190.139.35:8278/streams/d/WarnerTV/playlist.m3u8
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241073.ts
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/N0TKqJd.png?v=1.0.0.1" group-title="Movies" tvg-id="TVN Movies", TVN Movies
 http://rr1.dens.tv/h/h21/index.m3u8
 
