@@ -84,8 +84,7 @@ https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/6CCidoH.png?v=1.0.0.1", ANIPlus
 http://rr1.dens.tv/h/h02/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/Ftk2ky0.png?v=1.0.0.1" tvg-id="SGEM", S GEM
-#http://rr.dens.tv/h/h19/index.m3u8
-https://feed.play.mv/live/1009/agmwLb8LUD/master.m3u8
+http://rr.dens.tv/h/h19/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/aKZ7opS.png?v=1.0.0.1", Da Vinci Learning
 https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/QO5Fi9H.png?v=1.0.0.1", Magna Channel
