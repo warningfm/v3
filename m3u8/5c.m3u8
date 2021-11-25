@@ -140,7 +140,7 @@ http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241031.ts
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/N0TKqJd.png?v=1.0.0.1" group-title="Korengan" tvg-id="tvN Movies HD" tvg-name="tvN Movies HD", TVN Movies
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241035.ts
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/jJTACLd.png?v=1.0.0.1" group-title="Korengan" tvg-id="KBS World HD" tvg-name="KBS World HD", KBS World
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241028.ts
+https://vips-livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/scJZO2S.png?v=1.0.0.1" group-title="Korengan" tvg-id="ONE HD" tvg-name="ONE HD", ONE
 http://210.210.155.35/uq2663/h/h143/01.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/QVj6I9k.png?v=1.0.0.1" group-title="Korengan" tvg-id="K-Plus HD" tvg-name="K-Plus HD", Kplus
