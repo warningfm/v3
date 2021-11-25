@@ -145,7 +145,7 @@ https://liveanevia.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/eLjHSKm.png?v=1.1.1.1" group-title="tvN150N" tvg-id="Nusantara TV" tvg-name="Nusantara TV", Nusantara TV
-https://dl.dropboxusercontent.com/s/9spy8zyvs6chjfh/a6109060c7f55cc.m3u8
+https://dl.dropbox.com/s/9spy8zyvs6chjfh/a6109060c7f55cc.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/QO5Fi9H.png?v=1.0.0.1" group-title="tvN150N" tvg-id="Magna TV" tvg-name="Magna TV", Magna TV
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
