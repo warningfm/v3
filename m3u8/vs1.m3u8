@@ -248,8 +248,7 @@ https://feed.play.mv/live/10005200/2dPCepc9DA/master.m3u8
 ########################################################      Kids     ########################################################
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/uAHJS7W.png?v=1.0.0.1" group-title="Kids" tvg-id="Astro Ceria HD" tvg-name="Astro Ceria HD", Astro Ceria HD
-#http://iptv.tvmalaysia.cc:80/penang189/penang189/6715
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241058.ts
+http://iptv.tvmalaysia.cc:80/penang189/penang189/6715
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
@@ -351,9 +350,6 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/8BTOxlC.png?v=1.0.0.1" group-title="News" tvg-id="Astro Awani" tvg-name="Astro Awani", Astro Awani
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/XVgrze1.png?v=1.0.0.1" group-title="News" tvg-id="Bernama" tvg-name="Bernama", Bernama
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241037.ts
-
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/6fEGqfK.png?v=1.0.0.1" group-title="News" tvg-id="CNA HD" tvg-name"CNA HD", Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
@@ -434,12 +430,6 @@ https://liveanevia.mncnow.id/live/eds/MNCSports/sa_dash_vmx/MNCSports.mpd
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/hZRtYEf.png?v=1.0.0.1" group-title="Sports", Soccer Channel
 https://liveanevia.mncnow.id/live/eds/soccerchannel-NonLiga1/sa_dash_vmx/soccerchannel-NonLiga1.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b2N165i.png?v=1.0.0.1" group-title="Sports" tvg-id="Sony Ten 1" tvg-name="Sony Ten 1", Sony Ten 1
-https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h9Vvsnz.jpg?v=1.0.0.1" group-title="Sports" tvg-id="Sony Ten 2" tvg-name="Sony Ten 2", Sony Ten 2
-https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
-
 ########################################################   Knowledge   ########################################################
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -491,9 +481,6 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/5znakl6.png?v=1.0.0.1" group-title="Knowledge" tvg-id="Smithsonian Channel" tvg-name="Smithsonian Channel", Smithsonian Channel
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/fgO3tyz.png?v=1.0.0.1" group-title="Knowledge" tvg-id="Discovery Science HD" tvg-name="Discovery Science HD", Discovery Science HD
-https://feed.play.mv/live/1009/TRKXs71yTR/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/AiXXYZK.png?v=1.0.0.1" group-title="Knowledge" tvg-id="Nat Geo" tvg-name="Nat Geo", National Geographic Abu Dhabi
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
