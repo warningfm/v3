@@ -167,7 +167,7 @@ https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/xSCGVhz.png?v=1.0.0.1" group-title="News" tvg-id="AL Manar TV" tvg-name="AL Manar TV", AL Manar TV
 https://manar.live/iptv/index.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/gII3Eq8.png?v=1.1.1.1" group-title="News" tvg-id="Berita Satu News" tvg-name="Berita Satu News", Berita Satu
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/uJTTmk8.png?v=1.0.0.1" group-title="News", CNBC Indonesia
 http://cdn4.mbahnunungonline.net/m3u8/id/ef7e8c7bc86110e.m3u8
 #EXTINF:-0 tvg-logo="https://warningfm.github.io/v3/img/1Mtx9mY.png?v=1.0.0.1" group-title="News", CNN Indonesia
@@ -185,7 +185,6 @@ http://cdn-livetv-studio.metube.id/mncnews.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/GZQvCs6.png?v=1.0.0.1" group-title="News" tvg-id="DW English", DW English
 https://livecdn.fptplay.net/world/dwenglish_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/BydlaOh.png?v=1.0.0.1" group-title="News", ABC Australia
-#https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 http://203.154.177.124:8899/live/ch8/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/nLk6uxc.png?v=1.0.0.1" group-title="News", CNN International
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
