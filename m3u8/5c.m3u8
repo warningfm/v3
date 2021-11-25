@@ -151,8 +151,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6278b166-9632-42
 #https://feed.play.mv/live/10005200/Wvl02Co4S1/master.m3u8
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241075.ts
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/3IDyQAj.png?v=1.0.0.1" group-title="Lifestyle" tvg-id="Asian Food Network HD" tvg-name="Asian Food Network HD", Asian Food Channel
-#https://vips-livecdn.fptplay.net/hda1/afchd_vhls.smil/playlist.m3u8
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241071.ts
+https://vips-livecdn.fptplay.net/hda1/afchd_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/wFmCTh4.png?v=1.0.0.1" group-title="Lifestyle" tvg-id="Food Network HD" tvg-name="Food Network HD", Food Network HD
 #https://feed.play.mv/live/10005200/aGu172is5o/master.m3u8
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241070.ts
@@ -248,8 +247,7 @@ http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 ########################################################   Religious   ########################################################
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/RdOrRX2.png?v=1.0.0.1" group-title="Religious" tvg-id="AlQuran Kareem", AlQuran Kareem
-#https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/index.m3u8
-https://iptv--iptv.repl.co/Arabic/Quran_TV/
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/index.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/6FcTok4.png?v=1.0.0.1" group-title="Religious" tvg-id="Sunna TV", Sunna TV
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/index.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/tl7ePSI.png?v=1.0.0.1" group-title="Religious" tvg-id="Ajwa TV", Ajwa TV
