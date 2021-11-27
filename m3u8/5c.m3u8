@@ -192,17 +192,17 @@ https://tv-trtworld.live.trt.com.tr/master.m3u8
 
 ########################################################     Sports    ########################################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9b088eX.png?v=1.0.0.1" group-title="Sports", beIN Sports 1
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/9b088eX.png?v=1.0.0.1" group-title="Sports", beIN Sports 1
 https://edge.nim.mivo.tv/video/assets/oops.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sy3NbII.png?v=1.0.0.1" group-title="Sports", beIN Sports 2
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/sy3NbII.png?v=1.0.0.1" group-title="Sports", beIN Sports 2
 https://edge.nim.mivo.tv/video/assets/oops.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cokkw7Z.png?v=1.0.0.1" group-title="Sports", Golf
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/cokkw7Z.png?v=1.0.0.1" group-title="Sports", Golf
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/96EpV8O.png?v=1.0.0.1" group-title="Sports", Dubai Sports
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/96EpV8O.png?v=1.0.0.1" group-title="Sports", Dubai Sports
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uncH3ih.png?v=1.0.0.1" group-title="Sports", Dubai Sports 2
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/uncH3ih.png?v=1.0.0.1" group-title="Sports", Dubai Sports 2
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rSFazKt.png?v=1.0.0.1" group-title="Sports", Dubai Sports 3
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/rSFazKt.png?v=1.0.0.1" group-title="Sports", Dubai Sports 3
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 
 ########################################################   Knowledge   ########################################################
