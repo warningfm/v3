@@ -151,13 +151,11 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6278b166-9632-42
 ########################################################   Lifestyle   ########################################################
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/BaA1xU1.png?v=1.0.0.1" group-title="Lifestyle" tvg-id="HGTV HD" tvg-name="HGTV HD", HGTV HD
-#https://feed.play.mv/live/10005200/Wvl02Co4S1/master.m3u8
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241075.ts
+https://edge.nim.mivo.tv/video/assets/oops.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/3IDyQAj.png?v=1.0.0.1" group-title="Lifestyle" tvg-id="Asian Food Network HD" tvg-name="Asian Food Network HD", Asian Food Channel
 https://vips-livecdn.fptplay.net/hda1/afchd_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/wFmCTh4.png?v=1.0.0.1" group-title="Lifestyle" tvg-id="Food Network HD" tvg-name="Food Network HD", Food Network HD
-#https://feed.play.mv/live/10005200/aGu172is5o/master.m3u8
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241070.ts
+https://edge.nim.mivo.tv/video/assets/oops.m3u8
 
 ########################################################      News     ########################################################
 
@@ -195,9 +193,9 @@ https://tv-trtworld.live.trt.com.tr/master.m3u8
 ########################################################     Sports    ########################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9b088eX.png?v=1.0.0.1" group-title="Sports", beIN Sports 1
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/170419.ts
+https://edge.nim.mivo.tv/video/assets/oops.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sy3NbII.png?v=1.0.0.1" group-title="Sports", beIN Sports 2
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/231523.ts
+https://edge.nim.mivo.tv/video/assets/oops.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cokkw7Z.png?v=1.0.0.1" group-title="Sports", Golf
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/96EpV8O.png?v=1.0.0.1" group-title="Sports", Dubai Sports
@@ -253,7 +251,7 @@ http://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hssl
 
 ########################################################     Music     ########################################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2cS8N7R.png?v=1.0.0.1" group-title="Music", MTV Live
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/2cS8N7R.png?v=1.0.0.1" group-title="Music", MTV Live
 http://58.65.171.202:8000/play/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-krWxMeHwxrM/YRJC1qPBLiI/AAAAAAAABK8/I6ecPYNF59obT6YQqrDmosB9uVU0QzC-gCLcBGAsYHQ/s0/FGSb1Vw.png?v=1.0.0.1" group-title="Music", Citra Dangdut
 https://edge.nim.mivo.tv/video/assets/oops.m3u8
@@ -261,11 +259,11 @@ https://edge.nim.mivo.tv/video/assets/oops.m3u8
 http://stream1.ninmedia.tv:1935/maleo/udp.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NN60Hzb.png?v=1.0.0.1" group-title="Music", POP Musik
 http://stream1.ninmedia.tv:1935/popmusik/udp.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UaHtwO2.png?v=1.0.0.1" group-title="Music", 9XM
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/UaHtwO2.png?v=1.0.0.1" group-title="Music", 9XM
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D3WXba7.png?v=8.8.4.4" group-title="Music", B4U Music
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/D3WXba7.png?v=1.0.0.1" group-title="Music", B4U Music
 https://feed.play.mv/live/1009/n6W19r2lg7/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mhGTRFn.png?v=8.8.4.4" group-title="Music", Desi Channel
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/mhGTRFn.png?v=1.0.0.1" group-title="Music", Desi Channel
 https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
 
 ########################################################     Movies    ########################################################
