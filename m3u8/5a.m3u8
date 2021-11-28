@@ -116,13 +116,13 @@ https://v2.siar.us/saktitv/livestream/playlist.m3u8
 
 ######################################################## Entertainment ########################################################
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/XTBtpcT.png?v=1.0.0.1" tvg-id="Animax" tvg-name"Animax", Animax
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/XTBtpcT.png?v=1.0.0.1" tvg-id="Animax" tvg-name"Animax", Animax
 http://210.210.155.35/dr9445/h/h144/01.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/6CCidoH.png?v=1.0.0.1" tvg-id="ANIPlus" tvg-name"ANIPlus", ANIPlus
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/6CCidoH.png?v=1.0.0.1" tvg-id="ANIPlus" tvg-name"ANIPlus", ANIPlus
 http://rr1.dens.tv/h/h02/index.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/aKZ7opS.png?v=1.0.0.1", Da Vinci Learning
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/aKZ7opS.png?v=1.0.0.1", Da Vinci Learning
 https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b1800000.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/p1a0RwN.png?v=1.0.0.1" tvg-id="Blue Ant Entertainment" tvg-name="Blue Ant Entertainment", Rock Entertainment
@@ -131,10 +131,10 @@ http://rr1.dens.tv/h/h16/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/tHrbNmG.png?v=1.0.0.1" tvg-id="Blue Ant Extreme" tvg-name="Blue Ant Extreme", Rock Extreme
 http://vips-livecdn.fptplay.net/hda1/blueantext_vhls.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/W1JfODW.png?v=1.0.0.1", UseePrime
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/W1JfODW.png?v=1.0.0.1", UseePrime
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/RfIj9lU.png?v=1.0.0.1", Ruang Trampil
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/RfIj9lU.png?v=1.0.0.1", Ruang Trampil
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/manifest.mpd
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/4Yk5Anu.png?v=1.0.0.1", SEA Today
