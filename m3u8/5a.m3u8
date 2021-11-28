@@ -44,13 +44,13 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4
 https://liveanevia.mncnow.id/live/eds/InewsTV-Agustus/sa_dash/InewsTV-Agustus.mpd
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/1Mtx9mY.png?v=1.1.1.1" group-title="Nasional" tvg-id="CNN Indonesia" tvg-name="CNN Indonesia", CNN Indonesia
-https://dl.dropbox.com/s/oxlj7mwpf13ucok/d12f0b99ed1f070.m3u8
+https://cdn4.mbahnunungonline.net/m3u8/id/d12f0b99ed1f070.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/gII3Eq8.png?v=1.1.1.1" group-title="Nasional" tvg-id="Berita Satu News" tvg-name="Berita Satu News", Berita Satu
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/XBtbPBF.png?v=1.1.1.1" group-title="Nasional" tvg-id="TVRI" tvg-name="TVRI", TVRI
-https://dl.dropbox.com/s/l5j2hh2e45y650w/3f58825fe229a8f.m3u8
+https://cdn4.mbahnunungonline.net/m3u8/id/3f58825fe229a8f.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/eLjHSKm.png?v=1.1.1.1" group-title="Nasional" tvg-id="Nusantara TV" tvg-name="Nusantara TV", NTV
 https://cdn4.mbahnunungonline.net/m3u8/id/a6109060c7f55cc.m3u8
@@ -76,7 +76,7 @@ http://rr3.dens.tv/s/s88/S4/mnf.m3u8
 https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 
 #EXTINF:-1 group-title=" Local " tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/EYJ0ED2.png?v=1.0.0.1", Jakarta Globe News Channel
-https://b1english.beritasatumedia.com/Beritasatu/B1English_960x540.m3u8
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 
 #EXTINF:-1 group-title=" Local " tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/iXtcLdL.png?v=1.0.0.1", Bandung TV
 http://202.150.153.254/bandungtv720p.m3u8
@@ -117,7 +117,7 @@ https://v2.siar.us/saktitv/livestream/playlist.m3u8
 ######################################################## Entertainment ########################################################
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/XTBtpcT.png?v=1.0.0.1" tvg-id="Animax" tvg-name"Animax", Animax
-https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
+http://210.210.155.35/dr9445/h/h144/01.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/6CCidoH.png?v=1.0.0.1" tvg-id="ANIPlus" tvg-name"ANIPlus", ANIPlus
 http://rr1.dens.tv/h/h02/index.m3u8
@@ -137,31 +137,34 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/RfIj9lU.png?v=1.0.0.1", Ruang Trampil
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/manifest.mpd
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/4Yk5Anu.png?v=1.0.0.1", SEA Today
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/4Yk5Anu.png?v=1.0.0.1", SEA Today
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/Ftk2ky0.png?v=1.0.0.1" tvg-id="SGEM", S GEM
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/Ftk2ky0.png?v=1.0.0.1" tvg-id="SGEM", S GEM
 http://rr.dens.tv/h/h19/index.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/QO5Fi9H.png?v=1.0.0.1", Magna Channel
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/QO5Fi9H.png?v=1.0.0.1", Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w253650234_b2692000_sleng.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/Cj6JSFa.png?v=1.0.0.1", The Indonesia Channel
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/Cj6JSFa.png?v=1.0.0.1", The Indonesia Channel
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/manifest.mpd
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/Tbur8nX.png?v=1.0.0.1", Outdoor Channel
-https://feed.play.mv/live/1009/E6O26jTzFh/master.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/Tbur8nX.png?v=1.0.0.1", Outdoor Channel
+https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/ALE0biZ.png?v=1.0.0.1", History
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/VyqMhjx.png?v=1.0.0.1" tvg-id="Outside TV" tvg-name="Outside TV", Outside TV
+https://outside-tv.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/ALE0biZ.png?v=1.0.0.1", History
 https://feed.play.mv/live/10005200/isb9Qf3P5M/master.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/9Z7DUFb.png?v=1.1.1.1", Crime Investigation
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/9Z7DUFb.png?v=1.1.1.1", Crime Investigation
 https://feed.play.mv/live/10005200/37MP1b7MI1/master.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/2RySrJl.png?v=1.0.0.1", CCTV4 HD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/2RySrJl.png?v=1.0.0.1", CCTV4 HD
 http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/qo8Wt7F.png?v=1.1.1.1", ZEE CAFE
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/qo8Wt7F.png?v=1.1.1.1", ZEE CAFE
 https://edge.nim.mivo.tv/video/assets/oops.m3u8
 
 ########################################################      Kids     ########################################################
