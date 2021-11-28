@@ -404,7 +404,7 @@ https://feed.play.mv/live/1009/n6W19r2lg7/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mhGTRFn.png?v=1.0.0.1" group-title="Music", Desi Channel
 https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mbahnunungonline.net/img/93cFv35.png?v=1.0.0.1" group-title="Music", ONE HD
+#EXTINF:-1 tvg-logo="https://ia801804.us.archive.org/19/items/1-mus.-tv/1MUS.TV.jpg?v=1.0.0.1" group-title="Music", ONE HD
 http://rtmp.one.by:1300
 
 ########################################################     Movies    ########################################################
