@@ -248,22 +248,22 @@ https://manar.live/iptv/index.m3u8
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
 
 #EXTINF:-0 tvg-logo="https://i.imgur.com/1Mtx9mY.png?v=1.0.0.1" group-title="News", CNN Indonesia
-http://cdn4.mbahnunungonline.net/m3u8/id/d12f0b99ed1f070.m3u8
+https://cdn4.mbahnunungonline.net/m3u8/id/d12f0b99ed1f070.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uJTTmk8.png?v=1.0.0.1" group-title="News", CNBC Indonesia
+https://cdn4.mbahnunungonline.net/m3u8/id/ef7e8c7bc86110e.m3u8
 
 #EXTINF:-0 tvg-logo="https://i.imgur.com/6tyaqc0.png?v=1.0.0.1" group-title="News", Kompas TV
-http://cdn4.mbahnunungonline.net/m3u8/id/ae5f9d6bcd610b6.m3u8
+https://cdn4.mbahnunungonline.net/m3u8/id/ae5f9d6bcd610b6.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N1yKLa1.png?v=1.0.0.1" group-title="News" tvg-id="tv One" tvg-name="tv One", tvOne
+http://cdn4.mbahnunungonline.net/m3u8/id/0976f879a0c4548.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NTIQcW0.png?v=1.0.0.1" group-title="News" tvg-id="Metro TV", Metro TV
 https://liveanevia.mncnow.id/live/eds/MetroTV-RTX/sa_dash/MetroTV-RTX.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RytQgdW.png?v=1.0.0.1" group-title="News", IDX
 https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N1yKLa1.png?v=1.0.0.1" group-title="News" tvg-id="tv One" tvg-name="tv One", tvOne
-http://cdn4.mbahnunungonline.net/m3u8/id/0976f879a0c4548.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uJTTmk8.png?v=1.0.0.1" group-title="News", CNBC Indonesia
-http://cdn4.mbahnunungonline.net/m3u8/id/ef7e8c7bc86110e.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Thm3LAk.png?v=1.0.0.1" group-title="News", MNC News
 http://cdn4.mbahnunungonline.net/m3u8/id/243a1aea2191dec.m3u8
