@@ -195,9 +195,9 @@ https://tv-trtworld.live.trt.com.tr/master.m3u8
 ########################################################     Sports    ########################################################
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/9b088eX.png?v=1.0.0.1" group-title="Sports", beIN Sports 1
-https://edge.nim.mivo.tv/video/assets/oops.m3u8
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/3244.ts
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/sy3NbII.png?v=1.0.0.1" group-title="Sports", beIN Sports 2
-https://edge.nim.mivo.tv/video/assets/oops.m3u8
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/3245.ts
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/cokkw7Z.png?v=1.0.0.1" group-title="Sports", Golf
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/96EpV8O.png?v=1.0.0.1" group-title="Sports", Dubai Sports
