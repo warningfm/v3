@@ -290,6 +290,9 @@ https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/bMwkQEd.png?v=1.0.0.1" group-title="Kids" tvg-id="Zoomoo" tvg-name="Zoomoo", Zoomoo
 http://203.154.177.124:8899/live/ch20/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/uAHJS7W.png?v=1.0.0.1" group-title="Kids" tvg-id="Spacetoon" tvg-name="Spacetoon", Spacetoon HD
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+
 ########################################################    Korengan   ########################################################
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -623,15 +626,6 @@ http://rr.dens.tv/h/h192/index.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/rCLnw5V.png?v=1.0.0.1" group-title="Movies", Action Hollywood Movies
 http://203.154.177.124:8899/live/ch7/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/cymjoiG.png?v=1.0.0.1" group-title="Movies", &Flix HD
-http://sneh-zee5tv-production.up.railway.app/?c=0-9-channel_2105335046
-
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/gqQZ16k.png?v=1.0.0.1" group-title="Movies", &Prive HD
-http://sneh-zee5tv-production.up.railway.app/?c=0-9-privéhd
-
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/pZrvlvD.png?v=1.0.0.1" group-title="Movies", IMC
-https://feed.play.mv/live/10005200/Xe5PWNrbRZ/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/zEnolCx.png?v=1.1.1.1" group-title="Movies", Sinema Indonesia
 http://rr.dens.tv/h/h155/index2.m3u8
 
@@ -686,7 +680,7 @@ https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oW0riHe.jpg?v=1.1.1.1" group-title="Malaysia" tvg-id="TV3" tvg-name="TV3", TV3
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241091.ts
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/2SwIYxt.png?v=1.0.0.1" group-title="Malaysia" tvg-id="NTV7" tvg-name="NTV7", NTV7
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241096.ts
@@ -695,7 +689,7 @@ http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241096.ts
 http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/f2JzaMd.png?v=1.0.0.1" group-title="Malaysia" tvg-id="TV9" tvg-name="TV9", TV9
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241094.ts
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/1tW4dph.png?v=1.1.1.1" group-title="Malaysia" tvg-id="Drama Sangat" tvg-name="Drama Sangat", Drama Sangat
 http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
