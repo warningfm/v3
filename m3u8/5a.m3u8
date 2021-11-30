@@ -422,7 +422,7 @@ http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/ZEHEXrZ.png?v=1.0.0.1" group-title="Movies", Celestial Movies
-http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(a5f7e52b-1012-489d-8c88-be5624ded39c)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/gL9y8n3.png?v=1.0.0.1" group-title="Movies", AXN
 http://rr1.dens.tv/h/h141/index.m3u8
@@ -449,7 +449,8 @@ http://rr.dens.tv/h/h193/index.m3u8
 https://feed.play.mv/live/10005200/Ts9R8pNNTP/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/4gNhVWH.png?v=1.0.0.1" group-title="Movies", WarnerTV
-http://203.154.177.124:8899/live/ch12/playlist.m3u8
+#http://203.154.177.124:8899/live/ch12/playlist.m3u8
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(72d6d51e-c265-4ce1-bf21-a9bb75487bc5)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/N0TKqJd.png?v=1.0.0.1" group-title="Movies" tvg-id="TVN Movies", TVN Movies
 http://rr1.dens.tv/h/h21/index.m3u8
