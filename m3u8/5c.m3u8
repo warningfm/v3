@@ -162,7 +162,8 @@ https://edge.nim.mivo.tv/video/assets/oops.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/S3Gn16p.png?v=1.0.0.1" group-title="News" tvg-id="Al arabiya" tvg-name="Al arabiya", Al arabiya
 http://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/fgUVz5m.png?v=1.0.0.1" group-title="News" tvg-id="Al Jazeera HD" tvg-name="Al Jazeera HD", Al Jazeera Arabic
-https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+#https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+https://cdn4.mbahnunungonline.net/m3u8/ar/f5f5c18cf037918.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/xSCGVhz.png?v=1.0.0.1" group-title="News" tvg-id="AL Manar TV" tvg-name="AL Manar TV", AL Manar TV
 https://manar.live/iptv/index.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/NTIQcW0.png?v=1.0.0.1" group-title="News" tvg-id="Metro TV", Metro TV
