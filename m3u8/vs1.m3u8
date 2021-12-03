@@ -339,7 +339,7 @@ https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
 http://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/fgUVz5m.png?v=1.0.0.1" group-title="News" tvg-id="Al Jazeera HD" tvg-name="Al Jazeera HD", Al Jazeera Arabic
-https://dl.dropboxusercontent.com/s/dh7sdw6qeu49yri/f5f5c18cf037918.m3u8
+https://dl.dropbox.com/s/dh7sdw6qeu49yri/f5f5c18cf037918.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/xSCGVhz.png?v=1.0.0.1" group-title="News" tvg-id="AL Manar TV" tvg-name="AL Manar TV", AL Manar TV
 https://manar.live/iptv/index.m3u8
