@@ -612,11 +612,6 @@ https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/4gNhVWH.png?v=1.0.0.1" group-title="Movies" tvg-id="WarnerTV" tvg-name="WarnerTV", WarnerTV
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/NNKG82R.png?v=1.0.0.1" group-title="Movies" tvg-id="Star Chinese Movies HD" tvg-name="Star Chinese Movies HD", SCM HD
-https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
-
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/MggeOq7.png?v=1.0.0.1" group-title="Movies" tvg-id="mycinemaasia" tvg-name="mycinemaasia", My Cinema Asia
 http://rr.dens.tv/h/h193/index.m3u8
 
