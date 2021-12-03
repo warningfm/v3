@@ -20,7 +20,8 @@ https://anevia114.mncnow.id/live/eds/TransTV/sa_hls/TransTV.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/45Vmwv5.png?v=1.1.1.1" group-title="Nasional" tvg-id="GTV" tvg-name="GTV", GTV
 https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/jqNYjGu.png?v=1.1.1.1" group-title="Nasional" tvg-id="NET TV" tvg-name="NET TV", NET.
-https://liveanevia.mncnow.id/live/eds/NetTV-M1/sa_hls/NetTV-M1.m3u8
+#https://liveanevia.mncnow.id/live/eds/NetTV-M1/sa_hls/NetTV-M1.m3u8
+https://nonton.site:8443/Athayamanja/SHFTZRKFrF/24
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/7anU0V0.png?v=1.1.1.1" group-title="Nasional" tvg-id="tv One" tvg-name="tv One", tvOne
 https://api.mbed.cc/youtube/live.m3u8?id=xMb9AGpJRNQ
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/0Q9VrbQ.png?v=1.1.1.1" group-title="Nasional" tvg-id="rtv" tvg-name="rtv", rtv
