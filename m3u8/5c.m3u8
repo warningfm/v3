@@ -248,7 +248,7 @@ https://wms.klikhost.net/tv9/tv9/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/sRHJJ5c.png?v=1.0.0.1" group-title="Religious" tvg-id="Tawaf TV", Tawaf TV
 http://stream1.ninmedia.tv:1935/tawaftv/rtmp.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/YHsUiwa.png?v=1.0.0.1" group-title="Religious" tvg-id="MQTV", MQTV
-https://v3.siar.us/syiarmedia/live/playlist.m3u8
+http://live-birutv.com/live/mqtv.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/evrRgFH.png?v=1.0.0.1" group-title="Religious" tvg-id="TV Mu", TV Mu
 http://stream1.ninmedia.tv:1935/tvmu/udp.stream/playlist.m3u8
 #EXTINF:1 tvg-logo="https://warningfm.github.io/v3/img/CwsvvSn.png?v=1.0.0.1" group-title="Religious" tvg-id="British Muslim", British Muslim
