@@ -51,7 +51,7 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.
 #EXTINF:-1 group-title=" Local " tvg-logo="https://warningfm.github.io/v3/img/Tj2eF2o.png?v=1.0.0.1", Bali TV
 http://cdn4.mbahnunungonline.net/m3u8/id/4c33d89bb7ac426.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://warningfm.github.io/v3/img/4P5UM89.png?v=1.0.0.1", JTV
-https://liveanevia.mncnow.id/live/eds/JTV/sa_hls/JTV.m3u8
+https://cdn02.mola.tv/Content/HLS/Live/channel(f2cd666d-f350-1140-7ce5-3d7f39f84727)/index.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://warningfm.github.io/v3/img/yvU25Cp.png?v=1.0.0.1", JakTV
 http://cdn4.mbahnunungonline.net/m3u8/id/226fe77699e03c6.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://warningfm.github.io/v3/img/KawOb6q.png?v=1.0.0.1", DAAI TV
