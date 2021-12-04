@@ -198,9 +198,9 @@ https://tv-trtworld.live.trt.com.tr/master.m3u8
 ########################################################     Sports    ########################################################
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/9b088eX.png?v=1.0.0.1" group-title="Sports", beIN Sports 1
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/3244.ts
+http://g16.aminouras.xyz/live/978488877001/index.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/sy3NbII.png?v=1.0.0.1" group-title="Sports", beIN Sports 2
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/3245.ts
+http://g17.aminouras.xyz/live/10011244/index.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/cokkw7Z.png?v=1.0.0.1" group-title="Sports", Golf
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/96EpV8O.png?v=1.0.0.1" group-title="Sports", Dubai Sports
@@ -373,7 +373,7 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/C5EpW33.png?v=8.8.4.4" group-title="Hindi", Bflix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/4L7BYKM.png?v=8.8.4.4" group-title="Hindi", & Pictures
-http://208.115.215.42/Utsav_Plus_HD/tracks-v1a1/mono.m3u8
+http://208.86.19.21:80/705.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/ceBQDFq.png?v=8.8.4.4" group-title="Hindi", Zee TV
 http://208.115.215.42/ZEE_Tv_HD_02/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/2UQNzYB.png?v=8.8.4.4" group-title="Hindi", Zing
