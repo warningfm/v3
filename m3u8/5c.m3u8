@@ -173,7 +173,7 @@ https://visionplus-stream.visionplus.id/live/eds/MetroTV-RTX/sa_hls/MetroTV-RTX.
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/RytQgdW.png?v=1.0.0.1" group-title="News", IDX
 https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Thm3LAk.png?v=1.0.0.1" group-title="News", MNC News
-http://cdn4.mbahnunungonline.net/m3u8/id/243a1aea2191dec.m3u8
+http://gumisasak-vision.online/Gegonjer-TV/Dyos_Daftar_Isi/Daftar_UseeTV_S/mncnews.m3u
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/N1yKLa1.png?v=1.0.0.1" group-title="News" tvg-id="tvOne", tvOne
 http://cdn4.mbahnunungonline.net/m3u8/id/0976f879a0c4548.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/GZQvCs6.png?v=1.0.0.1" group-title="News" tvg-id="DW English", DW English
