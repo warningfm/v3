@@ -342,7 +342,7 @@ http://50.7.161.82:8278/streams/d/Channel5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vK2rOZG.png?v=1.0.0.1" group-title="Fashion", Fashion TV HD
 https://fashiontv-fashiontv-loriginal-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XgrBSh3.png?v=1.0.0.1" group-title="Fashion", Fashion TV
-http://cdn4.mbahnunungonline.net/m3u8/fs/ftv_pg16.m3u8
+https://cdn4.mbahnunungonline.net/m3u8/fs/ftv_pg16.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LQqABbX.png?v=1.0.0.1" group-title="Fashion", Fashion TV Midnight Secrets
 https://cdn4.mbahnunungonline.net/m3u8/fs/ftv_midnite_secrets.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JbGsuDd.png?v=1.0.0.1" group-title="Fashion", HD Fashion
