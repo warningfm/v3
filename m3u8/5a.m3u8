@@ -165,7 +165,7 @@ https://feed.play.mv/live/10005200/37MP1b7MI1/master.m3u8
 http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/qo8Wt7F.png?v=1.1.1.1", ZEE CAFE
-https://edge.nim.mivo.tv/video/assets/oops.m3u8
+http://fastmedia.watch:2086/live/hawadiscord/Fqdb9urXdX/20476.m3u8
 
 ########################################################      Kids     ########################################################
 
@@ -456,7 +456,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(72d6d51e-c265-4
 http://rr1.dens.tv/h/h21/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/cymjoiG.png?v=1.0.0.1" group-title="Movies", &FlixHD
-http://sneh-zee5tv-production.up.railway.app/?c=0-9-channel_2105335046
+http://fastmedia.watch:2086/live/hawadiscord/Fqdb9urXdX/194332.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/gqQZ16k.png?v=1.0.0.1" group-title="Movies", &PriveHD
 http://sneh-zee5tv-production.up.railway.app/?c=0-9-privéhd
