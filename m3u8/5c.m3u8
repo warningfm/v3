@@ -177,7 +177,7 @@ http://bit.ly/3dhPFvz
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/N1yKLa1.png?v=1.0.0.1" group-title="News" tvg-id="tvOne", tvOne
 http://cdn4.mbahnunungonline.net/m3u8/id/0976f879a0c4548.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/GZQvCs6.png?v=1.0.0.1" group-title="News" tvg-id="DW English", DW English
-https://livecdn.fptplay.net/world/dwenglish_hls.smil/playlist.m3u8
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/BydlaOh.png?v=1.0.0.1" group-title="News", ABC Australia
 http://203.154.177.124:8899/live/ch8/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/nLk6uxc.png?v=1.0.0.1" group-title="News", CNN International
