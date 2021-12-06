@@ -114,7 +114,7 @@ https://iptv.mwafa.net/vidio/206/index.m3u8?token=1999
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/9JPHanf.png?v=1.0.0.1" group-title="Nasional" tvg-id="mentari tv" tvg-name="mentari tv", Mentari TV
 https://iptv.mwafa.net/vidio/8237/index.m3u8?token=1999
 
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/I64wd67.png?v=1.0.0.1" group-title="Nasional" tvg-id="TVRI" tvg-name="TVRI Sport HD", TVRI Sport ᴴᴰ
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/I64wd67.png?v=1.0.0.1" group-title="Nasional" tvg-id="TVRI" tvg-name="TVRI Sport HD", TVRI Sport
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 
 ########################################################     Local     ########################################################
