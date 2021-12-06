@@ -154,7 +154,7 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 https://e1.siar.us/badartv/live/playlist.m3u8
 
 #EXTINF:-1 group-title=" Local " tvg-logo="https://warningfm.github.io/v3/img/pwxmNpN.png?v=1.0.0.1" tvg-id="Elshinta TV" tvg-name="Elshinta TV", Elshinta TV
-http://cdn4.mbahnunungonline.net/m3u8/loc/383fb71f4a76ab2.m3u8
+http://rrelshinta.dens.tv/s/s10/index.m3u8
 
 #EXTINF:-1 group-title=" Local " tvg-logo="https://warningfm.github.io/v3/img/tlH0Quf.png?v=1.0.0.1" tvg-id="Sakti TV" tvg-name="Sakti TV", Sakti TV
 https://v2.siar.us/saktitv/livestream/playlist.m3u8
