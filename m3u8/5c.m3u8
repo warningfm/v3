@@ -374,7 +374,7 @@ https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/4L7BYKM.png?v=8.8.4.4" group-title="Hindi", & Pictures
 http://208.86.19.21:80/705.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/ceBQDFq.png?v=8.8.4.4" group-title="Hindi", Zee TV
-http://208.115.215.42/ZEE_Tv_HD_02/index.m3u8
+https://snehjiotv.in1.bitmana.io/snehjioox.php?c=Zee_TV_HD&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/2UQNzYB.png?v=8.8.4.4" group-title="Hindi", Zing
 http://jo123.biz/jweb/m3u8.php?c=Zing
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/gSsIODC.png?v=8.8.4.4" group-title="Hindi", Zee Cinema
@@ -383,6 +383,8 @@ http://208.115.215.42/ZEE_CInema_HD/index.m3u8
 http://208.115.215.42/ZEE_Bollywood_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/yvfUpGV.png?v=8.8.4.4" group-title="Hindi" tvg-id="Zee" tvg-name="Zee", Zee Bioskop
 http://210.210.155.35/qwr9ew/s/s32/01.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_0svg5azHp4/YaziJ_E58yI/AAAAAAAABhY/oamiMQd2h64IEwn_caccvXf4faCzT2iMwCNcBGAsYHQ/s0/36Sd3Rt.png?v=1.0.0.1" group-title="Hindi" tvg-id="331" tvg-name="Sony Max", Sony max hd
+http://208.86.19.21:80/706.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xKDJCXJ.jpg?v=8.8.4.4" group-title="Hindi", Zee Action
 http://208.115.215.42/ZEE_ActIon_HD/index.m3u8
 
