@@ -119,16 +119,15 @@ http://iptv.tvmalaysia.cc:80/penang189/penang189/6715
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/xnK3XBL.png?v=1.0.0.1" group-title="Kids" tvg-id="Baby TV HD", Baby TV HD
 https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/xXz1Lht.png?v=1.0.0.1" group-title="Kids", Boomerang
-#https://vips-livecdn.fptplay.net/hda3/boomerang_vhls.smil/playlist.m3u8
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241102.ts
+https://vips-livecdn.fptplay.net/hda3/boomerang_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/OrEXAse.png?v=1.0.0.1" group-title="Kids", Cartoon Network
 https://vips-livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/asDF7GJ.png?v=1.1.1.1" group-title="Kids" tvg-id="Nick Junior", Nick Jr
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241064.ts
+https://snehjiotv.in1.bitmana.io/snehjioox.php?c=Nick_Junior&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/SNzeDbZ.png?v=1.0.0.1" group-title="Kids", Horee
 https://edge.nim.mivo.tv/video/assets/oops.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/uwhVKtr.png?v=1.0.0.1" group-title="Kids", KIDS TV
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241063.ts
+https://snehjiotv.in1.bitmana.io/snehjioox.php?c=Nickelodeon_Jr&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/bMwkQEd.png?v=1.0.0.1" group-title="Kids", Zoomoo
 http://203.154.177.124:8899/live/ch20/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/WOjdvky.png?v=1.0.0.1" group-title="Kids", Spacetoon
