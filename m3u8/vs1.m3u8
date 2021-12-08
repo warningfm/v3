@@ -843,12 +843,12 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/VOD/12755/18663/ff57b12f-dec
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="VISION+" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/jzE4Vfd.png?v=1.0.0.1", Vision Prime
+#EXTINF:-1 group-title="VISION+" tvg-logo="https://raw.githubusercontent.com/mbahnunung/v3/kn/img/jzE4Vfd.png?v=1.0.0.1", Vision Prime
 https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="VISION+" tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/7cLsY1Q.png?v=1.0.0.1", OKTV
+#EXTINF:-1 group-title="VISION+" tvg-logo="https://raw.githubusercontent.com/mbahnunung/v3/kn/img/7cLsY1Q.png?v=1.0.0.1", OKTV
 https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
