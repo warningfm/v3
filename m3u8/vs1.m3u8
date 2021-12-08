@@ -144,19 +144,19 @@ https://liveanevia.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 #EXTINF:-1 group-title=" Local " tvg-logo="https://cdn4.mbahnunungonline.net/img/iXtcLdL.png?v=1.0.0.1" tvg-id="Bandung TV" tvg-name="Bandung TV", Bandung TV
 https://liveanevia.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 
-#EXTINF:-1 group-title=" Local " tvg-logo="https://warningfm.github.io/v3/img/DATJMK7.png?v=1.0.0.1" tvg-id="Jawapos TV" tvg-name="Jawapos TV", Jawapos TV
+#EXTINF:-1 group-title=" Local " tvg-logo="https://cdn4.mbahnunungonline.net/img/DATJMK7.png?v=1.0.0.1" tvg-id="Jawapos TV" tvg-name="Jawapos TV", Jawapos TV
 https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 
-#EXTINF:-1 group-title=" Local " tvg-logo="https://warningfm.github.io/v3/img/EYJ0ED2.png?v=1.0.0.1" tvg-id="Jakarta Globe News" tvg-name="Jakarta Globe News", Jakarta Globe News Channel
+#EXTINF:-1 group-title=" Local " tvg-logo="https://cdn4.mbahnunungonline.net/img/EYJ0ED2.png?v=1.0.0.1" tvg-id="Jakarta Globe News" tvg-name="Jakarta Globe News", Jakarta Globe News Channel
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 
-#EXTINF:-1 group-title=" Local " tvg-logo="https://warningfm.github.io/v3/img/2IyRuk9.png?v=1.0.0.1" tvg-id="BADAR TV" tvg-name="BADAR TV", BADAR TV
+#EXTINF:-1 group-title=" Local " tvg-logo="https://cdn4.mbahnunungonline.net/img/2IyRuk9.png?v=1.0.0.1" tvg-id="BADAR TV" tvg-name="BADAR TV", BADAR TV
 https://e1.siar.us/badartv/live/playlist.m3u8
 
-#EXTINF:-1 group-title=" Local " tvg-logo="https://warningfm.github.io/v3/img/pwxmNpN.png?v=1.0.0.1" tvg-id="Elshinta TV" tvg-name="Elshinta TV", Elshinta TV
+#EXTINF:-1 group-title=" Local " tvg-logo="https://cdn4.mbahnunungonline.net/img/pwxmNpN.png?v=1.0.0.1" tvg-id="Elshinta TV" tvg-name="Elshinta TV", Elshinta TV
 http://rrelshinta.dens.tv/s/s10/index.m3u8
 
-#EXTINF:-1 group-title=" Local " tvg-logo="https://warningfm.github.io/v3/img/tlH0Quf.png?v=1.0.0.1" tvg-id="Sakti TV" tvg-name="Sakti TV", Sakti TV
+#EXTINF:-1 group-title=" Local " tvg-logo="https://cdn4.mbahnunungonline.net/img/tlH0Quf.png?v=1.0.0.1" tvg-id="Sakti TV" tvg-name="Sakti TV", Sakti TV
 https://v2.siar.us/saktitv/livestream/playlist.m3u8
 
 #EXTINF:-1 group-title=" Local " tvg-logo="https://warningfm.github.io/v3/img/YTiEeu7.png?v=1.0.0.1" tvg-id="ADi TV" tvg-name="ADi TV", ADi TV
