@@ -795,6 +795,9 @@ http://stream.zeno.fm/5y0exp3phzzuv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EdYYUt2.png?v=1.0.0.1" group-title="Radio", Radio Bintang Tenggara
 http://rbtfm.cloudns.info:9560/rbtfm
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qR8V8wl.png?v=1.0.0.1" group-title="Radio", Radio MC FM
+http://rbtfm.cloudns.info:9720/stream
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LOwBoYR.png?v=1.0.0.1" group-title="Radio", Radio Sritanjung FM
 http://play.xajist.com:8208/stream
 
