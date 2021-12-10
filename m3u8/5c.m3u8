@@ -267,7 +267,7 @@ http://58.65.171.202:8000/play/1/index.m3u8
 https://edge.nim.mivo.tv/video/assets/oops.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-GJ3HxKhpQiQ/YMOFj7kvn3I/AAAAAAAABFM/ounfS_2q6ioyAftyC3HEyqmVAQ1tKgmegCLcBGAsYHQ/s0/zg4YPTD.png?v=1.0.0.1" group-title="Music", Maleo Channel
 http://stream1.ninmedia.tv:1935/maleo/udp.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiuK4-gyI6sgR7LP5qWC17GuLee52N6173QAnGFgPjcfFH9JzwglAdfHIjIza_9-nVl8gnyj3oOGfn-qhauwKAR1qgyi5XweJZDNcA5W1pcCYnPdMQhfoqibwN35AmoD7d_WsgFHrh1nWnIspjcKuvnqBDuWwtVJw_fxJyuaRg7-MFyJolbmuV4jAP5?v=1.0.0.1" group-title="Music", POP Musik
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/NN60Hzb.png?v=1.0.0.1?v=1.0.0.1" group-title="Music", POP Musik
 http://stream1.ninmedia.tv:1935/popmusik/udp.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/UaHtwO2.png?v=1.0.0.1" group-title="Music", 9XM
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
