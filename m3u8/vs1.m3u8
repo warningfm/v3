@@ -792,7 +792,7 @@ http://208.86.19.21:80/706.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mbahnunung/v3/kn/img/93cFv35.png?v=1.0.0.1" group-title="Radio", mbah nunung Online
 http://stream.zeno.fm/5y0exp3phzzuv
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mbahnunung/v3/kn/img/EdYYUt2.png?v=1.0.0.1" group-title="Radio", Radio Bintang Tenggara
+#EXTINF:-1 tvg-logo="https://lastfm.freetls.fastly.net/i/u/300x300/f69c7be1aa497aaa87f40d2306c4c355.png?v=1.0.0.1" group-title="Radio", Radio Bintang Tenggara
 http://rbtfm.cloudns.info:9560/rbtfm
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mbahnunung/v3/kn/img/qR8V8wl.png?v=1.0.0.1" group-title="Radio", Radio MC FM
