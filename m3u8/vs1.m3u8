@@ -127,7 +127,7 @@ https://cdn02.mola.tv/Content/DASH/Live/channel(f2cd666d-f350-1140-7ce5-3d7f39f8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="Local" tvg-logo="https://cdn4.mbahnunungonline.net/img/Tj2eF2o.png?v=1.0.0.1" tvg-id="Bali TV" tvg-name="Bali TV", Bali TV
-https://liveanevia.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
+https://liveanevia.mncnow.id/live/eds/BaliTV_Timeshift/sa_dash_timeshift/BaliTV_Timeshift.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
@@ -164,9 +164,6 @@ https://v2.siar.us/aditv/livestream/playlist.m3u8
 
 #EXTINF:-1 group-title="Local" tvg-logo="https://cdn4.mbahnunungonline.net/img/ehDWytF.png?v=1.0.0.1" tvg-id="TVKU" tvg-name="TVKU", TVKU
 http://103.30.1.14:8080/hls/live.m3u8
-
-#EXTINF:-1 group-title="Local" tvg-logo="https://cdn4.mbahnunungonline.net/img/Z5cNFNk.png?v=1.0.0.1" tvg-id="Inspira TV" tvg-name="Inspira TV", Inspira TV
-http://cdn4.mbahnunungonline.net/m3u8/loc/ca07a749e91966b.m3u8
 
 #EXTINF:-1 group-title="Local" tvg-logo="https://cdn4.mbahnunungonline.net/img/tIFiAdl.png?v=1.0.0.1" tvg-id="Digdaya TV" tvg-name="Digdaya TV", Digdaya TV
 https://ms.digdaya.tv/live/digdayatv/playlist.m3u8
