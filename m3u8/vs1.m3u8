@@ -795,7 +795,7 @@ http://stream.zeno.fm/5y0exp3phzzuv
 #EXTINF:-1 tvg-logo="https://lastfm.freetls.fastly.net/i/u/300x300/f69c7be1aa497aaa87f40d2306c4c355.png?v=1.0.0.1" group-title="Radio", Radio Bintang Tenggara
 http://rbtfm.cloudns.info:9560/rbtfm
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mbahnunung/v3/kn/img/qR8V8wl.png?v=1.0.0.1" group-title="Radio", Radio MC FM
+#EXTINF:-1 tvg-logo="https://lastfm.freetls.fastly.net/i/u/300x300/f14df1bb8475a9516a6bb5276f4d4f69.png?v=1.0.0.1" group-title="Radio", Radio MC FM
 http://rbtfm.cloudns.info:9720/stream
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mbahnunung/v3/kn/img/LOwBoYR.png?v=1.0.0.1" group-title="Radio", Radio Sritanjung FM
