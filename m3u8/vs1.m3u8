@@ -781,7 +781,7 @@ http://208.115.215.42/ZEE_CInema_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/Akf09tQ.png?v=8.8.4.4" group-title="Hindi", Zee Bollywood
 http://208.115.215.42/ZEE_Bollywood_HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/36Sd3Rt.png?v=1.0.0.1" group-title="Hindi" tvg-id="331" tvg-name="Sony Max", SONY MAX
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/36Sd3Rt.png?v=1.0.0.1" group-title="Hindi" tvg-id="331" tvg-name="Sony Max", Sony Max
 http://208.86.19.21:80/706.stream/index.m3u8
 
 ########################################################     Radio     ########################################################
