@@ -3,55 +3,38 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/rA0rUsj.png?v=1.1.1.1" group-title="Nasional" tvg-id="RCTI" tvg-name="RCTI", RCTI
 https://liveanevia.mncnow.id/live/eds/RCTI-Indonesia/sa_dash/RCTI-Indonesia.mpd
-
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Zpy57qG.png?v=1.1.1.1" group-title="Nasional" tvg-id="SCTV" tvg-name="SCTV", SCTV
 https://liveanevia.mncnow.id/live/eds/SCTV-intel/sa_dash/SCTV-intel.mpd
-
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/AWnnWow.png?v=1.1.1.1" group-title="Nasional" tvg-id="MNC TV" tvg-name="MNC TV", MNCTV
 https://liveanevia.mncnow.id/live/eds/MNCTV-Merdeka/sa_dash/MNCTV-Merdeka.mpd
-
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/sxlxwvA.png?v=1.1.1.1" group-title="Nasional" tvg-id="antv" tvg-name="antv", antv
 https://liveanevia.mncnow.id/live/eds/ANTV-radeon/sa_dash/ANTV-radeon.mpd
-
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/eeiIEY8.png?v=1.1.1.1" group-title="Nasional" tvg-id="Indosiar" tvg-name="Indosiar", Indosiar
 https://liveanevia.mncnow.id/live/eds/INDOSIAR-ryzen/sa_dash/INDOSIAR-ryzen.mpd
-
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/NTIQcW0.png?v=1.1.1.1" group-title="Nasional" tvg-id="Metro TV" tvg-name="Metro TV", Metro TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
-
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/1z5pJol.png?v=1.1.1.1" group-title="Nasional" tvg-id="Trans 7" tvg-name="Trans 7", Trans7
 https://liveanevia.mncnow.id/live/eds/TRANS7-transformer/sa_dash/TRANS7-transformer.mpd
-
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/lQMICXV.png?v=1.0.0.1" group-title="Nasional" tvg-id="Trans TV" tvg-name="Trans TV", TransTV
 https://liveanevia.mncnow.id/live/eds/TRANSTV-autobot/sa_dash/TRANSTV-autobot.mpd
-
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/45Vmwv5.png?v=1.1.1.1" group-title="Nasional" tvg-id="GTV" tvg-name="GTV", GTV
 https://liveanevia.mncnow.id/live/eds/GTV-Perjuangan/sa_dash/GTV-Perjuangan.mpd
-
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/jqNYjGu.png?v=1.1.1.1" group-title="Nasional" tvg-id="NET TV" tvg-name="NET TV", NET.
 https://liveanevia.mncnow.id/live/eds/NetTV-M1/sa_dash/NetTV-M1.mpd
-
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/7anU0V0.png?v=1.1.1.1" group-title="Nasional" tvg-id="tv One" tvg-name="tv One", tvOne
 https://liveanevia.mncnow.id/live/eds/TVONE-Decepticon/sa_dash/TVONE-Decepticon.mpd
-
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/XlZqfwV.png?v=1.1.1.1" group-title="Nasional" tvg-id="rtv" tvg-name="rtv", rtv
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/manifest.mpd
-
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/aJhpmgf.png?v=1.1.1.1" group-title="Nasional" tvg-id="Kompas TV" tvg-name="Kompas TV", Kompas TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
-
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/EknqlDs.png?v=1.1.1.1" group-title="Nasional" tvg-id="iNews" tvg-name="iNews", iNews
 https://liveanevia.mncnow.id/live/eds/InewsTV-Agustus/sa_dash/InewsTV-Agustus.mpd
-
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/1Mtx9mY.png?v=1.1.1.1" group-title="Nasional" tvg-id="CNN Indonesia" tvg-name="CNN Indonesia", CNN Indonesia
 https://cdn4.mbahnunungonline.net/m3u8/id/d12f0b99ed1f070.m3u8
-
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/gII3Eq8.png?v=1.1.1.1" group-title="Nasional" tvg-id="Berita Satu News" tvg-name="Berita Satu News", Berita Satu
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/XBtbPBF.png?v=1.1.1.1" group-title="Nasional" tvg-id="TVRI" tvg-name="TVRI", TVRI
 https://cdn4.mbahnunungonline.net/m3u8/id/3f58825fe229a8f.m3u8
-
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/eLjHSKm.png?v=1.1.1.1" group-title="Nasional" tvg-id="Nusantara TV" tvg-name="Nusantara TV", NTV
 https://cdn4.mbahnunungonline.net/m3u8/id/a6109060c7f55cc.m3u8
 
@@ -59,58 +42,40 @@ https://cdn4.mbahnunungonline.net/m3u8/id/a6109060c7f55cc.m3u8
 
 #EXTINF:-1 group-title=" Local " tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/Tj2eF2o.png?v=1.0.0.1", Bali TV
 https://liveanevia.mncnow.id/live/eds/BaliTV_Timeshift/sa_dash_timeshift/BaliTV_Timeshift.mpd
-
 #EXTINF:-1 group-title=" Local " tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/4P5UM89.png?v=1.0.0.1", JTV
 https://cdn02.mola.tv/Content/DASH/Live/channel(f2cd666d-f350-1140-7ce5-3d7f39f84727)/manifest.mpd
-
 #EXTINF:-1 group-title=" Local " tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/yvU25Cp.png?v=1.0.0.1", JakTV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/manifest.mpd
-
 #EXTINF:-1 group-title=" Local " tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/KawOb6q.png?v=1.0.0.1", DAAI TV
 http://rr2.dens.tv/s/s13/index.m3u8
-
 #EXTINF:-1 group-title=" Local " tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/60lNdUo.png?v=1.0.0.1", MyTV
 http://rr3.dens.tv/s/s88/S4/mnf.m3u8
-
 #EXTINF:-1 group-title=" Local " tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/DATJMK7.png?v=1.0.0.1", Jawapos TV
 https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
-
 #EXTINF:-1 group-title=" Local " tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/EYJ0ED2.png?v=1.0.0.1", Jakarta Globe News Channel
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
-
 #EXTINF:-1 group-title=" Local " tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/iXtcLdL.png?v=1.0.0.1", Bandung TV
 http://202.150.153.254/bandungtv720p.m3u8
-
 #EXTINF:-1 group-title=" Local " tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/pwxmNpN.png?v=1.0.0.1", Elshinta TV
 http://rr2.dens.tv/s/s10/index.m3u8
-
 #EXTINF:-1 group-title=" Local " tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/tIFiAdl.png?v=1.0.0.1", Digdaya TV
 https://ms.digdaya.tv/live/digdayatv/playlist.m3u8
-
 #EXTINF:-1 group-title=" Local " tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/Z5cNFNk.png?v=1.0.0.1", Inspira TV
 https://v2.siar.us/inspiratv/live/playlist.m3u8
-
 #EXTINF:-1 group-title=" Local " tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/YTiEeu7.png?v=1.0.0.1", ADi TV
 https://v2.siar.us/aditv/livestream/playlist.m3u8
-
 #EXTINF:-1 group-title=" Local " tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/ehDWytF.png?v=1.0.0.1", TVKU
 http://103.30.1.14:8080/hls/live.m3u8
-
 #EXTINF:-1 group-title=" Local " tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/45ukWAy.png?v=1.0.0.1", duta TV
 https://v2.siar.us/dutatv/live/playlist.m3u8
-
 #EXTINF:-1 group-title=" Local " tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/zaZKVrQ.png?v=1.0.0.1", JekTv Jambi
 http://128.199.90.131:1935/jektv/myStream/playlist.m3u8
-
 #EXTINF:-1 group-title=" Local " tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/sFAzDq9.png?v=1.0.0.1", btv Balikpapan
 http://122.248.43.138:1935/ch10/myStream/playlist.m3u8
-
 #EXTINF:-1 group-title=" Local " tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/mnFjEw1.png?v=1.0.0.1", Padang TV
 http://122.248.43.138:1935/ch16/myStream/playlist.m3u8
-
 #EXTINF:-1 group-title=" Local " tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/OphvJ1c.png?v=1.0.0.1", Citra TV
 http://122.248.43.138:1935/ch28/myStream/live.m3u8
-
 #EXTINF:-1 group-title=" Local " tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/tlH0Quf.png?v=1.0.0.1", SAKTI TV
 https://v2.siar.us/saktitv/livestream/playlist.m3u8
 
@@ -118,52 +83,36 @@ https://v2.siar.us/saktitv/livestream/playlist.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/XTBtpcT.png?v=1.0.0.1" tvg-id="Animax" tvg-name"Animax", Animax
 http://rr1.dens.tv/h/h144/index.m3u8
-
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/6CCidoH.png?v=1.0.0.1" tvg-id="ANIPlus" tvg-name"ANIPlus", ANIPlus
 http://rr1.dens.tv/h/h02/index.m3u8
-
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/aKZ7opS.png?v=1.0.0.1" tvg-id="Da Vinci Learning" tvg-name"Da Vinci Learning", Da Vinci Learning
 https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b1800000.m3u8
-
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/p1a0RwN.png?v=1.0.0.1" tvg-id="Blue Ant Entertainment" tvg-name="Blue Ant Entertainment", Rock Entertainment
 http://rr1.dens.tv/h/h16/index.m3u8
-
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/tHrbNmG.png?v=1.0.0.1" tvg-id="Blue Ant Extreme" tvg-name="Blue Ant Extreme", Rock Extreme
 http://vips-livecdn.fptplay.net/hda1/blueantext_vhls.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/W1JfODW.png?v=1.0.0.1", UseePrime
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
-
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/RfIj9lU.png?v=1.0.0.1", Ruang Trampil
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/manifest.mpd
-
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/4Yk5Anu.png?v=1.0.0.1", SEA Today
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
-
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/Ftk2ky0.png?v=1.0.0.1" tvg-id="SGEM", S GEM
 http://rr.dens.tv/h/h19/index.m3u8
-
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/QO5Fi9H.png?v=1.0.0.1", Magna TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/manifest.mpd
-
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/Cj6JSFa.png?v=1.0.0.1", The Indonesia Channel
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/manifest.mpd
-
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/Tbur8nX.png?v=1.0.0.1" tvg-id="Outdoor Channel" tvg-name="Outdoor Channel", Outdoor Channel
 https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/VyqMhjx.png?v=1.0.0.1" tvg-id="Outside TV" tvg-name="Outside TV", Outside TV
 https://outside-tv.samsung.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/ALE0biZ.png?v=1.0.0.1", History
 https://feed.play.mv/live/10005200/isb9Qf3P5M/master.m3u8
-
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/9Z7DUFb.png?v=1.1.1.1", Crime Investigation
 https://feed.play.mv/live/10005200/37MP1b7MI1/master.m3u8
-
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/2RySrJl.png?v=1.0.0.1", CCTV4 HD
 http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.m3u8
-
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/qo8Wt7F.png?v=1.1.1.1", ZEE CAFE
 http://fastmedia.watch:2086/live/hawadiscord/Fqdb9urXdX/20476.m3u8
 
@@ -171,31 +120,22 @@ http://fastmedia.watch:2086/live/hawadiscord/Fqdb9urXdX/20476.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uAHJS7W.png?v=1.0.0.1" group-title="Kids" tvg-id="Astro Ceria HD" tvg-name="Astro Ceria HD", Astro Ceria HD
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xnK3XBL.png?v=1.0.0.1" group-title="Kids" tvg-id="Baby TV HD" tvg-name="Baby TV HD", Baby TV
 http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xXz1Lht.png?v=1.0.0.1" group-title="Kids" tvg-id="Boomerang HD" tvg-name="Boomerang HD", Boomerang
 http://198.16.106.62:8278/streams/d/Boomerang/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OrEXAse.png?v=1.0.0.1" group-title="Kids", Cartoon Network
 http://iptvid.my.id/ch/cn.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/asDF7GJ.png?v=1.1.1.1" group-title="Kids" tvg-id="Nick Jr." tvg-name="Nick Jr.", Nick Jr
 http://58.65.171.202:8000/play/3/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SNzeDbZ.png?v=1.0.0.1" group-title="Kids", Horee
 https://edge.nim.mivo.tv/video/assets/oops.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uwhVKtr.png?v=1.0.0.1" group-title="Kids", KIDS TV
 http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bMwkQEd.png?v=1.0.0.1" group-title="Kids", Zoomoo
 http://203.154.177.124:8899/live/ch20/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WOjdvky.png?v=1.0.0.1" group-title="Kids", Spacetoon
 http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p3cqAKM.jpg" group-title="Kids" tvg-id="Biznet Kids", B Kids
 https://edge.nim.mivo.tv/video/assets/oops.m3u8
 
@@ -203,22 +143,16 @@ https://edge.nim.mivo.tv/video/assets/oops.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/GVGesVr.png?v=1.0.0.1" group-title="Korengan" tvg-id="Arirang" tvg-name="Arirang", Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/6AmnAWu.png?v=1.0.0.1" group-title="Korengan" tvg-id="tvN" tvg-name="tvN HD", tvN HD
 http://rr1.dens.tv/h/h20/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/N0TKqJd.png?v=1.0.0.1" group-title="Korengan" tvg-id="tvN Movies HD" tvg-name="tvN Movies HD", TVN Movies
 http://rr1.dens.tv/h/h21/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/jJTACLd.png?v=1.0.0.1" group-title="Korengan" tvg-id="KBS World HD" tvg-name="KBS World HD", KBS World
 http://iptv.tvmalaysia.cc:80/penang189/penang189/6803
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/scJZO2S.png?v=1.0.0.1" group-title="Korengan" tvg-id="ONE HD" tvg-name="ONE HD", ONE
 http://rr1.dens.tv/h/h143/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/QVj6I9k.png?v=1.0.0.1" group-title="Korengan" tvg-id="K-Plus HD" tvg-name="K-Plus HD", Kplus
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6278b166-9632-42c3-b6e9-226edc1d3da6)/manifest.mpd
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/Wb4hKP0.png?v=1.0.0.1" group-title="Korengan" tvg-id="SBS" tvg-name="SBS", SBS
 https://edge.nim.mivo.tv/video/assets/oops.m3u8
 
@@ -226,10 +160,8 @@ https://edge.nim.mivo.tv/video/assets/oops.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/BaA1xU1.png?v=1.0.0.1" group-title="Lifestyle" tvg-id="HGTV HD" tvg-name="HGTV HD", HGTV HD
 https://feed.play.mv/live/10005200/Wvl02Co4S1/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/3IDyQAj.png?v=1.0.0.1" group-title="Lifestyle" tvg-id="Asian Food Network HD" tvg-name="Asian Food Network HD", Asian Food Channel
 https://vips-livecdn.fptplay.net/hda1/afchd_vhls.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/wFmCTh4.png?v=1.0.0.1" group-title="Lifestyle" tvg-id="Food Network HD" tvg-name="Food Network HD", Food Network HD
 https://feed.play.mv/live/10005200/aGu172is5o/master.m3u8
 
