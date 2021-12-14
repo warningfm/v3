@@ -26,7 +26,7 @@ https://liveanevia.mncnow.id/live/eds/TRANS7-transformer/sa_dash/TRANS7-transfor
 https://liveanevia.mncnow.id/live/eds/TRANSTV-autobot/sa_dash/TRANSTV-autobot.mpd
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-GJ3HxKhpQiQ/YMOFj7kvn3I/AAAAAAAABFM/ounfS_2q6ioyAftyC3HEyqmVAQ1tKgmegCLcBGAsYHQ/s0/zg4YPTD.png?v=1.1.1.1" group-title="tvN150N" tvg-id="Maleo" tvg-name="MTV Live", Maleo
-https://dl.dropbox.com/s/5b57ecqy6fg9qx2/e22dc65d77c8885.m3u8
+http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-GR57XA8olF8/YMOFfPvSOCI/AAAAAAAABEA/bOl3WXT_UR4IBjao-dPtkBXKz8wO3UivACLcBGAsYHQ/s0/45Vmwv5.png?v=1.1.1.1" group-title="tvN150N" tvg-id="GTV" tvg-name="GTV", GTV
 https://liveanevia.mncnow.id/live/eds/GTV-Perjuangan/sa_dash/GTV-Perjuangan.mpd
