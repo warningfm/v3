@@ -420,13 +420,13 @@ https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/jqNYjGu.png?v=1.1.1.1" group-title="Backup", NET.
 http://203.154.177.124:8899/live/ch23/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VKAWqEO.png?v=1.1.1.1" group-title="RCTI+" tvg-id="RCTI", RCTI
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-MIKxg3_8Zag/YRa7HBr1hNI/AAAAAAAABTQ/FvDF324u9ew4JwRRCpBUyYkT4gdzVYuGwCLcBGAsYHQ/s0/VKAWqEO.png?v=1.1.1.1" group-title="RCTI+" tvg-id="RCTI", RCTI
 https://cdn4.mbahnunungonline.net/m3u8/id/7cb6654ebec98b7.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HJHmRAh.png?v=1.1.1.1" group-title="RCTI+" tvg-id="MNC TV", MNC TV
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-aMcvtlHs7GQ/YRa7HF6-GwI/AAAAAAAABTM/fgzEO-rE8yMV_uzGaQQ6yp9TrOgHOYwiwCLcBGAsYHQ/s0/HJHmRAh.png?v=1.1.1.1" group-title="RCTI+" tvg-id="MNC TV", MNC TV
 https://cdn4.mbahnunungonline.net/m3u8/id/d9bbf6929ec1028.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/45Vmwv5.png?v=1.1.1.1" group-title="RCTI+" tvg-id="GTV", GTV
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-GR57XA8olF8/YMOFfPvSOCI/AAAAAAAABEA/bOl3WXT_UR4IBjao-dPtkBXKz8wO3UivACLcBGAsYHQ/s0/45Vmwv5.png?v=1.1.1.1" group-title="RCTI+" tvg-id="GTV", GTV
 https://cdn4.mbahnunungonline.net/m3u8/id/df56d15c1ad325a.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EknqlDs.png?v=1.1.1.1" group-title="RCTI+" tvg-id="iNews", iNews
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-DgVXdILk_2U/YMOFgRvUd8I/AAAAAAAABEQ/tlWQu2OAmxwnyVFbaa1KFXsseg5Ie5OnACLcBGAsYHQ/s0/EknqlDs.png?v=1.1.1.1" group-title="RCTI+" tvg-id="iNews", iNews
 https://cdn4.mbahnunungonline.net/m3u8/id/2f760b7cf8286be.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XBtbPBF.png?v=1.1.1.1" group-title="Backup" tvg-id="TVRI", TVRI [mncnow]
 http://202.80.222.130/000001/2/ch14041511560872104862/1000.m3u8?virtualDomain=000001.live_hls.zte.com
