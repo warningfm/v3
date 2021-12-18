@@ -4,11 +4,11 @@
 // =============================================== //
 
     $.kast({
-        host: 'ssg.streamingmurah.com',
+        host: 'scg.streamingmurah.com',
         port: 9720,
-        protocol: 'https',
+        protocol: 'http',
         version: 1,
-        //directStreamURL: 'https://rcast.live/stream/66080',
+        directStreamURL: 'https://rcast.live/stream/66080',
         defaultArtwork: ['https://warningfm.github.io/v3/images/1d205655ef29e14a8255c89fe2383a41.jpg'],
         statusBar: false,
         startTemplate: 'maximized',
