@@ -238,11 +238,9 @@ http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 ########################################################   Religious   ########################################################
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/RdOrRX2.png?v=1.0.0.1" group-title="Religious" tvg-id="AlQuran Kareem", AlQuran Kareem
-#https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/index.m3u8
-https://api.mbed.cc/ytlive.m3u8?id=UFnul0LFdOw
+http://group2-swiftservesd-1.dens.tv/s/s28/index.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/6FcTok4.png?v=1.0.0.1" group-title="Religious" tvg-id="Sunna TV", Sunna TV
-#https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/index.m3u8
-https://api.mbed.cc/youtube/live.m3u8?id=gUC3TjCrwRw
+http://group2-swiftservesd-1.dens.tv/s/s27/index.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/tl7ePSI.png?v=1.0.0.1" group-title="Religious" tvg-id="Ajwa TV", Ajwa TV
 http://iptv.mwafa.net/vidio/7464/index.m3u8?token=1999
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/vJPneCu.png?v=1.0.0.1" group-title="Religious" tvg-id="TV9 Nu", TV9 Nusantara
@@ -280,9 +278,9 @@ http://rr.dens.tv/h/h155/index2.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/M10gw6I.png?v=1.0.0.1" group-title="Movies", BOO HD
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Jy0qhiH.png?v=1.0.0.1" group-title="Movies", Celestial Classic Movies
-http://rr2.dens.tv/s/s31/index.m3u8
+http://group2-swiftservesd-1.dens.tv/s/s31/index.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/ZEHEXrZ.png?v=1.0.0.1" group-title="Movies", Celestial Movies
-http://rr2.dens.tv/s/s33/index.m3u8
+http://group2-swiftservesd-1.dens.tv/s/s33/index.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/gL9y8n3.png?v=1.0.0.1" group-title="Movies", AXN
 http://rr1.dens.tv/h/h141/index.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/UAaZ3G1.png?v=1.0.0.1" group-title="Movies", KIX
