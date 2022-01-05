@@ -100,9 +100,9 @@ https://5effe161e0fba.streamlock.net:30443/live/ngrp:TIC.stream_all/playlist.m3u
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/Tbur8nX.png?v=1.0.0.1", Outdoor Channel
 https://vips-livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/p1a0RwN.png?v=1.0.0.1" tvg-id="Blue Ant Entertainment" tvg-name="Blue Ant Entertainment", Rock Entertainment
-https://vips-livecdn.fptplay.net/hda1/blueantent_vhls.smil/playlist.m3u8
+http://rr1.dens.tv/h/h16/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/tHrbNmG.png?v=1.0.0.1" tvg-id="Blue Ant Extreme" tvg-name="Blue Ant Extreme", Rock Extreme
-https://vips-livecdn.fptplay.net/hda1/blueantext_vhls.smil/playlist.m3u8
+http://rr1.dens.tv/h/h15/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/ALE0biZ.png?v=1.0.0.1", History
 #https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 http://iptv.tvmalaysia.cc:80/penang175/penang175/7079
