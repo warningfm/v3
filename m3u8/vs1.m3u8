@@ -623,8 +623,8 @@ http://203.154.177.124:8899/live/ch7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/zEnolCx.png?v=1.1.1.1" group-title="Movies", Sinema Indonesia
 http://rr.dens.tv/h/h155/index2.m3u8
 
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/bSDsPVg.png?v=1.0.0.1" group-title="Movies", Sony Pix
-http://fastmedia.watch:2086/live/hawadiscord/Fqdb9urXdX/119652.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_paramount_big.png?v=1.0.0.1" group-title="Movies", Paramount
+https://cubmu.nomaden.tv:8279/PARAMOUNT/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-oVcgEUfJMOQ/XMZGpRYpkhI/AAAAAAAALXg/Aa0L6cAtsj4y00eX7w1YomLfvXzCpbr_QCLcBGAs/s1600/Dubai-One.jpeg?v=1.1.1.1" group-title="Movies", Dubai One
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
