@@ -221,7 +221,7 @@ https://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/x0XijCu.png?v=1.0.0.1" group-title="Knowledge" tvg-id="National Geographic HD", National Geographic HD
 https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/AWvwPm5.png?v=1.0.0.1" group-title="Knowledge" tvg-id="Discovery Channel HD", Discovery Channel HD
-https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/playlist.m3u8
+https://cubmu.nomaden.tv:8279/DISCOVERY/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/WVpnAKn.png?v=1.0.0.1" group-title="Knowledge" tvg-id="Discovery Asia HD", Discovery Asia HD
 https://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/fgO3tyz.png?v=1.0.0.1" group-title="Knowledge", Discovery Science HD
@@ -300,7 +300,7 @@ http://rr.dens.tv/h/h193/index.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/hT2TzOR.png?v=1.0.0.1" group-title="Movies", My Cinema
 http://rr.dens.tv/h/h90/index2.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/4gNhVWH.png?v=1.0.0.1" group-title="Movies", WarnerTV
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/241073.ts
+https://cubmu.nomaden.tv:8279/WARNER/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/N0TKqJd.png?v=1.0.0.1" group-title="Movies" tvg-id="TVN Movies", TVN Movies
 http://rr1.dens.tv/h/h21/index.m3u8
 
