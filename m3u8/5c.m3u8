@@ -63,7 +63,7 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://warningfm.github.io/v3/img/iXtcLdL.png?v=1.0.0.1", Bandung TV
 http://202.150.153.254/bandungtv720p.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://warningfm.github.io/v3/img/pwxmNpN.png?v=1.0.0.1", Elshinta TV
-http://rrelshinta.dens.tv/s/s10/index.m3u8
+http://group2-swiftservesd-1.dens.tv/s/s10/index.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://2.bp.blogspot.com/-W8zL_aERK4M/VXH-AEyzP4I/AAAAAAAAEuc/T8eNVqhV3Fw/s1600/BBSTV.png?v=1.0.0.1" tvg-id="BBS TV" tvg-name="BBS TV", BBS TV
 http://103.119.54.246:8080/hls/bbstv.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://warningfm.github.io/v3/img/ehDWytF.png?v=1.0.0.1", TVKU
