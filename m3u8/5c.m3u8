@@ -382,7 +382,7 @@ http://208.115.215.42/ZEE_CInema_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/Akf09tQ.png?v=8.8.4.4" group-title="Hindi", Zee Bollywood
 http://208.115.215.42/ZEE_Bollywood_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/yvfUpGV.png?v=8.8.4.4" group-title="Hindi" tvg-id="Zee" tvg-name="Zee", Zee Bioskop
-http://210.210.155.35/qwr9ew/s/s32/01.m3u8
+http://group2-swiftservesd-1.dens.tv/s/s32/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_0svg5azHp4/YaziJ_E58yI/AAAAAAAABhY/oamiMQd2h64IEwn_caccvXf4faCzT2iMwCNcBGAsYHQ/s0/36Sd3Rt.png?v=1.0.0.1" group-title="Hindi" tvg-id="331" tvg-name="Sony Max", Sony max hd
 http://208.86.19.21:80/706.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xKDJCXJ.jpg?v=8.8.4.4" group-title="Hindi", Zee Action
