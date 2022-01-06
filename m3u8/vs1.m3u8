@@ -815,10 +815,10 @@ http://103.28.149.117:8323/stream
 ########################################################     USEETV    ########################################################
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mbahnunung/v3/kn/img/QTEjMpg.png?v=1.1.1.1" group-title="USEETV" tvg-id="Trans7.id" tvg-name="Trans 7", TRANS7
-http://bit.ly/cdd283c9d3d43b5?kano.m3u8
+https://cubmu.nomaden.tv:8279/TRANS7/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mbahnunung/v3/kn/img/RnrimdT.png?v=1.1.1.1" group-title="USEETV" tvg-id="TransTV.id" tvg-name="Trans TV", TRANSTV
-http://bit.ly/61061784f4a9271?kano.m3u8
+https://cubmu.nomaden.tv:8279/TRANSTV/playlist.m3u8
 
 ########################################################     Vidio     ########################################################
 
