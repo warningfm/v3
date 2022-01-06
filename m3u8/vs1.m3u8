@@ -863,3 +863,6 @@ https://d1vp12yk4i8ou5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 group-title="Korengan" tvg-logo="https://pbs.twimg.com/profile_images/1210322485952024577/eB_Hg0RM.jpg", KPOP Sexy
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/s2V9OMG.png?v=1.0.0.1" group-title="Horor" tvg-id="Dunia Lain", Dunia Lain
+https://cubmu.nomaden.tv:8279/DUNIALAIN/playlist.m3u8
