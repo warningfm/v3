@@ -245,7 +245,7 @@ https://outside-tv.samsung.wurl.com/manifest/playlist.m3u8
 ########################################################      Kids     ########################################################
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/uAHJS7W.png?v=1.0.0.1" group-title="Kids" tvg-id="Astro Ceria HD" tvg-name="Astro Ceria HD", Astro Ceria HD
-http://iptv.tvmalaysia.cc:80/penang189/penang189/6715
+http://iptv.tvmalaysia.cc:80/271282/271282/6715
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
@@ -662,13 +662,13 @@ https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 ########################################################   MalaysiaTV  ########################################################
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/YoWxeld.png?v=1.0.0.1" group-title="Malaysia" tvg-id="Astro Citra HD" tvg-name="Astro Citra HD", Astro Citra
-http://iptv.tvmalaysia.cc:80/penang175/penang175/7267
+http://iptv.tvmalaysia.cc:80/271282/271282/7267
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/clevM5Z.png?v=1.1.1.1" group-title="Malaysia" tvg-id="Astro Oasis HD" tvg-name="Astro Oasis HD", Astro Oasis
-http://iptv.tvmalaysia.cc:80/penang175/penang175/6725
+http://iptv.tvmalaysia.cc:80/271282/271282/6725
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Bsy0Tz5.png?v=1.0.0.1" group-title="Malaysia" tvg-id="Astro AEC HD" tvg-name="Astro AEC HD", Astro AEC
-http://iptv.tvmalaysia.cc:80/penang175/penang175/6701
+http://iptv.tvmalaysia.cc:80/271282/271282/6701
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/oBNlPhA.png?v=1.0.0.1" group-title="Malaysia" tvg-id="TV Okey" tvg-name="TV Okey", TV Okey
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
