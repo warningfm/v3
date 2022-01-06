@@ -104,8 +104,7 @@ http://rr1.dens.tv/h/h16/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/tHrbNmG.png?v=1.0.0.1" tvg-id="Blue Ant Extreme" tvg-name="Blue Ant Extreme", Rock Extreme
 http://rr1.dens.tv/h/h15/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/ALE0biZ.png?v=1.0.0.1", History
-#https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
-http://iptv.tvmalaysia.cc:80/penang175/penang175/7079
+http://139.99.71.104:8888/live/blink7/38Jz5ErUNG/718.ts
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/9Z7DUFb.png?v=1.1.1.1", Crime Investigation
 https://feed.play.mv/live/10005200/37MP1b7MI1/master.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/2RySrJl.png?v=1.0.0.1", CCTV4 HD
@@ -216,7 +215,8 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/inde
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/KHKIztL.png?v=1.0.0.1" group-title="Knowledge" tvg-id="Animal Planet HD", Animal Planet HD
 http://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/P9yiTz6.png?v=1.0.0.1" group-title="Knowledge" tvg-id="Nat Geo Wild HD", Nat Geo Wild HD
-https://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/playlist.m3u8
+#https://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/playlist.m3u8
+http://139.99.71.104:8888/live/blink6/yOttch0ZLF/97.ts
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/x0XijCu.png?v=1.0.0.1" group-title="Knowledge" tvg-id="National Geographic HD", National Geographic HD
 https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/AWvwPm5.png?v=1.0.0.1" group-title="Knowledge" tvg-id="Discovery Channel HD", Discovery Channel HD
