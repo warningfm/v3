@@ -216,7 +216,7 @@ http://rr1.dens.tv/h/h16/index.m3u8
 http://rr1.dens.tv/h/h15/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/aKZ7opS.png?v=1.0.0.1" tvg-id="Da Vinci Learning" tvg-name="Da Vinci Learning", Da Vinci Learning
-https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/playlist.m3u8
+https://cubmu.nomaden.tv:8279/DAVINCI/playlist.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/Cj6JSFa.png?v=1.0.0.1" tvg-id="The Indonesia Channel" tvg-name="The Indonesia Channel", The Indonesia Channel
 https://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/playlist.m3u8
