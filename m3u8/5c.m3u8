@@ -88,7 +88,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4b
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/4Yk5Anu.png?v=1.0.0.1", SEA Today
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/XTBtpcT.png?v=1.0.0.1" tvg-id="Animax" tvg-name"Animax", Animax
-https://vips-livecdn.fptplay.net/hda3/animaxport_vhls.smil/playlist.m3u8
+http://rr1.dens.tv/h/h144/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/6CCidoH.png?v=1.0.0.1", ANIPlus
 http://rr1.dens.tv/h/h02/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://warningfm.github.io/v3/img/Ftk2ky0.png?v=1.0.0.1" tvg-id="SGEM", S GEM
