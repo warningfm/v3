@@ -108,13 +108,13 @@ http://cdn4.mbahnunungonline.net/m3u8/id/f9973976ebde68c.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/od0w7R2.png?v=1.1.1.1" group-title="Nasional" tvg-id="O Channel" tvg-name="O Channel", O Channel ᴴᴰ
-https://iptv.mwafa.net/vidio/206/index.m3u8?token=1999
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/od0w7R2.png?v=1.1.1.1" group-title="Nasional" tvg-id="O Channel" tvg-name="O Channel", O Channel
+http://cdn4.mbahnunungonline.net/m3u8/id/02b720fbcfb866d.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/9JPHanf.png?v=1.0.0.1" group-title="Nasional" tvg-id="mentari tv" tvg-name="mentari tv", Mentari TV
 https://iptv.mwafa.net/vidio/8237/index.m3u8?token=1999
 
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/I64wd67.png?v=1.1.1.1" group-title="Nasional" tvg-id="TVRI" tvg-name="TVRI Sport HD", TVRI Sport
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/I64wd67.png?v=1.1.1.1" group-title="Nasional" tvg-id="TVRI" tvg-name="TVRI Sport HD", TVRI Sport ᴴᴰ
 http://cdn4.mbahnunungonline.net/m3u8/id/3f58825fe229a8h.m3u8
 
 ########################################################     Local     ########################################################
