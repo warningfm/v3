@@ -220,9 +220,10 @@ http://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/playlist.m3u8
 #https://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/playlist.m3u8
 http://139.99.71.104:8888/live/blink6/yOttch0ZLF/97.ts
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/x0XijCu.png?v=1.0.0.1" group-title="Knowledge" tvg-id="National Geographic HD", National Geographic HD
-https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/playlist.m3u8
+#https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/playlist.m3u8
+http://139.99.71.104:8888/live/blink6/yOttch0ZLF/96.ts
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/AWvwPm5.png?v=1.0.0.1" group-title="Knowledge" tvg-id="Discovery Channel HD", Discovery Channel HD
-https://cubmu.nomaden.tv:8279/DISCOVERY/playlist.m3u8
+http://139.99.71.104:8888/live/blink6/yOttch0ZLF/95.ts
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/WVpnAKn.png?v=1.0.0.1" group-title="Knowledge" tvg-id="Discovery Asia HD", Discovery Asia HD
 https://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/fgO3tyz.png?v=1.0.0.1" group-title="Knowledge", Discovery Science HD
