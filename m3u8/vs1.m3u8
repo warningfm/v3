@@ -789,25 +789,18 @@ http://208.86.19.21:80/706.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mbahnunung/v3/kn/img/93cFv35.png?v=1.0.0.1" group-title="Radio", mbah nunung Online
 http://fluoz.zeno.fm/n4gzbe9ufzzuv
-
 #EXTINF:-1 tvg-logo="https://lastfm.freetls.fastly.net/i/u/300x300/f69c7be1aa497aaa87f40d2306c4c355.png?v=1.0.0.1" group-title="Radio", Radio Bintang Tenggara
 http://rbtfm.cloudns.info:9560/rbtfm
-
 #EXTINF:-1 tvg-logo="https://lastfm.freetls.fastly.net/i/u/300x300/f14df1bb8475a9516a6bb5276f4d4f69.png?v=1.0.0.1" group-title="Radio", Radio MC FM
 http://rbtfm.cloudns.info:9720/stream
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mbahnunung/v3/kn/img/LOwBoYR.png?v=1.0.0.1" group-title="Radio", Radio Sritanjung FM
 http://play.xajist.com:8208/stream
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mbahnunung/v3/kn/img/93cFv35.png?v=1.0.0.1" group-title="Radio", Radio Vis FM
 https://s5.alhastream.com/radio/8490/radio
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mbahnunung/v3/kn/img/93cFv35.png?v=1.0.0.1" group-title="Radio", Radio GBS FM
 https://s7.alhastream.com/radio/8090/radio?1609467814144
-
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Rym14SjxTgYg3TGmxJHzdYQOcU3SiG6AFzDktPi_-kkNu6e94OxRRmX6CzPwy4wY8hA=s200?v=1.0.0.1" group-title="Radio", Mandala FM Banyuwangi
 https://svara-stream.radioddns.net:8443/banyuwangi_mandalafm
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mbahnunung/v3/kn/img/jR4Foab.jpg?v=1.0.0.1" group-title="Radio", Radio RAYA FM
 http://103.28.149.117:8323/stream
 
@@ -815,7 +808,6 @@ http://103.28.149.117:8323/stream
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/QTEjMpg.png?v=1.1.1.1" group-title="USEETV" tvg-id="Trans7.id" tvg-name="Trans 7", TRANS7
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=3416a75f4cea9109507cacd8e2f2aefc268ef7e5a44f541a7cbde7626ef57566
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/RnrimdT.png?v=1.1.1.1" group-title="USEETV" tvg-id="TransTV.id" tvg-name="Trans TV", TRANSTV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=d645920e395fedad7bbbed0eca3fe2e0268ef7e5a44f541a7cbde7626ef57566
 
@@ -823,7 +815,6 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c476
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mbahnunung/v3/kn/img/luud37p.png?v=1.0.0.1" group-title="Vidio.com", SCTV 
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a46a41c2a2a7270517f5ce8dd2f48fc68d
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mbahnunung/v3/kn/img/9Xq5fsL.png?v=1.0.0.1" group-title="Vidio.com", Indosiar 
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d696a41c2a2a7270517f5ce8dd2f48fc68d
 
