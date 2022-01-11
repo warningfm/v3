@@ -756,9 +756,9 @@ https://cdn.jwplayer.com/manifests/znOTVad5.m3u8
 
 ########################################################     Hindi     ########################################################
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/yvfUpGV.png?v=8.8.4.4" group-title="Hindi" tvg-id="Zee" tvg-name="Zee", Zee Bioskop
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/yvfUpGV.png?v=8.8.4.4" group-title="Hindi" tvg-id="Zee" tvg-name="Zee", Zee Bioskop
 https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/0Y8SVWN.png?v=8.8.4.4" group-title="Hindi", B4U Kadak
