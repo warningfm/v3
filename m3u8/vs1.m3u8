@@ -615,7 +615,7 @@ http://rr.dens.tv/h/h192/index.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/rCLnw5V.png?v=1.0.0.1" group-title="Movies", Action Hollywood Movies
 http://203.154.177.124:8899/live/ch7/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-oVcgEUfJMOQ/XMZGpRYpkhI/AAAAAAAALXg/Aa0L6cAtsj4y00eX7w1YomLfvXzCpbr_QCLcBGAs/s1600/Dubai-One.jpeg?v=1.1.1.1" group-title="Movies", Dubai One
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/e0Mw9DW.png?v=1.0.0.1" group-title="Movies", Dubai One
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 
 ########################################################    HBO GO     ########################################################
