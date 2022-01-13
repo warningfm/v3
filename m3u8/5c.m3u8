@@ -63,7 +63,7 @@ https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://warningfm.github.io/v3/img/EYJ0ED2.png?v=1.0.0.1", Jakarta Globe News Channel
 http://cdn4.mbahnunungonline.net/m3u8/id/270f72deeb5843e.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://warningfm.github.io/v3/img/iXtcLdL.png?v=1.0.0.1", Bandung TV
-http://202.150.153.254/bandungtv720p.m3u8
+http://cdn4.mbahnunungonline.net/m3u8/id/829dbdfe0b57013.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://warningfm.github.io/v3/img/pwxmNpN.png?v=1.0.0.1", Elshinta TV
 http://cdn4.mbahnunungonline.net/m3u8/id/383fb71f4a76ab2.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://2.bp.blogspot.com/-W8zL_aERK4M/VXH-AEyzP4I/AAAAAAAAEuc/T8eNVqhV3Fw/s1600/BBSTV.png?v=1.0.0.1" tvg-id="BBS TV" tvg-name="BBS TV", BBS TV
@@ -71,7 +71,7 @@ http://103.119.54.246:8080/hls/bbstv.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://warningfm.github.io/v3/img/ehDWytF.png?v=1.0.0.1", TVKU
 http://103.30.1.14:8080/hls/live.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://warningfm.github.io/v3/img/tIFiAdl.png?v=1.0.0.1", Digdaya TV
-https://ms.digdaya.tv/live/digdayatv/chunklist_w1940629469.m3u8
+http://cdn4.mbahnunungonline.net/m3u8/id/b825800cf4d3aaa.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://warningfm.github.io/v3/img/YTiEeu7.png?v=1.0.0.1", ADi TV
 https://v2.siar.us/aditv/livestream/playlist.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://warningfm.github.io/v3/img/45ukWAy.png?v=1.0.0.1", duta TV
@@ -373,7 +373,7 @@ https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/4L7BYKM.png?v=8.8.4.4" group-title="Hindi", & Pictures
 http://208.86.19.21:80/705.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/ceBQDFq.png?v=8.8.4.4" group-title="Hindi", Zee TV
-https://snehjiotv.in1.bitmana.io/snehjioox.php?c=Zee_TV_HD&q=800&e=junk.m3u8
+http://208.86.19.21:80/606.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/2UQNzYB.png?v=8.8.4.4" group-title="Hindi", Zing
 http://jo123.biz/jweb/m3u8.php?c=Zing
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/gSsIODC.png?v=8.8.4.4" group-title="Hindi", Zee Cinema
