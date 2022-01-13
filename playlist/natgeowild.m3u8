@@ -1,5 +1,0 @@
-#EXTM3U 
-#EXT-X-VERSION:3
-#EXTVLCOPT:http-user-agent="burhan.tv/9.6 (Linux;Android 7.1.2) ExoPlayerLib/2.8.4"
-#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1344100,NAME=720,RESOLUTION=1280x720
-https://cdnmdc1.useetv.com/dass/15/natgeowild/chunklist_w450396919_b1344100_sleng.m3u8
