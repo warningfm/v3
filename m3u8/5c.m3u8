@@ -68,14 +68,14 @@ http://cdn4.mbahnunungonline.net/m3u8/id/829dbdfe0b57013.m3u8
 http://cdn4.mbahnunungonline.net/m3u8/id/b825800cf4d3aaa.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://warningfm.github.io/v3/img/pwxmNpN.png?v=1.0.0.1", Elshinta TV
 http://cdn4.mbahnunungonline.net/m3u8/id/383fb71f4a76ab2.m3u8
+#EXTINF:-1 group-title=" Local " tvg-logo="https://warningfm.github.io/v3/img/tlH0Quf.png?v=1.0.0.1", SAKTI TV
+http://cdn4.mbahnunungonline.net/m3u8/id/3202e9487d9cd5c.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://2.bp.blogspot.com/-W8zL_aERK4M/VXH-AEyzP4I/AAAAAAAAEuc/T8eNVqhV3Fw/s1600/BBSTV.png?v=1.0.0.1" tvg-id="BBS TV" tvg-name="BBS TV", BBS TV
 http://103.119.54.246:8080/hls/bbstv.m3u8
-#EXTINF:-1 group-title=" Local " tvg-logo="https://warningfm.github.io/v3/img/ehDWytF.png?v=1.0.0.1", TVKU
-http://103.30.1.14:8080/hls/live.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://warningfm.github.io/v3/img/YTiEeu7.png?v=1.0.0.1", ADi TV
 http://cdn4.mbahnunungonline.net/m3u8/id/ca7fcdd4f5791c6.m3u8
-#EXTINF:-1 group-title=" Local " tvg-logo="https://warningfm.github.io/v3/img/tlH0Quf.png?v=1.0.0.1", SAKTI TV
-https://v2.siar.us/saktitv/livestream/playlist.m3u8
+#EXTINF:-1 group-title=" Local " tvg-logo="https://warningfm.github.io/v3/img/ehDWytF.png?v=1.0.0.1", TVKU
+http://103.30.1.14:8080/hls/live.m3u8
 #EXTINF:-1 group-title=" Local " tvg-logo="https://warningfm.github.io/v3/img/45ukWAy.png?v=1.0.0.1", duta TV
 https://v2.siar.us/dutatv/live/playlist.m3u8
 
