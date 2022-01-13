@@ -549,7 +549,7 @@ https://cdn4.mbahnunungonline.net/m3u8/id/94a637fadb57201.m3u8
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/D3WXba7.png?v=1.0.0.1" group-title="Music", B4U Music
-http://cdn4.mbahnunungonline.net/m3u8/in/b4u_music.m3u8
+http://208.86.19.21/719.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/mhGTRFn.png?v=1.0.0.1" group-title="Music", Desi Channel
 https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
@@ -757,7 +757,7 @@ https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
 http://208.86.19.21:80/705.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/ceBQDFq.png?v=8.8.4.4" group-title="Hindi", Zee TV
-http://jo123.biz/jweb/m3u8.php?c=Zee_TV_HD
+http://208.86.19.21:80/606.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/2UQNzYB.png?v=8.8.4.4" group-title="Hindi", Zing
 http://jo123.biz/jweb/m3u8.php?c=Zing
