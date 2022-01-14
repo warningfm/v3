@@ -717,14 +717,14 @@ https://fashiontv-fashiontv-loriginal-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/OsbTFpv.png?v=1.0.0.1" group-title="Fashion" tvg-id="Fashion TV HD" tvg-name="Fashion TV HD", Fashion TV
 https://cdn4.mbahnunungonline.net/m3u8/fs/fb8acef7631528b.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/8X9FDe3.png?v=1.0.0.1" group-title="Fashion", Global Fashion Channel
+https://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/JbGsuDd.png?v=1.0.0.1" group-title="Fashion", HD Fashion
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/XpJEZGg.jpg?v=1.0.0.1" group-title="Fashion", ID Fashion
 https://idfashion.cdn-03.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/8X9FDe3.png?v=1.0.0.1" group-title="Fashion", Global Fashion Channel
-https://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/LQqABbX.png?v=1.0.0.1" group-title="Adult Lifestyle & Interests", Fashion TV Midnight Secrets
 https://cdn4.mbahnunungonline.net/m3u8/fs/fb8acef7631528c.m3u8
@@ -767,7 +767,7 @@ http://208.86.19.21:80/705.stream/index.m3u8
 http://208.86.19.21:80/606.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/2UQNzYB.png?v=8.8.4.4" group-title="Hindi", Zing
-http://jo123.biz/jweb/m3u8.php?c=Zing
+http://d8380c4177d6.sn.mynetname.net:25461/live/demo/demo/83.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/gSsIODC.png?v=8.8.4.4" group-title="Hindi", Zee Cinema
 http://208.115.215.42/ZEE_CInema_HD/index.m3u8
