@@ -426,7 +426,7 @@ https://liveanevia.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mp
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWNjOTAyOGMtYTFkMy0zYmJkLThjMmYtYWNjNWYwNDA2NTBi
 #EXTINF:-1 group-title="News" tvg-id="1513" tvg-chno="513" tvg-logo="https://warningfm.github.io/v3/img/AhnS4ar.png?v=1.0.0.1", Al Jazeera HD
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+https://liveanevia.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWNjOTAyOGMtYTFkMy0zYmJkLThjMmYtYWNjNWYwNDA2NTBi
@@ -441,7 +441,7 @@ https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternatio
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWNjOTAyOGMtYTFkMy0zYmJkLThjMmYtYWNjNWYwNDA2NTBi
 #EXTINF:-1 group-title="News" tvg-logo="https://warningfm.github.io/v3/img/GZQvCs6.png?v=1.0.0.1" tvg-id="DW English", DW English
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+https://liveanevia.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
