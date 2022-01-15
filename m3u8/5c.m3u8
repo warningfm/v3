@@ -144,9 +144,9 @@ http://rr1.dens.tv/h/h20/index.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/N0TKqJd.png?v=1.0.0.1" group-title="Korengan" tvg-id="tvN Movies HD" tvg-name="tvN Movies HD", TVN Movies
 http://rr1.dens.tv/h/h21/index.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/jJTACLd.png?v=1.0.0.1" group-title="Korengan" tvg-id="KBS World HD" tvg-name="KBS World HD", KBS World
-https://cubmu.nomaden.tv:8279/KBSWORLD/playlist.m3u8
+https://cubmu.superzap.xyz:8279/KBSWORLD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/scJZO2S.png?v=1.0.0.1" group-title="Korengan" tvg-id="ONE HD" tvg-name="ONE HD", ONE
-https://cubmu.nomaden.tv:8279/ONE/playlist.m3u8
+https://cubmu.superzap.xyz:8279/ONE/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/QVj6I9k.png?v=1.0.0.1" group-title="Korengan" tvg-id="K-Plus HD" tvg-name="K-Plus HD", Kplus
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6278b166-9632-42c3-b6e9-226edc1d3da6)/index.m3u8
 
