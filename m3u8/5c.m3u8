@@ -156,8 +156,8 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6278b166-9632-42
 http://iptv.tvmalaysia.cc:80/271282/271282/7076
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/3IDyQAj.png?v=1.0.0.1" group-title="Lifestyle" tvg-id="Asian Food Network HD" tvg-name="Asian Food Network HD", Asian Food Channel
 https://vips-livecdn.fptplay.net/hda1/afchd_vhls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/wFmCTh4.png?v=1.0.0.1" group-title="Lifestyle" tvg-id="Food Network HD" tvg-name="Food Network HD", Food Network HD
-http://group1-swiftservesd-1.dens.tv/s/s50/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jffrgKq.jpg?v=1.0.0.1" group-title="Lifestyle" tvg-id="DFC" tvg-name="DFC", DFC
+https://group1-swiftservesd-1.dens.tv/s/s50/live.m3u8
 
 ########################################################      News     ########################################################
 
