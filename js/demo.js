@@ -54,8 +54,8 @@ $('#top-2').click(function () {
 // Handle: Example 3 click function
 $('#top-3').click(function () {
     $.kast({
-        host: 'live.radiobintangtenggara.com',
-        port: 8000,
+        host: 'live.sg.radiobintangtenggara.com',
+        port: 9560,
         autoPlay: true,
         betaProxies: true,
         irrelevantWords: false,
