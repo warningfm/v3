@@ -6,7 +6,7 @@
 // =============================================== //
 
     $.kast({
-        host: 'rbtfm.cloudns.info',
+        host: 'live.sg.radiobintangtenggara.com',
         port: 9560,
         protocol: 'http',
         version: 1,
