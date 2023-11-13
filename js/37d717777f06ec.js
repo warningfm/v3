@@ -12,7 +12,7 @@
         version: 2,
         sid: 1,
         statsPath: 'stats',
-        directStreamURL: 'https://ssl1.surfmusik.de/s.php?s=http://cast2.bintangtenggarafm.com:1057/stream',
+        directStreamURL: 'https://r5.siar.us:1057/andikafm',
         autoUpdate: true,
         autoPlay: true,
         betaProxies: true,
