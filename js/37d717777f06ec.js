@@ -12,7 +12,7 @@
         version: 2,
         sid: 1,
         statsPath: 'stats',
-        directStreamURL: 'http://cast2.bintangtenggarafm.com:1057/stream',
+        directStreamURL: 'https://ssl1.surfmusik.de/s.php?s=http://cast2.bintangtenggarafm.com:1057/stream',
         autoUpdate: true,
         autoPlay: true,
         betaProxies: true,
