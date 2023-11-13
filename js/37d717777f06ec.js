@@ -6,7 +6,7 @@
 // =============================================== //
 
     $.kast({
-        host: 'cast2.bintangtenggarafm.com',
+        host: 'andikafm.onlivestreaming.net',
         port: 1057,
         protocol: 'http',
         version: 2,
