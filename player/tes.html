@@ -1,71 +1,73 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
- <head>
-   <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-   <link rel="shortcut icon" type="image/ico" href="img/favicon.gif" />
-   <link rel="stylesheet" type="text/css" href="style.css" />
-   <title> Web Player </title>
- </head>
- 
- <body style="width:100%;height:100%;padding:0;margin:0;background-color:transparent;">
-<div id="myradiodivcontainer" style='height:500px; width:300px;
--webkit-border-top-left-radius: 0;
-  -webkit-border-top-right-radius: 0;
-  -webkit-border-bottom-right-radius: 0;
-  -webkit-border-bottom-left-radius: 0;
-  -moz-border-radius-topleft: 0;
-  -moz-border-radius-topright: 0;
-  -moz-border-radius-bottomright: 0;
-  -moz-border-radius-bottomleft: 0;
-  border-top-left-radius: 0;
-  border-top-right-radius: 0;
-  border-bottom-right-radius: 0;
-  border-bottom-left-radius: 0;
-  border: 0px none rgb(255, 255, 255);'>
-<div style="overflow:hidden; height:0px; width:0px;"><a href="https://www.flashradio.info" title="native html internet radio player plugin">NATIVE INTERNET WEB RADIO PLAYER PLUGIN FOR SHOUTCAST, ICECAST AND RADIONOMY</a> powered by <a href="https://www.sodah.de" title="wordpress webdesign mainz">Sodah Webdesign Mainz</a></div>
-</div>
+<head>
+<meta charset="UTF-8">
+<title>PLAYER RADIO</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://warningfm.github.io/v3/js/lunaradio-sincors.js?v=1.20.08.31d"></script>
+<style type="text/css">
+body {
+    background-color: #000000;
+}
+body,td,th {
+    font-family: 'Rubik',Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.lunaradiotexttitlespan {
+    text-transform: uppercase;
+}
+</style>
+</head>
 
-<script src="//ajax.aspnetcdn.com/ajax/jQuery/jquery-3.2.1.min.js"></script>
-     <script src="nativeflashradiov4.js"></script>
-	 
+<body>
+<div id="lunaradio" style="width:100%; height:50px; -webkit-border-top-left-radius: 0px; -webkit-border-top-right-radius: 0px; -webkit-border-bottom-right-radius: 0px; -webkit-border-bottom-left-radius: 0px; -moz-border-radius-topleft: 0px; -moz-border-radius-topright: 0px; -moz-border-radius-bottomright: 0px; -moz-border-radius-bottomleft: 0px; border-top-left-radius: 0px; border-top-right-radius: 0px; border-bottom-right-radius: 0px; border-bottom-left-radius: 0px; border: none;">
+</div>	
 <script>
-$("#myradiodivcontainer").flashradio({
-	token: "c2JlYnNwb21qb2YvcHdpAQ==",
-	userinterface: "big",
-	backgroundcolor: "",
-	themecolor: "#fa225b", 
-	themefontcolor: "#ffffff", 
-	startvolume: "80", 
-	radioname: "", 
-	scroll: "auto", 
-	autoplay: "true", 
-	useanalyzer: "fake", 
-	analyzertype: "5", 
-	usecover: "true", 
-	usestreamcorsproxy: "true", 
-	getcoveroverradioco: "true",
-	affiliatetoken: "1000lIPN", 
-	debug: "false", 
-	ownsongtitleurl: "", 
-	radiocover: "//melodie80.fr/logo-melodie80.jpg", 
-	songgooglefontname: "Lobster:400", 
-	songfontname: "Lobster", 
-	titlegooglefontname: "Lobster:400", 
-	titlefontname: "Lobster", 
-	corsproxy: "https://daniel-radio-player.herokuapp.com/?q=", 
-	streamprefix: "", 
-	mountpoint: "/suara_mahakam", 
-	radiouid: "", 
-	apikey: "",
-	radiojar: "",  
-	radioco: "",  
-	streamid: "1", 
-	streampath: "/stream", 
-	streamtype: "shoutcast2", 
-	streamurl: "http://cast1.servcast.net:5398", 
-	songinformationinterval: "5000", 
+jQuery(document).ready(function($) {
+	$("#lunaradio").lunaradio({
+		token: "aWlpIGRTVlthXltgV1MgW2Y=",
+		userinterface: "small",
+		backgroundcolor: "rgba(9,15,25,0.5)",
+		fontcolor: "#ffffff",
+		hightlightcolor: "#ef7f1a",
+		fontname: "ZCOOL XiaoWei",
+		googlefont: "ZCOOL+XiaoWei",
+		fontratio: "0.3",
+		radioname: "95.6",
+		scroll: "true",
+		coverimage: "https://streaming.karimatafm.net/img/cover.png",
+		onlycoverimage: "false",
+		coverstyle: "square",
+		usevisualizer: "real",
+		visualizertype: "8",
+		multicolorvisualizer: "true",
+		visualizeropacity: "0.9",
+		itunestoken: "1000lIPN",
+		metadatatechnic: "directly",
+		ownmetadataurl: "https://sv.stri.my.id:8360/status-json.xsl",
+		streamurl: "https://sv.stri.my.id:8360",
+		streamtype: "icecast2",
+		icecastmountpoint: "/rbtfmm",
+		radionomyid: "",
+		radionomyapikey: "",
+		radiojarid: "",
+		radiocoid: "",
+		shoutcastpath: "",
+		shoutcastid: "1",
+		streamsuffix: "",
+		metadatainterval: "20000",
+		volume: "100",
+		debug: "false",
+		autoplay: "false",
+		displayliveicon: "true",
+		displayvisualizericon: "true",
+	    usestreamcorsproxy: "false", 
+	    corsproxy: "",
+	});
 });
-</script>
-
- </body>
+</script>	
+</body>
 </html>
