@@ -352,7 +352,7 @@
                     function(data) {						
                         if (data.results.length == 1){							
                             cover = data.results[0].artworkUrl100;
-                            cover = cover.replace('100x100', '300x300');
+                            cover = cover.replace('100x100', '640x640');
 					    }
                         else {
                             var cover = settings.logo;
