@@ -123,9 +123,9 @@
         
         
         this.hostCORS = [
-            protocol + '://cors-nng.herokuapp.com/' + this.host,
-            'https://cors-anywhere.herokuapp.com/' + this.host,
-            protocol + '://kastproxy-us.herokuapp.com/' + this.host,
+            protocol + '://crossorigin.me/' + this.host,
+            'https://plugstream.herokuapp.com' + this.host,
+            protocol + '://gen-cors.herokuapp.com/' + this.host,
             protocol + '://zet.pluginsandthemes.ro/' + this.host
         ];
 
