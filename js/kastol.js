@@ -37,7 +37,7 @@
         currentArtist: true, // Show the current artist name, or set a custom artist name @boolean @string
         playedTracks: true, // Show the played track names @boolean
         playedArtists: true, // Show the played artist names @boolean
-        offlineCheck: true, // On offline, show offline status @boolean
+        offlineCheck: false, // On offline, show offline status @boolean
         language: {
             offlineText: 'Temporarily Offline', // On offline: status bar text @string
             playedText: 'Played', // Played title (player bottom) @string
@@ -47,8 +47,8 @@
         mobileCare: false, // low (aka true), medium, high, very high, ultra @boolean @array
         irrelevantWords: ['feat.', 'ft.', 'Feat.', 'Ft.', '&', '+'], // irrelvant words in SHOUTcast full song title @false or @array
         overHTTPS: false, // Run SHOUTcast stream over an HTTPS proxy for HTTPS websites (experimental) (false) @boolean
-        direct: false, // Fetch SHOUTcast metadata direclty from the servers (Supported from >=2.2 DNAS via JSONP) (Note: non compatible with mixed content)
-        betaProxies: true, // Use Beta Proxies to fetch SHOUTcast metadata
+        direct: true, // Fetch SHOUTcast metadata direclty from the servers (Supported from >=2.2 DNAS via JSONP) (Note: non compatible with mixed content)
+        betaProxies: false, // Use Beta Proxies to fetch SHOUTcast metadata
         continuous: true, // Enable continuous play (Play/Pause radio)
         onReady: function () {}, // Kast event
         onAudioLoad: function () {}, // Kast event
