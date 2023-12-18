@@ -14,7 +14,7 @@
 			enable_cors: false,
 			cors: "https://plugstream.herokuapp.com/",
 			artwork: true,
-            logo: "https://i.imgur.com/fF8yUE0.png",
+            logo: "https://cdn.bintangtenggarafm.com/img/oJTOhsL.jpg",
 			vertical_layout: false,
             bg: "grey",
             accent: "deeporange",
