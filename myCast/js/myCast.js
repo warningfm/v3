@@ -22,7 +22,7 @@
 			blur_opacity: 0.16,
             lang: "en",            
             src: "",
-            volume: 0.75,			
+            volume: 0.95,			
             autoplay: false
 
         }, options);
