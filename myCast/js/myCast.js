@@ -14,7 +14,7 @@
 			enable_cors: false,
 			cors: "https://plugstream.herokuapp.com/",
 			artwork: true,
-            logo: "https://live.staticflickr.com/65535/53373243248_fcb877c3d8_n.jpg",
+            logo: "https://i.imgur.com/fF8yUE0.png",
 			vertical_layout: false,
             bg: "grey",
             accent: "deeporange",
