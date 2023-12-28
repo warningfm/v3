@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>iCast - HTML5 Shoutcast & Icecast Radio Web Player</title>
+
+<link href="css/icast.css?v14000" rel="stylesheet" type="text/css">
+
+</head>
+<body style="width:100%;height:100%;padding:0;margin:0;background-color:#000;">
+		
+<div class="icast" id="stream"></div>
+<script src="https://cdn.jsdelivr.net/jquery/3.0.0/jquery.min.js"></script>
+<script src="js/icast.js?v14000"></script>
+<script>
+    $("#stream").icast({
+        URL: "https://ssg.streamingmurah.com:9560",
+        version: "2" 
+    })
+</script>
+
+</body>
+</html>
