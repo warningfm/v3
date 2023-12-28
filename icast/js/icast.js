@@ -8,11 +8,11 @@
             URL: "",
 			version: "2",
             stream_id: 1,
-			mount_point: "", //For Icecast server
+			mount_point: "/rbtfm", //For Icecast server
 			type: "/;type=mp3",
             streampath: "/stream?icy=http",			
 			enable_cors: false,
-			cors: "https://plugstream.herokuapp.com",			
+			cors: "https://zet.pluginsandthemes.ro",			
 			artwork: true,
             logo: "img/cover.png",
 			servertitle: "My Radio Title", //For Shoutcast v1 server
