@@ -20,7 +20,7 @@
         startTemplate: 'maximized',
         language: {
             offlineText: 'Temporarily Offline',
-            playedText: '<font face="Georgia" color="blue">Mari Diputer :</font>',
+            playedText: '<font face="Georgia" color="red">Mari Diputer :</font>',
             unknownTrackText: 'Informasi & Solusi - c^o^d^e^l^i^s^t^.^c^c', 
             unknownArtistText: 'Radio Bintang Tenggara' 
         },
