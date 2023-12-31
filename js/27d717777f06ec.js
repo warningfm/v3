@@ -24,10 +24,10 @@
             unknownTrackText: 'Informasi & Solusi - c^o^d^e^l^i^s^t^.^c^c', 
             unknownArtistText: 'Radio Bintang Tenggara' 
         },
-        position: 'right',
+        position: 'left',
         colors: 'dynamic',  
         continuous: true,
         theme: 'dynamic',
         autoPlay: true,
-        played: true
+        played: false
       })
