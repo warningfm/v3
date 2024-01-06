@@ -11,9 +11,6 @@ body,html{
 	background-color: #d6d6d6;
 }
 
-
-
-
 #mrp-wrapper{
 	position:relative;
 	font-family: Arial, Helvetica, sans-serif;
@@ -73,13 +70,13 @@ body,html{
 	padding: 25px 20px 15px 20px;
 }
 .mrp-player-title{
-	font-size:15px;
+	font-size:18px;
 	color:#eee;
 	margin:0 0 3px 0;
 	padding:0;
 }
 .mrp-player-artist{
-	font-size:12px;
+	font-size:22px;
 	margin:0;
 	color:#eee;
 	padding:0;
