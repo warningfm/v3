@@ -456,7 +456,7 @@ if (w.metadatatechnic === "corsproxy") {
                 dataType: "text",
                 method: "GET",
                 crossDomain: !0,
-                url: "https://tools.zenoradio.com/api/stations/" + zn + "/now_playing/",
+                url: "https://zenoplay.zenomedia.com/api/zenofm/nowplaying/" + zn + "/now_playing/",
                 success: function(b) {
                     try {
                         var a = JSON.parse(b);
