@@ -770,7 +770,7 @@ break;
 
 case "radiozeno":
 ! function() {
-var t = "https://tools.zenoradio.com/api/stations/" + zn + "/now_playing/?rand=" + Math.random();
+var t = "https://zenoplay.zenomedia.com/api/zenofm/nowplaying/" + zn + "/?rand=" + Math.random();
 e.ajax({
 dataType: "text",
 method: "GET",
@@ -839,7 +839,7 @@ try {
 e = JSON.parse(e);
 var t = "",
 i = "";
-1 == e.results.length ? (xt("COVER: " + (t = (t = e.results[0].artworkUrl100).replace("100x100bb", "600x600bb"))), "" != V && (i = e.results[0].trackViewUrl + "&app=itunes&at=" + V), Je(t, i)) : Je(P, "")
+1 == e.results.length ? (xt("COVER: " + (t = (t = e.results[0].artworkUrl100).replace("100x100bb", "640x640bb"))), "" != V && (i = e.results[0].trackViewUrl + "&app=itunes&at=" + V), Je(t, i)) : Je(P, "")
 } catch (e) {
 Je(P, "")
 }
