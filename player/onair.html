@@ -20,45 +20,45 @@
 	
     <!-- <script src="js/jquery-3.2.1.min.js"></script> -->
     <!-- <script src="js/lunaradio.min.js"></script> -->
-    <script>
-		//https://gist.github.com/jimmywarting/ac1be6ea0297c16c477e17f8fbe51347
-		$("#lunaradio").lunaradio({
-			token: "",
-			userinterface: "big", 
-			backgroundcolor: "rgba(0,0,0,0.5)",
-			fontcolor: "#ffffff",
-			hightlightcolor: "#fa225b", 
-			fontname: "ZCOOL XiaoWei", 
-			googlefont: "ZCOOL+XiaoWei", 
-			fontratio: "0.4", 
-			radioname: "95.6 FM", 
-			scroll: "true", 
-			coverimage: "https://warningfm.github.io/v3/images/f69c7be1aa497aaa.png", 
-			coverstyle: "square",
-			usevisualizer: "real", 
-			visualizertype: "8",
-			visualizeropacity: "1.0",
-			multicolorvisualizer: "true",
-			itunestoken: "1000lIPN", 
-			metadatatechnic: "corsproxy", 
-			ownmetadataurl: "", 
-			corsproxy: "https://cors.mediastreaming.it/",
-			usestreamcorsproxy: "false",
-			streamurl: "https://ssg.streamingmurah.com:9560", 
-			streamtype: "shoutcast2", 
-			icecastmountpoint: "", 
-			radionomyid: "", 
-			radionomyapikey: "",
-			radiojarid: "",  
-			radiocoid: "",
-			shoutcastpath: "/rbtfm?type=https&amp;nocache=377274",
-			shoutcastid: "1", 
-			streamsuffix: "", 
-			metadatainterval: "5000", 
-			volume: "100",
-			autoplay: "true",
-			debug: "false"
-		});
-	</script>
+    <script type="text/javascript">
+		$("#jembut").lunaradio({
+            userinterface: "big",
+            backgroundcolor: "rgba(9,15,25,0.5)",
+            fontcolor: "#ffffff",
+            hightlightcolor: "#ef7f1a",
+            fontname: "Orbitron",
+            googlefont: "Orbitron",
+            fontratio: "0.4",
+            radioname: "FM 95.6 MHz",
+            scroll: "true",
+            coverimage: "https://cdn.bintangtenggarafm.com/img/no-cover-large.gif",
+            onlycoverimage: "false",
+            coverstyle: "circle",
+            usevisualizer: "real",
+            visualizertype: "8",
+            itunestoken: "1000lIPN",
+            metadatatechnic: "corsproxy", //fallback (us for zeno)
+            corsproxy: "",
+            usestreamcorsproxy: "false",
+            streamurl: "https://ssg.streamingmurah.com:9560",
+            streamtype: "shoutcast2", //suport: zeno, icecast2, shoutcast2
+            idzeno: "r4mpcrfwfzzuv",
+            icecastmountpoint: "",
+            shoutcastpath: "/rbtfm",
+            shoutcastid: "1",
+            metadatainterval: "25000",
+            volume: "100",
+            debug: "false",
+            autoplay: "true",
+            displayliveicon: "false", 
+            visualizeropacity: "1.0",
+            multicolorvisualizer: "true",
+            color1: "#00FF00",
+            color2: "#ffff00",
+            color3: "#FF1F6F",
+            color4: "#FF1F6F", 
+            displayvisualizericon: "false"
+        });
+    </script>
 </body>
 </html>
