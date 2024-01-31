@@ -37,45 +37,47 @@ mbahnunungonline.net
 						
 						    
 						    
-        <div id="player-nng" style='width:100%; height:500px;background: url(https://4.bp.blogspot.com/-qQCqFWtC7rU/Xtq5juOYKzI/AAAAAAAAAAs/5S9xa7Aq3FwZMQ7bv0O5EZKsE01bfx5HACLcBGAsYHQ/s1600/radio-online.jpg) bottom / cover no-repeat;'>Loading ...</div>			
+        <div id="jembut" style='width:100%; height:500px;background: url(https://4.bp.blogspot.com/-qQCqFWtC7rU/Xtq5juOYKzI/AAAAAAAAAAs/5S9xa7Aq3FwZMQ7bv0O5EZKsE01bfx5HACLcBGAsYHQ/s1600/radio-online.jpg) bottom / cover no-repeat;'>Loading ...</div>			
 
-        <script>
-        $("#player-nng").lunaradio({
-			token: "",
-			userinterface: "big", 
-			backgroundcolor: "rgba(255,255,255,0.9)",
-			fontcolor: "#20232c",
-			hightlightcolor: "#f59f7e", 
-			fontname: "ZCOOL XiaoWei", 
-			googlefont: "ZCOOL+XiaoWei", 
-			fontratio: "0.4", 
-			radioname: "95.6 FM", 
-			scroll: "true", 
-			coverimage: "",
-			coverstyle: "square",
-			usevisualizer: "real", 
-			visualizertype: "5", 
-			itunestoken: "1000lIPN", 
-			metadatatechnic: "corsproxy", 
-			ownmetadataurl: "", 
-			corsproxy: "",
-			usestreamcorsproxy: "false",
-			streamurl: "https://ssg.streamingmurah.com:9560", 
-			streamtype: "shoutcast2", 
-			icecastmountpoint: "", 
-			radionomyid: "", 
-			radionomyapikey: "",
-			radiojarid: "",
-			radiozenoid: "r4mpcrfwfzzuv",
-			radiocoid: "",
-			shoutcastpath: "/rbt?type=https&amp;nocache=377274",
-			shoutcastid: "1", 
-			streamsuffix: "", 
-			metadatainterval: "5000", 
-			volume: "90",
-			debug: "false",
-			autoplay: "true"
-		});
-      </script>
-      </body>
+        <script type="text/javascript">
+		$("#jembut").lunaradio({
+            userinterface: "big",
+            backgroundcolor: "rgba(9,15,25,0.5)",
+            fontcolor: "#ffffff",
+            hightlightcolor: "#ef7f1a",
+            fontname: "ZCOOL XiaoWei",
+            googlefont: "ZCOOL+XiaoWei",
+            fontratio: "0.4",
+            radioname: "FM 95.6 MHz",
+            scroll: "true",
+            coverimage: "https://cdn.bintangtenggarafm.com/img/no-cover-large.gif",
+            onlycoverimage: "false",
+            coverstyle: "circle",
+            usevisualizer: "real",
+            visualizertype: "8",
+            itunestoken: "1000lIPN",
+            metadatatechnic: "corsproxy", //fallback (usar para zeno)
+            corsproxy: "",
+            usestreamcorsproxy: "false",
+            streamurl: "https://ssg.streamingmurah.com:9560",
+            streamtype: "shoutcast2", //soporta: zeno, icecast2, shoutcast2
+            idzeno: "r4mpcrfwfzzuv",
+            icecastmountpoint: "",
+            shoutcastpath: "/rbtfm",
+            shoutcastid: "1",
+            metadatainterval: "20000",
+            volume: "100",
+            debug: "false",
+            autoplay: "true",
+            displayliveicon: "false", 
+            visualizeropacity: "1.0",
+            multicolorvisualizer: "true",
+            color1: "#00FF00",
+            color2: "#ffff00",
+            color3: "#FF1F6F",
+            color4: "#FF1F6F", 
+            displayvisualizericon: "false"
+        });
+    </script>
+</body>
 </html>
