@@ -110,9 +110,9 @@ left: "0px",
 top: "0px",
 height: "100%",
 width: "100%",
-"-webkit-filter": "blur(40px)",
-filter: "blur(40px)",
-opacity: "0.5"
+"-webkit-filter": "blur(10px)",
+filter: "blur(10px)",
+opacity: "1.10"
 });
 var a = document.createElement("div");
 a.id = n + "backgroundimage1", i.appendChild(a), e("#" + n + "backgroundimage1").css({
@@ -916,10 +916,7 @@ height: i + "px"
 }), e("#" + n + "backgroundimage").css({
 "-webkit-filter": "blur(" + 5 * t + "px)",
 filter: "blur(" + 5 * t + "px)",
-top: 14 * t + "px",
-left: ge / 2 - i / 1.25 + "px",
-width: 1.5 * i + "px",
-height: 1.5 * i + "px"
+
 });
 var a = me / 8,
 o = a / 2,
