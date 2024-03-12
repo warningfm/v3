@@ -2,24 +2,25 @@
 
 <html>
 <head>
-     <title>RBT FM Server HD</title>
-     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+     <title>RBT FM With HE-AACPlus Audio</title>
+     <meta https-equiv="content-type" content="text/html; charset=utf-8" />
      <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
      <meta name="apple-mobile-web-app-capable" content="yes" />
      <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
-     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
-     <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
-     <meta http-equiv="Pragma" content="no-cache">
-     <meta http-equiv="Expires" content="0">
-     <meta name="description" content="mbah nunung Online Radio Server HD, Con Audio HE-AACPlus, Banyuwangi" />
+     <meta https-equiv="X-UA-Compatible" content="IE=Edge">
+     <meta https-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+     <meta https-equiv="Pragma" content="no-cache">
+     <meta https-equiv="Expires" content="0">
+     <meta name="description" content="Radio Bintang Tenggara, With HE-AACPlus Audio, Radio Banyuwangi" />
      <meta name="keywords" content="mbah nunung Online Radio Server HD, Radio Bintang Tenggara, Radio Banyuwangi, Citizen journalism, Jurnalis Banyuwangi, Lintas Banyuwangi, B88, Informasi Dan Solusi" />
      <!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
      <!--[if lte IE 9]><link rel="stylesheet" href="css/ie/v9.css" /><![endif]-->
      <!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
      <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"> 
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
-     <script src="js/jquery-3.2.1.min.js"></script>
-     <script src="js/lunaradio-sincors2.js?v=1.20.09.09c"></script>
+     <script src="https://warningfm.github.io/v3/js/jquery-3.2.1.min.js"></script>
+     <script src="https://warningfm.github.io/v3/js//hibrido.js"></script>
+ 
   <style>
 		html, body {
 			margin:0;
@@ -36,44 +37,51 @@
        Streaming AAC+
     </div>
     <script type="text/javascript">
-		$("#jembut").lunaradio({
-            userinterface: "big",
-            backgroundcolor: "rgba(9,15,25,0.5)",
-            fontcolor: "#ffffff",
-            hightlightcolor: "#ef7f1a",
-            fontname: "ZCOOL XiaoWei",
-            googlefont: "ZCOOL+XiaoWei",
-            fontratio: "0.4",
-            radioname: "FM 95.6 MHz",
-            scroll: "true",
-            coverimage: "https://cdn.bintangtenggarafm.com/img/no-cover-large.gif",
-            onlycoverimage: "false",
-            coverstyle: "square",
-            usevisualizer: "real",
-            visualizertype: "8",
-            itunestoken: "1000lIPN",
-            metadatatechnic: "corsproxy", //fallback (us for zeno)
-            corsproxy: "",
-            usestreamcorsproxy: "false",
-            streamurl: "https://ssg.streamingmurah.com:9560",
-            streamtype: "shoutcast2", //suport: zeno, icecast2, shoutcast2
-            idzeno: "r4mpcrfwfzzuv",
-            icecastmountpoint: "",
-            shoutcastpath: "/rbtfm",
-            shoutcastid: "1",
-            metadatainterval: "25000",
-            volume: "100",
-            debug: "false",
-            autoplay: "true",
-            displayliveicon: "false", 
-            visualizeropacity: "1.0",
-            multicolorvisualizer: "true",
-            color1: "#00FF00",
+	   $("#jembut").lunaradio({
+			token: "",
+			userinterface: "big", 
+			backgroundcolor: "rgba(9,15,25,0.5)",
+			fontcolor: "#ffffff",
+			hightlightcolor: "#ef7f1a", 
+			fontname: "ZCOOL XiaoWei", 
+			googlefont: "ZCOOL+XiaoWei", 
+			fontratio: "0.4", 
+			radioname: "FM 95.6 MHz", 
+			scroll: "true", 
+			coverimage: "https://warningfm.github.io/v3/img/9b0Y5ki.png",
+			coverstyle: "square",
+			usevisualizer: "real", 
+			visualizertype: "8",
+			multicolorvisualizer: "true",
+			visualizeropacity: "1.0",
+			itunestoken: "1000lIPN", 
+			metadatatechnic: "corsproxy", 
+			ownmetadataurl: "", 
+			corsproxy: "https://zet.pluginsandthemes.ro/",
+			usestreamcorsproxy: "false",
+			streamurl: "https://asv.alhastream.com:3210", 
+			streamtype: "shoutcast2", 
+			icecastmountpoint: "/rbtfm",
+			radionomyid: "", 
+			radionomyapikey: "",
+			radiojarid: "",
+			radiozenoid: "",
+			radiocoid: "",
+			shoutcastpath: "/rbtradio?type=https&amp;nocache=377274",
+			shoutcastid: "1", 
+			streamsuffix: "", 
+			metadatainterval: "10000", 
+			displayliveicon: "false", 
+			displayvisualizericon: "false", 
+			visualizeropacity: "1.0", 
+			color1: "#00FF00",
             color2: "#ffff00",
             color3: "#FF1F6F",
-            color4: "#FF1F6F", 
-            displayvisualizericon: "false"
-        });
-    </script>
+            color4: "#FF1F6F",
+			volume: "100",
+			debug: "false",
+			autoplay: "true"
+		});
+       </script>
 </body>
 </html>
