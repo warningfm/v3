@@ -6,14 +6,14 @@
 // =============================================== //
 
     $.kast({
-        host: 'ssg.streamingmurah.com',
-        port: 9560,
+        host: 'asv.alhastream.com',
+        port: 3210,
         protocol: 'https',
         version: 2,  
         sid: 1,  
         direct: true,  
         betaProxies: false,
-        //directStreamURL: 'https://ssg.streamingmurah.com:9560/rbtfm',
+        //directStreamURL: 'https://asv.alhastream.com:3210/rbtradio',
         defaultArtwork: ['https://warningfm.github.io/v3/images/1d205655ef29e14a8255c89fe2383a41.jpg'],
         statusBar: false, 
         minimizeMaximize: true,
