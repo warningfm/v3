@@ -14,6 +14,11 @@ body {
     overflow-x: hidden;
 }
 
+
+
+
+
+
 .cover-site {
     min-width: 100%;
     min-height: 100%;
@@ -38,6 +43,7 @@ body {
     -webkit-filter: blur(20px);
     transition: all .5s linear;
     transform: scale(2.2);
+  
     z-index: 1;
 }
 
@@ -45,7 +51,7 @@ body {
     min-width: 100%;
     min-height: 100%;
     position: absolute;
-    background-color: rgba(0,0,0,0.0);
+     background-color: rgba(0,0,0,0.0);
     z-index: 2;
 }
 
@@ -67,8 +73,11 @@ body {
     box-shadow: 0px 5px 10px 3px rgba(0, 0, 0, 0.4);
     transition: background-image 1s;
     border-radius: 10px;
+
     margin-bottom: 15px;
 }
+
+
 
 #currentCoverArt {
     width: 100%;
@@ -76,7 +85,8 @@ body {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    border-radius: 10px;
+     border-radius: 10px;
+  
     transition: background-image 1s;
 }
 
@@ -93,60 +103,37 @@ body {
     font-size: 46px;
     text-transform: uppercase;
     font-weight: 800;
-    text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5);
+   
 }
 
 .info-current-song h3 {
     font-size: 22px;
+   
     font-weight: 600;
-    text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5);
-}
-
-.current-song {
-    text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5);
-}
-
-.current-artist {
-    text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5);
 }
 
 .play-pause {
-    font-size: 65px; 
-    color: white; 
+    font-size: 65px;
+
+   
+ 
 }
 
 .play-pause i {
     cursor: pointer;
-    color: white; 
 }
 
 .volume-icon {
     font-size: 28px;
     margin-top: -5px;
-    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
-    border: none; /* Adicionado para remover a borda */
 }
 
 .volume-slide {
-    text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5);
+    
 }
 
 .volume-control {
     display: none;
-    padding: 10px;
-    border-radius: 5px;
-}
-
-.volume-slide input[type="range"] {
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
-    outline: none;
-    border-radius: 5px;
-    border: none; /* Adicionado para remover a borda */
-}
-
-.percentual-volume {
-    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
-    border: none; /* Adicionado para remover a borda */
 }
 
 .vagalume a {
@@ -162,21 +149,17 @@ body {
     font-weight: 400;
     outline: none;
     transition: .3s;
-    text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5);
 }
 
 .lyrics:active {
     text-decoration: none;
     color: #fff;
-    text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5);
 }
 
 .lyrics:visited {
     text-decoration: none;
     color: #fff;
-    text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5);
 }
-
 
 .modal-content {
     background-color: rgba(0, 0, 0, 0.8);
@@ -204,7 +187,7 @@ input[type=range]::-webkit-slider-runnable-track {
     width: 100%;
     height: 5px;
     cursor: pointer;
-    animation: 0.2s;
+    animate: 0.2s;
     box-shadow: 0px 0px 0px #000000, 0px 0px 0px #0d0d0d;
     background: #fff;
 }
@@ -225,7 +208,7 @@ input[type=range]::-moz-range-track {
     width: 100%;
     height: 5px;
     cursor: pointer;
-    animation: 0.2s;
+    animate: 0.2s;
     box-shadow: 0px 0px 0px #000000, 0px 0px 0px #0d0d0d;
     background: #fff;
 }
@@ -245,7 +228,7 @@ input[type=range]::-ms-track {
     width: 100%;
     height: 5px;
     cursor: pointer;
-    animation: 0.2s;
+    animate: 0.2s;
     background: transparent;
     border-color: transparent;
     border-width: 10px 0;
@@ -275,15 +258,17 @@ input[type=range]::-ms-thumb {
     cursor: pointer;
 }
 
+
 .historic h2 {
-    color: #fefefe;
-    border-bottom: 2px solid #fefefe;
-    font-size: 18px;
+    color: #fff;
+    border-bottom: 2px solid #fff;
+    font-size: 16px;
     font-weight: bold;
     text-transform: uppercase;
     margin: 10px 0;
-    text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5);   
+    
 }
+
 
 /* ZONA FONDO CANCIONES SONADAS */
 
@@ -302,6 +287,7 @@ input[type=range]::-ms-thumb {
     background: url('../img/cover.png') no-repeat;
     background-size: cover;
     border: 2px solid #fefefe;
+   
     box-shadow: 1px 2px 5px rgba(0, 0, 0, 0.3);
     transition: background-image 1s;
 }
@@ -310,8 +296,8 @@ input[type=range]::-ms-thumb {
 .historic .music-info {
     color: white;
     font-family: 'Poppins', sans-serif;
-    text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5);
 }
+
 
 /* COLOR TEXTO CANCION */
 
@@ -322,7 +308,6 @@ input[type=range]::-ms-thumb {
     text-transform: uppercase;
     margin-bottom: -5px;
     color: white;
-    text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5);
 }
 
 @media(max-width: 370px) {
@@ -388,66 +373,28 @@ input[type=range]::-ms-thumb {
 #buttonPlay {
     padding-left: 10px;
 }
-
 #playerButton {
-    color: white;
+    color: black;
 }
-
+.play-pause i {
+    cursor: pointer;
+}
 .btn-play {
     background-color: white;
     border: none;
     color: black;
-    padding: 10px 20px; /* Reduzindo o preenchimento */
-    font-size: 14px; /* Reduzindo o tamanho da fonte */
+    padding: 12px 25px;
+    font-size: 16px;
     font-weight: bold;
     cursor: pointer;
-    border-radius: 20px;
-    width: auto; /* Largura automática */
+    border-radius: 25px;
+    width: 100%;
     transition: transform .2s;
     box-shadow: 1px 3px #30303022;
 }
-
 .btn-play:focus {outline:0;}
-
 .btn-play:hover {
     box-shadow: 1px 5px #30303022;
     transform: scale(1.1);
 }
 
-.btn-play-circle {
-    background-color: white;
-    border: none;
-    color: black;
-    padding: 10px 20px; 
-    font-size: 20px; 
-    font-weight: bold;
-    cursor: pointer;
-    border-radius: 50%;  /* Torna o botão circular */
-    width: 60px;          /* Define uma largura fixa */
-    height: 60px;         /* Define uma altura fixa (igual à largura) */
-    align-items: center;
-    justify-content: center;
-    transition: transform .2s;
-    box-shadow: 1px 3px #30303022;
-}
-
-.btn-play-circle:focus {outline:0;}
-
-.btn-play-circle:hover {
-    box-shadow: 1px 5px #30303022;
-    transform: scale(1.1);
-}
-
-/* Ícone de play */
-.fa-play-circle { 
-    color: white; 
-}
-  
-/* Ícone de pause */
-.fa-pause-circle { 
-    color: white;
-}
-
-.close{
-    color: white;
-}
