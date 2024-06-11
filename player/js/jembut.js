@@ -3,7 +3,7 @@
 const RADIO_NAME = 'Game! Radio 1';
 
 // SELECT ARTWORK PROVIDER, ITUNES, DEEZER & SPOTIFY  eg : spotify 
-var API_SERVICE = 'deezer';
+var API_SERVICE = 'spotify';
 
 // Change Stream URL Here, Supports, ICECAST, ZENO, SHOUTCAST, RADIOJAR ETC.... DOES NOT SUPPORT HLS
 const URL_STREAMING = 'https://stream.zeno.fm/n4gzbe9ufzzuv';
