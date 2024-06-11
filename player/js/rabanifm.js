@@ -16,6 +16,7 @@ const API_URL = 'https://twj.es/radio_info/?radio_url=' + encodeURIComponent(URL
 
 // Visit https://api.vagalume.com.br/docs/ to get your API key
 const API_KEY = "18fe07917957c289983464588aabddfb";
+
 let userInteracted = true;
 
 window.onload = function () {
