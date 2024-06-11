@@ -68,7 +68,7 @@ function Page() {
         var $artistName = document.querySelectorAll('#historicSong article .music-info .artist');
 
         // Default cover art
-        var urlCoverArt = 'img/cover.png';
+        var urlCoverArt = DEFAULT_COVER_ART;
 
         // Get cover art for song history
         var xhttp = new XMLHttpRequest();
@@ -94,7 +94,7 @@ function Page() {
             $historicDiv[n].classList.add('animated');
             $historicDiv[n].classList.add('slideInRight');
         }
-        xhttp.open('GET', 'https://api-v2.streamafrica.net/musicsearch?query=' + info.artist + ' ' + info.song + '&service=' + API_SERVICE.toLowerCase());
+        xhttp.open('GET', 'https://api.miradio.pro/musicsearch?query=' + info.artist + ' ' + info.song + '&service=' + API_SERVICE.toLowerCase());
         xhttp.send();
 
         setTimeout(function () {
@@ -107,7 +107,7 @@ function Page() {
 
     this.refreshCover = function (song = '', artist) {
         // Default cover art
-        var urlCoverArt = 'img/cover.png';
+        var urlCoverArt = DEFAULT_COVER_ART;
 
         var xhttp = new XMLHttpRequest();
         xhttp.onreadystatechange = function () {
@@ -118,7 +118,7 @@ function Page() {
             if (this.readyState === 4 && this.status === 200) {
                 var data = JSON.parse(this.responseText);
                 var artworkUrl100 = data.results;
-                var urlCoverArt = artworkUrl100.artwork.xl;
+                var urlCoverArt = artworkUrl100.artwork.large;
 
                 coverArt.style.backgroundImage = 'url(' + urlCoverArt + ')';
                 coverArt.className = 'animated bounceInLeft';
@@ -168,7 +168,7 @@ function Page() {
                 }
             }
         }
-        xhttp.open('GET', 'https://api-v2.streamafrica.net/musicsearch?query=' + artist + ' ' + song + '&service=' + API_SERVICE.toLowerCase());
+        xhttp.open('GET', 'https://api.miradio.pro/musicsearch?query=' + artist + ' ' + song + '&service=' + API_SERVICE.toLowerCase());
         xhttp.send();
     }
 
@@ -183,8 +183,10 @@ function Page() {
     this.setVolume = function () {
         if (typeof (Storage) !== 'undefined') {
             var volumeLocalStorage = (!localStorage.getItem('volume')) ? 80 : localStorage.getItem('volume');
-            document.getElementById('volume').value = volumeLocalStorage;
-            document.getElementById('volIndicator').innerHTML = volumeLocalStorage;
+			setTimeout(function(){
+				document.getElementById('volume').value = volumeLocalStorage;
+            	document.getElementById('volIndicator').innerHTML = volumeLocalStorage;
+			}, 3000);
         }
     }
 
@@ -221,7 +223,8 @@ function Page() {
     }
 }
 
-var audio = new Audio(URL_STREAMING);
+//var audio = new Audio(URL_STREAMING); 
+var audio = new Audio(URL_STREAMING + '/radio');
 
 // Player control
 function Player() {
@@ -268,9 +271,24 @@ audio.onpause = function () {
 }
 
 // Unmute when volume changed
+// audio.onvolumechange = function () {
+//     if (audio.volume > 0) {
+//         audio.muted = false;
+//     }
+// }
+// Unmute when volume changed
 audio.onvolumechange = function () {
     if (audio.volume > 0) {
-        audio.muted = false;
+        audio.muted = false;        
+        var botmute = document.getElementById('playerMute');
+        if (botmute.className === 'fa fa-volume-off') {
+            botmute.className = 'fa fa-volume-up';
+        }
+    }else{
+        var botmute = document.getElementById('playerMute');
+        if (botmute.className === 'fa fa-volume-up') {
+            botmute.className = 'fa fa-volume-off';
+        }
     }
 }
 
@@ -282,12 +300,18 @@ audio.onerror = function () {
     }
 }
 
-document.getElementById('volume').oninput = function () {
-    audio.volume = intToDecimal(this.value);
+setTimeout(function(){
+    document.getElementById('volume').oninput = function () {
+        audio.volume = intToDecimal(this.value);    
+        var page = new Page();
+        page.changeVolumeIndicator(this.value);
+    }
+    document.getElementById("triggerToggle").addEventListener('click', function() {
+        slideToggle(document.getElementById("historicSong"), 400);
+    });
 
-    var page = new Page();
-    page.changeVolumeIndicator(this.value);
-}
+}, 3000);
+
 
 function togglePlay() {
     if (!audio.paused) {
@@ -317,56 +341,71 @@ function volumeDown() {
 }
 
 function mute() {
+    // togglePlay()
     if (!audio.muted) {
         document.getElementById('volIndicator').innerHTML = 0;
         document.getElementById('volume').value = 0;
         audio.volume = 0;
         audio.muted = true;
+
+        var botmute = document.getElementById('playerMute');
+        if (botmute.className === 'fa fa-volume-up') {
+            botmute.className = 'fa fa-volume-off';
+        }
     } else {
-        var localVolume = localStorage.getItem('volume');
-        document.getElementById('volIndicator').innerHTML = localVolume;
-        document.getElementById('volume').value = localVolume;
-        audio.volume = intToDecimal(localVolume);
+        // var localVolume = localStorage.getItem('volume');
+        document.getElementById('volIndicator').innerHTML = 50;
+        document.getElementById('volume').value = 50;
+        audio.volume = intToDecimal(50);
         audio.muted = false;
+
+        var botmute = document.getElementById('playerMute');
+        if (botmute.className === 'fa fa-volume-off') {
+            botmute.className = 'fa fa-volume-up';
+        }
     }
 }
 
 function getStreamingData() {
     var xhttp = new XMLHttpRequest();
     xhttp.onreadystatechange = function () {
+
         if (this.readyState === 4 && this.status === 200) {
-            if (this.response.length === 0) {
-                console.log('%cdebug', 'font-size: 22px');
+
+            if(this.response.length === 0) {
+                console.log('%cdebug', 'font-size: 22px')
             }
 
             var data = JSON.parse(this.responseText);
-            console.log('Received data:', data); // Add this line for debugging
 
             var page = new Page();
 
             // Formating characters to UTF-8
-            let song = data.song ? data.song.replace(/&apos;/g, '\'') : '';
-            let artist = data.artist ? data.artist.replace(/&apos;/g, '\'') : '';
+            let song = data.currentSong.replace(/&apos;/g, '\'');
+            currentSong = song.replace(/&amp;/g, '&');
+
+            let artist = data.currentArtist.replace(/&apos;/g, '\'');
+            currentArtist = artist.replace(/&amp;/g, '&');
 
             // Change the title
-            document.title = song + ' - ' + artist + ' | ' + RADIO_NAME;
+            document.title = currentArtist + ' - ' + currentSong + ' | ' + RADIO_NAME;
 
             if (document.getElementById('currentSong').innerHTML !== song) {
-                page.refreshCover(song, artist);
-                page.refreshCurrentSong(song, artist);
-                page.refreshLyric(song, artist);
+                page.refreshCover(currentSong, currentArtist);
+                page.refreshCurrentSong(currentSong, currentArtist);
+                // page.refreshLyric(currentSong, currentArtist);
 
-                for (var i = 0; i < 2; i++) {
-                    page.refreshHistoric(data.history[i], i);
+                for (var i = 0; i < 4; i++) {
+                    page.refreshHistoric(data.songHistory[i], i);
                 }
             }
-        }
+        } 
     };
 
-    var d = new Date();
+     var d = new Date();
 
     // Requisition with timestamp to prevent cache on mobile devices
-    xhttp.open('GET', API_URL);
+    xhttp.open('GET', 'api.php?url=' + URL_STREAMING + '&streamtype=' + STREAMING_TYPE + '&historic=' + HISTORIC + '&next=' + NEXT_SONG + '&t=' + d.getTime(), true);
     xhttp.send();
 }
 
@@ -534,3 +573,93 @@ function intToDecimal(vol) {
 function decimalToInt(vol) {
     return vol * 100;
 }
+
+/* show / hide historic songs */
+let slideUp = (target, duration=500) => {
+    target.style.transitionProperty = 'height, margin, padding';
+    target.style.transitionDuration = duration + 'ms';
+    target.style.boxSizing = 'border-box';
+    target.style.height = target.offsetHeight + 'px';
+    target.offsetHeight;
+    target.style.overflow = 'hidden';
+    target.style.height = 0;
+    target.style.paddingTop = 0;
+    target.style.paddingBottom = 0;
+    target.style.marginTop = 0;
+    target.style.marginBottom = 0;
+    window.setTimeout( () => {
+      target.style.display = 'none';
+      target.style.removeProperty('height');
+      target.style.removeProperty('padding-top');
+      target.style.removeProperty('padding-bottom');
+      target.style.removeProperty('margin-top');
+      target.style.removeProperty('margin-bottom');
+      target.style.removeProperty('overflow');
+      target.style.removeProperty('transition-duration');
+      target.style.removeProperty('transition-property');
+      //alert("!");
+    }, duration);
+  }
+
+  let slideDown = (target, duration=500) => {
+    target.style.removeProperty('display');
+    let display = window.getComputedStyle(target).display;
+
+    if (display === 'none')
+      display = 'block';
+
+    target.style.display = display;
+    let height = target.offsetHeight;
+    target.style.overflow = 'hidden';
+    target.style.height = 0;
+    target.style.paddingTop = 0;
+    target.style.paddingBottom = 0;
+    target.style.marginTop = 0;
+    target.style.marginBottom = 0;
+    target.offsetHeight;
+    target.style.boxSizing = 'border-box';
+    target.style.transitionProperty = "height, margin, padding";
+    target.style.transitionDuration = duration + 'ms';
+    target.style.height = height + 'px';
+    target.style.removeProperty('padding-top');
+    target.style.removeProperty('padding-bottom');
+    target.style.removeProperty('margin-top');
+    target.style.removeProperty('margin-bottom');
+    window.setTimeout( () => {
+      target.style.removeProperty('height');
+      target.style.removeProperty('overflow');
+      target.style.removeProperty('transition-duration');
+      target.style.removeProperty('transition-property');
+    }, duration);
+  }
+   let slideToggle = (target, duration = 500) => {
+    if (window.getComputedStyle(target).display === 'none') {
+      return slideDown(target, duration);
+    } else {
+      return slideUp(target, duration);
+    }
+  }
+   
+// ====  
+  
+// let speedAnimation = 400;
+// let targetId = document.getElementById("historicSong");
+
+// let slideBtnClick = (id, sl) => document.getElementById(id).addEventListener('click', () => sl(targetId, speedAnimation));
+
+// slideBtnClick('triggerUp', slideUp);
+// slideBtnClick('triggerDown', slideDown);
+// slideBtnClick('triggerToggle', slideToggle);
+
+
+// =========== old
+
+//   document.getElementById("triggerUp").addEventListener('click', function() {
+//   slideUp(document.getElementById("target"), 400);
+// });
+//   document.getElementById("triggerDown").addEventListener('click', function() {
+//   slideDown(document.getElementById("target"), 400);
+// });
+//   document.getElementById("triggerToggle").addEventListener('click', function() {
+//   slideToggle(document.getElementById("target"), 400);
+// });
