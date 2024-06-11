@@ -38,147 +38,144 @@ window.onload = function () {
     coverArt.style.height = coverArt.offsetWidth + 'px';
 }
 
-// DOM control
-class Page {
-    constructor() {
-        this.changeTitlePage = function (title = RADIO_NAME) {
-            document.title = title;
-        };
+/ DOM control
+function Page() {
+    this.changeTitlePage = function (title = RADIO_NAME) {
+        document.title = title;
+    };
 
-        this.refreshCurrentSong = function (song, artist) {
-            var currentSong = document.getElementById('currentSong');
-            var currentArtist = document.getElementById('currentArtist');
+    this.refreshCurrentSong = function (song, artist) {
+        var currentSong = document.getElementById('currentSong');
+        var currentArtist = document.getElementById('currentArtist');
 
-            if (song !== currentSong.innerHTML) {
-                // Animate transition
-                currentSong.className = 'animated flipInY text-uppercase';
-                currentSong.innerHTML = song;
+        if (song !== currentSong.innerHTML) {
+            // Animate transition
+            currentSong.className = 'animated flipInY text-uppercase';
+            currentSong.innerHTML = song;
 
-                currentArtist.className = 'animated flipInY text-capitalize';
-                currentArtist.innerHTML = artist;
+            currentArtist.className = 'animated flipInY text-capitalize';
+            currentArtist.innerHTML = artist;
 
-                // Refresh modal title
-                document.getElementById('lyricsSong').innerHTML = song + ' - ' + artist;
+            // Refresh modal title
+            document.getElementById('lyricsSong').innerHTML = song + ' - ' + artist;
 
-                // Remove animation classes
-                setTimeout(function () {
-                    currentSong.className = 'text-uppercase';
-                    currentArtist.className = 'text-capitalize';
-                }, 2000);
+            // Remove animation classes
+            setTimeout(function () {
+                currentSong.className = 'text-uppercase';
+                currentArtist.className = 'text-capitalize';
+            }, 2000);
+        }
+    }
+
+    this.refreshHistoric = function (info, n) {
+        var $historicDiv = document.querySelectorAll('#historicSong article');
+        var $songName = document.querySelectorAll('#historicSong article .music-info .song');
+        var $artistName = document.querySelectorAll('#historicSong article .music-info .artist');
+
+        // Default cover art
+        var urlCoverArt = DEFAULT_COVER_ART;
+
+        // Get cover art for song history
+        var xhttp = new XMLHttpRequest();
+        xhttp.onreadystatechange = function () {
+            if (this.readyState === 4 && this.status === 200) {
+                var data = JSON.parse(this.responseText);
+                var artwork = data.results.artwork;
+                 var artworkXL = artwork.medium;
+
+                document.querySelectorAll('#historicSong article .cover-historic')[n].style.backgroundImage = 'url(' + artworkXL + ')';
             }
-        };
+            // Formating characters to UTF-8
+            var music = info.song.replace(/&apos;/g, '\'');
+            var songHist = music.replace(/&amp;/g, '&');
 
-        this.refreshHistoric = function (info, n) {
-            var $historicDiv = document.querySelectorAll('#historicSong article');
-            var $songName = document.querySelectorAll('#historicSong article .music-info .song');
-            var $artistName = document.querySelectorAll('#historicSong article .music-info .artist');
-          
-            // Imagem padrão definida apenas uma vez
-            const defaultCoverArt = 'img/cover.png'; 
-            let urlCoverArt = defaultCoverArt; // Começa com a imagem padrão
-          
-            var xhttp = new XMLHttpRequest();
-            xhttp.onreadystatechange = function () {
-              if (this.readyState === 4 && this.status === 200) {
+            var artist = info.artist.replace(/&apos;/g, '\'');
+            var artistHist = artist.replace(/&amp;/g, '&');
+
+            $songName[n].innerHTML = songHist;
+            $artistName[n].innerHTML = artistHist;
+
+            // Add class for animation
+            $historicDiv[n].classList.add('animated');
+            $historicDiv[n].classList.add('slideInRight');
+        }
+        xhttp.open('GET', 'https://api.miradio.pro/musicsearch?query=' + info.artist + ' ' + info.song + '&service=' + API_SERVICE.toLowerCase());
+        xhttp.send();
+
+        setTimeout(function () {
+            for (var j = 0; j < 2; j++) {
+                $historicDiv[j].classList.remove('animated');
+                $historicDiv[j].classList.remove('slideInRight');
+            }
+        }, 2000);
+    }
+
+    this.refreshCover = function (song = '', artist) {
+        // Default cover art
+        var urlCoverArt = DEFAULT_COVER_ART;
+
+        var xhttp = new XMLHttpRequest();
+        xhttp.onreadystatechange = function () {
+            var coverArt = document.getElementById('currentCoverArt');
+            var coverBackground = document.getElementById('bgCover');
+
+            // Get cover art URL on iTunes API
+            if (this.readyState === 4 && this.status === 200) {
                 var data = JSON.parse(this.responseText);
-                
-                // Verifica se as propriedades existem
-                if (data && data.results && data.results.artwork) { 
-                  urlCoverArt = data.results.artwork;
-          
-                  // Seleciona o elemento correto
-                  var coverHistoric = document.querySelectorAll('#historicSong article .cover-historic')[n];
-                  if (coverHistoric) { // Verifica se o elemento existe
-                    coverHistoric.style.backgroundImage = 'url(' + urlCoverArt + ')';
-                  } else {
-                    console.warn("Elemento cover-historic não encontrado para o índice:", n);
-                  }
-          
-                } else {
-                  console.warn("Resposta da API inválida ou dados de artwork ausentes:", data);
-                  // Mantém a imagem padrão
-                }
-              }
-          
-              // Formatando caracteres para UTF-8
-              var music = info.song.replace(/&apos;/g, '\'').replace(/&amp;/g, '&');
-              var artist = info.artist.replace(/&apos;/g, '\'').replace(/&amp;/g, '&');
-          
-              $songName[n].innerHTML = music;
-              $artistName[n].innerHTML = artist;
-          
-              // Adiciona classes para animação (se necessário)
-              $historicDiv[n].classList.add('animated', 'slideInRight');
-          
-              setTimeout(function () {
-                for (var j = 0; j < 2; j++) {
-                  $historicDiv[j].classList.remove('animated', 'slideInRight');
-                }
-              }, 2000);
-            };
-          
-            // Requisição com timestamp para evitar cache
-            xhttp.open('GET', 'https://api.streamafrica.net/new.search?query=' + info.artist + ' ' + info.song + '&service=' + API_SERVICE.toLowerCase());
-            xhttp.send();
-          };
+                var artworkUrl100 = data.results;
+                var urlCoverArt = artworkUrl100.artwork.xl;
 
-        this.refreshCover = function (song = '', artist) {
-            // Imagem padrão definida apenas uma vez
-            const defaultCoverArt = 'img/cover.png'; 
-            let urlCoverArt = defaultCoverArt; // Começa com a imagem padrão
-          
-            var xhttp = new XMLHttpRequest();
-            xhttp.onreadystatechange = function () {
-              var coverArt = document.getElementById('currentCoverArt');
-              var coverBackground = document.getElementById('bgCover');
-          
-              // Verifica se a API retornou um resultado válido
-              if (this.readyState === 4 && this.status === 200 && this.responseText.trim() !== '') {
-                var data = JSON.parse(this.responseText);
-          
-                // Verifica se as propriedades existem
-                if (data && data.results && data.results.artwork) { 
-                  urlCoverArt = data.results.artwork; 
-                } else {
-                  console.warn("Resposta da API inválida ou dados de artwork ausentes:", data);
-                  // Mantém a imagem padrão
-                }
-              } else {
-                console.warn("Erro na requisição da API ou resposta vazia.");
-                // Mantém a imagem padrão
-              }
-          
-              // Aplica a imagem de capa (sempre, mesmo se for a padrão)
-              coverArt.style.backgroundImage = 'url(' + urlCoverArt + ')';
-              coverArt.className = 'animated bounceInLeft';
-          
-              coverBackground.style.backgroundImage = 'url(' + urlCoverArt + ')';
-          
-              setTimeout(function () {
-                coverArt.className = '';
-              }, 2000);
-          
-              if ('mediaSession' in navigator) {
-                navigator.mediaSession.metadata = new MediaMetadata({
-                  title: song,
-                  artist: artist,
-                  artwork: [
-                    { src: urlCoverArt, sizes: '96x96', type: 'image/png' },
-                    { src: urlCoverArt, sizes: '128x128', type: 'image/png' },
-                    { src: urlCoverArt, sizes: '192x192', type: 'image/png' },
-                    { src: urlCoverArt, sizes: '256x256', type: 'image/png' },
-                    { src: urlCoverArt, sizes: '384x384', type: 'image/png' },
-                    { src: urlCoverArt, sizes: '512x512', type: 'image/png' }
-                  ]
-                });
-              }
-            };
-          
-            // Requisição com timestamp para evitar cache
-            xhttp.open('GET', 'https://api.streamafrica.net/new.search?query=' + artist + ' ' + song + '&service=' + API_SERVICE.toLowerCase());
-            xhttp.send();
-        };
+                coverArt.style.backgroundImage = 'url(' + urlCoverArt + ')';
+                coverArt.className = 'animated bounceInLeft';
 
+                coverBackground.style.backgroundImage = 'url(' + urlCoverArt + ')';
+
+                setTimeout(function () {
+                    coverArt.className = '';
+                }, 2000);
+
+                if ('mediaSession' in navigator) {
+                    navigator.mediaSession.metadata = new MediaMetadata({
+                        title: song,
+                        artist: artist,
+                        artwork: [{
+                                src: urlCoverArt,
+                                sizes: '96x96',
+                                type: 'image/png'
+                            },
+                            {
+                                src: urlCoverArt,
+                                sizes: '128x128',
+                                type: 'image/png'
+                            },
+                            {
+                                src: urlCoverArt,
+                                sizes: '192x192',
+                                type: 'image/png'
+                            },
+                            {
+                                src: urlCoverArt,
+                                sizes: '256x256',
+                                type: 'image/png'
+                            },
+                            {
+                                src: urlCoverArt,
+                                sizes: '384x384',
+                                type: 'image/png'
+                            },
+                            {
+                                src: urlCoverArt,
+                                sizes: '512x512',
+                                type: 'image/png'
+                            }
+                        ]
+                    });
+                }
+            }
+        }
+        xhttp.open('GET', 'https://api.miradio.pro/musicsearch?query=' + artist + ' ' + song + '&service=' + API_SERVICE.toLowerCase());
+        xhttp.send();
+    }
         this.changeVolumeIndicator = function (volume) {
             document.getElementById('volIndicator').innerHTML = volume;
 
