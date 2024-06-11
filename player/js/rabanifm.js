@@ -273,6 +273,8 @@ function getStreamingData() {
     xhttp.send();
 }
 
+//####################################### AUDIO #######################################
+
 // Variável global para armazenar as músicas
 var audio = new Audio(URL_STREAMING);
 
