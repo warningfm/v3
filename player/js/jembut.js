@@ -405,10 +405,9 @@ function getStreamingData() {
      var d = new Date();
 
     // Requisition with timestamp to prevent cache on mobile devices
-    xhttp.open('GET', 'api.php?url=' + URL_STREAMING + '&streamtype=' + STREAMING_TYPE + '&historic=' + HISTORIC + '&next=' + NEXT_SONG + '&t=' + d.getTime(), true);
+    xhttp.open('GET', API_URL);
     xhttp.send();
 }
-
 // Player control by keys
 document.addEventListener('keydown', function (k) {
     var k = k || window.event;
