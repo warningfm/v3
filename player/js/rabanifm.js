@@ -11,8 +11,8 @@ const URL_STREAMING = 'https://stream.zeno.fm/n4gzbe9ufzzuv';
 //PASTE YOUR MEDIA CP JSON URL HERE TO GET NOW PLAYING SONG TITLE.
 const MEDIACP_JSON_URL = ''
 
-//NOW PLAYING API.
-const API_URL = 'https://twj.es/radio_info/?radio_url='+URL_STREAMING
+//API URL /
+const API_URL = 'https://twj.es/radio_info/?radio_url=' + encodeURIComponent(URL_STREAMING);
 
 // Visit https://api.vagalume.com.br/docs/ to get your API key
 const API_KEY = "18fe07917957c289983464588aabddfb";
