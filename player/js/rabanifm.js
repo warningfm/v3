@@ -273,6 +273,9 @@ function getStreamingData() {
     xhttp.send();
 }
 
+// Variável global para armazenar as músicas
+var audio = new Audio(URL_STREAMING);
+
 // Player control by keys
 document.addEventListener('keydown', function (k) {
     var k = k || window.event;
