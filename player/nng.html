@@ -1,82 +1,122 @@
-<!DOCTYPE HTML>
-<!--
-www.mbahnunungonline.net
--->
-<html>
-	<head>
-		<title>mbah nunung Online Server HD</title>
-		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-		<meta name="description" content="mbah nunung Online Radio Server HD, Con Audio en VIVO HE-AACPlus, Ecuador" />
-		<meta name="keywords" content="mbah nunung Online Radio Server HD, La mejor Musica, Informacion, Programas, invitados y  mucho mas. Ecuador" />
-		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
-		
-		<!--[if lte IE 9]><link rel="stylesheet" href="css/ie/v9.css" /><![endif]-->
-		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
-	
-        
-        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <script src="//ajax.aspnetcdn.com/ajax/jQuery/jquery-3.2.1.min.js"></script>
-        
-        <script src="//kreactivo.com/Player/js/lunaradio.min.js?v=1.20.08.31d"></script>
-        <style>
-		html, body {
-			margin:0;
-			padding:0;
-			overflow: hidden;
-			width:100%;
-			height:100%;
-		}
-	</style>
-	
-	</head>
-	<body style="width:100%;height:100%;padding:0;margin:0;background-color:transparent;">
-						<!-- <h1>Radio Ecua Server HD</h1> -->
-						<!--<h1><img border="0" src="css/images/logo.png" alt="Radio Ecua Server HD FM - Pichincha"></h1>-->
-						<!-- <h1>Radio Ecua Server HD FM - Pichincha</h1>  -->
-						
-						    
-						    
-        <div id="player-nng" style='width:300px; height:520px;background: url(https://4.bp.blogspot.com/-qQCqFWtC7rU/Xtq5juOYKzI/AAAAAAAAAAs/5S9xa7Aq3FwZMQ7bv0O5EZKsE01bfx5HACLcBGAsYHQ/s1600/radio-online.jpg) bottom / cover no-repeat;'>Loading ...</div>			
+<!DOCTYPE html>
+<html lang="en-US">
 
-        <script>
-        $("#player-nng").lunaradio({
-			token: "",
-			userinterface: "big", 
-			backgroundcolor: "rgba(255,255,255,0.9)",
-			fontcolor: "#20232c",
-			hightlightcolor: "#f59f7e", 
-			fontname: "ZCOOL XiaoWei", 
-			googlefont: "ZCOOL+XiaoWei", 
-			fontratio: "0.4", 
-			radioname: "mbah nunung Online", 
-			scroll: "true", 
-			coverimage: "",
-			coverstyle: "square",
-			usevisualizer: "real", 
-			visualizertype: "5", 
-			itunestoken: "1000lIPN", 
-			metadatatechnic: "corsproxy", 
-			ownmetadataurl: "", 
-			corsproxy: "https://mtl9.hnux.com/",
-			usestreamcorsproxy: "true",
-			streamurl: "http://fluoz.zeno.fm/5y0exp3phzzuv", 
-			streamtype: "radiozeno", 
-			icecastmountpoint: "", 
-			radionomyid: "", 
-			radionomyapikey: "",
-			radiojarid: "",
-			radiozenoid: "5y0exp3phzzuv",
-			radiocoid: "",
-			shoutcastpath: "",
-			shoutcastid: "1", 
-			streamsuffix: "", 
-			metadatainterval: "2000", 
-			volume: "90",
-			debug: "false",
-			autoplay: "true"
-		});
-</script>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+    <title>RadioPlayer</title>
+
+
+    <link rel="icon" type="image/png" href="img/cover.png" />
+    <link rel="stylesheet" href="css/font-awesome.min.css"> 
+    <link rel="stylesheet" href="css/bootstrap.min.css?ver=6.4.2">
+    <link rel="stylesheet" type="text/css" href="css/animate.css">
+    <link rel="stylesheet" href="css/styleplay.css?v2322">
+
+    
+</head>
+
+<body>
+
+    <div id="player">
+    <div id="bgCover"></div>
+    <div class="container">
+    <div class="row web-player">
+        <div class="col-12">
+<div class="row">
+<div class="col-12 col-md-6">
+<div class="cover-album">
+<div id="currentCoverArt"></div>
+
+</div>
+</div>
+<div class="col-12 ml-md-auto col-md-6">
+<div class="row">
+<div class="col-12">
+<div class="info-current-song">
+<h2 id="currentSong" class="current-song text-uppercase">Song</h2>
+<h3 id="currentArtist" class="current-artist text-captalize">Artist</h3>
+</div>
+</div>
+<div class="col-12">
+<div class="row">
+<div class="play-pause col-12 text-center">
+<button class="btn-play" onclick="togglePlay()"><i id="playerButton" class="fa fa-play"></i> <span id="buttonPlay">PLAY</span></button></div>
+</div>
+<div class="row">
+<div class="col-12 text-center">
+<div class="row volume-control">
+<div class="volume-icon col-1" onclick="mute()"><i id="playerMute" class="fa fa-volume-up"></i></div>
+<div class="volume-slide col-10 text-center"><input type="range" id="volume" step="1" min="0" max="100" value="50"></div>
+<div class="percentual-volume col-12">Volume <span id="volIndicator">&#8230;</span>%</div>
+</div>
+</div>
+</div>
+<p> 
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row historic">
+<div class="col-12">
+<h2> <a href="javascript:void(0);" id="triggerToggle" class="text-white"><i class="fa fa-bars"></i> mari diputer</a></h2>
+<p> </p>
+<div class="row" id="historicSong" style="display:flex">
+<article class="col-12 col-md-6">
+<div class="cover-historic"></div>
+<div class="music-info">
+<div class="song">No canción</div>
+<div class="artist">No Artista</div>
+</div>
+</article>
+<article class="col-12 col-md-6">
+<div class="cover-historic"></div>
+<div class="music-info">
+<div class="song">No Canción</div>
+<div class="artist">No Artista</div>
+</div>
+</article>
+<article class="col-12 col-md-6">
+<div class="cover-historic"></div>
+<div class="music-info">
+<div class="song">No Canción</div>
+<div class="artist">No Artista</div>
+</div>
+</article>
+<article class="col-12 col-md-6">
+<div class="cover-historic"></div>
+<div class="music-info">
+<div class="song">No Canción</div>
+<div class="artist">No Artista</div>
+</div>
+</article></div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="modalLyrics" tabindex="-1" role="dialog" aria-labelledby="lyricsSong" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+              <h5 class="modal-title" id="lyricsSong">Lyrics</h5>
+                 <button type="button" style="color: #fff" class="close" data-dismiss="modal" aria-label="Fechar"><br/>
+                     <span aria-hidden="true">&times;</span><br/>
+                 </button>
+               </div>
+               <div class="modal-body" id="lyric"></div>
+               <div class="modal-footer">
+                  <button type="button" class="btn btn-success" data-dismiss="modal">Close</button>
+               </div>
+            </div>
+        </div>
+    </div>
+
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js/robana.js?3892920001991"></script>
 </body>
-</html> 
+</html>
