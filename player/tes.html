@@ -1,70 +1,136 @@
-<!doctype html>
-<html>
+<!DOCTYPE html>
+<html lang="es">
 <head>
-<meta charset="UTF-8">
-<title>PLAYER RADIO</title>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
-<meta http-equiv="Pragma" content="no-cache">
-<meta http-equiv="Expires" content="0">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-<script src="https://warningfm.github.io/v3/js/lunaradio-sincors.js?v=1.20.08.31d"></script>
-<style type="text/css">
-body {
-    background-color: #000000;
-}
-body,td,th {
-    font-family: 'Rubik',Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
-}
-.lunaradiotexttitlespan {
-    text-transform: uppercase;
-}
-</style>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Radio Player</title>
+    <link rel="icon" type="image/png" href="img/cover.png" />
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="css/animate.css">
+    <link rel="stylesheet" href="css/style.css">  
+    <link rel="manifest" href="/manifest.json">
 </head>
-
 <body>
-<div id="lunaradio" style="width:100%; height:70px; -webkit-border-top-left-radius: 0px; -webkit-border-top-right-radius: 0px; -webkit-border-bottom-right-radius: 0px; -webkit-border-bottom-left-radius: 0px; -moz-border-radius-topleft: 0px; -moz-border-radius-topright: 0px; -moz-border-radius-bottomright: 0px; -moz-border-radius-bottomleft: 0px; border-top-left-radius: 0px; border-top-right-radius: 0px; border-bottom-right-radius: 0px; border-bottom-left-radius: 0px; border: none;">
-</div>	
-<script>
-jQuery(document).ready(function($) {
-	$("#lunaradio").lunaradio({
-		    token: "",
-			userinterface: "small", 
-			backgroundcolor: "#ffffff",
-			fontcolor: "#20232c",
-			hightlightcolor: "#a7d3ab", 
-			fontname: "Satisfy", 
-			googlefont: "Satisfy&display=swap", 
-			fontratio: "0.7", 
-			radioname: "Bintang Tenggara", 
-			scroll: "true", 
-			coverimage: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8ea8TbHRteFhrkvwu5Lts9d1DhQM1CzqrKVp9iYkf3qTr0BxOYEBrRvqDOANLD7EaWjkH10Y_m5JlWNuUzBfQ18TfwuBCsIhqDuGvph8Kp9dFwTIFLGEGkA7XCxTSHX8SAAXHi_PruZ5yA8d4UhdAbxYcvUNGtqS77pmaeaem4SJVjlp3va_aGFqtsS0_/s1600/no-cover-large.png",
-			coverstyle: "circle",
-			usevisualizer: "real", 
-			visualizertype: "8", 
-			itunestoken: "1000lIPN", 
-			metadatatechnic: "directly", 
-			ownmetadataurl: "https://sv.stri.my.id:8360/status-json.xsl", 
-			corsproxy: "",
-			usestreamcorsproxy: "true",
-			streamurl: "https://sv.stri.my.id:8360", 
-			streamtype: "icecast2", 
-			icecastmountpoint: "/rbtfm", 
-			radionomyid: "", 
-			radionomyapikey: "",
-			radiojarid: "",  
-			radiocoid: "",
-			shoutcastpath: "/psytrance.mp3",
-			shoutcastid: "8", 
-			streamsuffix: "", 
-			metadatainterval: "5000", 
-			volume: "70",
-			debug: "false",
-		    autoplay: "false",
-			multicolorvisualizer: "true",
-			visualizeropacity: "1.0"
-		});	
-});
-</script>	
+    <div class="cover-site">
+        <div id="bgCover"></div>
+        <div class="bg-mask"></div>
+    </div>
+    <main>
+        <section id="player">
+            <div class="container">
+                <div class="row web-player">
+                    <div class="col-12 col-lg-10">
+                        <div class="row">
+                            <div class="col-12 col-md-5">
+                                <div class="cover-album">
+                                    <div id="currentCoverArt"></div>
+                                    <div class="watermark"></div>
+                                </div>
+                            </div>
+                            <div class="col-12 ml-md-auto col-md-6">
+                                <div class="row">
+                                    <div class="col-12">
+                                        <div class="info-current-song">
+                                            <h2 id="currentSong" class="current-song text-uppercase">Song</h2>
+                                            <h3 id="currentArtist" class="current-artist text-captalize">Artist</h3>
+                                        </div>
+                                    </div>
+                                    <div class="col-12">
+                                    
+                                       <div class="row">
+                                            <div class="play-pause col-12 col-md-2 text-center">
+                                                <i id="playerButton" class="fa fa-play-circle" onclick="togglePlay()"></i>
+                                            </div>
+                                            <div class="col-12 col-md-10 text-center">
+                                                <div class="row volume-control">
+                                                    <div class="volume-icon col-1"><i class="fa fa-volume-up"></i></div>
+                                                    <div class="volume-slide col-10 text-center"><input type="range" id="volume"
+                                                            step="1" min="0" max="100" value="80"></div>
+                                                    <div class="percentual-volume col-12">Volumen <span id="volIndicator">...</span>%</div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-12 col-md-6 text-center call-lyrics">
+                                                <a href="#" class="lyrics" data-target="#modalLyrics">LETRA</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row historic">
+                    <div class="col-12">
+                        <h2>Canciones Reproducidas</h2>
+                        <div class="row" id="historicSong">
+                            <article class="col-12 col-md-6">
+                                <div class="cover-historic"></div>
+                                <div class="music-info">
+                                    <div class="song">No Song</div>
+                                    <div class="artist">No Artist</div>
+                                </div>                                
+                            </article>
+                            <article class="col-12 col-md-6">
+                                <div class="cover-historic"></div>
+                                <div class="music-info">
+                                    <div class="song">No Title</div>
+                                    <div class="artist">No Artist</div>
+                                </div>   
+                            </article>
+                            <article class="col-12 col-md-6">
+                                <div class="cover-historic"></div>
+                                <div class="music-info">
+                                    <div class="song">No Song</div>
+                                    <div class="artist">No Artist</div>
+                                </div>
+                            </article>
+                            <article class="col-12 col-md-6">
+                                <div class="cover-historic"></div>
+                                <div class="music-info">
+                                    <div class="song">No Title</div>
+                                    <div class="artist">No Artist</div>
+                                </div>   
+                            </article>                         
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+    <div class="modal fade" id="modalLyrics" tabindex="-1" role="dialog" aria-labelledby="lyricsSong" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="lyricsSong">Lyrics</h5>
+                    <button type="button" style="color: #fff" class="close" data-dismiss="modal" aria-label="Fechar">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                
+                <div class="modal-body" id="lyric"></div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-success" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js/script.js"></script>
+    <script>
+        if ('serviceWorker' in navigator) {
+          window.addEventListener('load', function() {
+            navigator.serviceWorker.register('/service-worker.js')
+              .then(function(registration) {
+                console.log('Service Worker registrado com sucesso:', registration);
+              }, function(err) {
+                console.log('Falha ao registrar o Service Worker:', err);
+              });
+          });
+        }
+      </script>  
 </body>
 </html>
