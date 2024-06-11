@@ -223,8 +223,8 @@ function Page() {
     }
 }
 
-//var audio = new Audio(URL_STREAMING); 
-var audio = new Audio(URL_STREAMING + '/radio');
+var audio = new Audio(URL_STREAMING); 
+//var audio = new Audio(URL_STREAMING + '/radio');
 
 // Player control
 function Player() {
