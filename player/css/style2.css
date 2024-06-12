@@ -62,7 +62,7 @@ body {
 .cover-album {
     max-width: 80%;
     margin: auto;
-    background: url('../img/cover.png') no-repeat;
+    background: url('https://warningfm.github.io/v3/img/K5bz9yt.jpg') no-repeat;
     background-size: cover;
     border: 2px solid #fefefe;
     box-shadow: 0px 5px 10px 3px rgba(0, 0, 0, 0.4);
@@ -274,7 +274,7 @@ input[type=range]::-ms-thumb {
     margin-right: 15px;
     float: left;
     border-radius: 10px;
-    background: url('../img/cover.png') no-repeat;
+    background: url('https://warningfm.github.io/v3/img/K5bz9yt.jpg') no-repeat;
     background-size: cover;
     border: 2px solid #fefefe;
    
