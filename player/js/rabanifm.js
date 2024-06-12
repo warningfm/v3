@@ -128,7 +128,7 @@ function Page() {
 
     this.refreshCover = function (song = '', artist) {
         // Default cover art
-        var urlCoverArt = 'ihttps://cdn-profiles.tunein.com/s162395/images/logod.png?t=638531136760000000';
+        var urlCoverArt = 'https://cdn-profiles.tunein.com/s162395/images/logod.png?t=638531136760000000';
 
         var xhttp = new XMLHttpRequest();
         xhttp.onreadystatechange = function () {
