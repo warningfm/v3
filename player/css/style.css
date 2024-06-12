@@ -286,24 +286,25 @@ input[type=range]::-ms-thumb {
     font-family: 'Poppins', sans-serif;
 }
 
-
 /* SONG TEXT COLOR */
-
 .historic .music-info .song {
     width: 100%;
     font-weight: bold;
-    font-size: 20px;
+    font-size: 0.88rem;
     text-transform: uppercase;
     margin-bottom: -5px;
     color: white;
+	text-shadow: 2px 2px #303030;
 }
-
+.historic .music-info .artist {
+    font-size: 0.77rem;
+	text-shadow: 2px 2px #303030;
+}
 @media(max-width: 370px) {
     .cover-album {
         max-width: 100%;
     }
 }
-
 @media(min-width: 576px) {
     .volume-control {
         display: flex;
@@ -313,41 +314,33 @@ input[type=range]::-ms-thumb {
         margin-top: 20px;
     }
 }
-
 @media(min-width: 768px) {
     body {
         align-items: center;
     }
-
     .h1-logo {
         text-align: center;
     }
-
     .logo {
         display: block;
         z-index: 2;
     }
-
     .logo img {
         max-width: 200px;
     }
-
     .web-player {
         height: auto;
         margin-top: 0;
     }
-
     .cover-album {
         margin: 10px auto;
-        min-width: 320px;
-        height: 320px;
+        min-width: 200px;
+        height: 200px;
     }
-
     .logo img {
         max-width: 300px;
         margin: 65px 0;
     }
-
     .info-current-song {
         margin-top: 20px;
         text-align: left;
