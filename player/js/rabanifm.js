@@ -221,8 +221,6 @@ class Page {
     }
 }
 
-
-
 function getStreamingData() {
     const url = `${API_URL}&timestamp=${new Date().getTime()}`;
 
