@@ -22,10 +22,10 @@ IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 */
 
-const RADIO_NAME = "Rock FM";
+const RADIO_NAME = "RBT FM";
 
 // Change Stream URL Here
-const URL_STREAMING = "https://stream.zeno.fm/n4gzbe9ufzzuv";
+const URL_STREAMING = "https://asv.alhastream.com/listen/rbt/rbtfm";
 
 //API URL /
 const API_URL = 'https://twj.es/radio_info/?radio_url='+URL_STREAMING
@@ -90,7 +90,7 @@ function Page() {
         var $artistName = document.querySelectorAll('#historicSong article .music-info .artist');
 
         // Default cover art
-        var urlCoverArt = 'img/bg-capa.jpg';
+        var urlCoverArt = 'https://cdn-profiles.tunein.com/s162395/images/logod.png?t=638531136760000000';
 
         // Get cover art for song history
         var xhttp = new XMLHttpRequest();
@@ -128,7 +128,7 @@ function Page() {
 
     this.refreshCover = function (song = '', artist) {
         // Default cover art
-        var urlCoverArt = 'img/bg-capa.jpg';
+        var urlCoverArt = 'ihttps://cdn-profiles.tunein.com/s162395/images/logod.png?t=638531136760000000';
 
         var xhttp = new XMLHttpRequest();
         xhttp.onreadystatechange = function () {
