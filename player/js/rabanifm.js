@@ -25,7 +25,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 const RADIO_NAME = "RBT FM";
 
 // Change Stream URL Here
-const URL_STREAMING = "https://asv.alhastream.com/listen/rbt/rbtfm";
+const URL_STREAMING = "https://stream.zeno.fm/r4mpcrfwfzzuv";
 
 //API URL /
 const API_URL = 'https://twj.es/radio_info/?radio_url='+URL_STREAMING
