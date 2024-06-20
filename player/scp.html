@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+    <meta charset="utf-8">
+    <title>Radio Bintang Tenggara Live</title>
+    <meta name="description" content="Radio Bintang Tenggara yang beralamat di jalan raya 88 Jajag Banyuwangi. Adalah sebuah Radio dengan Format Single Program, Citizen Journalism, LINTAS BANYUWANGI Informasi dan Solusi.">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="theme-color" content="#171717">
+    <meta http-equiv="cache-control" content="max-age=0" />
+    <meta http-equiv="cache-control" content="no-cache" />
+    <meta http-equiv="expires" content="0" />
+    <meta http-equiv="expires" content="Tue, 01 Jan 1980 1:00:00 GMT" /> 
+    <meta name="robots" content="noindex, nofollow">
+    <meta property="og:url" content="https://bintangtenggarafm.com/shoutcast">
+    <meta property="og:title" content="I'm listening Radio Bintang Tenggara">
+    <meta property="og:site_name" content="Radio Bintang Tenggara">
+    <meta property="og:description" content="Radio Bintang Tenggara Informasi dan Solusi.">
+    <meta property="og:image" content="https://cdn.bintangtenggarafm.com/img/9b0Y5ki.png">
+    <meta property="og:image:type" content="image/png">
+    <meta property="og:image:width" content="512">
+    <meta property="og:image:height" content="512">
+    <link rel="icon" type="image/png" href="https://cdn.bintangtenggarafm.com/img/favicon.png" />
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/animate.css@3.5.2/animate.css">
+    <link rel="stylesheet" href="css/scp.css">
+</head>
+
+<body>
+    <div class="cover-site">
+        <div id="bgCover"></div>
+        <div class="bg-mask"></div>
+    </div>
+    <main>
+        <section id="player">
+            <div class="container">
+                <div class="row web-player">
+                    <div class="col-12 col-lg-10">
+                        <div class="row">
+                            <div class="col-12 col-md-5">
+                                <div class="cover-album" style="height: 270px;">
+                                    <div id="currentCoverArt"></div>
+                                    <div class="watermark"></div>
+                                </div>
+                            </div>
+                            <div class="col-12 ml-md-auto col-md-6">
+                                <div class="row">
+                                    <div class="col-12">
+                                        <div class="info-current-song">
+                                            <h3 id="currentArtist" class="current-artist text-captalize">No Artist</h3>
+                                            <h2 id="currentSong" class="current-song text-uppercase">No Title</h2>
+                                        </div>
+                                    </div>
+                                    <div class="col-12">
+                                        <div class="row">
+                                            <div class="play-pause col-12 col-md-2 text-center">
+                                                <i id="playerButton" class="fa fa-play" onclick="togglePlay()"></i>
+                                            </div>
+                                            <div class="col-12 col-md-10 text-center">
+                                                <div class="row volume-control">
+                                                    <div class="volume-icon col-1"><i class="fa fa-volume-up"></i></div>
+                                                    <div class="volume-slide col-10 text-center"><input type="range" id="volume"
+                                                            step="1" min="0" max="100" value="80"></div>
+                                                    <div class="percentual-volume col-12">Volume <span id="volIndicator">...</span>%</div>
+                                                </div>
+                                            </div>
+											   <!-- <div class="col-12 text-center call-lyrics">
+                                                <a href="#" class="lyrics" style="" data-target="#modalLyrics">Lyrics</a>
+                                            </div> -->
+                                        </div>
+                                    </div>
+                            	</div>
+                        	</div>
+                        </div>
+				<!-- For Desktop -->
+<div class="desktop-prikaz">
+    <ins data-revive-zoneid="85" data-revive-ct0="{clickurl_enc}" data-revive-id="99bd19a24a3dd7bb6f8b5a3422f0055c"></ins>
+</div>
+
+<!-- For Mobile -->
+<div class="mobile-prikaz">
+    <ins data-revive-zoneid="86" data-revive-ct0="{clickurl_enc}" data-revive-id="99bd19a24a3dd7bb6f8b5a3422f0055c"></ins>
+</div>
+                    </div>
+                </div>
+                <!-- <div class="row historic">
+                    <div class="col-12">
+                        <h2>Mari Diputer</h2>
+                        <div class="row" id="historicSong">
+                            <article class="col-12 col-md-6">
+                                <div class="cover-historic"></div>
+                                <div class="music-info">
+                                    <div class="song">...</div>
+                                    <div class="artist">...</div>
+                                </div>
+                            </article>
+                            <article class="col-12 col-md-6">
+                                <div class="cover-historic"></div>
+                                <div class="music-info">
+                                    <div class="song">...</div>
+                                    <div class="artist">...</div>
+                                </div>
+                            </article>
+                        </div>
+                    </div>
+                </div> -->
+        	</div>
+    </section>
+    </main>
+    <div class="modal fade" id="modalLyrics" tabindex="-1" role="dialog" aria-labelledby="lyricsSong" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="lyricsSong">Lyrics</h5>
+                    <button type="button" style="color: #fff" class="close" data-dismiss="modal" aria-label="Fechar">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                
+                <div class="modal-body" id="lyric"></div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-success" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <!-- <script type="text/javascript" src="config.js"></script> -->
+    <script type="text/javascript" src="js/zeno.js"></script> 
+    <small style="bottom: 8px;font-size: 8px;position: fixed;right: 8px;text-shadow: 0px 0px 4px rgba(0, 0, 0, 1);z-index: 1004;"><b><a style="color:#fff;text-decoration: none;" target="_blank" href="https://mbahnunungonline.net/live" title="Internet Radio Streaming">NNG.NET</a></b></small>
+</body>
+</html>
