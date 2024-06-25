@@ -56,7 +56,7 @@ body {
 .cover-album {
     max-width: 80%;
     margin: auto;
-    background: url('https://live.staticflickr.com/65535/53815134475_ab557c3fdd_z.jpg') no-repeat;
+    background: url('https://warningfm.github.io/v3/img/cover-album.jpg') no-repeat;
     background-size: cover;
     border: 1px solid #ff0000;
     border-radius: 10px;
