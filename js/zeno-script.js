@@ -80,7 +80,7 @@ function Page() {
         const Commercial_Break = 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNlQzYXN6mMuI8UeFfcnVcUIjlmK3EiZLaSP2meD4juWjw_EnhNU6UWDe6At5SfIbJH1Y05Aw_szYgC-dC1j34NsXfwJbutuwD9fMiDBFQdD-Dgqt0y8-Y4tZYPbYrGpRMfRiJPdNrns13ZJQWrOjwL6w-sSw-RNL5jzuzyzUVlB1eV0KtK0LArE6zQZUE/s1600/commercialbreak.jpg';
         const JINGLESETELAHIKLAN = 'https://live.staticflickr.com/65535/53804698952_be7cefe6cd_z.jpg';
         const TS = 'https://live.staticflickr.com/65535/53806077625_4cd26b7cf5_z.jpg';
-        const BintangTenggara = 'https://warningfm.github.io/v3/img/oXLS6e6.png';
+        const BintangTenggara = 'https://live.staticflickr.com/65535/53814602113_1d6f860c6b_w.jpg';
         const Dengarkami = 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlls9ueREHov52cYP-e_IdSZQUkEoem-OvCVKRNUFrJCpYyUKJGu_N9MZDJn9e3Z-HfsiNht3hZMo2wcrUAjAp4xDM7vrzcThpB-dSXEENtAbCGjPyahpmgumJYmvLIfgFl_rOd7E4h6S2DeUdRk4GAgsG5eUY6zqKQ6_87g03kwxkISbbfkNWFEeA8zMn/s1600/4xVgaxB.jpeg';
         const JINGLE = 'https://live.staticflickr.com/65535/53809988652_4b13186277_z.jpg';
         const TANDAWAKTUSHOLATDHUHUR = 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2F9RU0k7w_EWKjhsDP-YJAfCnFxFzW21G8mqmiSDSf-J5ocGv4yOjb5nuGFhlJW9iBAPWgjEn4jhr-bt-CK84RGFtJf6JneNMZgpbYV1Mi-mwbr7rzeu77mm-MqL7rbk_8O5sduTnGPdMj000VGVCbGc_gR1IgAr6-FrDcXpg-vun-lebVxtLEnuGAwUz/s1600/m2iqnIm.jpg';
