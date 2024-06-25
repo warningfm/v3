@@ -54,7 +54,8 @@ body {
 }
 
 .cover-album {
-    max-width: 80%;
+    max-width: 270px;
+    max-height: 270px;
     margin: auto;
     background: url('https://warningfm.github.io/v3/img/cover-album.jpg') no-repeat;
     background-size: cover;
@@ -331,12 +332,12 @@ input[type=range]::-ms-thumb {
 
     .cover-album {
         margin: 10px auto;
-        min-width: 270px;
-        height: 270px;
+        min-width: 250px;
+        height: 250px;
     }
 
     .logo img {
-        max-width: 200px;
+        max-width: 280px;
         margin: 65px 0;
     }
 
