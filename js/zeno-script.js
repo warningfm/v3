@@ -77,7 +77,7 @@ function Page() {
 
     this.refreshCover = function (song = '', artist) {
         const Commercial_Break = "https://live.staticflickr.com/65535/53805955404_bc1c26a8c8_z.jpg";
-        const Bintang_Tenggara = 'https://bintangtenggara.github.io/v2/img/f69c7be1aa497aaa87f40d2306c4b3577.png';
+        const Bintang_Tenggara = 'https://cdn-profiles.tunein.com/s162395/images/logod.png?t=638531136760000000';
         const JINGLESETELAHIKLAN = 'https://live.staticflickr.com/65535/53809988652_4b13186277_z.jpg';
         const TS = 'https://live.staticflickr.com/65535/53806077625_4cd26b7cf5_z.jpg';
         const Dengarkami = 'https://live.staticflickr.com/65535/53813054961_c1727b86fd.jpg';
