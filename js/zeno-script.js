@@ -12,16 +12,16 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 const RADIO_NAME = 'Radio Bintang Tenggara';
 
-// Change Stream URL Here, Supports, ZENO
+// Change Zeno Stream URL Here
 const URL_STREAMING = 'https://stream.zeno.fm/r4mpcrfwfzzuv';
 
-// Api URL
+// Change API URL Here
 const url = 'https://api.zeno.fm/mounts/metadata/subscribe/r4mpcrfwfzzuv';
 
 // Visit https://api.vagalume.com.br/docs/ to get your API key
 const API_KEY = "18fe07917957c289983464588aabddfb";
 
-// DEFAULT COVER
+// Change DEFAULT COVER
 const DEFAULT_COVER_ART = 'https://live.staticflickr.com/65535/53809785869_df111d3007_n.jpg';
 
 // Variable to control history display: true = display / false = hides
