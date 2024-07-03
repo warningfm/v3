@@ -1,11 +1,17 @@
 @charset 'utf-8';
 @import url('https://fonts.googleapis.com/css?family=Share:400i,700i');
-
 @import url('bootstrap.min.css');
 
+html, body {
+    height: 100%;
+}
 
-
-
+body {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    overflow-x: hidden;
+}
 
 /* BLUR BACKGROUND */
 
@@ -49,7 +55,7 @@
     min-width: 100%;
     min-height: 100%;
     position: relative;
-     background-color: rgba(0,0,0,0.0);
+    background-color: rgba(0,0,0,0.0);
     z-index: 2;
 }
 .web-player {
