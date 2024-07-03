@@ -84,7 +84,7 @@ class Page {
         const $historicDiv = document.querySelectorAll('#historicSong article');
         const $songName = document.querySelectorAll('#historicSong article .music-info .song');
         const $artistName = document.querySelectorAll('#historicSong article .music-info .artist');
-        const defaultCoverArt = 'img/cover.png';
+        const defaultCoverArt = 'https://cdn.bintangtenggarafm.com/img/rbt-cover.png';
 
         if (!$historicDiv[n] || !$songName[n] || !$artistName[n]) {
             console.warn("Elementos de histórico não encontrados para o índice:", n);
@@ -120,13 +120,13 @@ class Page {
     }
 
     refreshCover(song = '', artist) {
-        const defaultCoverArt = 'img/cover.png'; 
+        const defaultCoverArt = 'https://cdn.bintangtenggarafm.com/img/rbt-cover.png'; 
         
         const coverArt = document.getElementById('currentCoverArt');
         const coverBackground = document.getElementById('bgCover');
 
         if (!coverArt || !coverBackground) {
-            console.warn("Elementos de capa não encontrados.");
+            console.warn("Cover elements not found.");
             return;
         }
 
@@ -160,7 +160,7 @@ class Page {
                     });
                 }
             })
-            .catch(error => console.error('Erro ao buscar dados do iTunes:', error));
+            .catch(error => console.error('Error fetching data from iTunes:', error));
     }
 
     changeVolumeIndicator(volume) {
@@ -245,7 +245,7 @@ function getStreamingData() {
                 }
             }
         })
-        .catch(error => console.error('Erro ao obter dados de streaming:', error));
+        .catch(error => console.error('Error getting streaming data:', error));
 }
 
 
@@ -264,7 +264,7 @@ class Player {
 
     play() {
         audio.play();
-        togglePlay(); // Atualiza o botão
+        togglePlay(); // Update button
     }
 
     pause() {
