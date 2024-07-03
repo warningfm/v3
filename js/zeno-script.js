@@ -123,7 +123,7 @@ function Page() {
         const Power_Slaves = 'https://i.scdn.co/image/ab67616d0000b2733fd1e0089d0b10e143ea976f'; 
         const Second_Civil = 'https://i.scdn.co/image/ab67616d0000b2732f75cb4fe81408c68d9e847d'; 
         const Ismi_Azis = 'https://i.scdn.co/image/ab67616d0000b273835d5ee8832686e418f78e4f'; 
-        const IKLAN = 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_jT-59DMrZxG0adpN-g_aRyaQerImHeqMBjPktsug-BeevbsqQNNZY-yhmwamvEOeFw43R0-BUtdmXxrDZTsCYziDeOvKxne968l9N0ECtpvRxPVReHMHa89oewr-Ac2YBcJfKrNX09gKmOW20NOISglFsV38c44TREtSEzK1p221sY8DNtu6R0HXX7OA/s1600/500x500iklan.jpg';
+        const IKLAN = 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3kvdmC7dAKO4NEBIHYqzIVCpCUjPipqTOwGJ-PZceBRYHQIhRI61imk6t2QXqJBBRsI4MYazWX1ecCGLery0jUwK9fkPpv7YQHKvE1W4OzRqHpal3VMsAvwl1pwYx28_-wP1KS9nq2EaR2E2qv3hw0k_mbfo9FagXNwhYNaOmZGRreSQwn2XsZ4FCyiw_/s1600/1200x1200iklan.jpg';
 
         if (artist == 'Commercial Break') {var urlCoverArt = Commercial_Break;}
             else if (artist == 'Bintang Tenggara') {var urlCoverArt = Bintang_Tenggara;}
