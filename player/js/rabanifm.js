@@ -27,8 +27,8 @@ const RADIO_NAME = "RBT FM";
 // Change Stream URL Here
 const URL_STREAMING = "https://stream.zeno.fm/r4mpcrfwfzzuv";
 
-//API URL /
-const API_URL = 'https://twj.es/radio_info/?radio_url=' + encodeURIComponent(URL_STREAMING);
+// API URL
+const API_URL = 'https://twj.es/radio_info/?radio_url='+URL_STREAMING
 
 // Visit https://api.vagalume.com.br/docs/ to get your API key
 const API_KEY = "18fe07917957c289983464588aabddfb";
