@@ -367,10 +367,10 @@ input[type=range]::-ms-thumb {
         margin-top: 0;
     }
 
-    .cover-album {
+   .cover-album {
         margin: 10px auto;
-        min-width: 320px;
-        height: 320px;
+        min-width: 250px;
+        height: 250px;
     }
 
     .logo img {
