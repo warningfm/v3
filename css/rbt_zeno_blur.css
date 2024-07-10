@@ -272,7 +272,6 @@ input[type=range]::-ms-thumb {
     cursor: pointer;
 }
 
-
 .historic h2 {
     color: #0000FF;
     border-bottom: 2px solid #F5F5F5;
@@ -283,7 +282,6 @@ input[type=range]::-ms-thumb {
     text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5);
     
 }
-
 
 /* BACKGROUND AREA PLAYED SONGS */
 
@@ -314,7 +312,6 @@ input[type=range]::-ms-thumb {
     font-family: 'Poppins', sans-serif;
     text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5);
 }
-
 
 /* SONG TEXT COLOR */
 
@@ -374,7 +371,7 @@ input[type=range]::-ms-thumb {
     }
 
     .logo img {
-        max-width: 300px;
+        max-width: 280px;
         margin: 65px 0;
     }
 
