@@ -264,7 +264,7 @@
                             var z = "",
                                 m = "";
                             1 == v.results.length ? (z = v.results[0].artworkUrl100,
-                                z = z.replace("100x100bb", "600x600bb"), w("COVER: " + z), "" != mb && (m = v.results[0].trackViewUrl + "&app=itunes&at=" + mb), R(z, m)) : R(ra, "")
+                                z = z.replace("100x100bb", "640x640bb"), w("COVER: " + z), "" != mb && (m = v.results[0].trackViewUrl + "&app=itunes&at=" + mb), R(z, m)) : R(ra, "")
                         } catch (l) {
                             R(ra, "")
                         }
