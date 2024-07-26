@@ -124,7 +124,7 @@ function Page() {
         const Second_Civil = 'https://i.scdn.co/image/ab67616d0000b2732f75cb4fe81408c68d9e847d'; 
         const Ismi_Azis = 'https://i.scdn.co/image/ab67616d0000b273835d5ee8832686e418f78e4f'; 
         const IKLAN = 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3kvdmC7dAKO4NEBIHYqzIVCpCUjPipqTOwGJ-PZceBRYHQIhRI61imk6t2QXqJBBRsI4MYazWX1ecCGLery0jUwK9fkPpv7YQHKvE1W4OzRqHpal3VMsAvwl1pwYx28_-wP1KS9nq2EaR2E2qv3hw0k_mbfo9FagXNwhYNaOmZGRreSQwn2XsZ4FCyiw_/s1600/1200x1200iklan.jpg';
-        const  Lyla_Band = 'https://cdn0-production-images-kly.akamaized.net/8eYzXRxRoDQOuTqRAM-O33iUan8=/500x667/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3513932/original/053454300_1626578795-Lyla2.jpg';
+        const Lyla_Band = 'https://cdn0-production-images-kly.akamaized.net/8eYzXRxRoDQOuTqRAM-O33iUan8=/500x667/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3513932/original/053454300_1626578795-Lyla2.jpg';
 
         if (artist == 'Commercial Break') {var urlCoverArt = Commercial_Break;}
             else if (artist == 'Bintang Tenggara') {var urlCoverArt = Bintang_Tenggara;}
