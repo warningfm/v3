@@ -173,7 +173,7 @@ function Page() {
             else if (artist == 'Second Civil') {var urlCoverArt = Second_Civil;}
             else if (artist == 'Ismi Azis') {var urlCoverArt = Ismi_Azis;}
             else if (artist == 'IKLAN') {var urlCoverArt = IKLAN;}
-            else if (artist == 'Lyla Band') {var urlCoverArt =  Lyla_Band;}
+            else if (artist == 'Lyla Band') {var urlCoverArt = Lyla_Band;}
         else {var urlCoverArt = DEFAULT_COVER_ART;}
 
         var xhttp = new XMLHttpRequest();
