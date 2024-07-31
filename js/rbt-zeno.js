@@ -19,10 +19,10 @@ var API_SERVICE = 'spotify';
 const DEFAULT_COVER_ART = 'https://cdn4.mbahnunungonline.net/img/noCover.png';
 
 // Change Stream URL Here, Supports, ZENO
-const URL_STREAMING = 'https://stream.zeno.fm/skk0a2d6sd0uv';
+const URL_STREAMING = 'https://stream.zeno.fm/r4mpcrfwfzzuv';
 
 // Api URL
-const url = 'https://api.zeno.fm/mounts/metadata/subscribe/skk0a2d6sd0uv';
+const url = 'https://api.zeno.fm/mounts/metadata/subscribe/r4mpcrfwfzzuv';
 
 // Visit https://api.vagalume.com.br/docs/ to get your API key
 const API_KEY = "18fe07917957c289983464588aabddfb";
