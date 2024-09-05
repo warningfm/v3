@@ -81,7 +81,7 @@ function Page() {
         const JINGLESETELAHIKLAN = 'https://live.staticflickr.com/65535/53804698952_be7cefe6cd_z.jpg';
         const TS = 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu5GlUhLfq46cQDunTm2S2us2yYjEZ6lGY-nBs2nmwbCxO_3YHalyl0t772xf66ZYQoi4OdSZbknJUl5wvAaM-c45HmJcpnScwsfYD_sd4IVWTYkc-V6qqKGk3DVooBBASOcqpCdQa2fENlWh4vHr4DkKlxn7MnKj3PB_An7HavfcW_NqtZO-yPBKce-oq/s1600/TimeSignal.jpg';
         const Dengarkami = 'https://live.staticflickr.com/65535/53972769374_6850dd307a_b.jpg';
-        const JINGLE = 'https://live.staticflickr.com/65535/53809988652_4b13186277_z.jpg';
+        const JINGLE = 'https://live.staticflickr.com/65535/53972560837_ea09aaf6f2_b.jpg';
         const TANDAWAKTUSHOLATDHUHUR = 'https://live.staticflickr.com/65535/53815587960_2ded7e8990_z.jpg';
         const ASHAR = 'https://live.staticflickr.com/65535/53808429057_45e11e4986_z.jpg';
         const ADZANMAGHRIB = 'https://i.scdn.co/image/ab67616d0000b273f9fc89132411c52d8c6bc537';
