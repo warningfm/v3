@@ -79,9 +79,9 @@ function Page() {
     }
 
   this.refreshCover = function (song = '', artist) {
-            // Imagem padrÃƒÆ’Ã‚Â£o definida apenas uma vez
+            // Default image is set only once
             const defaultCoverArt = DEFAULT_COVER_ART;
-            let urlCoverArt = defaultCoverArt; // ComeÃƒÆ’Ã‚Â§a com a imagem padrÃƒÆ’Ã‚Â£o
+            let urlCoverArt = defaultCoverArt; // Start with the default image
           
             var xhttp = new XMLHttpRequest();
     xhttp.onreadystatechange = function () {
