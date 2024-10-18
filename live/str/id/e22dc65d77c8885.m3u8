@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=822629,FRAME-RATE=25.000,CODECS="avc1.66.30,mp4a.40.2",RESOLUTION=490x360
+https://alfa.kugosky.tv/playout/maleo.stream/chunklist.m3u8
