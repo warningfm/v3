@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1200567,FRAME-RATE=25.000,RESOLUTION=854x480
+http://op-group1-swiftservesd-1.dens.tv/s/s20/02.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=CGTN_Documentary
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500567,FRAME-RATE=25.000,RESOLUTION=960x540
+http://op-group1-swiftservesd-1.dens.tv/s/s20/01.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=CGTN_Documentary
