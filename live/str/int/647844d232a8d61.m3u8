@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=670037,FRAME-RATE=25.000,RESOLUTION=320x240
+http://edge.linknetott.swiftserve.com/channelgroup4/cg430production/ch355/01.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1100567,FRAME-RATE=25.000,RESOLUTION=854x480
+http://edge.linknetott.swiftserve.com/channelgroup4/cg430production/ch355/02.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1300567,FRAME-RATE=25.000,RESOLUTION=960x540
+http://edge.linknetott.swiftserve.com/channelgroup4/cg430production/ch355/03.m3u8
