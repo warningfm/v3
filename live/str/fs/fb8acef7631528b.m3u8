@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:4
+#EXT-X-STREAM-INF:BANDWIDTH=2800000,FRAME-RATE=25.000,NAME="720p"
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1400000,FRAME-RATE=25.000,NAME="480p"
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/chunklist_b1400000_t64NDgwcA==.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=900000,FRAME-RATE=25.000,NAME="360p"
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/chunklist_b900000_t64MzYwcA==.m3u8
