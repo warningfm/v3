@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTINF:10.000000,
+http://cdn.nng.cloudns.us/video/ntsc/ntscpal_hls_avc1.64001E_0.ts
+#EXTINF:10.000000,
+http://cdn.nng.cloudns.us/video/ntsc/ntscpal_hls_avc1.64001E_1.ts
+#EXTINF:10.000000,
+http://cdn.nng.cloudns.us/video/ntsc/ntscpal_hls_avc1.64001E_2.ts
+#EXTINF:10.000000,
+http://cdn.nng.cloudns.us/video/ntsc/ntscpal_hls_avc1.64001E_3.ts
+#EXTINF:10.000000,
+http://cdn.nng.cloudns.us/video/ntsc/ntscpal_hls_avc1.64001E_4.ts
+#EXTINF:10.000000,
+http://cdn.nng.cloudns.us/video/ntsc/ntscpal_hls_avc1.64001E_5.ts
+#EXT-X-ENDLIST
