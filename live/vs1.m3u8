@@ -26,7 +26,7 @@ https://beetv.my.id/stream/vd.m3u8?ch=sctv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/cAvYUMa.png?v=1.1.1.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/U5JFSGW.png?v=1.0.0.1" ch-number="3" tvg-id="MNCTV.id" tvg-name="MNCTV HD", MNCTV
 #https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=mnctv
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=10
@@ -210,10 +210,11 @@ http://khano.nng.cloudns.us/live/m3u8/id/383fb71f4a76ab2.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/bKLoSVx.png?v=1.1.1.1" group-title="Local" group-logo="https://warningfm.github.io/v3/img/vOExED2.png?v=1.1.1.1" tvg-id="JTV.id" tvg-name="JTV.id", JTV
 http://khano.nng.cloudns.us/live/m3u8/id/226fe77699e03c6.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fee85fded8ea4591b643468412bee3be:7e364f3ffd09c7b51c8d81430819177f
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/NVODNmw.png?v=1.0.0.1" group-title="Local" group-logo="https://warningfm.github.io/v3/img/vOExED2.png?v=1.1.1.1" tvg-id="JAKTV.id" tvg-name="JAKTV.id", JAKTV
-http://khano.nng.cloudns.us/live/m3u8/id/a6e7e966ea54cd3.m3u8
+https://atemecdnbalancer-voe.sysln.id/live/eds/JAKTV/mediampd/JAKTV.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1491,7 +1492,7 @@ https://cdnbal1.indihometv.com/atm/DASH/indosiar/manifest.mpd
 http://cdn.nng.cloudns.us/live/m3u8/id/d4ff175b1e2d419.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/UqGSTVT.png?v=1.0.0.1" group-title="Dens.tv" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" tvg-id="tvOne" tvg-name="tvOne", TVONE
 http://cdn.nng.cloudns.us/live/m3u8/id/0976f879a0c4548.m3u8
 
@@ -1501,19 +1502,23 @@ http://cdn.nng.cloudns.us/live/m3u8/id/0976f879a0c4548.m3u8
 http://cdn.nng.cloudns.us/live/m3u8/id/270f72deeb5843f.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/3HN0wFp.png?v=1.0.0.1" group-title="Dens.tv" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" ch-number="" tvg-id="MDTV.id" tvg-name="MDTV", MDTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/3HN0wFp.png?v=1.0.0.1" group-title="Dens.tv" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" ch-number="" tvg-id="MDTV.id" tvg-name="MDTV", MDTV
 http://cdn.nng.cloudns.us/live/m3u8/id/6cdb3402d11f58d.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Dksg1b8.png?v=1.0.0.1" group-title="Dens.tv" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" tvg-id="KompasTV.id" tvg-name="Kompas TV", Kompas TV
 http://cdn.nng.cloudns.us/live/m3u8/id/ae5f9d6bcd610b6.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/cjgZtZy.png?v=1.0.0.1" group-title="Dens.tv" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" tvg-id="MetroTV.my.id" tvg-name="Metro TV HD", Metro TV HD
 http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccc.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/4AsK6aP.png?v=1.1.1.1" group-title="Dens.tv" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" tvg-id="RTV.id" tvg-name="RTV.id", RTV
+http://khano.nng.cloudns.us/live/m3u8/id/590642f0a31efa5.m3u8
 
 ########################################################                                ########################################################
 ########################################################           indihometv           ########################################################
@@ -1572,8 +1577,8 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-origin=https://www.rctiplus.com/
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=rcti
-#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+#https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=rcti
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 #EXTINF:-1 group-title="RCTI+" group-logo="https://i.imgur.com/e3fM32C.png?v=1.0.0.1" tvg-id="MNCTV.id" tvg-logo="https://i.imgur.com/cAvYUMa.png", MNCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
@@ -1590,7 +1595,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 #EXTINF:-1 group-title="RCTI+" group-logo="https://iili.io/3gTe522.png?v=1.0.0.1" tvg-id="iNews.id" tvg-logo="https://i.imgur.com/M7OFrvF.png", iNews
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=inews
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 #https://inews-cutv.rctiplus.id/inews-sdi.m3u8
 
 ########################################################               Radio             ########################################################
