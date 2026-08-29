@@ -64,15 +64,13 @@ http://cdn.nng.cloudns.us/live/m3u8/id/0976f879a0c4548.m3u8
 
 =====================================================================================================================
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9zisldMxUezgyWGfUxu-SyLlJ2Zzy-3yfjjR-wey8f6OpSEm3CpzDAYEN5D01CRoWDdOaMv_kbyF86GkezXNiyALRIoLy3lEb5DCDqmFfXm6JzkcVQL54yPmmAEIFNwc4S5JZAcE9yN16GUISfWK_NR0T2CD2YqR348zbyn8c-CjAMev2i1hvHWcsY5g/s1600/0T5hxls.png?v=1.0.0.1" group-title="🇮🇩 tvN150N" ch-number="11" group-logo="https://iili.io/3v1Tx3l.png?v=1.0.0.1" tvg-id="YRF.Music.distro" tvg-name="YRF Music", YRF Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d2b87b73266741bc9e82b6296f732cd6:acc999bccde4bcdb93a00c5058a2def5
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg1Li8EyKBY5ooLft3mEaM4KlVb6JOc46nsZ30k9gyl7vH_BL7UFnfLnGGgM4vib9tACMwxG_VB7gRXPkNquybTNGHm62KIrQ6LrHuAwSb_MCs_4Fu62lwrj2jKQz-isZBfVL55Hbr9vnQMYZs1l_1zroWY_4g9Lm4RnRmXuyW8wcemDl9bsNLlsskBQqV/s1600/egPVmpw.pn?v=1.1.1.1" group-title="🇮🇩 tvN150N" ch-number="12" tvg-id="AlQuranKareem.id" tvg-name="Saudi Quran.sa", AlQuran Kareem
-https://atemecdnbalancer-voe.sysln.id/live/eds/ALQuranAlKareem/mediampd/ALQuranAlKareem.mpd
+https://gist.githubusercontent.com/warningfm/b04ba9b82d3b32b0929262e9daad5d11/raw/42482a972678b42f2802157785d20d6e56592aa1/f74b5dff8b8e6c6.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=44a4c73921ea4f5f90eaaaf793d3f7cf:3be319093fec8a409fe0553128089671
@@ -80,24 +78,24 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/ALQuranAlKareem/mediampd/ALQuranA
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjr8dD8DJ7JUMhC3yfvJk60bMHDV7bIJkahc5-_xfdGUQYpieIOWxnXDeBOVq1iBxdzidupJ16ttPhurp-feZ3DiQ8Zb-BPfF58k6jQTUDTEEHgBqChQb2ItjawrJ_L8_gKbBNzdASPNoOTe-TJYX730Uzd3R6rzkFyq4FlQA9HOZNeDcdZNxE131JiDa0w/s1600/grpfooi.png?v=1.0.0.1" group-title="🇮🇩 tvN150N" ch-number="13" tvg-id="Citra.Dangdut.id" tvg-name="Citra Dangdut", Citra Dangdut
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mediampd/CitraDangdutHD.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvS_By90P9a1uqwkzGomUit9-lSCzmhiG7JgVhesXRgA_u3NFimPtDYexKF_EkkRT8XUfBEhn7-cwP6EMFe5yZqGZegN8ebYuCTTKS28vXjplbyKgvwgzwrx2yz2XrZDzF2f2CwdRaO_QUAPjb3w6K4AYSoqG-FC6hEmWkfnCeV_TxSgt1aYTdaBNsTIzm/s1600/R3BrQZs.png?v=1.1.1.1" group-title="🇮🇩 tvN150N" tvg-id="101" tvg-name="Preview Channel", Music Information Channel
 http://cdn.nng.cloudns.us/live/m3u8/id/0c913970f4e0137.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuMEklQkiQDB39xIv_5OgEXqyN40TuZ3agjuA3W7C9kXSjpJaaP4rj-pkELF6QT36CA6TvE9dt5xdNlmUjGyfT51TkZK_3EGq6kFoQ4DgQmo7F07ydccAwS6tBQabkbYwW61mZKzDk2bECPePzp90cr7hda1qeQaKynNuLjD8nz8ykrW4OqudfxkDTM8lZ/s1600/tQ6itG9.png?v=1.1.1.1" group-title="🇮🇩 tvN150N" ch-number="14" tvg-id="Nusantara.TV.id" tvg-name="Nusantara TV", Nusantara TV
 http://cdn.nng.cloudns.us/live/m3u8/id/378a642ff00fed8.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgONGmfuRgpRPJLdwPt8tNSe3ccL9NcIIMlAxVIrHnc97b-GzAfGeFcm_l2Fjc8HbNRCz2RWkT4jK8T6M8z-OWWDfmozOi2UJnJ_nLE9j5Ty7sC9KyUc6O6qyTnI0GHAuX2dCdRLeqcriTFIDbbMQTY8A6iAy7GOo7Ah7yihyiaj5jTZq8U5sfy3ZjVXeeH/s1600/5aNYcSQ.png?v=1.1.1.1" group-title="🇮🇩 tvN150N" ch-number="15" tvg-id="RTV.my.id" tvg-name="RTV HD", RTV HD
 http://cdn.nng.cloudns.us/live/m3u8/id/590642f0a31efa4.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_rLZlhYj_W1mUvLUOojvd0NVu_VcYfMsQxLCajk8jp5QT4XM-RPEjBzl9mdyt0JEs7t22YmEGqrtfLLgLFHnOtv_ZfobKZj8tJeyjEiE6ZDR8DKOXMpWHW302bZVSmXu-ljk-B7pAE01goc_sdiE8Vtk2GnVaIjSkEd43hTpc2i9yFh4hMHLBwUN_pGxH/s1600/WaFICZ4.png?v=1.0.0.1" group-title="🇮🇩 tvN150N" ch-number="16" tvg-id="MDTV.my.id" tvg-name="MDTV HD", MDTV HD
 http://cdn.nng.cloudns.us/live/m3u8/id/6cdb3402d11f58c.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL2b3mw4KzqzlLCqqxYmOjpPUz4DaOxoCcJbvJQyPV_7J9GsCUFpg8guiskCZWx5JKDRk6P9C5AbZK-9376JxyKHNwQX7C1t_BUPeAuzgPxaFQNKgtnL7KAwtgNfDOpPiM7240ESNYuoo5S4Sn8mHZ90g9C8Pg_NvHezCRTmJKECngPvDS7YlJN7mPZRAe/s1600/9lJJAEK.png?v=1.1.1.1" group-title="🇮🇩 tvN150N" ch-number="17" tvg-id="Kompas.TV.id" tvg-name="Kompas TV", Kompas TV
 http://khano.nng.cloudns.us/live/m3u8/id/ae5f9d6bcd610b6.m3u8
 
@@ -107,32 +105,36 @@ http://khano.nng.cloudns.us/live/m3u8/id/ae5f9d6bcd610b6.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGkg5BupDT0x1fz1QC4a2oWeMERRFSrBsJUZUslL6TcZnng63QH-dcTigEpv-74d87EaAPJ-EZXeARQyOZVKoV0fMOmbh_MbIZg7DKeg4Y3yFrqR21Wu0XQ9gc2J6YTbOkPgadXwGhpwCboYvZUGAPxPdx4M9m4O8ZhqOBWEka5wluFyM3UJgR5npVjMpE/s1600/M7OFrvF.png?v=1.0.0.1" group-title="🇮🇩 tvN150N" ch-number="18" tvg-id="iNews.HD.id" tvg-name="iNews HD", iNews HD
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd|Referer=https://www.visionplus.id
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizEJkldX8F1jaH4rEB_cHGQl5EW489zzfnzOmtxb5N3YdzSMTw-GRJcX2v2aDzHQCnz5ShJMg8Q6LdQIwYHNOi42jXfLGrnF4ccVtpW3ANRV3yjyi5M3IWZiP316FwvAQvkBJPT0TiVKjVcwvGrESUmqjZx5J_KgzpMMWc88AWDqXNLLLvs-AkA0qCx2wB/s1600/Ax67v0u.png?v=1.0.0.1" group-title="🇮🇩 tvN150N" ch-number="19" tvg-id="TVRI.id" tvg-name="TVRI Nasional.id", TVRI Nasional HD
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinikpkqeyf9jMRcOU3_8r-H3Kku2R0KvqScHWbsP3t7k_JRGXACBooHln7v6s5OZX2xEc6blCE__lANpmlKTr82pFYP-CeSGqz844LrJzNR8Shn_K-m7CKI0p-uE3zO3RNurNQRarBOm37tvLFaNKRkvzlPNk8ixbtEnsmkm8BQ7T-mrHB3zmm6hwwCJY/s1600/HM01rkg.png?v=1.0.0.1" group-title="🇮🇩 tvN150N" ch-number="20" tvg-id="GarudaTV.id" tvg-name="Garuda TV.id", Garuda TV
 http://cdn.nng.cloudns.us/live/m3u8/id/b825800cf4d3aaa.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTVLCOPT:http-referrer=https://www.cnnindonesia.com/
+#EXTVLCOPT:http-origin=https://www.cnnindonesia.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN4IkLVkmx5kIH6ifu9-ObVzmV2zxH5WnQ_jZRWyBEh191BshfJVr5I1ib7xizajJxPyaEv70_RtoDivyQZb1HDcdkSgJaHH30AHSvm06xD3iD__WOf55i0FrOFVFu1dTWVI3U8Kht3raqvJRi-EkqVcEzqODjBDfy0E6G_6nmJw1uXW8qhMRNFmYbqSOd/s1600/h6qDBhV.png?v=1.1.1.1" group-title="🇮🇩 tvN150N" ch-number="21" tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia", CNN Indonesia
 http://cdn.nng.cloudns.us/live/m3u8/id/d12f0b99ed1f070.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkvwD0o0xqekc-mYWJsVHjIoGrinrMkTkh74jDBHZ0B4im1xB8L4tNAe4I0SWjMR4MRDrnjYAIB9LlNEEFM_NWTIDLrgypeFE5sQRt5I5PcxVBQHNRUEVspcPjU5iJ0XOkZJySsx7-H2vgNWqPs2fFzgS02l40E3pLuX9bZEttRnx32CfI7taYc8zFv6dk/s1600/iKHK6tC.png?v=1.1.1.1" group-title="🇮🇩 tvN150N" ch-number="22" tvg-id="BTV.id" tvg-name="BTV.id", BTV
 http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843f.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTVLCOPT:http-referrer=https://www.cnbcindonesia.com/
+#EXTVLCOPT:http-origin=https://www.cnbcindonesia.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5VxB0YHbsiB0PbsyAtOGBAfWQxi5F0JyXsNtKsGahXuTEpbSCBXlip0tjQvEUpWnVSbnTdsIuolRTg4-b6SZCWfkXhUPzc5qXExwcNmj1EM4gSWhhdzabzCQ_PJOk9VsDYTG8Y0lSWgmawfQV1xE5mzyvphdWMIo3FZ0b6sjCoVU4mBuqvb16ZjEI2sYU/s1600/TJuL10B.png?v=1.0.0.1" group-title="🇮🇩 tvN150N" ch-number="" tvg-id="CNBCIndonesia.id" tvg-name="CNBC Indonesia", CNBC Indonesia
 http://cdn.nng.cloudns.us/live/m3u8/id/ef7e8c7bc86110e.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0f2PH3t1DPa5tDsXR1EI0Kv7NPoUTEdPN3rK-NB-iVIk5tU6Q3YqZhPOvz1IpeXTZ0agh2nBWWxiZIuhz7meCtwXsjjwVTv-prp5ORIWgzggiS4eMaPy4tUieLD4WuwclzRTCZi8twgwIi6TFSzus7WxAv_egBIaFgYopBjJyPlZ6eC-HKdmHvZVqbmuY/s1600/Si0yCff.png?v=1.1.1.1" group-title="🇮🇩 tvN150N" tvg-id="BeritaSatu.id" tvg-name="Berita Satu.id", BeritaSatu
 http://cdn.nng.cloudns.us/live/m3u8/id/270f72deeb5843g.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjP-b6QJTjTGo7o9ChVQpHVmH-yzgXknSlB-GTaqMu-0AgBmsCLTm96UeQTG9w0aGBZWK8bPQ3SWrt-oumcX2klDoN0sFtJXWt1KuMwPu2ARCf-LaE5SxfQPH8exSKyrfYWBqQEUd6td7TIyjDqVy7KD0SXe09Ba3ZAl3y01Mi7-f6fXIibjUa4zIKEun8a/s1600/lFAUBcK.png?v=1.0.0.1" group-title="🇮🇩 tvN150N" ch-number="" tvg-id="Moji.id" tvg-name="Moji.id", MOJI
 http://khano.nng.cloudns.us/live/m3u8/id/d4ff175b1e2d419.m3u8
 
@@ -143,7 +145,7 @@ http://khano.nng.cloudns.us/live/m3u8/id/d4ff175b1e2d419.m3u8
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1dNyib7dvOLQFw8_fnbP6DXjrNH03KkRzPdwk9yOttdV8G6tqcVO4jEjFF9IrYrjeRXxRVrSpYDU6ZNDfupzEkyxYzZf9STDokax0CCXl-y3FP1Zq_FWJGeslBHyjEAPrGrFAGOqmSHOTVlyqfkVC8Flsf_iWmQgyl8wfKGXuPdzz6_MAvoKLXKMRIyA/s1600/JxtgBmg.png?v=1.0.0.1" group-title="🇮🇩 tvN150N" group-logo="https://warningfm.github.io/v3/img/vOExED2.png?v=1.1.1.1" tvg-id="ChannelJowo.id" tvg-name="Channel Jowo", Channel Jowo
 http://khano.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8
 
@@ -153,23 +155,23 @@ http://khano.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk45Jtk73nZ9RdcI0uncoBsKN_M_6m6aIq7Eva3IU-4hJXQ1TGY1aMsOYoEUfLsegoCeKOXVzhaQluHSm1gap2yh1t6rJCS_-C7On7DrFnmsu1Qp0FTBP44zXx1grb39C_9A3qYGsySsV4fRQpBsv7d3-haBy72UCEARs6joI26nrY9fLml_O0UU8cLxI/s1600/4EIsS54.png?v=1.0.0.1" group-title="🇮🇩 tvN150N" tvg-id="HanacarakaTV.id" tvg-name="Hanacaraka TV", Hanacaraka TV
 https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd|Referer=https://www.visionplus.id
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmAcQg9xfUc_PzAdOg_1vY4rYGYfMNqPK8vfQ5iQUNzBCJkZVFa_y9TCqRGzilvPYYF9AAsf8u7pUIxq-WABmbU4CPPBOCdDwzW-bLM3E_6IB7UJurAy0k0FWStM1hyphenhyphenSHlLLioMqTjA2vF5XKrFP5tEJYx0i4DarvFXOXl_rWW6bgDXOwSBTYjgKvfPR_v/s1600/bKLoSVx.png?v=1.1.1.1" group-title="🇮🇩 tvN150N" tvg-id="JTV.id" tvg-name="JTV", JTV
 http://khano.nng.cloudns.us/live/m3u8/id/226fe77699e03c6.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkHUA00UPUEvhjhpT60jAHwsk91AWBJJqcub0JdLpnx5D5H-AG12rrRH2sbSXNZGOsJH2P1o_Bshyphenhyphenp_eX4ZjPUG2tQna_4L1ptxnkjrbFb1rIRTPOYnS_8xRuMwcMeaXJZq75jsShswlY7LUMKBjzlCJLED9ZJpgyA-TLRsX6rmlcmBcuvfJX7s9hK2cUo/s1600/ZpcePba.png?v=1.0.0.1" group-title="🇮🇩 tvN150N" tvg-id="MagnaChannel.id" tvg-name="Magna Channel", Magna Channel
 http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226cce.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoNkxlv35JmlMEzpz9dO96GW4JhpSih7w0M5VtE4v6oJ-k1FHNRprQG2KrQtFopsv7-1GqA9q5YO6KBOZrZv0phqgoXeU3QAWesHOQ6zU0OvSGuayc284LQtwwb0t2VnhyuTj-plic-7ansWhp0-Aw9942enEffc66DrI-cjvXZePVXyEgNzDrr7ogy5aH/s1600/Rla7xMR.png?v=1.0.0.1" group-title="🇮🇩 tvN150N" tvg-id="TV9Nusantara.id" tvg-name="TV9 Nusantara", TV9 Nusantara
 http://cdn.nng.cloudns.us/live/m3u8/id/ca07a749e91966b.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6-AEIEqwlKpyJlDz4FGDSvUBPF5p5JbEuse1pHCT5E8CNGEkcMku3A7v_fXIvGD21x62KKs_y6FrmU7jEmvcOiii7P7Z3iO530lX2Moa6v5AQbXILnv-0u3JI4GNpOAph3fGoFoAch5GQQiSBnTV1uqrTcuUjuCfxYl9sny_r0ZIgmIV1nrnBTocdOh4X/s1600/16J00Be.png?v=1.0.0.1" group-title="🇮🇩 tvN150N" tvg-id="TVMU.id" tvg-name="TVMU", TVMU
 http://cdn.nng.cloudns.us/live/m3u8/id/MQGHZhlYFicsYHQ.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwBOvbsJWvJoMMG2Skj87fBDlLqfpOokbIsW2uEPjKsgg0_qm-rxizRBs3KneTmQ-ERnPI6easxJVimwxsJJ9I7aetkL737e9dC33Uv7UHrlA__sF-NABWWOKy_KkPUtVo9Y7qkcssBJB80lMjlFue8UyJkZHmqTj_ZA8cjBJnZQfnVjvHfjmkf4aa4_E/s1600/cgO5MbX.png?v=1.1.1.1" group-title="🇮🇩 tvN150N" tvg-id="DMITV.id" tvg-name="DMI TV", DMI TV
 http://cdn.nng.cloudns.us/live/m3u8/id/0c9fd875599b836.m3u8
 
