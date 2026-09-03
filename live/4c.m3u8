@@ -11,13 +11,13 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/in
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=93d5b9f9d5d14f15b1ba9582f332d1fc:116e4014a662fef4ea5d7671dd5120d8
 #EXTVLCOPT:http-user-agent=Vision+/11.3.7 (Linux; Android 14) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/HwXQJXW.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://iili.io/3kYNUns.png?v=1.0.0.1" ch-number="2" tvg-id="SCTV.my.id" tvg-name="SCTV HD", SCTV HD
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/HwXQJXW.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://iili.io/3kYNUns.png?v=1.0.0.1" ch-number="2" tvg-id="SCTV.id" tvg-name="SCTV", SCTV HD
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd|Referer=https://www.visionplus.id
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
 #EXTVLCOPT:http-user-agent=Vision+/11.3.7 (Linux; Android 14) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/cAvYUMa.png?v=1.1.1.1" group-title="🇮🇩 Nasional" group-logo="https://iili.io/3kYNUns.png?v=1.0.0.1" ch-number="3" tvg-id="MNCTV.HD.id" tvg-name="MNCTV HD", MNCTV HD
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/cAvYUMa.png?v=1.1.1.1" group-title="🇮🇩 Nasional" group-logo="https://iili.io/3kYNUns.png?v=1.0.0.1" ch-number="3" tvg-id="MNCTV.id" tvg-name="MNCTVD", MNCTV HD
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd|Referer=https://www.visionplus.id
 
 =====================================================================================================================
@@ -33,7 +33,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/ind
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ab1fe99e4e4f4cbe95930b3154c1fb19:c7f529deccbf6709e3e65c61c8d1344f
 #EXTVLCOPT:http-user-agent=Vision+/11.3.7 (Linux; Android 14) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/k3IqSHs.png?v=1.1.1.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/ePGe3Yp.png?v=1.0.0.1" ch-number="5" tvg-id="Indosiar.id" tvg-name="Indosiar.id", Indosiar HD
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/k3IqSHs.png?v=1.1.1.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/ePGe3Yp.png?v=1.0.0.1" ch-number="5" tvg-id="Indosiar.id" tvg-name="Indosiar.id", Indosiar
 https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd|Referer=https://www.visionplus.id
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -97,25 +97,25 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/in
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
 #EXTVLCOPT:http-user-agent=Vision+/11.3.7 (Linux; Android 14) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/M7OFrvF.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/U5JFSGW.png?v=1.0.0.1" ch-number="14" tvg-id="iNews.HD.id" tvg-name="iNews HD", iNews HD
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/M7OFrvF.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/U5JFSGW.png?v=1.0.0.1" ch-number="14" tvg-id="iNews.id" tvg-name="iNews", iNews HD
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/34d8dd29eb1d4eba931c7c5ab5f4be09/index.mpd|Referer=https://www.visionplus.id
 
 =====================================================================================================================
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Ax67v0u.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/U5JFSGW.png?v=1.0.0.1" ch-number="15" ch-number="15" tvg-id="TVRI.id" tvg-name="TVRI Nasional.id", TVRI Nasional HD
 http://khano.nng.cloudns.us/live/m3u8/id/3f58825fe229a9f.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/lFAUBcK.png?v=1.1.1.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/vOExED2.png?v=1.1.1.1" ch-number="16" tvg-id="Moji.id" tvg-name="Moji.id", MOJI
 http://khano.nng.cloudns.us/live/m3u8/id/d4ff175b1e2d419.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/SbbgZvA.png?v=1.1.1.1" group-title="🇮🇩 Nasional" group-logo="https://i.imgur.com/wAbsxFp.png?v=1.0.0.1" ch-number="17" ch-number="17" tvg-id="Garuda TV.id" tvg-name="Garuda TV.id", Garuda TV
 http://khano.nng.cloudns.us/live/m3u8/id/b825800cf4d3aaa.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/tQ6itG9.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://iili.io/3kaFP19.png?v=1.0.0.1" ch-number="18" tvg-id="Nusantara TV.id" tvg-name="Nusantara TV.id", Nusantara TV
 http://khano.nng.cloudns.us/live/m3u8/id/378a642ff00fed8.m3u8
 
@@ -131,36 +131,36 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/ind
 
 #EXTVLCOPT:http-referrer=https://www.cnnindonesia.com/
 #EXTVLCOPT:http-origin=https://www.cnnindonesia.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/D5zoAFR.png?v=1.1.1.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/vOExED2.png?v=1.1.1.1" ch-number="20" tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia.id", CNN Indonesia
 http://khano.nng.cloudns.us/live/m3u8/id/d12f0b99ed1f070.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.cnbcindonesia.com/
 #EXTVLCOPT:http-origin=https://www.cnbcindonesia.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/jmrik3d.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/vOExED2.png?v=1.1.1.1" ch-number="21" tvg-id="CNBCIndonesia.id" tvg-name="CNBC Indonesia", CNBC Indonesia
 http://khano.nng.cloudns.us/live/m3u8/id/ef7e8c7bc86110e.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/iKHK6tC.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/vOExED2.png?v=1.1.1.1" ch-number="22" tvg-id="BTV.id" tvg-name="BTV.id", BTV
 http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843f.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/ZpcePba.png?v=1.1.1.1" group-title="🇮🇩 Nasional" group-logo="https://i.imgur.com/wAbsxFp.png?v=1.0.0.1" ch-number="23" tvg-id="Magna Channel.id" tvg-name="Magna Channel.id", Magna Channel
 http://khano.nng.cloudns.us/live/m3u8/id/6183ec225226cce.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Si0yCff.png?v=1.1.1.1" group-title="🇮🇩 Nasional" group-logo="https://i.imgur.com/wAbsxFp.png?v=1.0.0.1" ch-number="24" tvg-id="BeritaSatu.id" tvg-name="Berita Satu.id", BeritaSatu
 http://cdn.nng.cloudns.us/live/m3u8/id/270f72deeb5843g.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/g3hWHhA.png?v=1.1.1.1" group-title="🇮🇩 Nasional" group-logo="https://iili.io/3kaFP19.png?v=1.0.0.1" ch-number="25" tvg-id="TVRISport.id" tvg-name="TVRI Sport", TVRI Sport
 http://khano.nng.cloudns.us/live/m3u8/id/3f58825fe229a8h.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/BXSRduH.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://i.imgur.com/wAbsxFp.png?v=1.0.0.1" ch-number="26" tvg-id="TVRI World.in" tvg-name="TVRI World.in", TVRI World
 http://khano.nng.cloudns.us/live/m3u8/id/3f58825fe229a8i.m3u8
 
@@ -168,7 +168,7 @@ http://khano.nng.cloudns.us/live/m3u8/id/3f58825fe229a8i.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/H5CmoZv.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://iili.io/3kaFP19.png?v=1.0.0.1" ch-number="27" tvg-id="Local.Programming.Dummy.us" tvg-name="BN Channel", BN Channel
 http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/iBrOoMG.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/vOExED2.png?v=1.1.1.1" ch-number="28" tvg-id="JawaPosTV.id" tvg-name="Jawa Pos TV.id", Jawa Pos TV
 http://khano.nng.cloudns.us/live/m3u8/id/459caa984301138.m3u8
 
@@ -191,7 +191,7 @@ https://gist.githubusercontent.com/warningfm/960699fadc282ca5a3c8db270f086a11/ra
 https://d2tjypxxy769fn.cloudfront.net/out/v1/44a2d1ab71a740babb233cf14832c59d/index.mpd|Referer=https://www.visionplus.id
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/JxtgBmg.png?v=1.0.0.1" group-title="Local" group-logo="https://warningfm.github.io/v3/img/vOExED2.png?v=1.1.1.1" tvg-id="ChannelJowo.id" tvg-name="Channel Jowo.id", Channel Jowo
 http://khano.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8|user-agent=Mozilla/5.0
 
@@ -200,7 +200,7 @@ http://khano.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8|user-agent=Mozilla
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/1eaZ3bd.png?v=1.1.1.1" group-title="Local" group-logo="https://warningfm.github.io/v3/img/vOExED2.png?v=1.1.1.1" tvg-id="DAAITV.id" tvg-name="DAAI TV.id", DAAI TV
 http://khano.nng.cloudns.us/live/m3u8/id/0525ed2747e3162.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/9i6ufQh.png?v=1.0.0.1" group-title="Local" group-logo="https://warningfm.github.io/v3/img/vOExED2.png?v=1.1.1.1" tvg-id="ElshintaTV.id" tvg-name="Elshinta TV", Elshinta TV
 http://khano.nng.cloudns.us/live/m3u8/id/383fb71f4a76ab2.m3u8
 
@@ -219,33 +219,33 @@ http://khano.nng.cloudns.us/live/m3u8/id/a6e7e966ea54cd3.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/9sN7WXU.png?v=1.0.0.1" group-title="Local" group-logo="https://warningfm.github.io/v3/img/vOExED2.png?v=1.1.1.1" tvg-id="BandungTV.id" tvg-name="Bandung TV", Bandung TV
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f16b53f0d5ed459da208c459049c9bb0/index.mpd|Referer=https://www.visionplus.id
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/RFYcXrq.png?v=1.0.0.1" group-title="Local" group-logo="https://warningfm.github.io/v3/img/vOExED2.png?v=1.1.1.1" tvg-id="Inspira.id", Inspira TV
 http://cdn.nng.cloudns.us/live/m3u8/id/0c913970f4e013e.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/e4ZNl62.png?v=1.0.0.1" group-title="Local" group-logo="https://warningfm.github.io/v3/img/vOExED2.png?v=1.1.1.1" tvg-id="SaktiTV" tvg-name="Sakti TV", Sakti TV
 http://khano.nng.cloudns.us/live/m3u8/id/3202e9487d9cd5c.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/eqluvkr.png?v=1.0.0.1" group-title="Local" group-logo="https://warningfm.github.io/v3/img/vOExED2.png?v=1.1.1.1" tvg-id="SurabayaTV" tvg-name="Surabaya TV", Surabaya TV 🇮🇩
 http://cdn.nng.cloudns.us/live/m3u8/id/86555c60e79d212.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/1GW0BTz.png?v=1.0.0.1" group-title="Local" group-logo="https://warningfm.github.io/v3/img/vOExED2.png?v=1.1.1.1" tvg-id="TVRI.id" tvg-name="TVRI", TVRI Jawa Timur
 http://khano.nng.cloudns.us/live/m3u8/id/3f58825fe229a8g.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/VLR16Or.png?v=1.0.0.1" group-title="Local" group-logo="https://warningfm.github.io/v3/img/vOExED2.png?v=1.1.1.1" tvg-id="TVKU" tvg-name="TVKU", TVKU
 http://khano.nng.cloudns.us/live/m3u8/id/29afb26faff1ccd.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/pzwi2WE.png?v=1.0.0.1" group-title="Local" group-logo="https://warningfm.github.io/v3/img/vOExED2.png?v=1.1.1.1" tvg-id="dutaTV" tvg-name="duta TV", duta TV
 http://khano.nng.cloudns.us/live/m3u8/id/3254f236ad3e872.m3u8
 
 ########################################################           Kids           ########################################################
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/iIkcrZF.png?v=1.0.0.1" group-title="Kids" group-logo="https://warningfm.github.io/v3/img/BxvUXcn.png?v=1.0.0.1" tvg-id="PreviewChannel.sg" tvg-name="Preview Channel", B Kids 🇮🇩
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
 
@@ -307,7 +307,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/in
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=780f283e8dd84dc195d93899ea9fcabe:59103ac45e9c5e411651e3fa26a2e6d9
 #EXTVLCOPT:http-user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/SopQpKo.png?v=1.0.0.1" group-title="Kids" group-logo="https://warningfm.github.io/v3/img/BxvUXcn.png?v=1.0.0.1" tvg-id="ZooMoo.id" tvg-name="ZooMoo", ZooMoo
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/SopQpKo.png?v=1.0.0.1" group-title="Kids" group-logo="https://warningfm.github.io/v3/img/BxvUXcn.png?v=1.0.0.1" tvg-id="ZooMoo.id" tvg-name="ZooMoo", Zoo Moo
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8554b3cb938e44038093df2d65080932/index.mpd|Referer=https://www.visionplus.id
 
 ########################################################           Entertainment           ########################################################
@@ -342,7 +342,7 @@ https://warningfm.github.io/v3/live/str/op/7335edf66aba711.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/5cQKOuT.png?v=1.0.0.1" group-title="Entertainment" group-logo="https://iili.io/3gglPln.png" tvg-id="CitraEntertainment.id" tvg-name="Citra Entertainment", Citra Entertainment
 https://warningfm.github.io/v3/live/str/op/7335edf66aba711.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/kDghfOK.png?v=1.0.0.1" group-title="Entertainment" group-logo="https://iili.io/3gglPln.png" tvg-id="DaVinciLearning.sg" tvg-name"Da Vinci Asia", Da Vinci Learning
 http://khano.nng.cloudns.us/live/m3u8/int/318c162a68f95ef.m3u8
 
