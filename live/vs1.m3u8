@@ -35,25 +35,25 @@ https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=mnctv
 https://beetv.my.id/xstreamx/vd.m3u8?ch=antv
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=9&type=fitnah
+#KODIPROP:inputstream.adaptive.license_key=https://visionplus.fazznet.my.id/license?ch=Indosiar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/k3IqSHs.png?v=1.1.1.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/ePGe3Yp.png?v=1.0.0.1" ch-number="5" tvg-id="Indosiar.id" tvg-name="Indosiar.id", Indosiar HD
-#https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
+https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
 #https://tvratu.my.id/vid/index.mpd?id=205&type=dash
-https://beetv.my.id/xstreamx/vd.m3u8?ch=indosiar
+#https://beetv.my.id/xstreamx/vd.m3u8?ch=indosiar
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Qdzsb1v.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" ch-number="6" tvg-id="MetroTV.id" tvg-name="Metro TV.id", Metro TV
 http://khano.nng.cloudns.us/live/m3u8/id/6183ec225226cca.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=7&type=fitnah
+#KODIPROP:inputstream.adaptive.license_key=https://visionplus.fazznet.my.id/license?ch=Trans%207
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/sWeXuef.png?v=1.1.1.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" ch-number="7" tvg-id="Trans7.id" tvg-name="Trans7", Trans 7
 https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd|Referer=https://www.visionplus.id
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=6&type=fitnah
+#KODIPROP:inputstream.adaptive.license_key=https://visionplus.fazznet.my.id/license?ch=Trans%20TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/AySErC1.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" ch-number="8" tvg-id="TransTV.id" tvg-name="Trans TV.id", Trans TV
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd|Referer=https://www.visionplus.id
@@ -570,7 +570,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 =====================================================================================================================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=119&type=fitnah
+#KODIPROP:inputstream.adaptive.license_key=https://visionplus.fazznet.my.id/license?ch=SpoTV%201
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/lSjJSce.png?v=1.0.0.1" group-title="Sports" group-logo="https://warningfm.github.io/v3/img/bpvKmSk.png?v=1.0.0.1" tvg-id="SPOTV.id" tvg-name="SPOTV", SPOTV
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd|Referer=https://www.visionplus.id
@@ -579,37 +579,37 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/in
 
 #EXTVLCOPT:http-origin=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=120&type=fitnah
+#KODIPROP:inputstream.adaptive.license_key=https://visionplus.fazznet.my.id/license?ch=SpoTV%202
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/jZOVF6X.png?v=1.0.0.1" group-title="Sports" group-logo="https://warningfm.github.io/v3/img/bpvKmSk.png?v=1.0.0.1" tvg-id="SPOTV2.id" tvg-name="SPOTV2", SPOTV2
 https://live-channel2-cdn.visionplus.id/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd|Referer=https://www.visionplus.id
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=115&type=fitnah
+#KODIPROP:inputstream.adaptive.license_key=https://visionplus.fazznet.my.id/license?ch=Soccer%20Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/aUrEAaS.png?v=1.0.0.1" group-title="Sports" group-logo="https://warningfm.github.io/v3/img/bpvKmSk.png?v=1.0.0.1" tvg-id="SoccerChannel.id" tvg-name="Soccer Channel", Soccer Channel
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=112&type=fitnah
+#KODIPROP:inputstream.adaptive.license_key=https://visionplus.fazznet.my.id/license?ch=Sportstars
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/qBAL0XG.png?v=1.0.0.1" group-title="Sports" group-logo="https://warningfm.github.io/v3/img/bpvKmSk.png?v=1.0.0.1" tvg-id="SportStars.id" tvg-name="Sportstars", Sportstars
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd|Referer=https://www.visionplus.id
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=113&type=fitnah
+#KODIPROP:inputstream.adaptive.license_key=https://visionplus.fazznet.my.id/license?ch=Sportstars%202
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/JcuzM3D.png?v=1.0.0.1" group-title="Sports" group-logo="https://warningfm.github.io/v3/img/bpvKmSk.png?v=1.0.0.1" tvg-id="SportStars2.id" tvg-name="Sportstars 2", Sportstars 2
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd|Referer=https://www.visionplus.id
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=114&type=fitnah
+#KODIPROP:inputstream.adaptive.license_key=https://visionplus.fazznet.my.id/license?ch=Sportstars%203
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0kb0Oz5.png" group-title="Sports" tvg-id="Sportstars.3.id" tvg-name="Sportstars 3", Sportstars 3
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd|Referer=https://www.visionplus.id
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=205&type=fitnah
+#KODIPROP:inputstream.adaptive.license_key=https://visionplus.fazznet.my.id/license?ch=Sportstars%204
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/LSct2v4.png?v=1.1.1.1" group-title="Sports" group-logo="https://warningfm.github.io/v3/img/bpvKmSk.png?v=1.0.0.1" tvg-id="Sportstars4", Sportstars 4 HD
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd|referrer=https://visionplus.id
@@ -1195,6 +1195,9 @@ http://khano.nng.cloudns.us/live/m3u8/int/892fc80890b4b65.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/d9kI9iQ.png?v=1.1.1.1" group-title="🇰🇷 Korengan" tvg-id="One.id" tvg-name="ONE", ONE HD
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/9ec31bcce34848d69d4771270ff23ab9/index.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:contentlookup=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/wyJL52q.png?v=1.0.0.1" group-title="🇰🇷 Korengan" tvg-id="KBSWorld.kr" tvg-name="KBS World", KBS World HD
 https://freem3u.xyz/api/live/play.m3u8?vid=213
