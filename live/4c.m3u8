@@ -64,18 +64,19 @@ https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
 #EXTVLCOPT:http-referrer=https://www.dens.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/CTqyhF2.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" ch-number="10" tvg-id="tvOne.my.id" tvg-name="tvOne HD", tvOne HD
-https://khano.nng.cloudns.us/live/m3u8/id/0976f879a0c4548.m3u8
+http://khano.nng.cloudns.us/live/m3u8/id/0976f879a0c4548.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/5aNYcSQ.png?v=1.1.1.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" ch-number="11" tvg-id="RTV.id" tvg-name="RTV.id", RTV
-https://khano.nng.cloudns.us/live/m3u8/id/590642f0a31efa4.m3u8
+http://khano.nng.cloudns.us/live/m3u8/id/590642f0a31efa4.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.md.now/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/WaFICZ4.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" ch-number="12" tvg-id="MDTV.id" tvg-name="MDTV", MDTV
 https://khano.nng.cloudns.us/live/m3u8/id/6cdb3402d11f58e.m3u8
 
+#EXTVLCOPT:http-referrer=https://www.dens.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/9lJJAEK.png?v=1.1.1.1" group-title="🇮🇩 Nasional" group-logo="https://iili.io/3kaFP19.png?v=1.0.0.1" ch-number="13" tvg-id="Kompas.TV.id" tvg-name="Kompas TV", Kompas TV
 https://khano.nng.cloudns.us/live/m3u8/id/ae5f9d6bcd610b6.m3u8
@@ -87,6 +88,7 @@ https://khano.nng.cloudns.us/live/m3u8/id/ae5f9d6bcd610b6.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/M7OFrvF.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/U5JFSGW.png?v=1.0.0.1" ch-number="14" tvg-id="iNews.id" tvg-name="iNews", iNews
 https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
 
+#EXTVLCOPT:http-referrer=https://www.dens.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Ax67v0u.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/U5JFSGW.png?v=1.0.0.1" ch-number="15" tvg-id="TVRINasional.go.id" tvg-name="TVRI Nasional HD", TVRI Nasional HD
 http://khano.nng.cloudns.us/live/m3u8/id/3f58825fe229a9f.m3u8
@@ -130,15 +132,15 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CNBCIndonesiaHD/mediampd/CNBCIndo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/iKHK6tC.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/vOExED2.png?v=1.1.1.1" ch-number="23" tvg-id="BTV.id" tvg-name="BTV", BTV
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/3112ca4fbc2642e79ecaf9b2b0999e07/index.mpd
-#http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843f.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/ZpcePba.png?v=1.1.1.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" ch-number="24" tvg-id="Magna Channel.id" tvg-name="Magna Channel.id", Magna Channel
 http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226cce.m3u8
 
+#EXTVLCOPT:http-referrer=https://www.dens.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Si0yCff.png?v=1.1.1.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" ch-number="25" tvg-id="BeritaSatu.id" tvg-name="Berita Satu.id", BeritaSatu
-https://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843g.m3u8
+http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843g.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/g3hWHhA.png?v=1.1.1.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" ch-number="26" tvg-id="TVRI Sport.id" tvg-name="TVRI Sport.id", TVRI Sport
@@ -149,9 +151,10 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/TVeDnBe.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/vOExED2.png?v=1.1.1.1" ch-number="27" tvg-id="TVRI World.in" tvg-name="TVRI World.in", TVRI World
 http://cdn.nng.cloudns.us/live/m3u8/id/3f58825fe229a8i.m3u8
 
+#EXTVLCOPT:http-referrer=https://www.dens.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/H5CmoZv.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" ch-number="27" tvg-id="BNTV" tvg-name="BN Channel", BN Channel
-https://khano.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
+http://khano.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/iBrOoMG.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/vOExED2.png?v=1.1.1.1" ch-number="28" tvg-id="JawaPosTV.id" tvg-name="Jawa Pos TV.id", Jawa Pos TV
