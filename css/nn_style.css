@@ -352,7 +352,7 @@ input[type=range]::-moz-range-thumb {
     height: 40px;
     flex: none;
     border-radius: 50%;
-    background: url('../img/cover.png') center / cover no-repeat;
+    background: url('https://cdn4.mbahnunungonline.net/img/nocoverart.png') center / cover no-repeat;
 }
 
 .up-next-info { min-width: 0; }
