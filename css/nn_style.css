@@ -99,7 +99,7 @@ body {
     aspect-ratio: 1 / 1;
     flex: none;
     border-radius: 24px;
-    background: url('https://cdn4.mbahnunungonline.net/img/nocoverart.png') center / cover no-repeat;
+    background: url('https://warningfm.github.io/v3/img/cover.png') center / cover no-repeat;
     box-shadow: 0 30px 70px rgba(0, 0, 0, 0.55);
 }
 
@@ -418,7 +418,7 @@ input[type=range]::-moz-range-thumb {
     height: 60px;
     flex: none;
     border-radius: 14px;
-    background: url('../img/cover.png') center / cover no-repeat;
+    background: url('https://warningfm.github.io/v3/img/cover.png') center / cover no-repeat;
 }
 
 .music-info { min-width: 0; }
