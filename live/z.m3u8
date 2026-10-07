@@ -731,11 +731,10 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
 
 ########################################################           Fashion           ########################################################
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=16ce4fb658cf41678c72cca871770da3:95509b2ad660b196310e93a0388a8a6b
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/XUaoKru.png" group-title="Fashion" group-logo="https://i.imgur.com/hnmGABf.png?v=1.0.0.1" tvg-id="FashionTVAsia.fr" tvg-name="FashionTV Asia", FashionTV Asia
-https://atemecdnbalancer-voe.sysln.id/live/eds/FashionTV/mediampd/FashionTV.mpd
+http://136.158.97.2:6610/001/2/ch00000090990000001102/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Box8fi0tu1Fy8zHjKfT%2BDe7ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001236&contentid=ch00000000000000001236&videoid=ch00000090990000001102&recommendtype=0&userid=1182293234058&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=UV7BK6N91UNXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/PYCg6E5.png" group-title="Fashion" tvg-id="GBAJ4900002DE" tvg-name="Fashion TV", Fashion TV Original
 https://amg01546-amg01546c1-rakuten-gb-9592.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01546-fashiontv-fashiontv-rakutengb/playlist.m3u8
@@ -744,19 +743,19 @@ https://amg01546-amg01546c1-rakuten-gb-9592.playouts.now.amagi.tv/ts-eu-w1-n2/pl
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=93d5b9f9d5d14f15b1ba9582f332d1fc:116e4014a662fef4ea5d7671dd5120d8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTVLCOPT:http-user-agent=Vision+/11.3.7 (Linux; Android 14) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/HwXQJXW.png?v=1.0.0.1" group-title="VISION+" group-logo="https://iili.io/3ODWp9I.png?v=1.0.0.1" tvg-id="SCTV.my.id" tvg-name="SCTV HD", SCTV HD
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd|Referer=https://www.visionplus.id
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c263b43be6b94fb682b1d701e0aaf847:83491ecbe2968e91ed563ce2c41428dc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVLCOPT:http-user-agent=Vision+/11.3.7 (Linux; Android 14) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/6BLiuPa.png?v=1.0.0.1" group-title="VISION+" group-logo="https://iili.io/3ODWp9I.png?v=1.0.0.1" tvg-id="FoodTravel.id" tvg-name="Food Travel", Food Travel
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/77d7eac1b90247ac9aa745bd2eb47fa8/index.mpd|Referer=https://www.visionplus.id
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=483c71dd36fd45dd965321e8c568ba42:719598f53c998c618adf76a8f4f17fd1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTVLCOPT:http-user-agent=Vision+/11.3.7 (Linux; Android 14) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/j6ghLOI.png?v=1.0.0.1" group-title="VISION+" group-logo="https://iili.io/3ODWp9I.png?v=1.0.0.1" tvg-id="VisionPrime.id" tvg-name="Vision Prime HD", Vision Prime
 https://fta4-cdn-flr.visionplus.id/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd|Referer=https://www.visionplus.id
 
