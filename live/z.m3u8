@@ -198,7 +198,7 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 http://cdn.nng.cloudns.us/live/m3u8/id/3f58825fe229a8g.m3u8
 
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/sbt6Zwy.png?v=1.0.0.1" group-title="🇮🇩 tvN150N" group-logo="https://warningfm.github.io/v3/img/BxvUXcn.png?v=1.0.0.1" tvg-id="VTV.id" tvg-name="VTV.id", VTV 🇮🇩
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4SpZJv59sBPfdKT6rpzwbKgvRAJ4GXDsPlFuZeYLLPYWFa9BMSugXy9XelbQ60n5JTKaEcODIqGr7Z_zrZvsTtVJnqq44SUcwn4nQa6SZ668VEx94wE2z7IdtR7jN7rXv0IHHyOgTAHwIppLCi_c742UcXLYn-KJ4DjXWoV9Us-tMoveAmdm4oZ2HNLk/s1600/sbt6Zwy.png?v=1.0.0.1" group-title="🇮🇩 tvN150N" group-logo="https://warningfm.github.io/v3/img/BxvUXcn.png?v=1.0.0.1" tvg-id="VTV.id" tvg-name="VTV", VTV 🇮🇩
 https://gist.githubusercontent.com/warningfm/960699fadc282ca5a3c8db270f086a11/raw/cc6c795550360033c3dfec81926d30e79ec4d6e4/7e5676155536bd5.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv
