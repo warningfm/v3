@@ -49,8 +49,8 @@ https://cdn.nng.cloudns.us/live/m3u8/id/cdd283c9d3d43b5.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqF5l-nAoIL_NClmaypTIPULQmyXNMKPwIkWVsk5AxmfRVVkJN15JoYiYVVsL-4yJkEvaAd8kev6nGI8EdfpEYwrbfyE7XzCjyCg0tv5ce6x9VXlNjSI2Rx2_WFZZGji8gUsjjziWURAlcLxVfCrh_tBZBSaCCPqJt5wUjhS9C6NDi091OHB_ZEj-RXk5H/s1600/AySErC1.png?v=1.0.0.1" group-title="🇮🇩 tvN150N" ch-number="8" tvg-id="TransTV.id" tvg-name="Trans TV.id", Trans TV
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd|Referer=https://www.visionplus.id
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=003
 #EXTVLCOPT:http-user-agent=Vision+/11.3.7 (Linux; Android 14) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic5w_Y12Qf2P8ntPWMeqf38nEtce6-bIlXyXShM0veDC00XhhHJi2j9S3JSnn0Odtr0Av_vAERmJzSeZrpC3S4zR88XTLLVQvjeamT1LiwSdsodvqNh7GMgR7nEBJ6q1i0TmY_IRp-8bjeELRaAAFZweaioZ4FUC4tzDTOA2UEHChs9WwWK3erVJ9J0MP5/s1600/kkQGC04.png?v=1.1.1.1" group-title="🇮🇩 tvN150N" ch-number="9" tvg-id="GTV.id" tvg-name="GTV", GTV
 https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd|Referer=https://www.visionplus.id
