@@ -434,6 +434,10 @@ http://136.239.158.10:6610/001/2/ch00000090990000001253/manifest.mpd?AuthInfo=v8
 http://khano.nng.cloudns.us/live/m3u8/Mov/1375b51bb1b2c31.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/PZ8lqc9.png?v=1.1.1.1" group-title="Movies" group-logo="https://iili.io/3v1SBoP.png?v=1.0.0.1" tvg-id="Warner.id" tvg-name="Warner TV", Warner TV
+http://khano.nng.cloudns.us/live/m3u8/Mov/42f8fc7226dc12a.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/TAjYixM.png?v=1.0.0.1" group-title="Movies" tvg-id="BioskopIndonesia.id" tvg-name="Bioskop Indonesia", Bioskop Indonesia
 https://gist.githubusercontent.com/warningfm/a88760c3b6d8eee4db23461bf2b4dbe7/raw/1008d392fe976908b19b260c4e61a54e88d95c91/0c9fd875599b837.m3u8
 
